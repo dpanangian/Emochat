@@ -4,7 +4,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'ABC1234' #TODO Changeme
 DEBUG = True
-ALLOWED_HOSTS = ["localhost", "chat-deepmoji.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "chat-deepmoji.herokuapp.com"]
 
 
 
@@ -58,12 +58,24 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'chat.wsgi.application'
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
+
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'chat',
+        'USER': 'postgres',
+        'PASSWORD': 'admin',
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
+
 
 AUTH_PASSWORD_VALIDATORS = []
 
