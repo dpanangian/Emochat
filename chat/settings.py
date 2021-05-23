@@ -4,7 +4,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'ABC1234' #TODO Changeme
 DEBUG = True
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ["localhost", "chat-deepmoji.herokuapp.com"]
 
 
 
