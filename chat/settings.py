@@ -5,7 +5,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'ABC1234' #TODO Changeme
 DEBUG = True
-ALLOWED_HOSTS = ["127.0.0.1", "chat-deepmoji.herokuapp.com"]
+ALLOWED_HOSTS = ["127.0.0.1", "chaticon.herokuapp.com"]
 
 
 
