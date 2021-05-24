@@ -3,17 +3,16 @@
 
   <style type="text/css">
     body {
-      background-color: #14213d; /* 006389,073b4c */
+      background-color:#ffffff; /* 006389,073b4c */
       margin-top: 60px;
     }
     .logo {
       margin: 0;
       font-size: 2em;
       font-weight: 200;
-      font-family: "Audiowide", cursive;
-      color: #92c35e;
+      font-family: "coolveticaregular", cursive;
+      color: #000000;
       text-align: center;
-      text-shadow: 1px 1px 0 #333333;
       line-height: 70px;
     }
 
@@ -47,9 +46,8 @@
   <div class="container">    
     <div class="row">
       <div class="{% block col_class %}col-md-4 col-sm-8 col-12 offset-md-4{% endblock col_class %}">
-        <p class="logo">Django Whatsapp</p>
+        <p class="logo">Chatic<span style="font-family:emoji_boomregular; font-size:25px;">o</span>n</p>
         <div class="card">
-          <h4 class="card-header">{% block cardheader %}Log in{% endblock cardheader %}</h4>
           <div class="card-body">
             {% if form.non_field_errors %}
             <div class="alert alert-danger alert-dismissible fade show" role="alert">
@@ -62,7 +60,6 @@
             </div>
             {% endif %}  
             {% block form %}{% endblock form %}
-          </div>
         </div>
       </div>
     </div>
