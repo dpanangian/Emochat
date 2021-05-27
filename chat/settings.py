@@ -1,12 +1,12 @@
 from pathlib import Path
-import dj_database_url
+#import dj_database_url
+
+import os
 
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 SECRET_KEY = 'ABC1234' #TODO Changeme
 DEBUG = True
-ALLOWED_HOSTS = ["127.0.0.1", "chaticon.herokuapp.com"]
-
 
 
 INSTALLED_APPS = [
@@ -66,19 +66,44 @@ WSGI_APPLICATION = 'chat.wsgi.application'
 #     }
 # }
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.postgresql_psycopg2',
+#         'NAME': 'chat',
+#         'USER': 'postgres',
+#         'PASSWORD': 'admin',
+#         'HOST': 'localhost',
+#         'PORT': '5432',
+#     }
+# }
+
+
+
+# Configure the domain name using the environment variable
+# that Azure automatically creates for us.
+ALLOWED_HOSTS = [os.environ['WEBSITE_HOSTNAME']] if 'WEBSITE_HOSTNAME' in os.environ else []
+
+
+
+# DBHOST is only the server name, not the full URL
+hostname = os.environ['DBHOST']
+
+# Configure Postgres database; the full username is username@servername,
+# which we construct using the DBHOST value.
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': 'chat',
-        'USER': 'postgres',
-        'PASSWORD': 'admin',
-        'HOST': 'localhost',
-        'PORT': '5432',
+        'ENGINE': 'django.db.backends.postgresql',
+        'NAME': os.environ['DBNAME'],
+        'HOST': hostname + ".postgres.database.azure.com",
+        'USER': os.environ['DBUSER'] + "@" + hostname,
+        'PASSWORD': os.environ['DBPASS'] 
     }
 }
 
+
+
 # Change 'default' database configuration with $DATABASE_URL.
-DATABASES['default'].update(dj_database_url.config(conn_max_age=500, ssl_require=True))
+#DATABASES['default'].update(dj_database_url.config(conn_max_age=500, ssl_require=True))
 
 AUTH_PASSWORD_VALIDATORS = []
 
