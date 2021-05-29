@@ -251,29 +251,3 @@
 	font-family: 'Open Sans', 'Roboto', 'Ubuntu', sans-serif;
 	font-size: 24px;
 }
-
-/* CSS FOR THE EMOJI IMAGES, JUST SOME */
-
-#smileface {
-	background-image: url(https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/96/grinning-face_1f600.png);
-}
-
-#grinningface {
-	background-image: url(https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/96/grinning-face-with-smiling-eyes_1f601.png);
-}
-
-#tearjoyface {
-	background-image: url(https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/96/face-with-tears-of-joy_1f602.png);
-}
-
-#rofl {
-	background-image: url(https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/96/rolling-on-the-floor-laughing_1f923.png);
-}
-
-#somface {
-	background-image: url(https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/96/smiling-face-with-open-mouth_1f603.png);
-}
-
-#swfface {
-	background-image: url(https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/96/smiling-face-with-open-mouth-and-smiling-eyes_1f604.png);
-}
