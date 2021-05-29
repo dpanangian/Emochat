@@ -160,3 +160,94 @@
 }
 
 
+.emojiBar {
+	display: none;
+	position: absolute;
+	width: 325px;
+	height: 200px;
+	padding: 10px;
+	left: 30px;
+	bottom: 80px;
+	border: 2px solid #DDD;
+	border-radius: 3px;
+	background: #FFF;
+}
+
+.emoticonType {
+	width: 100%;
+	height: 50px;
+}
+
+.emoticonType button {
+	width: 70px;
+	height: 36px;
+	font-weight: 600;
+	color: #555;
+	background: none;
+	font-size: 12px;
+	cursor: pointer;
+	border: none;
+	outline: none;
+	font-family: 'Open Sans', 'Roboto', 'Ubuntu', sans-serif;
+}
+
+.emoticonType button:hover {
+	color: #FFF;
+	background: #419fd9;
+}
+
+.emojiList, .stickerList {
+	width: 100%;
+	height: 110px;
+	overflow-x: hidden;
+	overflow-y: auto;
+}
+
+.emojiList .pick {
+	width: 50px;
+	height: 50px;
+	background: transparent;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70%;
+	transition: all 0.15s ease-in-out;
+}
+
+.emojiList .pick:hover {
+	background: #DDD;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 70%;
+}
+
+.stickerList .pick {
+	width: 80px;
+	height: 80px;
+	background: transparent;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 65%;
+	transition: all 0.15s ease-in-out;
+}
+
+.stickerList .pick:hover {
+	background: #DDD;
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: 65%;
+}
+
+
+/* hidden, while not complete */
+.stickerList {
+	display: none;
+}
+
+
+.button {
+	cursor: pointer;
+	border: none;
+	outline: none;
+	font-family: 'Open Sans', 'Roboto', 'Ubuntu', sans-serif;
+	font-size: 24px;
+}

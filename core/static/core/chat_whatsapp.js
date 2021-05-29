@@ -149,7 +149,6 @@ function sendMessage() {
     }
 }
 
-
 let showProfileSettings = () => {
     $("#profile-settings").css("left", 0); //.style.left = 0;
     // DOM.profilePic.src = user.pic;
@@ -160,6 +159,27 @@ let hideProfileSettings = () => {
     $("#profile-settings").css("left", "-110%");
     // DOM.username.innerHTML = user.name;
 };
+
+function hideShowEmojiPanel() {
+    if($('.emojiBar').css('display') == 'none'){
+
+        $(".emojiBar").fadeIn(120);
+    }
+    else{
+        $(".emojiBar").fadeOut(120);
+    }
+}
+
+function typeInTextarea(el, newText) {
+    var start = el.prop("selectionStart")
+    var end = el.prop("selectionEnd")
+    var text = el.val()
+    var before = text.substring(0, start)
+    var after  = text.substring(end, text.length)
+    el.val(before + newText + after)
+    el[0].selectionStart = el[0].selectionEnd = start + newText.length
+    el.focus()
+}
 
 $(document).ready(function () {
     fetchUserList();
@@ -178,4 +198,20 @@ $(document).ready(function () {
     socket.onmessage = function (e) {
         getMessageById(e.data);
     };
+
+
+    /* if the user click the conversation or the type panel will also hide the 
+
+    panel */
+    $("#messages").click(function(){
+        $(".emojiBar").fadeOut(120);
+    });
+
+    /* put emoji to text are*/
+
+    $(".emoji_single").click(function(){
+        let $this = $(this).html();
+        typeInTextarea($("#input"),$this);
+      });
 });
+

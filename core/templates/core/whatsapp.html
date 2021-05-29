@@ -77,9 +77,40 @@
       <!-- Messages -->
       <div class="d-flex flex-column" id="messages"></div>
 
+      <!-- Emoji bar -->
+      <div class="emojiBar">
+				<div class="emoticonType">
+					<button id="panelEmoji">Emoji</button>
+					<button id="panelStickers">Emoji2</button>
+					<button id="panelGIFs">Emoji3</button>
+				</div>
+
+				<!-- Emoji panel -->
+				<div class="emojiList">
+					<span class="emoji_single button" id="emoji_0">😀</span>
+          <span class="emoji_single button" id="emoji_1">😂</span>
+          <span class="emoji_single button" id="emoji_2">😅</span>
+          <span class="emoji_single button" id="emoji_3">😇</span>
+          <span class="emoji_single button" id="emoji_4">🤗</span>
+          <span class="emoji_single button" id="emoji_5">😭</span>
+          <span class="emoji_single button" id="emoji_6">😘</span>
+          <span class="emoji_single button" id="emoji_7">🎉</span>
+          <span class="emoji_single button" id="emoji_8">❤️</span>
+          <span class="emoji_single button" id="emoji_9">👏</span>
+				</div>
+
+				<!-- the best part of telegram ever: STICKERS!! -->
+				<div class="stickerList">
+					<button id="smileface" class="pick">
+					</button>
+					<button id="grinningface" class="pick"></button>
+					<button id="tearjoyface" class="pick"></button>
+				</div>
+			</div> 
+
       <!-- Input -->
       <div class="d-none justify-self-end align-items-center flex-row" id="input-area">
-        <a href="#" onclick="alert('Work in progress.');return false;"><i class="far fa-smile text-muted px-3" style="font-size:1.5rem;"></i></a>
+        <a id="emoji" href="#" onclick=hideShowEmojiPanel()><i class="far fa-smile text-muted px-3" style="font-size:1.5rem;"></i></a>
         <input type="text" name="message" id="input" placeholder="Type a message" class="flex-grow-1 border-0 px-3 py-2 my-3 rounded shadow-sm">
         <i class="fas fa-paper-plane text-muted px-3" style="cursor:pointer;" onclick="sendMessage()"></i>
       </div>
