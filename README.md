@@ -1,12 +1,9 @@
 # Emochat
+https://emochat.azurewebsites.net/
 
 
 
 A minimal tutorial on how to get the app running.
-
-## Git Branch
-
-Don't forget to switch to dev branch
 
 
 ## Environment
@@ -42,8 +39,12 @@ https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
     ```
     Done.
 
-## Installing Dependencies
+## Open the project folder
+1) Clone the project
+ 
+2) cd to the directory
 
+## Installing Dependencies
 
 The `requirements.txt` file should list all Python libraries that we need for the app, and they will be installed using:
 
