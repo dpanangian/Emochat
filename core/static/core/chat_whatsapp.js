@@ -140,7 +140,6 @@ function sendMessage() {
     const body = chatInput.val();
     console.log(body)
     if (!containsEmoji(body)) {
-        console.log("No Emoji Label selected!")
         alert('No Emoji Label selected!');
         return;
     }

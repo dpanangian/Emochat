@@ -174,6 +174,21 @@
 	background: #FFF;
 }
 
+#emoji-legend {
+	display: none;
+	position: absolute;
+	height: 360px;
+	width: 100%;
+	padding: 10px;
+	bottom: 1px;
+	left: 1px;
+	right: 1px;
+	border: 2px solid #DDD;
+	border-radius: 3px;
+	background: #FFF;
+	overflow: auto;
+}
+
 .emoticonType {
 	width: 100%;
 	height: 50px;
@@ -208,6 +223,10 @@
 	font-size: 1.5rem;
 	margin-left: 0.2rem;
 	margin-right: 0.2rem;
+}
+
+.emoji_single_small {
+	font-size: 1.5rem;
 }
 
 .emojiList .pick {
