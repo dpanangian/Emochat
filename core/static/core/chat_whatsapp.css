@@ -85,6 +85,7 @@
 
 #input-area #input {
 	outline: none;
+	margin-left: 1rem;
 }
 
 .message-item {
@@ -197,10 +198,16 @@
 }
 
 .emojiList, .stickerList {
-	width: 100%;
-	height: 110px;
+	padding-left: 1rem;
+	background: #f3f3f3 ;
 	overflow-x: hidden;
 	overflow-y: auto;
+}
+
+.emoji_single {
+	font-size: 1.5rem;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
 }
 
 .emojiList .pick {
