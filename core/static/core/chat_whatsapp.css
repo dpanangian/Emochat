@@ -85,6 +85,7 @@
 
 #input-area #input {
 	outline: none;
+	margin-left: 1rem;
 }
 
 .message-item {
@@ -173,6 +174,21 @@
 	background: #FFF;
 }
 
+#emoji-legend {
+	display: none;
+	position: absolute;
+	height: 360px;
+	width: 100%;
+	padding: 10px;
+	bottom: 1px;
+	left: 1px;
+	right: 1px;
+	border: 2px solid #DDD;
+	border-radius: 3px;
+	background: #FFF;
+	overflow: auto;
+}
+
 .emoticonType {
 	width: 100%;
 	height: 50px;
@@ -197,10 +213,20 @@
 }
 
 .emojiList, .stickerList {
-	width: 100%;
-	height: 110px;
+	padding-left: 1rem;
+	background: #f3f3f3 ;
 	overflow-x: hidden;
 	overflow-y: auto;
+}
+
+.emoji_single {
+	font-size: 1.5rem;
+	margin-left: 0.2rem;
+	margin-right: 0.2rem;
+}
+
+.emoji_single_small {
+	font-size: 1.5rem;
 }
 
 .emojiList .pick {
