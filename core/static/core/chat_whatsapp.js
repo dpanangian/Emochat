@@ -19,7 +19,7 @@ function fetchUserList() {
 function drawUserList() {
     $('#user-list').empty();
     // sort users based on latest message timestamp
-    userList.sort((a,b)=>new Date(b.timestamp) - new Date(a.timestamp));
+    userList.sort((a, b) => new Date(b.timestamp) - new Date(a.timestamp));
     for (let i = 0; i < userList.length; i++) {
         const msg = userList[i]['latest_message'];
         const userItem = `
@@ -39,29 +39,29 @@ function drawUserList() {
 }
 
 
-function getTime(dateString){
-  if (!dateString) return ''
-  let date = new Date(dateString);
-  let dualize = (x) => x < 10 ? "0" + x : x;
-  return dualize(date.getHours()) + ":" + dualize(date.getMinutes());
+function getTime(dateString) {
+    if (!dateString) return ''
+    let date = new Date(dateString);
+    let dualize = (x) => x < 10 ? "0" + x : x;
+    return dualize(date.getHours()) + ":" + dualize(date.getMinutes());
 }
 
 function showDateUserlist(dateString) {
     let weekdaydate = showDatesWeekDays(dateString);
-    if (weekdaydate === 'TODAY') 
+    if (weekdaydate === 'TODAY')
         return getTime(dateString)
     return weekdaydate
 }
 
 function showDatesWeekDays(dateString) {
     if (!dateString) return ''
-    const dt = new Date(dateString)        
-    let days = ['Sunday','Monday','Tuesday','Wednesday','Thursday','Friday','Saturday']; 
+    const dt = new Date(dateString)
+    let days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
 
     let date_weekday = dt.toLocaleDateString();
     if (dt.toDateString() == new Date().toDateString()) {
         date_weekday = 'TODAY';
-    } else if(dt > new Date(Date.now() - 604800000)) {
+    } else if (dt > new Date(Date.now() - 604800000)) {
         // if date is greater than last 7 days date
         date_weekday = days[dt.getDay()].toUpperCase()
     }
@@ -93,7 +93,7 @@ function drawMessage(message) {
     $(messageItem).appendTo('#messages');
 }
 
-function onClickUserList(elem,recipient) {
+function onClickUserList(elem, recipient) {
     currentRecipient = recipient;
     $("#name").text(recipient);
     $.getJSON(`/api/v1/message/?target=${recipient}`, function (data) {
@@ -107,7 +107,7 @@ function onClickUserList(elem,recipient) {
         for (let i = data['results'].length - 1; i >= 0; i--) {
             drawMessage(data['results'][i]);
         }
-        messageList.animate({scrollTop: messageList.prop('scrollHeight')});
+        messageList.animate({ scrollTop: messageList.prop('scrollHeight') });
     });
 }
 
@@ -120,7 +120,7 @@ function updateUserList(data) {
     }
 
     const obj = userList.find(v => v.username === data_username); obj.latest_message = data.body; obj.timestamp = data.timestamp;
-    
+
     drawUserList();
 }
 function getMessageById(message) {
@@ -131,13 +131,18 @@ function getMessageById(message) {
             drawMessage(data);
             updateUserList(data);
         }
-        messageList.animate({scrollTop: messageList.prop('scrollHeight')});
+        messageList.animate({ scrollTop: messageList.prop('scrollHeight') });
     });
 }
 
 
 function sendMessage() {
     const body = chatInput.val();
+    console.log(body)
+    if (!containsEmoji(body)) {
+        alert('No Emoji Label selected!');
+        return;
+    }
     if (body.length > 0) {
         $.post('/api/v1/message/', {
             recipient: currentRecipient,
@@ -146,6 +151,15 @@ function sendMessage() {
             alert('Error! Check console!');
         });
         chatInput.val('');
+    }
+}
+
+function containsEmoji(msg) {
+    var emojis = ["😂", "😍", "😱", "😲", "😔", "🤢", "😡", "👀"]
+    if (emojis.some(emoji => msg.includes(emoji))) {
+        return true;      
+    } else {
+        return false;
     }
 }
 
@@ -160,7 +174,7 @@ let hideProfileSettings = () => {
     // DOM.username.innerHTML = user.name;
 };
 
-function hideShowEmojiPanel() {
+/*function hideShowEmojiPanel() {
     if($('.emojiBar').css('display') == 'none'){
 
         $(".emojiBar").fadeIn(120);
@@ -168,14 +182,14 @@ function hideShowEmojiPanel() {
     else{
         $(".emojiBar").fadeOut(120);
     }
-}
+}*/
 
 function typeInTextarea(el, newText) {
     var start = el.prop("selectionStart")
     var end = el.prop("selectionEnd")
     var text = el.val()
     var before = text.substring(0, start)
-    var after  = text.substring(end, text.length)
+    var after = text.substring(end, text.length)
     el.val(before + newText + after)
     el[0].selectionStart = el[0].selectionEnd = start + newText.length
     el.focus()
@@ -184,10 +198,10 @@ function typeInTextarea(el, newText) {
 $(document).ready(function () {
     fetchUserList();
     // let socket = new WebSocket(`ws://127.0.0.1:8000/?session_key=${sessionKey}`);
-    
+
     let wsStart = 'ws://';
     if (window.location.protocol == 'https:') {
-         wsStart = 'wss://'
+        wsStart = 'wss://'
     }
     var socket = new WebSocket(wsStart + window.location.host + `/ws?session_key=${sessionKey}`)
 
@@ -203,15 +217,15 @@ $(document).ready(function () {
     /* if the user click the conversation or the type panel will also hide the 
 
     panel */
-    $("#messages").click(function(){
+    $("#messages").click(function () {
         $(".emojiBar").fadeOut(120);
     });
 
     /* put emoji to text are*/
 
-    $(".emoji_single").click(function(){
+    $(".emoji_single").click(function () {
         let $this = $(this).html();
-        typeInTextarea($("#input"),$this);
-      });
+        typeInTextarea($("#input"), $this);
+    });
 });
 

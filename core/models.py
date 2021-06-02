@@ -57,7 +57,8 @@ class MessageModel(Model):
         """
         new = self.id
         self.body = self.body.strip()   # Trimming whitespaces from the body
-        self.body = auto_emoji.add_emoji(self.body)
+        #remocve auto-prediction
+        #self.body = auto_emoji.add_emoji(self.body)
         super().save(*args, **kwargs)
         if new is None:
             self.notify_ws_clients()
