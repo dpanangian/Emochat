@@ -88,7 +88,11 @@
 	margin-left: 1rem;
 }
 
-#scenario-btn,  #sid {
+#input, #scenario-btn {
+	margin-bottom: 1rem !important;
+}
+
+#scenario-form {
 	outline: none;
 	margin-right: 1rem;
 } 
@@ -222,6 +226,7 @@
 	background: #f3f3f3 ;
 	overflow-x: hidden;
 	overflow-y: auto;
+
 }
 
 .emoji_single {
@@ -242,6 +247,10 @@
 	background-position: center;
 	background-size: 70%;
 	transition: all 0.15s ease-in-out;
+}
+
+#chat-control {
+	background: #f3f3f3 ;
 }
 
 .emojiList .pick:hover {
