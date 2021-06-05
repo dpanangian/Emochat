@@ -1,7 +1,7 @@
 let currentRecipient = '';
 let chatInput = $('#input');
 let messageList = $('#messages');
-
+let scenarioInput = $("#scenario-input")
 let userList = []; // latest_message,username
 
 
@@ -177,23 +177,24 @@ let hideProfileSettings = () => {
 };
 
 function beginScenario() {
-    inputElement = $("#scenario-input")
-    number = inputElement.val()
-    if (validateInput(number, inputElement)) {
+    let number = parseInt(scenarioInput.val())
+    if (validateInput(number)) {
         console.log("Input is valid");
-        var terminate = confirm("Möchtest du Szenario " + number + " starten?");
+        let terminate = confirm("Möchtest du Szenario " + number + " starten?");
         if (terminate) {
             $("#scenario-btn-start").hide()
             $("#scenario-btn-stop").show()
-            $( "#scenario-input" ).prop( "disabled", true);
+            $( "#scenario-input" ).prop("disabled", true);
             console.log("Started Scenario " + number)
 
         }
+    } else {
+        alert("Scenario mit dieser ID ist nicht vorhanden.")
     }
 }
 
-function validateInput(number, element) {
-    if (isNaN(number) || number < element.attr('min') || number > element.attr('max')) {
+function validateInput(number) {
+    if (isNaN(number) || number < scenarioInput.attr('min') || number > scenarioInput.attr('max')) {
         return false;
     } else {
         return true;
@@ -201,11 +202,11 @@ function validateInput(number, element) {
 }
 
 function terminateScenario() {
-    var terminate = confirm("Möchtest du das Szenario wirklich beenden?");
+    let terminate = confirm("Möchtest du das Szenario wirklich beenden?");
     if (terminate) {
         $("#scenario-btn-stop").hide()
         $("#scenario-btn-start").show()
-        $( "#scenario-input" ).prop( "disabled", false);
+        $( "#scenario-input" ).prop("disabled", false);
         console.log("Terminated Scenario")
 
     }
