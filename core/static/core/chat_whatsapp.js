@@ -143,9 +143,11 @@ function sendMessage() {
         alert('No Emoji Label selected!');
         return;
     }
+    sid = 1
     if (body.length > 0) {
         $.post('/api/v1/message/', {
             recipient: currentRecipient,
+            sid: sid,
             body: body
         }).fail(function () {
             alert('Error! Check console!');
@@ -157,7 +159,7 @@ function sendMessage() {
 function containsEmoji(msg) {
     var emojis = ["😂", "😍", "😱", "😲", "😔", "🤢", "😡", "👀"]
     if (emojis.some(emoji => msg.includes(emoji))) {
-        return true;      
+        return true;
     } else {
         return false;
     }
@@ -174,15 +176,12 @@ let hideProfileSettings = () => {
     // DOM.username.innerHTML = user.name;
 };
 
-/*function hideShowEmojiPanel() {
-    if($('.emojiBar').css('display') == 'none'){
-
-        $(".emojiBar").fadeIn(120);
+function terminateScenario() {
+    var result = confirm("Möchtest du das Szenario wirklich beenden?");
+    if (result) {
+        console.log("Next Scenario")
     }
-    else{
-        $(".emojiBar").fadeOut(120);
-    }
-}*/
+}
 
 function typeInTextarea(el, newText) {
     var start = el.prop("selectionStart")

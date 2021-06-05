@@ -97,6 +97,10 @@
 	margin-right: 1rem;
 } 
 
+#scenario-txt {
+	width: 2cm !important;
+}
+
 .message-item {
 	position:relative;
 	max-width: 75%;
@@ -226,7 +230,6 @@
 	background: #f3f3f3 ;
 	overflow-x: hidden;
 	overflow-y: auto;
-
 }
 
 .emoji_single {
