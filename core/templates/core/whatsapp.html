@@ -86,12 +86,26 @@
           <div class="text-body font-weight-bold" id="name"></div>
           <div class="text-body small" id="details"></div>
         </div>
+
+        <!-- Scenario controls -->
         <div class="d-flex flex-row align-items-center ml-auto">
-          <!-- <a href="#"><i class="fas fa-search mx-3 text-secondary d-none d-md-block"></i></a> -->
-          <a style="visibility: hidden;" href="#" onclick="alert('Work in progress.');return false;"><i
-              class="fas fa-paperclip mx-3 text-secondary d-none d-md-block"></i></a>
-          <a style="visibility: hidden;" href="#" onclick="alert('Work in progress.');return false;"><i
-              class="fas fa-ellipsis-v mr-2 mx-sm-3 text-secondary"></i></a>
+          <div class="input-group p-2">
+            <div class="input-group-prepend">
+              <label class="input-group-text" for="scenario-ids">SID</label>
+            </div>
+            <div class="custom-file mr-2">
+              <input type="number" class="form-control" id="scenario-input" name="scenario-ids" min="1" max="28"
+                value="1">
+            </div>
+            <div class="input-group-append">
+              <button class="btn btn-primary rounded" type="button" id="scenario-btn-start"
+                onclick="beginScenario()">Szenario
+                Starten</button>
+              <button class="btn btn-danger rounded" type="button" id="scenario-btn-stop"
+                onclick="terminateScenario()" style="display: none">Szenario
+                Beenden</button>
+            </div>
+          </div>
         </div>
       </div>
 
@@ -120,22 +134,10 @@
             <i class="fas fa-paper-plane text-muted px-3" style="cursor:pointer;" onclick="sendMessage()"></i>
           </div>
         </div>
-
-        <!-- Scenario controls -->
-        <div class="d-flex flex-column ml-3 ml-auto" id="scenario-form">
-          <div class="input-group mb-3">
-            <div class="input-group-prepend">
-              <label class="input-group-text" for="scenario-ids">SID</label>
-            </div>
-            <input type="number" class="form-control" id="scenario-input" name="scenario-ids"
-         min="1" max="28" value="1">
-          </div>
-          <button class="mt-auto btn btn-danger border-1 px-2 py-2 rounded shadow-sm" id="scenario-btn" onclick="terminateScenario()">Szenario
-            Beenden</button>
-        </div>
       </div>
     </div>
   </div>
+</div>
 </div>
 {% endblock %}
 

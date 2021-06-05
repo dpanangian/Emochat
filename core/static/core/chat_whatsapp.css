@@ -88,19 +88,6 @@
 	margin-left: 1rem;
 }
 
-#input, #scenario-btn {
-	margin-bottom: 1rem !important;
-}
-
-#scenario-form {
-	outline: none;
-	margin-right: 1rem;
-} 
-
-#scenario-txt {
-	width: 2cm !important;
-}
-
 .message-item {
 	position:relative;
 	max-width: 75%;

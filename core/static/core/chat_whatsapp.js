@@ -176,10 +176,38 @@ let hideProfileSettings = () => {
     // DOM.username.innerHTML = user.name;
 };
 
+function beginScenario() {
+    inputElement = $("#scenario-input")
+    number = inputElement.val()
+    if (validateInput(number, inputElement)) {
+        console.log("Input is valid");
+        var terminate = confirm("Möchtest du Szenario " + number + " starten?");
+        if (terminate) {
+            $("#scenario-btn-start").hide()
+            $("#scenario-btn-stop").show()
+            $( "#scenario-input" ).prop( "disabled", true);
+            console.log("Started Scenario " + number)
+
+        }
+    }
+}
+
+function validateInput(number, element) {
+    if (isNaN(number) || number < element.attr('min') || number > element.attr('max')) {
+        return false;
+    } else {
+        return true;
+    }
+}
+
 function terminateScenario() {
-    var result = confirm("Möchtest du das Szenario wirklich beenden?");
-    if (result) {
-        console.log("Next Scenario")
+    var terminate = confirm("Möchtest du das Szenario wirklich beenden?");
+    if (terminate) {
+        $("#scenario-btn-stop").hide()
+        $("#scenario-btn-start").show()
+        $( "#scenario-input" ).prop( "disabled", false);
+        console.log("Terminated Scenario")
+
     }
 }
 
