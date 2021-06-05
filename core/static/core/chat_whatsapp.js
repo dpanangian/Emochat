@@ -143,7 +143,10 @@ function sendMessage() {
         alert('No Emoji Label selected!');
         return;
     }
-    sid = 1
+    sid = 0;
+    if ($("#scenario-btn-stop").is(":visible")) {
+        sid = scenarioInput.val();
+    }
     if (body.length > 0) {
         $.post('/api/v1/message/', {
             recipient: currentRecipient,
@@ -184,7 +187,7 @@ function beginScenario() {
         if (terminate) {
             $("#scenario-btn-start").hide()
             $("#scenario-btn-stop").show()
-            $( "#scenario-input" ).prop("disabled", true);
+            $("#scenario-input").prop("disabled", true);
             console.log("Started Scenario " + number)
 
         }
@@ -206,7 +209,7 @@ function terminateScenario() {
     if (terminate) {
         $("#scenario-btn-stop").hide()
         $("#scenario-btn-start").show()
-        $( "#scenario-input" ).prop("disabled", false);
+        $("#scenario-input").prop("disabled", false);
         console.log("Terminated Scenario")
 
     }
