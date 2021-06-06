@@ -3,7 +3,8 @@ let chatInput = $('#input');
 let messageList = $('#messages');
 let scenarioInput = $("#scenario-input")
 let userList = []; // latest_message,username
-
+const beginRegex = new RegExp("Beginne Szenario \\d+")
+const terminateRegex = new RegExp('Szenario \\d+ beendet');
 
 // this will be used to store the date of the last message
 // in the message area
@@ -117,6 +118,21 @@ function drawMessage(message) {
     $(messageItem).appendTo('#messages');
 }
 
+function drawScenarioMessage(message) {
+    let messageItem = '';
+    messageItem += `
+    <div class="align-self-center p-1 my-1 mx-3 rounded bg-warning shadow-sm message-item">
+        <div class="options">
+            <a href="#"><i class="fas fa-angle-down text-muted px-2"></i></a>
+        </div>
+        <div class="d-flex flex-row">
+            <div class="body m-1 mr-2">${message.body}</div>
+        </div>
+    </div>`;
+    // alert(messageItem)
+    $(messageItem).appendTo('#messages');
+}
+
 function onClickUserList(elem, recipient) {
     currentRecipient = recipient;
     $("#name").text(recipient);
@@ -130,7 +146,13 @@ function onClickUserList(elem, recipient) {
         $(elem).addClass("active");
         lastDate = "";
         for (let i = data['results'].length - 1; i >= 0; i--) {
-            drawMessage(data['results'][i]);
+            let result = data['results'][i];
+            let msg = result.body;
+            if (beginRegex.test(msg) || terminateRegex.test(msg)) {
+                drawScenarioMessage(result)
+            } else {
+                drawMessage(result);
+            }
         }
         messageList.animate({ scrollTop: messageList.prop('scrollHeight') });
     });
@@ -154,7 +176,6 @@ function getMessageById(message) {
         if (data.user === currentRecipient ||
             (data.recipient === currentRecipient && data.user == currentUser)) {
             checkScenario(data);
-            drawMessage(data);
             updateUserList(data);
         }
         messageList.animate({ scrollTop: messageList.prop('scrollHeight') });
@@ -162,16 +183,19 @@ function getMessageById(message) {
 }
 
 function checkScenario(message) {
-    const beginRegex = new RegExp("Beginne Szenario \\d+")
-    const terminateRegex = new RegExp('Szenario \\d+ beendet');
     if (beginRegex.test(message.body)) {
         changeScenarioControlStart(message.sid);
         document.cookie = "sid=" + message.sid;
+        drawScenarioMessage(message);
     } else if (terminateRegex.test(message.body)) {
         changeScenarioControlEnd(message.sid);
         document.cookie = "sid=0";
+        drawScenarioMessage(message);
+    } else {
+        drawMessage(message);
     }
 }
+
 
 
 function sendMessage() {
