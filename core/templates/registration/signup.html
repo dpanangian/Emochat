@@ -9,7 +9,10 @@
 <form method="post" novalidate>
   {% csrf_token %}
   <input type="hidden" name="next" value="{{ next }}">
-  {{ form|crispy }}
+  {{ form.username|as_crispy_field }}
+  {{ form.group|as_crispy_field }}
+  {{ form.first_name|as_crispy_field }}
+  {{ form.last_name|as_crispy_field }}
   <button type="submit" class="btn btn-success btn-block">Create an account</button>
   <div class="login-or">
      <hr class="hr-or">
