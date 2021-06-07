@@ -58,15 +58,18 @@ class MessageModelViewSet(ModelViewSet):
 
 
 class UserModelViewSet(ModelViewSet):
-    queryset = User.objects.all()
+    queryset = User.objects
     serializer_class = UserModelSerializer
     allowed_methods = ('GET', 'HEAD', 'OPTIONS')
     pagination_class = None  # Get all user
+    groups=[]
 
     def list(self, request, *args, **kwargs):
         user = request.user
-        # Get all users except yourself
-        self.queryset = self.queryset.exclude(id=user.id)
+        for group in request.user.groups.all():
+            self.groups.append(group.name)
+        # Get all users except yourself with same groups
+        self.queryset = self.queryset.filter(groups__name__in=self.groups).exclude(id=user.id)
         
         # get latest message along with users
         # https://stackoverflow.com/a/62801980/2351696 
