@@ -14,13 +14,15 @@ class MessageModelSerializer(ModelSerializer):
             User, username=validated_data['recipient']['username'])
         msg = MessageModel(recipient=recipient,
                            body=validated_data['body'],
-                           user=user)
+                           user=user,
+                           sid=validated_data['sid']     
+                        )
         msg.save()
         return msg
 
     class Meta:
         model = MessageModel
-        fields = ('id', 'user', 'recipient', 'timestamp', 'body')
+        fields = ('id', 'user', 'recipient', 'timestamp', 'body', 'sid')
 
 
 class UserModelSerializer(ModelSerializer):

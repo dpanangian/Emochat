@@ -1,6 +1,6 @@
 
 from django.contrib.auth.models import User
-from django.db.models import (Model, TextField, DateTimeField, ForeignKey,
+from django.db.models import (Model, TextField, DateTimeField, ForeignKey, IntegerField,
                               CASCADE)
 
 from asgiref.sync import async_to_sync
@@ -20,6 +20,7 @@ class MessageModel(Model):
                       related_name='from_user', db_index=True)
     recipient = ForeignKey(User, on_delete=CASCADE, verbose_name='recipient',
                            related_name='to_user', db_index=True)
+    sid = IntegerField('sid', default=0)
     timestamp = DateTimeField('timestamp', auto_now_add=True, editable=False,
                               db_index=True)
     body = TextField('body')

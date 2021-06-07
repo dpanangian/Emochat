@@ -1,9 +1,10 @@
 let currentRecipient = '';
 let chatInput = $('#input');
 let messageList = $('#messages');
-
+let scenarioInput = $("#scenario-input")
 let userList = []; // latest_message,username
-
+const beginRegex = new RegExp("Beginne Szenario \\d+")
+const terminateRegex = new RegExp('Szenario \\d+ beendet');
 
 // this will be used to store the date of the last message
 // in the message area
@@ -14,6 +15,30 @@ function fetchUserList() {
         userList = data;
         drawUserList();
     });
+
+    let sidCookie = getCookie("sid");
+    console.log("Found scenario cookie set to: " + sidCookie);
+    if (sidCookie > 0) {
+        changeScenarioControlStart(sidCookie)
+    }
+
+}
+
+function getCookie(name) {
+    var cookie = document.cookie;
+    var prefix = name + "=";
+    var begin = cookie.indexOf("; " + prefix);
+    if (begin == -1) {
+        begin = cookie.indexOf(prefix);
+        if (begin != 0) return null;
+    } else {
+        begin += 2;
+        var end = document.cookie.indexOf(";", begin);
+        if (end == -1) {
+            end = cookie.length;
+        }
+    }
+    return unescape(cookie.substring(begin + prefix.length, end));
 }
 
 function drawUserList() {
@@ -93,10 +118,26 @@ function drawMessage(message) {
     $(messageItem).appendTo('#messages');
 }
 
+function drawScenarioMessage(message) {
+    let messageItem = '';
+    messageItem += `
+    <div class="align-self-center p-1 my-1 mx-3 rounded bg-warning shadow-sm message-item">
+        <div class="options">
+            <a href="#"><i class="fas fa-angle-down text-muted px-2"></i></a>
+        </div>
+        <div class="d-flex flex-row">
+            <div class="body m-1 mr-2">${message.body}</div>
+        </div>
+    </div>`;
+    // alert(messageItem)
+    $(messageItem).appendTo('#messages');
+}
+
 function onClickUserList(elem, recipient) {
     currentRecipient = recipient;
     $("#name").text(recipient);
-    $.getJSON(`/api/v1/message/?target=${recipient}`, function (data) {
+    sid = getSid();
+    $.getJSON(`/api/v1/message/?target=${recipient}&sid=${sid}`, function (data) {
         messageList.empty(); // .children('.message-item').remove();
         $(".overlay").addClass("d-none");
         $("#input-area").removeClass("d-none").addClass("d-flex");
@@ -105,7 +146,13 @@ function onClickUserList(elem, recipient) {
         $(elem).addClass("active");
         lastDate = "";
         for (let i = data['results'].length - 1; i >= 0; i--) {
-            drawMessage(data['results'][i]);
+            let result = data['results'][i];
+            let msg = result.body;
+            if (beginRegex.test(msg) || terminateRegex.test(msg)) {
+                drawScenarioMessage(result)
+            } else {
+                drawMessage(result);
+            }
         }
         messageList.animate({ scrollTop: messageList.prop('scrollHeight') });
     });
@@ -128,24 +175,40 @@ function getMessageById(message) {
     $.getJSON(`/api/v1/message/${msg_id}/`, function (data) {
         if (data.user === currentRecipient ||
             (data.recipient === currentRecipient && data.user == currentUser)) {
-            drawMessage(data);
+            checkScenario(data);
             updateUserList(data);
         }
         messageList.animate({ scrollTop: messageList.prop('scrollHeight') });
     });
 }
 
+function checkScenario(message) {
+    if (beginRegex.test(message.body)) {
+        changeScenarioControlStart(message.sid);
+        document.cookie = "sid=" + message.sid;
+        drawScenarioMessage(message);
+    } else if (terminateRegex.test(message.body)) {
+        changeScenarioControlEnd(message.sid);
+        document.cookie = "sid=0";
+        drawScenarioMessage(message);
+    } else {
+        drawMessage(message);
+    }
+}
+
+
 
 function sendMessage() {
     const body = chatInput.val();
-    console.log(body)
     if (!containsEmoji(body)) {
         alert('No Emoji Label selected!');
         return;
     }
+    sid = getSid()
     if (body.length > 0) {
         $.post('/api/v1/message/', {
             recipient: currentRecipient,
+            sid: sid,
             body: body
         }).fail(function () {
             alert('Error! Check console!');
@@ -154,10 +217,17 @@ function sendMessage() {
     }
 }
 
+function getSid() {
+    if ($("#scenario-btn-stop").is(":visible")) {
+        return scenarioInput.val();
+    }
+    return 0;
+}
+
 function containsEmoji(msg) {
     var emojis = ["😂", "😍", "😱", "😲", "😔", "🤢", "😡", "👀"]
     if (emojis.some(emoji => msg.includes(emoji))) {
-        return true;      
+        return true;
     } else {
         return false;
     }
@@ -174,15 +244,66 @@ let hideProfileSettings = () => {
     // DOM.username.innerHTML = user.name;
 };
 
-/*function hideShowEmojiPanel() {
-    if($('.emojiBar').css('display') == 'none'){
+function beginScenario() {
+    let number = parseInt(scenarioInput.val())
+    if (validateInput(number)) {
+        let terminate = confirm("Möchtest du Szenario " + number + " starten?");
+        if (terminate) {
+            changeScenarioControlStart(number);
+            $.post('/api/v1/message/', {
+                recipient: currentRecipient,
+                sid: number,
+                body: "Beginne Szenario " + number
+            }).fail(function () {
+                alert('Error! Check console!');
+            });
+            document.cookie = "sid=" + number;
 
-        $(".emojiBar").fadeIn(120);
+            //rewriteUserList(currentRecipient);
+        }
+    } else {
+        alert("Scenario mit dieser ID ist nicht vorhanden.")
     }
-    else{
-        $(".emojiBar").fadeOut(120);
+}
+
+function changeScenarioControlStart(number) {
+    $("#scenario-btn-start").hide();
+    $("#scenario-btn-stop").show();
+    $("#scenario-input").val(number)
+    $("#scenario-input").prop("disabled", true);
+    console.log("Started Scenario " + number);
+}
+
+function validateInput(number) {
+    if (isNaN(number) || number < scenarioInput.attr('min') || number > scenarioInput.attr('max')) {
+        return false;
+    } else {
+        return true;
     }
-}*/
+}
+
+function terminateScenario() {
+    let number = parseInt(scenarioInput.val())
+    let terminate = confirm("Möchtest du das Szenario wirklich beenden?");
+    if (terminate) {
+        changeScenarioControlEnd();
+        $.post('/api/v1/message/', {
+            recipient: currentRecipient,
+            sid: number,
+            body: "Szenario " + number + " beendet"
+        }).fail(function () {
+            alert('Error! Check console!');
+        });
+        document.cookie = "sid=0";
+    }
+}
+
+function changeScenarioControlEnd() {
+    $("#scenario-btn-stop").hide();
+    $("#scenario-btn-start").show();
+    $("#scenario-input").prop("disabled", false);
+    console.log("Terminated Scenario");
+}
 
 function typeInTextarea(el, newText) {
     var start = el.prop("selectionStart")
@@ -212,6 +333,10 @@ $(document).ready(function () {
     socket.onmessage = function (e) {
         getMessageById(e.data);
     };
+
+
+
+
 
 
     /* if the user click the conversation or the type panel will also hide the 
