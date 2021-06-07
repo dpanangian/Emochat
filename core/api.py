@@ -1,6 +1,6 @@
 from django.db.models import Q, Count, OuterRef, Subquery
 from django.shortcuts import get_object_or_404
-from django.contrib.auth.models import User
+from django.contrib.auth.models import User, Group
 from rest_framework.pagination import PageNumberPagination
 from rest_framework.response import Response
 from rest_framework.viewsets import ModelViewSet
@@ -58,15 +58,18 @@ class MessageModelViewSet(ModelViewSet):
 
 
 class UserModelViewSet(ModelViewSet):
-    queryset = User.objects.all()
+    queryset = User.objects
     serializer_class = UserModelSerializer
     allowed_methods = ('GET', 'HEAD', 'OPTIONS')
     pagination_class = None  # Get all user
 
     def list(self, request, *args, **kwargs):
+        groups=[]
         user = request.user
-        # Get all users except yourself
-        self.queryset = self.queryset.exclude(id=user.id)
+        for group in Group.objects.filter(user = user):
+            groups.append(group.name)
+        # Get all users except yourself with same groups
+        self.queryset = self.queryset.filter(groups__name__in=groups).exclude(id=user.id)
         
         # get latest message along with users
         # https://stackoverflow.com/a/62801980/2351696 
