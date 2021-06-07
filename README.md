@@ -2,7 +2,7 @@
 https://emochat.azurewebsites.net/
 
 
-
+# Installation
 A minimal tutorial on how to get the app running.
 
 
@@ -65,3 +65,39 @@ pip install -r requirements.txt
     ```
 3) Voila! the app should be running here
     http://127.0.0.1:8000/
+    
+
+# Manage the database using Django-admin
+
+1) Create a superuser
+    ```
+    python3 manage.py createsuperuser
+    ```
+2) Run the server
+    ```
+    python3 manage.py runserver
+    ```
+3) Open the django-admin here
+    http://127.0.0.1:8000/admin/
+    
+# Migrating Models
+Models need to be migrated after changes applied before running the server
+
+1) Create migrations
+
+    ```
+    python3 manage.py makemigrations
+    ```
+2) Run the migrations
+    ```
+    python3 manage.py migrate
+    ```
+    ```
+3) Run the server
+    ```
+    python3 manage.py runserver
+
+
+
+
+
