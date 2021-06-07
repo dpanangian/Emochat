@@ -86,38 +86,58 @@
           <div class="text-body font-weight-bold" id="name"></div>
           <div class="text-body small" id="details"></div>
         </div>
+
+        <!-- Scenario controls -->
         <div class="d-flex flex-row align-items-center ml-auto">
-          <!-- <a href="#"><i class="fas fa-search mx-3 text-secondary d-none d-md-block"></i></a> -->
-          <a style="visibility: hidden;" href="#" onclick="alert('Work in progress.');return false;"><i
-              class="fas fa-paperclip mx-3 text-secondary d-none d-md-block"></i></a>
-          <a style="visibility: hidden;" href="#" onclick="alert('Work in progress.');return false;"><i
-              class="fas fa-ellipsis-v mr-2 mx-sm-3 text-secondary"></i></a>
+          <div class="input-group p-2">
+            <div class="input-group-prepend">
+              <label class="input-group-text" for="scenario-ids">SID</label>
+            </div>
+            <div class="custom-file mr-2">
+              <input type="number" class="form-control" id="scenario-input" name="scenario-ids" min="1" max="28"
+                value="1">
+            </div>
+            <div class="input-group-append">
+              <button class="btn btn-primary rounded" type="button" id="scenario-btn-start"
+                onclick="beginScenario()">Szenario
+                Starten</button>
+              <button class="btn btn-danger rounded" type="button" id="scenario-btn-stop"
+                onclick="terminateScenario()" style="display: none">Szenario
+                Beenden</button>
+            </div>
+          </div>
         </div>
       </div>
 
       <!-- Messages -->
       <div class="d-flex flex-column" id="messages"></div>
 
-      <!-- Emoji bar -->
-      <div class="emojiList">
-        <span class="emoji_single button" id="emoji_0">😂</span>
-        <span class="emoji_single button" id="emoji_1">😍</span>
-        <span class="emoji_single button" id="emoji_2">😱</span>
-        <span class="emoji_single button" id="emoji_3">😲</span>
-        <span class="emoji_single button" id="emoji_4">😔</span>
-        <span class="emoji_single button" id="emoji_5">🤢</span>
-        <span class="emoji_single button" id="emoji_6">😡</span>
-        <span class="emoji_single button" id="emoji_7">👀</span>
-      </div>
+      <!-- Bottom bar -->
+      <div class="d-flex flex-row" id="chat-control">
+        <div class="d-flex flex-column flex-grow-1">
+          <!-- Emoji bar -->
+          <div class="mt-auto emojiList">
+            <span class="emoji_single button" id="emoji_0">😂</span>
+            <span class="emoji_single button" id="emoji_1">😍</span>
+            <span class="emoji_single button" id="emoji_2">😱</span>
+            <span class="emoji_single button" id="emoji_3">😲</span>
+            <span class="emoji_single button" id="emoji_4">😔</span>
+            <span class="emoji_single button" id="emoji_5">🤢</span>
+            <span class="emoji_single button" id="emoji_6">😡</span>
+            <span class="emoji_single button" id="emoji_7">👀</span>
+          </div>
 
-      <!-- Input -->
-      <div class="d-none justify-self-end align-items-center" id="input-area">
-        <input type="text" name="message" id="input" placeholder="Type a message"
-          class="flex-grow-1 border-0 px-3 py-2 my-3 rounded shadow-sm">
-        <i class="fas fa-paper-plane text-muted px-3" style="cursor:pointer;" onclick="sendMessage()"></i>
+          <!-- Input -->
+          <div class="mt-auto d-none justify-self-end align-items-center" id="input-area">
+            <input type="text" name="message" id="input" placeholder="Type a message"
+              class="flex-grow-1 border-0 px-3 py-2 my-3 rounded shadow-sm">
+            <i class="fas fa-paper-plane text-muted px-3" style="cursor:pointer;" onclick="sendMessage()"></i>
+          </div>
+        </div>
       </div>
     </div>
   </div>
+</div>
 </div>
 {% endblock %}
 
