@@ -3,8 +3,8 @@ let chatInput = $('#input');
 let messageList = $('#messages');
 let scenarioInput = $("#scenario-input")
 let userList = []; // latest_message,username
-const beginRegex = new RegExp("Beginne Szenario \\d+")
-const terminateRegex = new RegExp('Szenario \\d+ beendet');
+const beginRegex = new RegExp("Beginne Szenario \\d+$")
+const terminateRegex = new RegExp('Szenario \\d+ beendet$');
 
 // this will be used to store the date of the last message
 // in the message area
@@ -16,6 +16,7 @@ function fetchUserList() {
         drawUserList();
     });
 
+    //TODO: place cookie when clicked on user
     let sidCookie = getCookie("sid");
     console.log("Found scenario cookie set to: " + sidCookie);
     if (sidCookie > 0) {
@@ -225,7 +226,7 @@ function getSid() {
 }
 
 function containsEmoji(msg) {
-    var emojis = ["😂", "😍", "😱", "😲", "😔", "🤢", "😡", "👀"]
+    var emojis = ["😂", "🥰", "😱", "😲", "😢", "🤢", "😡", "👀"]
     if (emojis.some(emoji => msg.includes(emoji))) {
         return true;
     } else {
