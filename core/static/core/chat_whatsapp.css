@@ -75,8 +75,16 @@
 }
 
 #message-area .intro {
-	background: url("/static/core/img/chat-intro.png") no-repeat center;
+	background: url("/static/core/img/Logo.png") no-repeat center;
 	height: 100%;	
+	position:relative;
+}
+#message-area .footer {
+	position:absolute;
+    width:100%;
+    bottom: 15pt;
+    text-align:center;	
+	letter-spacing: 1px;
 }
 
 #input-area {
@@ -177,7 +185,7 @@
 #emoji-legend {
 	display: none;
 	position: absolute;
-	height: 360px;
+	height: 320px;
 	width: 100%;
 	padding: 10px;
 	bottom: 1px;
@@ -226,7 +234,7 @@
 }
 
 .emoji_single_small {
-	font-size: 1.5rem;
+	font-size: 1.3rem;
 }
 
 .emojiList .pick {
@@ -280,4 +288,22 @@
 	outline: none;
 	font-family: 'Open Sans', 'Roboto', 'Ubuntu', sans-serif;
 	font-size: 24px;
+}
+
+#typo {
+	font-family: 'Unica One', cursive;
+	font-size: 30px;
+	letter-spacing: 0px;
+	font-weight: bold;
+}
+
+.btn-legend{
+	padding:1px 3px 1px 3px;
+	font-family: 'Arimo', sans-serif;
+	margin-left:10px;
+	font-size: 15px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: 'Arimo', sans-serif;
 }
