@@ -12,22 +12,16 @@ class SignUpForm(UserCreationForm):
     #email = forms.EmailField(required=False)
     first_name = forms.CharField(max_length=100)
     last_name = forms.CharField(max_length=100)
-    group = forms.CharField(max_length=100)
+    group = forms.ModelChoiceField(queryset=Group.objects.all())
 
     def uniqueemailvalidator(self, value):
         if User.objects.filter(email__iexact=value).exists():
             raise ValidationError('User with this Email already exists.')
-    def groupvalidator(self, value):
-        try:
-            Group.objects.get(name=value)
-        except:
-            raise ValidationError('Group not found')
 
     def __init__(self, *args, **kwargs):
         #super().__init__(*args, **kwargs)
         super().__init__(*args, **kwargs)
         self.fields['group'].required = True
-        self.fields['group'].validators.append(self.groupvalidator)
         self.fields['password1'].required = False
         self.fields['password2'].required = False
         # If one field gets autocompleted but not the other, our 'neither
