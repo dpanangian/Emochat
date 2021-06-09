@@ -25,7 +25,7 @@ function drawUserList() {
         const userItem = `
             <div class="chat-list-item d-flex flex-row w-100 p-2 border-bottom${currentRecipient === userList[i]['username'] ? " active" : ""}" 
                 onclick="onClickUserList(this, '${userList[i]['username']}')">
-                <img src="${static_url}/img/profilepic.png" alt="Profile Photo" class="img-fluid rounded-circle mr-2" style="height:50px;">
+                <img src="${static_url}/img/user.jpeg" alt="Profile Photo" class="img-fluid rounded-circle mr-2" style="height:50px;">
                 <div class="w-50">
                     <div class="name">${userList[i]['username']}</div>
                     <div class="small last-message">${msg ? msg.substr(0, 50) : ""}</div>
@@ -71,12 +71,14 @@ function showDatesWeekDays(dateString) {
 function drawMessage(message) {
     let msgDate = showDatesWeekDays(message.timestamp);
     let messageItem = '';
+    /*
     if (lastDate != msgDate) {
         messageItem += `<div class="mx-auto my-2 bg-info text-white small py-1 px-2 rounded">
             ${msgDate}
         </div>`;
         lastDate = msgDate;
     }
+    */
     messageItem += `
     <div class="align-self-${message.user === currentUser ? "end self" : "start"} p-1 my-1 mx-3 rounded bg-white shadow-sm message-item">
         <div class="options">
