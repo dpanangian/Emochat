@@ -8,7 +8,7 @@ from channels.layers import get_channel_layer
 
 from torchmoji.classifier.classifier import Classifier
 
-auto_emoji = Classifier()
+#auto_emoji = Classifier()
 
 class MessageModel(Model):
     """
