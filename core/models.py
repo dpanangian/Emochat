@@ -1,10 +1,12 @@
 
 from django.contrib.auth.models import User
+from django.db import models
 from django.db.models import (Model, TextField, DateTimeField, ForeignKey, IntegerField,
                               CASCADE)
 
 from asgiref.sync import async_to_sync
 from channels.layers import get_channel_layer
+from django.contrib.auth.models import Group
 
 from torchmoji.classifier.classifier import Classifier
 
@@ -12,7 +14,7 @@ from torchmoji.classifier.classifier import Classifier
 
 class MessageModel(Model):
     """
-    This class represents a chatcannot import name 'Classifier' from 'torchmoji.classifier'  message. It has a owner (user), timestamp and
+    This class represents a chat  message. It has a owner (user), timestamp and
     the message body.
 
     """
@@ -70,3 +72,16 @@ class MessageModel(Model):
         verbose_name = 'message'
         verbose_name_plural = 'messages'
         ordering = ('-timestamp',)
+
+class Visibility(Model):
+    group = models.OneToOneField(Group, on_delete=CASCADE,related_name="group")
+    can_see = models.ManyToManyField(Group, related_name="can_see")
+
+    # Meta
+    class Meta:
+        app_label = 'core'
+        verbose_name = 'Visibility'
+        verbose_name_plural = 'Visibility'
+        indexes = [
+           models.Index(fields=['group']),
+]

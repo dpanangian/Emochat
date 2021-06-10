@@ -8,7 +8,7 @@ from rest_framework.authentication import SessionAuthentication
 
 from chat import settings
 from core.serializers import MessageModelSerializer, UserModelSerializer
-from core.models import MessageModel
+from core.models import MessageModel,Visibility
 
 
 
@@ -67,7 +67,8 @@ class UserModelViewSet(ModelViewSet):
         groups=[]
         user = request.user
         for group in Group.objects.filter(user = user):
-            groups.append(group.name)
+            for group in Visibility.objects.filter(group = group):
+                groups.extend(group.can_see.all())
         # Get all users except yourself with same groups
         self.queryset = self.queryset.filter(groups__name__in=groups).exclude(id=user.id)
         
