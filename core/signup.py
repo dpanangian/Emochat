@@ -24,6 +24,8 @@ class SignUpForm(UserCreationForm):
         self.fields['group'].required = True
         self.fields['password1'].required = False
         self.fields['password2'].required = False
+        self.fields['first_name'].required = False
+        self.fields['last_name'].required = False
         # If one field gets autocompleted but not the other, our 'neither
         # password or both password' validation will be triggered.
         self.fields['password1'].widget.attrs['autocomplete'] = 'off'
