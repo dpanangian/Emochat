@@ -15,31 +15,6 @@ function fetchUserList() {
         userList = data;
         drawUserList();
     });
-
-    //TODO: place cookie when clicked on user
-    let sidCookie = getCookie("sid");
-    console.log("Found scenario cookie set to: " + sidCookie);
-    if (sidCookie > 0) {
-        changeScenarioControlStart(sidCookie)
-    }
-
-}
-
-function getCookie(name) {
-    var cookie = document.cookie;
-    var prefix = name + "=";
-    var begin = cookie.indexOf("; " + prefix);
-    if (begin == -1) {
-        begin = cookie.indexOf(prefix);
-        if (begin != 0) return null;
-    } else {
-        begin += 2;
-        var end = document.cookie.indexOf(";", begin);
-        if (end == -1) {
-            end = cookie.length;
-        }
-    }
-    return unescape(cookie.substring(begin + prefix.length, end));
 }
 
 function drawUserList() {
@@ -63,7 +38,6 @@ function drawUserList() {
         $(userItem).appendTo('#user-list');
     }
 }
-
 
 function getTime(dateString) {
     if (!dateString) return ''
@@ -139,6 +113,14 @@ function drawScenarioMessage(message) {
 function onClickUserList(elem, recipient) {
     currentRecipient = recipient;
     $("#name").text(recipient);
+    $.getJSON(`/api/v1/scenario/?target=${recipient}`, function (data) {
+        let result = data['results'][0];
+        if (result != null && result.sid > 0) {
+            changeScenarioControlStart(result.sid)
+        } else {
+            changeScenarioControlEnd()
+        }
+    });
     sid = getSid();
     $.getJSON(`/api/v1/message/?target=${recipient}&sid=${sid}`, function (data) {
         messageList.empty(); // .children('.message-item').remove();
@@ -188,18 +170,14 @@ function getMessageById(message) {
 function checkScenario(message) {
     if (beginRegex.test(message.body)) {
         changeScenarioControlStart(message.sid);
-        document.cookie = "sid=" + message.sid;
         drawScenarioMessage(message);
     } else if (terminateRegex.test(message.body)) {
         changeScenarioControlEnd(message.sid);
-        document.cookie = "sid=0";
         drawScenarioMessage(message);
     } else {
         drawMessage(message);
     }
 }
-
-
 
 function sendMessage() {
     const body = chatInput.val();
@@ -228,7 +206,7 @@ function getSid() {
 }
 
 function containsEmoji(msg) {
-    var emojis = ["😂", "🥰", "😱", "😲", "😢", "🤢", "😡", "👀"]
+    var emojis = ["😊", "🥰", "😱", "😲", "😢", "🤢", "😡", "👀"]
     if (emojis.some(emoji => msg.includes(emoji))) {
         return true;
     } else {
@@ -253,6 +231,13 @@ function beginScenario() {
         let terminate = confirm("Möchtest du Szenario " + number + " starten?");
         if (terminate) {
             changeScenarioControlStart(number);
+            $.post('/api/v1/scenario/', {
+                recipient: currentRecipient,
+                sid: number
+            }).fail(function () {
+                alert('Error! Check console!');
+                return;
+            });
             $.post('/api/v1/message/', {
                 recipient: currentRecipient,
                 sid: number,
@@ -260,9 +245,6 @@ function beginScenario() {
             }).fail(function () {
                 alert('Error! Check console!');
             });
-            document.cookie = "sid=" + number;
-
-            //rewriteUserList(currentRecipient);
         }
     } else {
         alert("Scenario mit dieser ID ist nicht vorhanden.")
@@ -274,7 +256,6 @@ function changeScenarioControlStart(number) {
     $("#scenario-btn-stop").show();
     $("#scenario-input").val(number)
     $("#scenario-input").prop("disabled", true);
-    console.log("Started Scenario " + number);
 }
 
 function validateInput(number) {
@@ -290,6 +271,13 @@ function terminateScenario() {
     let terminate = confirm("Möchtest du das Szenario wirklich beenden?");
     if (terminate) {
         changeScenarioControlEnd();
+        $.post('/api/v1/scenario/', {
+            recipient: currentRecipient,
+            sid: 0
+        }).fail(function () {
+            alert('Error! Check console!');
+            return;
+        });
         $.post('/api/v1/message/', {
             recipient: currentRecipient,
             sid: number,
@@ -297,7 +285,6 @@ function terminateScenario() {
         }).fail(function () {
             alert('Error! Check console!');
         });
-        document.cookie = "sid=0";
     }
 }
 
@@ -305,7 +292,6 @@ function changeScenarioControlEnd() {
     $("#scenario-btn-stop").hide();
     $("#scenario-btn-start").show();
     $("#scenario-input").prop("disabled", false);
-    console.log("Terminated Scenario");
 }
 
 function typeInTextarea(el, newText) {
