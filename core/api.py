@@ -85,3 +85,13 @@ class ScenarioModeViewSet(ModelViewSet):
     serializer_class = ScenarioModelSerializer
     allowed_methods = ('GET', 'POST', 'HEAD', 'OPTIONS')
     authentication_classes = (CsrfExemptSessionAuthentication,)
+
+    def list(self, request, *args, **kwargs):
+        self.queryset = self.queryset.filter(Q(recipient=request.user) |
+                                             Q(user=request.user))
+        target = self.request.query_params.get('target', None)
+        if target is not None:
+            self.queryset = self.queryset.filter(
+                Q(recipient=request.user, user__username=target) |
+                Q(recipient__username=target, user=request.user))
+        return super().list(request, *args, **kwargs)
