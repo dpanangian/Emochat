@@ -70,3 +70,11 @@ class MessageModel(Model):
         verbose_name = 'message'
         verbose_name_plural = 'messages'
         ordering = ('-timestamp',)
+
+
+class ScenarioModel(Model):
+    user = ForeignKey(User, on_delete=CASCADE, verbose_name='user1',
+                      related_name='user1', db_index=True)
+    recipient = ForeignKey(User, on_delete=CASCADE, verbose_name='user2',
+                           related_name='user2', db_index=True)
+    sid = IntegerField('sid')
