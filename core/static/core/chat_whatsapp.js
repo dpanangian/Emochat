@@ -204,7 +204,7 @@ function getSid() {
 }
 
 function containsEmoji(msg) {
-    var emojis = ["😂", "🥰", "😱", "😲", "😢", "🤢", "😡", "👀"]
+    var emojis = ["😊", "🥰", "😱", "😲", "😢", "🤢", "😡", "👀"]
     if (emojis.some(emoji => msg.includes(emoji))) {
         return true;
     } else {
