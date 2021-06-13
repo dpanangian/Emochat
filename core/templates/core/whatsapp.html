@@ -28,7 +28,20 @@
       </div>
 
       <!-- User List -->
-      <div class="row" id="user-list"></div>
+      <!-- <div class="overflow-auto" id="user-list2">-->
+      <div class="row overflow-auto" id="user-list"></div>
+
+        <div class="row d-flex flex-row flex-grow p-2" id="emoji-legend">
+          <h3 class="col-12">Emoji-Legende</h3>
+          <div class="col-12"><span class="emoji_single_small">😊</span>: Freude | Joy </div>
+          <div class="col-12"><span class="emoji_single_small">🥰</span>: Akzeptanz / Vertrauen | Trust</div>
+          <div class="col-12"><span class="emoji_single_small">😱</span>: Angst | Fear</div>
+          <div class="col-12"><span class="emoji_single_small">😲</span>: Überraschung | Surprise</div>
+          <div class="col-12"><span class="emoji_single_small">😢</span>: Traurigkeit | Sadness</div>
+          <div class="col-12"><span class="emoji_single_small">🤢</span>: Ekel | Disgust</div>
+          <div class="col-12"><span class="emoji_single_small">😡</span>: Wut | Anger</div>
+          <div class="col-12"><span class="emoji_single_small">👀</span>: Neugierde / Erwartung | Anticipation</div>
+        </div>
 
       <!-- Profile Settings -->
       <div class="d-flex flex-column w-100 h-100" id="profile-settings">
@@ -55,17 +68,7 @@
         </div>
 
       </div>
-      <div class="d-flex flex-column" id="emoji-legend">
-        <h3>Emoji-Legende</h3>
-        <div><span class="emoji_single_small">😊</span>: Freude | Joy </div>
-        <div><span class="emoji_single_small">🥰</span>: Akzeptanz / Vertrauen | Trust</div>
-        <div><span class="emoji_single_small">😱</span>: Angst | Fear</div>
-        <div><span class="emoji_single_small">😲</span>: Überraschung | Surprise</div>
-        <div><span class="emoji_single_small">😢</span>: Traurigkeit | Sadness</div>
-        <div><span class="emoji_single_small">🤢</span>: Ekel | Disgust</div>
-        <div><span class="emoji_single_small">😡</span>: Wut | Anger</div>
-        <div><span class="emoji_single_small">👀</span>: Neugierde / Erwartung | Anticipation</div>
-      </div>
+
     </div>
 
     <!-- Message Area -->
@@ -101,8 +104,8 @@
               <button class="btn btn-primary rounded" type="button" id="scenario-btn-start"
                 onclick="beginScenario()">Szenario
                 Starten</button>
-              <button class="btn btn-danger rounded" type="button" id="scenario-btn-stop"
-                onclick="terminateScenario()" style="display: none">Szenario
+              <button class="btn btn-danger rounded" type="button" id="scenario-btn-stop" onclick="terminateScenario()"
+                style="display: none">Szenario
                 Beenden</button>
             </div>
           </div>

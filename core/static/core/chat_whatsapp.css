@@ -176,15 +176,9 @@
 
 #emoji-legend {
 	display: none;
-	position: absolute;
-	height: 360px;
-	width: 100%;
-	padding: 10px;
-	bottom: 1px;
-	left: 1px;
-	right: 1px;
-	border: 2px solid #DDD;
-	border-radius: 3px;
+	/*position: absolute;*/
+	margin-top: auto;
+	border-top: 1px solid #dee2e6!important;
 	background: #FFF;
 	overflow: auto;
 }
