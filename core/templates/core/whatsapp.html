@@ -9,6 +9,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Unica+One&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="{% static 'fontawesome/css/all.css' %}" />
 <link rel="stylesheet" href="{% static 'core/chat_whatsapp.css' %}" />
+<script src="https://cdn.jsdelivr.net/npm/svg-pan-zoom-container@0.5.0"></script>
 {% endblock %}
 
 {% block main %}
@@ -36,14 +37,9 @@
 
         <div class="row d-flex flex-row flex-grow p-2" id="emoji-legend">
           <h3 class="col-12">Emoji-Legende</h3>
-          <div  class="col-12"><span class="emoji_single_small">😊</span><small style="background-color: #F8FFAD;" class="btn btn-legend btn-xs">Freude | Joy </small></div>
-          <div  class="col-12"><span class="emoji_single_small">🥰</span><small style="background-color: #3AFF8A;" class="btn btn-legend btn-xs">Akzeptanz / Vertrauen | Trust</small></div>
-          <div  class="col-12"><span class="emoji_single_small">😱</span><small style="background-color: #72D38B;" class="btn btn-legend btn-xs">Angst | Fear</small></div>
-          <div  class="col-12"><span class="emoji_single_small">😲</span><small style="background-color: #9ED6FF;" class="btn btn-legend btn-xs">Überraschung | Surprise</small></div>
-          <div  class="col-12"><span class="emoji_single_small">😢</span><small style="background-color: #9E61FF;" class="btn btn-legend btn-xs">Traurigkeit | Sadness</small></div>
-          <div  class="col-12"><span class="emoji_single_small">🤢</span><small style="background-color: #FFB2FF;" class="btn btn-legend btn-xs">Ekel | Disgust</small></div>
-          <div  class="col-12"><span class="emoji_single_small">😡</span><small style="background-color: #FF7E87;" class="btn btn-legend btn-xs">Wut | Anger</small></div>
-          <div  class="col-12"><span class="emoji_single_small">👀</span><small style="background-color: #FFC886;" class="btn btn-legend btn-xs">Neugierde / Erwartung | Anticipation</small></div>
+          <div data-zoom-on-wheel data-pan-on-drag style="height: 580px;width:580px;">
+            <img src = "{% static 'core/img/plutchik-wheel.png' %}" alt="My Happy Wheel"/>
+          </div>
         </div>
 
       <!-- Profile Settings -->
