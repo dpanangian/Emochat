@@ -6,9 +6,10 @@ from django.db.models import (Model, TextField, DateTimeField, ForeignKey,
 from asgiref.sync import async_to_sync
 from channels.layers import get_channel_layer
 
-from torchmoji.classifier.classifier import Classifier
+from emochat.classifier.classifier import EmoClassifier
 
-auto_emoji = Classifier()
+classifier = EmoClassifier()
+
 
 class MessageModel(Model):
     """
@@ -57,7 +58,7 @@ class MessageModel(Model):
         """
         new = self.id
         self.body = self.body.strip()   # Trimming whitespaces from the body
-        self.body = auto_emoji.add_emoji(self.body)
+        self.body = classifier.classify_emoji(self.body)
         super().save(*args, **kwargs)
         if new is None:
             self.notify_ws_clients()
