@@ -1,6 +1,7 @@
 import spacy
 
-class preprocessor:
+
+class Preprocessor:
     ALL_STOPWORDS = ['zehntes', 'dein', 'derselben', 'habe', 'das', 'zwar', 'wahr', 'wie', 'kannst', 'drittes', 'aber',
                      'konnte', 'hätten', 'will', 'andern', 'oder', 'währenddessen', 'seine', 'hin', 'wollten', 'daß',
                      'fünften', 'sagt', 'geschweige', 'mancher', 'darum', 'vielen', 'solang', 'jedermann', 'demgemäss',
