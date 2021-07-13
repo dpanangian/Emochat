@@ -13,9 +13,7 @@ classifier = EmoClassifier()
 
 class MessageModel(Model):
     """
-    This class represents a chatcannot import name 'Classifier' from 'torchmoji.classifier'  message. It has a owner (user), timestamp and
-    the message body.
-
+    This class represents a chat.
     """
     user = ForeignKey(User, on_delete=CASCADE, verbose_name='user',
                       related_name='from_user', db_index=True)
