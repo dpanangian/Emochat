@@ -37,7 +37,7 @@ class SvmClassifier(ScikitClassifier):
         super(SvmClassifier,self).__init__(SVM_MODEL)
 
     def classify_emoji(self, texts):
-        super.classify_emoji(texts)
+        super(SvmClassifier,self).classify_emoji(texts)
 
 class LrClassifier(ScikitClassifier):
     def __init__(self):
