@@ -57,7 +57,7 @@ pip install -r requirements.txt
 
 ## Run The apps
 
-Please replace the *folder-name* with the apps you're trying to open (EmotionClassifier or Simulation)
+Please replace the *folder-name* with the apps you're trying to open (for example, EmotionClassifier)
 
 1) Create migrations
 
