@@ -1,18 +1,22 @@
 from emochat.classifier.model import EmoModel
+from emochat.classifier.preprocessor import Preprocessor
 from emochat.classifier.util import load_model, load_dataframe, tokenize_filter, SVM_MODEL, LR_MODEL
 EMOJIS_map = {'joy':'😊','trust': '🥰','fear':'😱', 'surprise':'😲','sadness': '😢','disgust': '🤢', 'anger':'😡', 'anticipation':'👀'}
-
 
 class EmoClassifier:
 
     def __init__(self):
         self.model = EmoModel()
+        self.preprocessor = Preprocessor()
 
     def classify_emoji(self, text):
-        emotion = self.model.predict_emotion(text)
-        print(emotion)
+        preprocessed_text = self.preprocessor.preprocess_data(text)
+        print(preprocessed_text)
+        emotion, probability = self.model.predict_emotion(preprocessed_text)
+        print(emotion, probability)
+        percentage = int(probability * 100)
         emoji = list(EMOJIS_map.values())[emotion]
-        return text + ' ' + emoji
+        return text + ' ' + emoji + ' (' + str(percentage) + '%)'
 
 
 class ScikitClassifier():
@@ -49,5 +53,7 @@ class LrClassifier(ScikitClassifier):
 
 if __name__ == '__main__':
     classifier = EmoClassifier()
-    response = classifier.classify_emoji("Warum schießen die Italiener kein Tor?")
+    response = classifier.classify_emoji("Ich hatte heute eine echt spannende Sitzung")
     print(response)
+
+

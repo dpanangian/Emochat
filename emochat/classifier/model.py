@@ -36,8 +36,9 @@ class EmoModel:
         print("Token sequence", sequence)
         sequence = pad_sequences(sequence, maxlen=self.MAX_SEQUENCE_LENGTH)
         probabilities = self.model.predict(sequence)
+
         print("Probabilities", probabilities)
         prediction = np.argmax(probabilities)
-        return prediction
+        return prediction, probabilities[0][prediction]
 
 

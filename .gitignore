@@ -130,3 +130,5 @@ dmypy.json
 
 # vscode
 .vscode/
+emochat/model/model.h5
+emochat/model/__MACOSX/._model.h5
