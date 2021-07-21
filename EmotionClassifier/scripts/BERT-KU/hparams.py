@@ -5,12 +5,12 @@ EMOTIONX_MODEL_HPARAMS = defaultdict(
   description='base',
   model_name='base_max_both_em',
 
-  fr_test_path='/content/drive/MyDrive/data/split/friends.test.json',
-  fr_train_path='/content/drive/MyDrive/data/split/friends.train.json',
-  em_test_path='/content/drive/MyDrive/data/split/emochat.test.one_class.json',
-  em_train_path='/content/drive/MyDrive/data/split/emochat.train.one_class.json',
-  fb_test_path='/content/drive/MyDrive/data/split/facebook.test.json',
-  fb_train_path='/content/drive/MyDrive/data/split/facebook.train.json',  
+  fr_test_path='../../EmotionClassifier/data/friends.test.json',
+  fr_train_path='../../EmotionClassifier/data/friends.train.json',
+  em_test_path='../../EmotionClassifier/data/emochat.test.one_class.json',
+  em_train_path='../../EmotionClassifier/data/emochat.train.one_class.json',
+  fb_test_path='../../EmotionClassifier/data/facebook.test.json',
+  fb_train_path='../../EmotionClassifier/data/facebook.train.json',  
 
   save_dir='./saves/',
   log_dir='./logs/',
