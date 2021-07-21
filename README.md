@@ -1,7 +1,17 @@
 # Emochat
 
-A minimal tutorial on how to get the apps running.
+The folder consists of two apps we developed separated by subdirectories:
 
+1) EmotionClassifier:
+    - Prototype (Chatting app with emotion analysis)
+    - Data
+    - Notebooks & Scripts on preparing the data and developing the model
+2) Simulation:
+    - Chatting platform we used to collect the data
+
+
+# Tutorial
+a How-to on getting the apps running.
 
 ## Environment
 
@@ -47,19 +57,21 @@ pip install -r requirements.txt
 
 ## Run The apps
 
+Please replace the *folder-name* with the apps you're trying to open (EmotionClassifier or Simulation)
+
 1) Create migrations
 
     ```
-    python3 manage.py makemigrations
+    python3 *folder-name*/manage.py makemigrations
 
 2) Migrate the models to the database
 
     ```
-    python3 manage.py migrate
+    python3 *folder-name*/manage.py migrate
     ```
 3) Activate the environment
     ```
-    python3 manage.py runserver
+    python3 *folder-name*/manage.py runserver
     ```
 4) Voila! the app should be running here
     http://127.0.0.1:8000/
@@ -69,11 +81,11 @@ pip install -r requirements.txt
 
 1) Create a superuser
     ```
-    python3 manage.py createsuperuser
+    python3 *folder-name*/manage.py createsuperuser
     ```
 2) Run the server
     ```
-    python3 manage.py runserver
+    python3 *folder-name*/manage.py runserver
     ```
 3) Open the django-admin here
     http://127.0.0.1:8000/admin/
