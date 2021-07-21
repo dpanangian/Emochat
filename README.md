@@ -1,12 +1,6 @@
 # Emochat
 
-
-# Installation
-A minimal tutorial on how to get the app running.
-
-## Git Branch
-
-Don't forget to switch to dev branch
+A minimal tutorial on how to get the apps running.
 
 
 ## Environment
@@ -27,7 +21,7 @@ Create a new python environment.
 
 ### Windows users
 
-1) Install Miniconda (less shitty than Anaconda)
+1) Install Miniconda (or Anaconda)
 https://repo.anaconda.com/miniconda/Miniconda3-latest-Windows-x86_64.exe
 2) open Anaconda Prompt
 
@@ -51,22 +45,27 @@ The `requirements.txt` file should list all Python libraries that we need for th
 pip install -r requirements.txt
 ```
 
-## Run Django app
+## Run The apps
 
-1) Migrate the models to the database
+1) Create migrations
+
+    ```
+    python3 manage.py makemigrations
+
+2) Migrate the models to the database
 
     ```
     python3 manage.py migrate
     ```
-2) Activate the environment
+3) Activate the environment
     ```
     python3 manage.py runserver
     ```
-3) Voila! the app should be running here
+4) Voila! the app should be running here
     http://127.0.0.1:8000/
     
 
-# Manage the database using Django-admin
+## Manage the database using Django-admin
 
 1) Create a superuser
     ```
@@ -79,24 +78,6 @@ pip install -r requirements.txt
 3) Open the django-admin here
     http://127.0.0.1:8000/admin/
     
-# Migrating Models
-Models need to be migrated after changes applied before running the server
-
-1) Create migrations
-
-    ```
-    python3 manage.py makemigrations
-    ```
-2) Run the migrations
-    ```
-    python3 manage.py migrate
-    ```
-    ```
-3) Run the server
-    ```
-    python3 manage.py runserver
-
-
 
 
 
