@@ -1,7 +1,11 @@
 from emochat.classifier.model import EmoModel
 from emochat.classifier.preprocessor import Preprocessor
 from emochat.classifier.util import load_model, load_dataframe, tokenize_filter, SVM_MODEL, LR_MODEL
+import logging
+logging.basicConfig()
+logging.root.setLevel(logging.INFO)
 EMOJIS_map = {'joy':'😊','trust': '🥰','fear':'😱', 'surprise':'😲','sadness': '😢','disgust': '🤢', 'anger':'😡', 'anticipation':'👀'}
+
 
 class EmoClassifier:
 
@@ -9,11 +13,20 @@ class EmoClassifier:
         self.model = EmoModel()
         self.preprocessor = Preprocessor()
 
-    def classify_emoji(self, text):
+    def classify_emoji(self, text, context):
+        logging.info(f"Full context: {context}")
+        preprocessed_context = []
+        for item in context:
+            if any(emoji in item for emoji in list(EMOJIS_map.values())):
+                item_without_emoji = item[:-8]  # take message without emoji
+                preprocessed_context += self.preprocessor.preprocess_data(item_without_emoji)
+            else:
+                preprocessed_context += self.preprocessor.preprocess_data(item)
+        logging.info(f"Preprocessed context {preprocessed_context}")
         preprocessed_text = self.preprocessor.preprocess_data(text)
-        print(preprocessed_text)
-        emotion, probability = self.model.predict_emotion(preprocessed_text)
-        print(emotion, probability)
+        logging.info(f"Preprocessed message {preprocessed_text}")
+        emotion, probability = self.model.predict_emotion(preprocessed_context + preprocessed_text)
+        logging.info(f"Emotion index: {emotion} with probability: {probability}")
         percentage = int(probability * 100)
         emoji = list(EMOJIS_map.values())[emotion]
         return text + ' ' + emoji + ' (' + str(percentage) + '%)'
@@ -53,7 +66,7 @@ class LrClassifier(ScikitClassifier):
 
 if __name__ == '__main__':
     classifier = EmoClassifier()
-    response = classifier.classify_emoji("Ich hatte heute eine echt spannende Sitzung")
+    response = classifier.classify_emoji("Das war bestimmt Absicht", context=["Du hast mein Auto kaputt gemacht"])
     print(response)
 
 

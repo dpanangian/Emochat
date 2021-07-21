@@ -7,7 +7,6 @@ import numpy as np
 import json
 from os.path import abspath, dirname, isfile
 ROOT_PATH = dirname(dirname(abspath(__file__)))
-WORDS_PATH = '{}/model/words.json'.format(ROOT_PATH)
 MODEL_PATH = '{}/model/model.h5'.format(ROOT_PATH)
 TOKENIZER_PATH = '{}/model/tokenizer.pickle'.format(ROOT_PATH)
 if not isfile(MODEL_PATH):
@@ -26,10 +25,6 @@ class EmoModel:
 
         with open(TOKENIZER_PATH, 'rb') as handle:
             self.tokenizer = pickle.load(handle)
-
-        with open(WORDS_PATH, 'r') as f:
-            self.vocabulary = json.load(f)
-        self.tokenizer.fit_on_texts(self.vocabulary)
 
     def predict_emotion(self, text):
         sequence = self.tokenizer.texts_to_sequences([text])
