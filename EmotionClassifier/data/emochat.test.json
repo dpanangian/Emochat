@@ -1,0 +1,5622 @@
+[
+    [
+        {
+            "id": 2850,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 14:58:59.464809+00:00",
+            "utterance": "Hey wollte mal mit dir sprechen... ich finde es echt nicht cool, dass du mir st\u00e4ndig deine arbeit gibts und ich deshlab \u00dcberstunden machen musst w\u00e4hrend du immer fr\u00fch in den Feierabend gehst ",
+            "emotion": "anger",
+            "did": 41
+        },
+        {
+            "id": 2850,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 14:58:59.464809+00:00",
+            "utterance": "Hey wollte mal mit dir sprechen... ich finde es echt nicht cool, dass du mir st\u00e4ndig deine arbeit gibts und ich deshlab \u00dcberstunden machen musst w\u00e4hrend du immer fr\u00fch in den Feierabend gehst ",
+            "emotion": "anger",
+            "did": 41
+        },
+        {
+            "id": 2891,
+            "user": "user04",
+            "recipient": "user03",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:00:34.980233+00:00",
+            "utterance": "Hey, ich verstehe deine Wut und es tut mir auch echt leid, dass ich in letzter zeit so viel auf dich ablade....meine Mutter ist leider ernsthaft krank und ich muss mich um sie k\u00fcmmern...sie braucht regelm\u00e4\u00dfig Medikamente zu einer bestimmten zeit, deswegen muss ich immer fr\u00fcher los...",
+            "emotion": "sadness",
+            "did": 41
+        },
+        {
+            "id": 2891,
+            "user": "user04",
+            "recipient": "user03",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:00:34.980233+00:00",
+            "utterance": "Hey, ich verstehe deine Wut und es tut mir auch echt leid, dass ich in letzter zeit so viel auf dich ablade....meine Mutter ist leider ernsthaft krank und ich muss mich um sie k\u00fcmmern...sie braucht regelm\u00e4\u00dfig Medikamente zu einer bestimmten zeit, deswegen muss ich immer fr\u00fcher los...",
+            "emotion": "sadness",
+            "did": 41
+        },
+        {
+            "id": 2901,
+            "user": "user04",
+            "recipient": "user03",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:01:00.502902+00:00",
+            "utterance": "Tut mir leid, dass du das abbekommst, aber ich wollte damit noch nicht zu unserem Chef gehen...du wei\u00dft ja wie der ist...",
+            "emotion": "anticipation",
+            "did": 41
+        },
+        {
+            "id": 2907,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:01:09.449496+00:00",
+            "utterance": "oh okay daf\u00fcr habe ich nat\u00fcrlich Verst\u00e4ndnis... was hast sie denn? ",
+            "emotion": "sadness",
+            "did": 41
+        },
+        {
+            "id": 2909,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:01:17.028948+00:00",
+            "utterance": "ja lass den chef da lieber raus ",
+            "emotion": "surprise",
+            "did": 41
+        },
+        {
+            "id": 2956,
+            "user": "user04",
+            "recipient": "user03",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:03:14.185544+00:00",
+            "utterance": "Sie hatte vor einer Woche akutes Nierenversagen und wurde vor ein paar Tagen entlassen...aber sie noch ziemlich angeschlagen",
+            "emotion": "sadness",
+            "did": 41
+        },
+        {
+            "id": 2976,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:03:49.866312+00:00",
+            "utterance": "die arme  dann w\u00fcnsche ich ihr gute besserung  und mach dir wegen der arbeit keinen stress - ich schaffe das schon ",
+            "emotion": "sadness",
+            "did": 41
+        },
+        {
+            "id": 2976,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:03:49.866312+00:00",
+            "utterance": "die arme  dann w\u00fcnsche ich ihr gute besserung  und mach dir wegen der arbeit keinen stress - ich schaffe das schon ",
+            "emotion": "trust",
+            "did": 41
+        },
+        {
+            "id": 2976,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:03:49.866312+00:00",
+            "utterance": "die arme  dann w\u00fcnsche ich ihr gute besserung  und mach dir wegen der arbeit keinen stress - ich schaffe das schon ",
+            "emotion": "trust",
+            "did": 41
+        },
+        {
+            "id": 2982,
+            "user": "user04",
+            "recipient": "user03",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:04:02.759488+00:00",
+            "utterance": "Danke - Ich hoffe, dass es bald besser ist, dann kann ich dir auch im Gegenzug Arbeit abnehmen",
+            "emotion": "trust",
+            "did": 41
+        },
+        {
+            "id": 2993,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:04:18.812087+00:00",
+            "utterance": "das w\u00e4re nat\u00fcrlich nett  bis dann ",
+            "emotion": "trust",
+            "did": 41
+        },
+        {
+            "id": 2993,
+            "user": "user03",
+            "recipient": "user04",
+            "sid": 5,
+            "timestamp": "2021-06-16 15:04:18.812087+00:00",
+            "utterance": "das w\u00e4re nat\u00fcrlich nett  bis dann ",
+            "emotion": "joy",
+            "did": 41
+        }
+    ],
+    [
+        {
+            "id": 2609,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:48:38.499380+00:00",
+            "utterance": "Hey ich habe geh\u00f6rt dass du deinen Hund letzte Nacht verloren hast. Das tut mir so leid. ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2616,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:48:51.316454+00:00",
+            "utterance": "Wie geht es dir jetzt? ",
+            "emotion": "surprise",
+            "did": 66
+        },
+        {
+            "id": 2620,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:49:09.746489+00:00",
+            "utterance": "Hey, es ist lieb, dass du schreibst. Ja es tut mir einfach so wahnsinnig weh ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2630,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:49:29.069303+00:00",
+            "utterance": "Mir gehts sehr schlecht, es war so ein einzigartiger hund und er war noch so jung ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2634,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:49:33.695129+00:00",
+            "utterance": "Das glaube ich dir. ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2638,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:49:43.134481+00:00",
+            "utterance": "Oje das ist wirklich erschreckend ",
+            "emotion": "surprise",
+            "did": 66
+        },
+        {
+            "id": 2643,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:50:06.414395+00:00",
+            "utterance": "Vielleicht hilft dir ein neuer Hund damit du wieder eine Besch\u00e4ftigung hast. ",
+            "emotion": "anticipation",
+            "did": 66
+        },
+        {
+            "id": 2653,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:50:35.667886+00:00",
+            "utterance": "Ich wei\u00df nicht ob mir ein neuer Hund wirklich \u00fcber meinen kleinen Carlos hinweghilft ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2663,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:51:02.086417+00:00",
+            "utterance": "Es ist halt etwas nervig, weil jeder schreibt ich soll mir doch nen neuen Hund holen, da ich so ein Tierliebhaber bin ",
+            "emotion": "anger",
+            "did": 66
+        },
+        {
+            "id": 2666,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:51:10.513368+00:00",
+            "utterance": "Ja das ist nicht so einfach wahrscheinlich. ",
+            "emotion": "surprise",
+            "did": 66
+        },
+        {
+            "id": 2668,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:51:17.867587+00:00",
+            "utterance": "Aber eine \"neuanschaffung\" ersetzt die bindung nicht ",
+            "emotion": "disgust",
+            "did": 66
+        },
+        {
+            "id": 2672,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:51:29.107275+00:00",
+            "utterance": "Ja kann ich gut verstehen da brauchst du vielleicht noch ein wenig Zeit. ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2680,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:51:44.310469+00:00",
+            "utterance": "Es ist einfach nur schade ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2687,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:52:01.838623+00:00",
+            "utterance": "Ja du tust mir wirklich leid. ",
+            "emotion": "surprise",
+            "did": 66
+        },
+        {
+            "id": 2690,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:52:05.950262+00:00",
+            "utterance": "Aber danke f\u00fcr deine aufmunternden worte, ich weiss dass du es gut meinst ",
+            "emotion": "joy",
+            "did": 66
+        },
+        {
+            "id": 2695,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:52:21.215265+00:00",
+            "utterance": "Lass uns n\u00e4chste Woche mal ein Eis essen gehen dann geht es dir bestimmt bald besser. ",
+            "emotion": "trust",
+            "did": 66
+        },
+        {
+            "id": 2704,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:52:39.928463+00:00",
+            "utterance": "Falls es mir da schon wieder besser geht ",
+            "emotion": "sadness",
+            "did": 66
+        },
+        {
+            "id": 2707,
+            "user": "user07",
+            "recipient": "user14",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:52:46.882290+00:00",
+            "utterance": "Aber danke, falls dann gerne ",
+            "emotion": "trust",
+            "did": 66
+        },
+        {
+            "id": 2710,
+            "user": "user14",
+            "recipient": "user07",
+            "sid": 19,
+            "timestamp": "2021-06-16 14:52:57.983052+00:00",
+            "utterance": "Ok gute Besserung ",
+            "emotion": "trust",
+            "did": 66
+        }
+    ],
+    [
+        {
+            "id": 1836,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:32:30.440764+00:00",
+            "utterance": "Wieso ist dein Team nur so gut und f\u00fchrt schon wieder? ",
+            "emotion": "fear",
+            "did": 105
+        },
+        {
+            "id": 1836,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:32:30.440764+00:00",
+            "utterance": "Wieso ist dein Team nur so gut und f\u00fchrt schon wieder? ",
+            "emotion": "sadness",
+            "did": 105
+        },
+        {
+            "id": 1849,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:33:09.818990+00:00",
+            "utterance": "HAHAHA!  Ich habe doch gesagt, dass wir gewinnen. ",
+            "emotion": "trust",
+            "did": 105
+        },
+        {
+            "id": 1849,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:33:09.818990+00:00",
+            "utterance": "HAHAHA!  Ich habe doch gesagt, dass wir gewinnen. ",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "id": 1854,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:33:30.607504+00:00",
+            "utterance": "Freu dich nicht zu fr\u00fch, das ist der Ausgleich! ",
+            "emotion": "anticipation",
+            "did": 105
+        },
+        {
+            "id": 1854,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:33:30.607504+00:00",
+            "utterance": "Freu dich nicht zu fr\u00fch, das ist der Ausgleich! ",
+            "emotion": "fear",
+            "did": 105
+        },
+        {
+            "id": 1862,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:34:04.077919+00:00",
+            "utterance": "Oh, zumindest dachte ich, dass wir gewinnen. ",
+            "emotion": "fear",
+            "did": 105
+        },
+        {
+            "id": 1862,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:34:04.077919+00:00",
+            "utterance": "Oh, zumindest dachte ich, dass wir gewinnen. ",
+            "emotion": "surprise",
+            "did": 105
+        },
+        {
+            "id": 1876,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:34:34.878925+00:00",
+            "utterance": "Wohl nicht, denn da ist der F\u00fchrungstreffer f\u00fcr mein Team! ",
+            "emotion": "fear",
+            "did": 105
+        },
+        {
+            "id": 1876,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:34:34.878925+00:00",
+            "utterance": "Wohl nicht, denn da ist der F\u00fchrungstreffer f\u00fcr mein Team! ",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "id": 1876,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:34:34.878925+00:00",
+            "utterance": "Wohl nicht, denn da ist der F\u00fchrungstreffer f\u00fcr mein Team! ",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "id": 1882,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:34:47.736191+00:00",
+            "utterance": "Was f\u00fcr ein Mist! ",
+            "emotion": "anger",
+            "did": 105
+        },
+        {
+            "id": 1895,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:35:16.250469+00:00",
+            "utterance": "Haha das kam echt aus dem Nichts! ",
+            "emotion": "fear",
+            "did": 105
+        },
+        {
+            "id": 1895,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:35:16.250469+00:00",
+            "utterance": "Haha das kam echt aus dem Nichts! ",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "id": 1909,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:36:06.434645+00:00",
+            "utterance": "Naja, verdienter Sieg f\u00fcr euch... ",
+            "emotion": "sadness",
+            "did": 105
+        },
+        {
+            "id": 1915,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:36:16.977813+00:00",
+            "utterance": "Ja, danke! ",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "id": 1915,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:36:16.977813+00:00",
+            "utterance": "Ja, danke! ",
+            "emotion": "trust",
+            "did": 105
+        },
+        {
+            "id": 1928,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:37:05.075148+00:00",
+            "utterance": "Aber ich bin immer noch ganz verwirrt. Wie konnte sich das Spiel so schnell drehen. ",
+            "emotion": "fear",
+            "did": 105
+        }
+    ],
+    [
+        {
+            "id": 228,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:31:16.927126+00:00",
+            "utterance": "hey die party war ja wieder wild gestern ",
+            "emotion": "joy",
+            "did": 2
+        },
+        {
+            "id": 228,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:31:16.927126+00:00",
+            "utterance": "hey die party war ja wieder wild gestern ",
+            "emotion": "anticipation",
+            "did": 2
+        },
+        {
+            "id": 239,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:31:44.487130+00:00",
+            "utterance": "Ja, super dass du auch da warst ",
+            "emotion": "joy",
+            "did": 2
+        },
+        {
+            "id": 246,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:32:13.433861+00:00",
+            "utterance": "ich war leider bisschen betrunken am ende",
+            "emotion": "disgust",
+            "did": 2
+        },
+        {
+            "id": 246,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:32:13.433861+00:00",
+            "utterance": "ich war leider bisschen betrunken am ende",
+            "emotion": "sadness",
+            "did": 2
+        },
+        {
+            "id": 254,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:32:32.168282+00:00",
+            "utterance": "ich such jetzt mein Geldbeutel. hast du den vllt gesehen ? ",
+            "emotion": "anticipation",
+            "did": 2
+        },
+        {
+            "id": 267,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:33:26.548833+00:00",
+            "utterance": "Also ich habe eben die ganze Wohnung geputzt Niemand hat etwas bei mir vergessen",
+            "emotion": "joy",
+            "did": 2
+        },
+        {
+            "id": 267,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:33:26.548833+00:00",
+            "utterance": "Also ich habe eben die ganze Wohnung geputzt Niemand hat etwas bei mir vergessen",
+            "emotion": "joy",
+            "did": 2
+        },
+        {
+            "id": 270,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:33:32.472868+00:00",
+            "utterance": "Dachte ich zumindest",
+            "emotion": "anticipation",
+            "did": 2
+        },
+        {
+            "id": 282,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:33:59.253193+00:00",
+            "utterance": "Also muss ich dich leider entt\u00e4uschen ",
+            "emotion": "sadness",
+            "did": 2
+        },
+        {
+            "id": 284,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:34:06.734474+00:00",
+            "utterance": "hmm schei\u00dfe da war viel geld drin und die karten muss ich auch alle neu beantragen ",
+            "emotion": "anger",
+            "did": 2
+        },
+        {
+            "id": 284,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:34:06.734474+00:00",
+            "utterance": "hmm schei\u00dfe da war viel geld drin und die karten muss ich auch alle neu beantragen ",
+            "emotion": "disgust",
+            "did": 2
+        },
+        {
+            "id": 284,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:34:06.734474+00:00",
+            "utterance": "hmm schei\u00dfe da war viel geld drin und die karten muss ich auch alle neu beantragen ",
+            "emotion": "anger",
+            "did": 2
+        },
+        {
+            "id": 296,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:34:29.453429+00:00",
+            "utterance": "Muss woanders liegen, tut mir leid dass ich nicht helfen kann",
+            "emotion": "sadness",
+            "did": 2
+        },
+        {
+            "id": 305,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 16,
+            "timestamp": "2021-06-14 18:34:44.526511+00:00",
+            "utterance": "ok aber danke f\u00fcrs nachschauen ",
+            "emotion": "joy",
+            "did": 2
+        }
+    ],
+    [
+        {
+            "id": 1601,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:17.553377+00:00",
+            "utterance": "hey sorry bin gestern fr\u00fcher geganen  mir gings nicht so gut",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1601,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:17.553377+00:00",
+            "utterance": "hey sorry bin gestern fr\u00fcher geganen  mir gings nicht so gut",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1607,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:30.405082+00:00",
+            "utterance": "haben wir noch gewonnen ?",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 1607,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:30.405082+00:00",
+            "utterance": "haben wir noch gewonnen ?",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 1607,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:30.405082+00:00",
+            "utterance": "haben wir noch gewonnen ?",
+            "emotion": "anticipation",
+            "did": 13
+        },
+        {
+            "id": 1610,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:37.720334+00:00",
+            "utterance": "du hast nichts verpasst",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 1610,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:24:37.720334+00:00",
+            "utterance": "du hast nichts verpasst",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1620,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:01.220707+00:00",
+            "utterance": "Das Spiel haben wir verloren, und das wirklich noch in der letzten Minute",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1621,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:05.097272+00:00",
+            "utterance": "oh no ",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 1621,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:05.097272+00:00",
+            "utterance": "oh no ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 1628,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:14.249527+00:00",
+            "utterance": "Aber die Gegner waren auch noch so unversch\u00e4mt",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1636,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:29.596395+00:00",
+            "utterance": "wie ging das denn noch. wir haben doch gef\u00fchrt",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1636,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:29.596395+00:00",
+            "utterance": "wie ging das denn noch. wir haben doch gef\u00fchrt",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1637,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:30.264364+00:00",
+            "utterance": "keinen Anstand und total unsportliches Verhalten",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1637,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:30.264364+00:00",
+            "utterance": "keinen Anstand und total unsportliches Verhalten",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1647,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:47.506709+00:00",
+            "utterance": "solche deppen",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 1647,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:25:47.506709+00:00",
+            "utterance": "solche deppen",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1661,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:26:11.479153+00:00",
+            "utterance": "dann w\u00e4re es nat\u00fcrlich sch\u00f6n gewesen gegen die zu gewinnen ",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1666,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:26:22.330003+00:00",
+            "utterance": "Julian hat sich am Ende echt noch \u00fcbel verletzt, ich hoffe das wird schnell wieder, sieht aber nicht gut aus",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 1666,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:26:22.330003+00:00",
+            "utterance": "Julian hat sich am Ende echt noch \u00fcbel verletzt, ich hoffe das wird schnell wieder, sieht aber nicht gut aus",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1666,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:26:22.330003+00:00",
+            "utterance": "Julian hat sich am Ende echt noch \u00fcbel verletzt, ich hoffe das wird schnell wieder, sieht aber nicht gut aus",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 1672,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:26:40.330608+00:00",
+            "utterance": " was hat er gemacht ?",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1702,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:27:52.896534+00:00",
+            "utterance": "Einer der Gegner ist unter das Netz, also in unsere H\u00e4lfte getretengeht schon mal gar nicht",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1702,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:27:52.896534+00:00",
+            "utterance": "Einer der Gegner ist unter das Netz, also in unsere H\u00e4lfte getretengeht schon mal gar nicht",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1713,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:28:18.179512+00:00",
+            "utterance": "Dadurch ist Julian umgeknickt und hat sich die Au\u00dfenb\u00e4nder gerissen",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 1717,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:28:30.081839+00:00",
+            "utterance": "hmm shit  hoffentlich wirds schnell wieder besser",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1717,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:28:30.081839+00:00",
+            "utterance": "hmm shit  hoffentlich wirds schnell wieder besser",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 1725,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:28:45.443163+00:00",
+            "utterance": "und das nervigste kommt noch",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1730,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:28:52.517730+00:00",
+            "utterance": "wir k\u00f6nnen ihn ja morgen mal besuchen und schauen geht",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 1736,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:29:04.581384+00:00",
+            "utterance": "der Gegner hat sich nicht entschuldigt ",
+            "emotion": "anger",
+            "did": 13
+        },
+        {
+            "id": 1746,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:29:24.998233+00:00",
+            "utterance": "Ja das ist eine gute IDee",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 1747,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:29:25.372074+00:00",
+            "utterance": "so ein arsch ",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 1747,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 26,
+            "timestamp": "2021-06-14 19:29:25.372074+00:00",
+            "utterance": "so ein arsch ",
+            "emotion": "anger",
+            "did": 13
+        }
+    ],
+    [
+        {
+            "id": 2060,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:49:58.521461+00:00",
+            "utterance": "hallo, hallo... hier ist die unbekannte von neulich... hast du meine Nummer verloren? ",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2060,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:49:58.521461+00:00",
+            "utterance": "hallo, hallo... hier ist die unbekannte von neulich... hast du meine Nummer verloren? ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2063,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:50:23.283010+00:00",
+            "utterance": "ich warte hier sehns\u00fcchtig auf ein Lebenszeichen von dir ",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2065,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:50:48.730904+00:00",
+            "utterance": "Hey sorry, hab viel um die Ohren grad ",
+            "emotion": "fear",
+            "did": 26
+        },
+        {
+            "id": 2068,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:51:11.528480+00:00",
+            "utterance": "hm... und da kannst du nicht mal kurz einen Nachricht schreiben ...? ",
+            "emotion": "fear",
+            "did": 26
+        },
+        {
+            "id": 2070,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:51:28.087496+00:00",
+            "utterance": "wir haben doch vorgestern erst die Nummern getauscht .. ",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2071,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:51:29.431718+00:00",
+            "utterance": "Morgenmittag h\u00e4tte ich Zeit",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2075,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:51:50.907372+00:00",
+            "utterance": "okay... wollen wir uns dann treffen? ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2076,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:51:54.182228+00:00",
+            "utterance": "sorry, bin mehr so der pers\u00f6nliche Typ ",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "id": 2077,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:51:55.586699+00:00",
+            "utterance": "wo?",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2081,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:07.917296+00:00",
+            "utterance": "verstehe .. ",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2081,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:07.917296+00:00",
+            "utterance": "verstehe .. ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2084,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:24.285295+00:00",
+            "utterance": "dann lass uns an der uni treffen .. ok? ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2084,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:24.285295+00:00",
+            "utterance": "dann lass uns an der uni treffen .. ok? ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2085,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:26.290084+00:00",
+            "utterance": "Kenne da den besten Kaffee in der Stadt, da w\u00fcrde ich dich gerne ausf\u00fchren ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2085,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:26.290084+00:00",
+            "utterance": "Kenne da den besten Kaffee in der Stadt, da w\u00fcrde ich dich gerne ausf\u00fchren ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2087,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:41.605244+00:00",
+            "utterance": "oder das klingt ja noch viel besser ... super gerne.. ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2087,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:41.605244+00:00",
+            "utterance": "oder das klingt ja noch viel besser ... super gerne.. ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2089,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:45.911957+00:00",
+            "utterance": "freue mich... ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2090,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:49.644228+00:00",
+            "utterance": "nein, ich m\u00f6chte das schon richtig machen ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2091,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:50.151085+00:00",
+            "utterance": "bis morgen ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2093,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:52:59.129723+00:00",
+            "utterance": "ah fuck ",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "id": 2095,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:03.875296+00:00",
+            "utterance": " happy",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2098,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:08.995312+00:00",
+            "utterance": "was",
+            "emotion": "fear",
+            "did": 26
+        },
+        {
+            "id": 2102,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:23.023904+00:00",
+            "utterance": "hallo? ",
+            "emotion": "fear",
+            "did": 26
+        },
+        {
+            "id": 2102,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:23.023904+00:00",
+            "utterance": "hallo? ",
+            "emotion": "surprise",
+            "did": 26
+        },
+        {
+            "id": 2103,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:24.071966+00:00",
+            "utterance": "sorry, ich kann Morgenmittag doch nicht",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "id": 2105,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:30.775179+00:00",
+            "utterance": "ohhh",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "id": 2108,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:53:42.639983+00:00",
+            "utterance": "wann dann? ",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2112,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:20.779299+00:00",
+            "utterance": "wie w\u00e4rst mit Abends`?",
+            "emotion": "anticipation",
+            "did": 26
+        },
+        {
+            "id": 2113,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:35.498572+00:00",
+            "utterance": "ja klar, das klappt bei mir",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2113,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:35.498572+00:00",
+            "utterance": "ja klar, das klappt bei mir",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2115,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:46.513894+00:00",
+            "utterance": "selber Ort, andere Zeit? ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2115,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:46.513894+00:00",
+            "utterance": "selber Ort, andere Zeit? ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2116,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:57.363620+00:00",
+            "utterance": "das freut mich, hoffentlich kommt nichts dazwischen! ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2116,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:54:57.363620+00:00",
+            "utterance": "das freut mich, hoffentlich kommt nichts dazwischen! ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2118,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:55:09.221093+00:00",
+            "utterance": "prima, freu mich auch ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2120,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:55:17.695919+00:00",
+            "utterance": "da kommt nix dazwischen ",
+            "emotion": "trust",
+            "did": 26
+        },
+        {
+            "id": 2121,
+            "user": "user08",
+            "recipient": "User02",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:55:21.254595+00:00",
+            "utterance": "gibt mir deine Adresse, ich hole dich mit dem Auto ab dann, 17 uhr, lasse dich \u00fcberraschen dann ",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "id": 2123,
+            "user": "User02",
+            "recipient": "user08",
+            "sid": 12,
+            "timestamp": "2021-06-14 19:55:52.453834+00:00",
+            "utterance": "ok .. kommt ... die lautet ... steh an der Ecke ",
+            "emotion": "joy",
+            "did": 26
+        }
+    ],
+    [
+        {
+            "id": 2385,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:39:57.821354+00:00",
+            "utterance": "Ich muss dir was erz\u00e4hlen.... Merlin, mein Hunde, ist gestern gestorben",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2392,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:11.695799+00:00",
+            "utterance": "ich bin so traurig",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2394,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:14.708154+00:00",
+            "utterance": "Oh nein  das ist ja schrecklich. Das tut mir voll leid ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2394,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:14.708154+00:00",
+            "utterance": "Oh nein  das ist ja schrecklich. Das tut mir voll leid ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2396,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:19.751492+00:00",
+            "utterance": "es war so pl\u00f6tzlich",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2398,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:25.709460+00:00",
+            "utterance": "dankee",
+            "emotion": "trust",
+            "did": 23
+        },
+        {
+            "id": 2399,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:26.390983+00:00",
+            "utterance": "Jaa, das glaub ich dir.  War er krank? ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2399,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:26.390983+00:00",
+            "utterance": "Jaa, das glaub ich dir.  War er krank? ",
+            "emotion": "anticipation",
+            "did": 23
+        },
+        {
+            "id": 2403,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:34.558999+00:00",
+            "utterance": "Hunde sind einfach die besten ",
+            "emotion": "trust",
+            "did": 23
+        },
+        {
+            "id": 2403,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:34.558999+00:00",
+            "utterance": "Hunde sind einfach die besten ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2404,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:37.110045+00:00",
+            "utterance": "aber ich glaube ich brauch etwas ablenkung",
+            "emotion": "anticipation",
+            "did": 23
+        },
+        {
+            "id": 2408,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:43.396441+00:00",
+            "utterance": "jaa ich habe ihn so geliebt",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2408,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:40:43.396441+00:00",
+            "utterance": "jaa ich habe ihn so geliebt",
+            "emotion": "trust",
+            "did": 23
+        },
+        {
+            "id": 2418,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:07.072423+00:00",
+            "utterance": "jaa wir waren letztens beim tierarzt und der hat einen tumor festgestellt ",
+            "emotion": "surprise",
+            "did": 23
+        },
+        {
+            "id": 2423,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:16.250952+00:00",
+            "utterance": "und dann mussten wir ihn heute einschl\u00e4fern",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2427,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:21.252475+00:00",
+            "utterance": "ohje ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2427,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:21.252475+00:00",
+            "utterance": "ohje ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2427,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:21.252475+00:00",
+            "utterance": "ohje ",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2429,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:26.212583+00:00",
+            "utterance": "12 Jahre war er an meiner seite",
+            "emotion": "sadness",
+            "did": 23
+        },
+        {
+            "id": 2434,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:38.579014+00:00",
+            "utterance": "kann mir gar nicht ein Leben ohne ihn vorstellen",
+            "emotion": "surprise",
+            "did": 23
+        },
+        {
+            "id": 2440,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:41:51.578906+00:00",
+            "utterance": "aber dann ist es wenigstens eine Erl\u00f6sung f\u00fcr ihn und er muss nichtt mehr leiden?  Vielleicht kann dich das ein wenig tr\u00f6sten?",
+            "emotion": "trust",
+            "did": 23
+        },
+        {
+            "id": 2447,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:42:07.013976+00:00",
+            "utterance": "ja da hast du recht",
+            "emotion": "joy",
+            "did": 23
+        },
+        {
+            "id": 2450,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:42:11.910061+00:00",
+            "utterance": "danke dass du f\u00fcr mich da bist",
+            "emotion": "trust",
+            "did": 23
+        },
+        {
+            "id": 2451,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 2,
+            "timestamp": "2021-06-16 14:42:17.373855+00:00",
+            "utterance": "Immer ",
+            "emotion": "trust",
+            "did": 23
+        }
+    ],
+    [
+        {
+            "id": 3525,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:21:04.643409+00:00",
+            "utterance": "gooooott bin ich genervt",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3528,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:21:16.811382+00:00",
+            "utterance": "Hey, was denn los bei dir? ",
+            "emotion": "fear",
+            "did": 17
+        },
+        {
+            "id": 3535,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:21:32.181420+00:00",
+            "utterance": "ich warte auf meinen Kaffee, wie jeden morgen",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3540,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:21:42.380979+00:00",
+            "utterance": "aber der vor mir kann sich einfach nicht entscheiden",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3548,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:21:56.992010+00:00",
+            "utterance": "oh mann.. ",
+            "emotion": "fear",
+            "did": 17
+        },
+        {
+            "id": 3550,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:21:59.069376+00:00",
+            "utterance": "dann soll er sich halt in der Schlange entscheiden was er will",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3554,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:04.373048+00:00",
+            "utterance": "ich hab ja nicht ewig Zeit",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3556,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:06.744653+00:00",
+            "utterance": "wie lange wartest du schon?",
+            "emotion": "fear",
+            "did": 17
+        },
+        {
+            "id": 3562,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:15.077698+00:00",
+            "utterance": "Was hast du denn noch geplant? ",
+            "emotion": "fear",
+            "did": 17
+        },
+        {
+            "id": 3565,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:25.447784+00:00",
+            "utterance": "seit 15 min",
+            "emotion": "surprise",
+            "did": 17
+        },
+        {
+            "id": 3570,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:32.858909+00:00",
+            "utterance": "ich muss noch in die Arbeit ",
+            "emotion": "sadness",
+            "did": 17
+        },
+        {
+            "id": 3571,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:33.595660+00:00",
+            "utterance": "Was? ",
+            "emotion": "surprise",
+            "did": 17
+        },
+        {
+            "id": 3578,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:46.616430+00:00",
+            "utterance": "ja",
+            "emotion": "disgust",
+            "did": 17
+        },
+        {
+            "id": 3579,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:48.051817+00:00",
+            "utterance": "oh kannst du dann nicht ohne Kaffee gehen? ",
+            "emotion": "fear",
+            "did": 17
+        },
+        {
+            "id": 3585,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:22:56.331908+00:00",
+            "utterance": "oder was sagen? ",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3589,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:03.470693+00:00",
+            "utterance": "ne dann w\u00e4ren ja jetzt die 15 min vergeudet",
+            "emotion": "sadness",
+            "did": 17
+        },
+        {
+            "id": 3594,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:08.186438+00:00",
+            "utterance": "ja bin kurz davor",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3596,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:10.328605+00:00",
+            "utterance": "das geht ja eigentlich auch von den Verk\u00e4ufer*innen nicht ",
+            "emotion": "anger",
+            "did": 17
+        },
+        {
+            "id": 3601,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:17.509450+00:00",
+            "utterance": "ich brauch meinen Koffein!",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3609,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:35.360104+00:00",
+            "utterance": "Verst\u00e4ndlich ",
+            "emotion": "trust",
+            "did": 17
+        },
+        {
+            "id": 3614,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:45.471521+00:00",
+            "utterance": "das stimmt!",
+            "emotion": "surprise",
+            "did": 17
+        },
+        {
+            "id": 3615,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:45.517037+00:00",
+            "utterance": "Gibt es einen anderen Laden um die Ecke? ",
+            "emotion": "anticipation",
+            "did": 17
+        },
+        {
+            "id": 3621,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:23:59.567431+00:00",
+            "utterance": "ja stimmt das ist eine Alternative",
+            "emotion": "anticipation",
+            "did": 17
+        },
+        {
+            "id": 3630,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:04.876073+00:00",
+            "utterance": "gute Idee!",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3637,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:19.549932+00:00",
+            "utterance": "Dann bin ich ja froh dass ich helfen konnte ",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3640,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:25.986589+00:00",
+            "utterance": "n\u00e4chstes Mal kommst du bei mir vorbei ",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3643,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:36.411843+00:00",
+            "utterance": "kriegst auch nen Kaffee ",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3644,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:37.949779+00:00",
+            "utterance": "ich melde mich dann wieder wenn ich einen Kaffee gefunden habe",
+            "emotion": "trust",
+            "did": 17
+        },
+        {
+            "id": 3647,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:45.345181+00:00",
+            "utterance": "perfekt ",
+            "emotion": "joy",
+            "did": 17
+        },
+        {
+            "id": 3648,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:24:46.456386+00:00",
+            "utterance": "oh danke das ist nat\u00fcrlich viel angenehmer",
+            "emotion": "trust",
+            "did": 17
+        },
+        {
+            "id": 3658,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:25:02.052708+00:00",
+            "utterance": "na klar, bis sp\u00e4ter ",
+            "emotion": "trust",
+            "did": 17
+        },
+        {
+            "id": 3662,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 8,
+            "timestamp": "2021-06-16 15:25:08.243427+00:00",
+            "utterance": "tsch\u00fcss",
+            "emotion": "joy",
+            "did": 17
+        }
+    ],
+    [
+        {
+            "id": 2007,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:44:04.601445+00:00",
+            "utterance": "Hey, wollte mich mal wieder bei dir melden. Einfach so. ",
+            "emotion": "trust",
+            "did": 107
+        },
+        {
+            "id": 2012,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:44:49.230982+00:00",
+            "utterance": "Hey, sch\u00f6n, dass du an mich denkst!  Ich bin durch mit dem Staatsexamen und bin so gl\u00fccklich! ",
+            "emotion": "joy",
+            "did": 107
+        },
+        {
+            "id": 2012,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:44:49.230982+00:00",
+            "utterance": "Hey, sch\u00f6n, dass du an mich denkst!  Ich bin durch mit dem Staatsexamen und bin so gl\u00fccklich! ",
+            "emotion": "joy",
+            "did": 107
+        },
+        {
+            "id": 2016,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:45:11.181383+00:00",
+            "utterance": "Ach du schei\u00dfe. ",
+            "emotion": "fear",
+            "did": 107
+        },
+        {
+            "id": 2016,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:45:11.181383+00:00",
+            "utterance": "Ach du schei\u00dfe. ",
+            "emotion": "surprise",
+            "did": 107
+        },
+        {
+            "id": 2018,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:45:17.136679+00:00",
+            "utterance": "Das habe ich ja total vergessen. ",
+            "emotion": "surprise",
+            "did": 107
+        },
+        {
+            "id": 2020,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:45:34.684386+00:00",
+            "utterance": "Eigentlich wollte ich dir doch noch viel erfolg w\u00fcnschen. ",
+            "emotion": "sadness",
+            "did": 107
+        },
+        {
+            "id": 2022,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:45:47.148619+00:00",
+            "utterance": "Kein Problem, das passiert! ",
+            "emotion": "trust",
+            "did": 107
+        },
+        {
+            "id": 2028,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:46:41.954521+00:00",
+            "utterance": "Aber toll, dass du bestanden hast! Daran hatte ich auch keine Zweifel! ",
+            "emotion": "trust",
+            "did": 107
+        },
+        {
+            "id": 2028,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:46:41.954521+00:00",
+            "utterance": "Aber toll, dass du bestanden hast! Daran hatte ich auch keine Zweifel! ",
+            "emotion": "joy",
+            "did": 107
+        },
+        {
+            "id": 2030,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:47:00.554666+00:00",
+            "utterance": "Danke!  Es lief auch gut zum Gl\u00fcck. ",
+            "emotion": "joy",
+            "did": 107
+        },
+        {
+            "id": 2030,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:47:00.554666+00:00",
+            "utterance": "Danke!  Es lief auch gut zum Gl\u00fcck. ",
+            "emotion": "trust",
+            "did": 107
+        },
+        {
+            "id": 2031,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:47:01.889911+00:00",
+            "utterance": "Ich hoffe du bist nicht sauer, dass ich das vergessen habe? ",
+            "emotion": "surprise",
+            "did": 107
+        },
+        {
+            "id": 2032,
+            "user": "user14",
+            "recipient": "user13",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:47:14.056204+00:00",
+            "utterance": "Nein das ist absolut kein Problem! ",
+            "emotion": "trust",
+            "did": 107
+        },
+        {
+            "id": 2042,
+            "user": "user13",
+            "recipient": "user14",
+            "sid": 23,
+            "timestamp": "2021-06-14 19:48:19.276201+00:00",
+            "utterance": "Gut!  Herzlichen Gl\u00fcckwunsch nochmal! Das wird gefeiert!",
+            "emotion": "trust",
+            "did": 107
+        }
+    ],
+    [
+        {
+            "id": 1168,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:09:33.335340+00:00",
+            "utterance": "Hey, schaust du gerade das Fu\u00dfballspiel? ",
+            "emotion": "anticipation",
+            "did": 63
+        },
+        {
+            "id": 1168,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:09:33.335340+00:00",
+            "utterance": "Hey, schaust du gerade das Fu\u00dfballspiel? ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1175,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:09:45.278782+00:00",
+            "utterance": "Schaust Du auch gerade das Finale Schauen wir mal wie es ausgeht.",
+            "emotion": "anticipation",
+            "did": 63
+        },
+        {
+            "id": 1190,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:16.438415+00:00",
+            "utterance": "MIst, das haben die aber bl\u00f6d angestellt. Und nun auch noch der Elfmeter.,",
+            "emotion": "sadness",
+            "did": 63
+        },
+        {
+            "id": 1194,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:22.298585+00:00",
+            "utterance": "Na klar!  Bin gecht gespannt ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1194,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:22.298585+00:00",
+            "utterance": "Na klar!  Bin gecht gespannt ",
+            "emotion": "anticipation",
+            "did": 63
+        },
+        {
+            "id": 1211,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:54.181074+00:00",
+            "utterance": "Jaaaa! das schaut doch gar nicht schlecht aus ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1211,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:54.181074+00:00",
+            "utterance": "Jaaaa! das schaut doch gar nicht schlecht aus ",
+            "emotion": "trust",
+            "did": 63
+        },
+        {
+            "id": 1215,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:59.360226+00:00",
+            "utterance": "Aber das drehen die noch. Da bin ich sicher gegen Deinen Verein gewinnen die ganz sicher.",
+            "emotion": "trust",
+            "did": 63
+        },
+        {
+            "id": 1215,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:10:59.360226+00:00",
+            "utterance": "Aber das drehen die noch. Da bin ich sicher gegen Deinen Verein gewinnen die ganz sicher.",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1231,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:11:42.534993+00:00",
+            "utterance": "So ein quatsch. Heute holen wir uns den Sieg. Darau kannst du dich verlassen!",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1236,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:11:58.163989+00:00",
+            "utterance": "Was? jetzt gerade wo ich de schreibe",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1236,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:11:58.163989+00:00",
+            "utterance": "Was? jetzt gerade wo ich de schreibe",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1236,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:11:58.163989+00:00",
+            "utterance": "Was? jetzt gerade wo ich de schreibe",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1236,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:11:58.163989+00:00",
+            "utterance": "Was? jetzt gerade wo ich de schreibe",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1240,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:03.458899+00:00",
+            "utterance": "DU wirst es sehen.- Wir sind einfach die besser Mannschaft.",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1254,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:26.746833+00:00",
+            "utterance": "Das darf doch wohl nicht wahr sein. Und das in der vorletzten Minute ",
+            "emotion": "sadness",
+            "did": 63
+        },
+        {
+            "id": 1254,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:26.746833+00:00",
+            "utterance": "Das darf doch wohl nicht wahr sein. Und das in der vorletzten Minute ",
+            "emotion": "disgust",
+            "did": 63
+        },
+        {
+            "id": 1257,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:32.123984+00:00",
+            "utterance": "Sag ich doch. Da ist er ja der Ausgleich. Und nat\u00fcrlich wieder der hegestweiler. Einfach stark.",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1266,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:46.380629+00:00",
+            "utterance": "Weiter so. Da geht noch was.",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1266,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:46.380629+00:00",
+            "utterance": "Weiter so. Da geht noch was.",
+            "emotion": "fear",
+            "did": 63
+        },
+        {
+            "id": 1276,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:12:56.814640+00:00",
+            "utterance": "Mehr Gl\u00fcck als Verstand hat der Kerl!",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1284,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:13.858347+00:00",
+            "utterance": "Nein. Das darf jetzt wirklich nicht wahr sein!",
+            "emotion": "disgust",
+            "did": 63
+        },
+        {
+            "id": 1284,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:13.858347+00:00",
+            "utterance": "Nein. Das darf jetzt wirklich nicht wahr sein!",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1284,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:13.858347+00:00",
+            "utterance": "Nein. Das darf jetzt wirklich nicht wahr sein!",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1284,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:13.858347+00:00",
+            "utterance": "Nein. Das darf jetzt wirklich nicht wahr sein!",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1285,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:17.938747+00:00",
+            "utterance": "K\u00f6nnen - es ist das K\u00f6nnen ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1285,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:17.938747+00:00",
+            "utterance": "K\u00f6nnen - es ist das K\u00f6nnen ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1285,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:17.938747+00:00",
+            "utterance": "K\u00f6nnen - es ist das K\u00f6nnen ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1285,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:17.938747+00:00",
+            "utterance": "K\u00f6nnen - es ist das K\u00f6nnen ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1285,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:17.938747+00:00",
+            "utterance": "K\u00f6nnen - es ist das K\u00f6nnen ",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1295,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:42.151398+00:00",
+            "utterance": "UNd da setzt er nun noch einen drauf. Was soll ich sagen. Alles so gekommen, wie es sein muss.",
+            "emotion": "joy",
+            "did": 63
+        },
+        {
+            "id": 1300,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:54.488598+00:00",
+            "utterance": "ABer wir bleiben ja Freunde",
+            "emotion": "trust",
+            "did": 63
+        },
+        {
+            "id": 1300,
+            "user": "user10",
+            "recipient": "user04",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:54.488598+00:00",
+            "utterance": "ABer wir bleiben ja Freunde",
+            "emotion": "anticipation",
+            "did": 63
+        },
+        {
+            "id": 1301,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:55.697352+00:00",
+            "utterance": "Ich glaube das wars mit unserem Gespr\u00e4ch f\u00fcr heute. Ich kann es gar nicht fassen. L\u00e4cherlicht ",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1301,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:55.697352+00:00",
+            "utterance": "Ich glaube das wars mit unserem Gespr\u00e4ch f\u00fcr heute. Ich kann es gar nicht fassen. L\u00e4cherlicht ",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1301,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:13:55.697352+00:00",
+            "utterance": "Ich glaube das wars mit unserem Gespr\u00e4ch f\u00fcr heute. Ich kann es gar nicht fassen. L\u00e4cherlicht ",
+            "emotion": "anger",
+            "did": 63
+        },
+        {
+            "id": 1310,
+            "user": "user04",
+            "recipient": "user10",
+            "sid": 21,
+            "timestamp": "2021-06-14 19:14:14.772841+00:00",
+            "utterance": "Ich \u00fcberlege mir das nochmal genau ",
+            "emotion": "anger",
+            "did": 63
+        }
+    ],
+    [
+        {
+            "id": 556,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:04.209584+00:00",
+            "utterance": "na du? wie f\u00e4hrt sich mein 911er? ",
+            "emotion": "anticipation",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "fear",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "anticipation",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "anger",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 571,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:41.291619+00:00",
+            "utterance": " ah! Verdammt. Ich muss Dir was beichten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 577,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:47:58.447978+00:00",
+            "utterance": "oh gott, ich ahne schlimmes ",
+            "emotion": "surprise",
+            "did": 75
+        },
+        {
+            "id": 584,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:48:23.416517+00:00",
+            "utterance": "Mir ist ein Radfahrer auf die Haube geknallt heute Morgen als ich an der Kreuzung unten an der Schule war. ",
+            "emotion": "surprise",
+            "did": 75
+        },
+        {
+            "id": 585,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:48:26.037510+00:00",
+            "utterance": "Totalschaden oder ist noch was zu retten?",
+            "emotion": "anticipation",
+            "did": 75
+        },
+        {
+            "id": 598,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:00.388351+00:00",
+            "utterance": "Nein, nicht so schlimm. Aber ich musste ihn gerade abschleppen lassen. ",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 602,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:11.212041+00:00",
+            "utterance": "gut dass ich zuerst an mein auto denke und mich nicht nach deinem Wohlergehen erkundige, das war nicht okay von mir ",
+            "emotion": "disgust",
+            "did": 75
+        },
+        {
+            "id": 611,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:35.446120+00:00",
+            "utterance": "Sie rufen mich spaeter an, wie teuer es werden wird.  Es tut mir soooooo Leid!! ",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 611,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:35.446120+00:00",
+            "utterance": "Sie rufen mich spaeter an, wie teuer es werden wird.  Es tut mir soooooo Leid!! ",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 611,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:35.446120+00:00",
+            "utterance": "Sie rufen mich spaeter an, wie teuer es werden wird.  Es tut mir soooooo Leid!! ",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 614,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:38.258950+00:00",
+            "utterance": "ist dem radfahrer etwas schlimmes passiert? und wie geht es dir ? ",
+            "emotion": "surprise",
+            "did": 75
+        },
+        {
+            "id": 620,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:49:57.536503+00:00",
+            "utterance": "nein kein Problem, mach dir keine sorgen ! ",
+            "emotion": "trust",
+            "did": 75
+        },
+        {
+            "id": 623,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:50:05.066647+00:00",
+            "utterance": "Nein, alles okay. Er ist dann mit dem Bus weiter gefahren. ",
+            "emotion": "fear",
+            "did": 75
+        },
+        {
+            "id": 631,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:50:21.970492+00:00",
+            "utterance": "solange euch nichts schlimmes passiert ist bin ich happy ",
+            "emotion": "joy",
+            "did": 75
+        },
+        {
+            "id": 633,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:50:28.607267+00:00",
+            "utterance": "Mir geht es okay. Das ist mir nur so peinlich ",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 636,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:50:36.736626+00:00",
+            "utterance": "Danke Dir ",
+            "emotion": "trust",
+            "did": 75
+        },
+        {
+            "id": 640,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:50:45.672660+00:00",
+            "utterance": "nein das muss es nicht! ",
+            "emotion": "trust",
+            "did": 75
+        },
+        {
+            "id": 645,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:50:54.313627+00:00",
+            "utterance": "Ich zahle natuerlich alle aufkommenden Kosten",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 653,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:51:10.940423+00:00",
+            "utterance": "nein quatsch ! ",
+            "emotion": "fear",
+            "did": 75
+        },
+        {
+            "id": 665,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:51:39.775317+00:00",
+            "utterance": "Danke fuer Dein Verstaendnis! Ich rufe dich spaeter nochmal an mit den Infos von der Werkstatt!",
+            "emotion": "sadness",
+            "did": 75
+        },
+        {
+            "id": 666,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:51:42.639938+00:00",
+            "utterance": "arbeite nicht umsonst bei einer Versicherung, das wird sich regeln lassen ",
+            "emotion": "joy",
+            "did": 75
+        },
+        {
+            "id": 672,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 19,
+            "timestamp": "2021-06-14 18:51:54.853212+00:00",
+            "utterance": "bis dann ! ",
+            "emotion": "joy",
+            "did": 75
+        }
+    ],
+    [
+        {
+            "id": 1031,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:04:50.106276+00:00",
+            "utterance": "Hallo Mama! Ich habe eben die Zusage f\u00fcr meinen Traumjob bekommen!! Ich kanns noch gar nicht glauben!",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1031,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:04:50.106276+00:00",
+            "utterance": "Hallo Mama! Ich habe eben die Zusage f\u00fcr meinen Traumjob bekommen!! Ich kanns noch gar nicht glauben!",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1031,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:04:50.106276+00:00",
+            "utterance": "Hallo Mama! Ich habe eben die Zusage f\u00fcr meinen Traumjob bekommen!! Ich kanns noch gar nicht glauben!",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1031,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:04:50.106276+00:00",
+            "utterance": "Hallo Mama! Ich habe eben die Zusage f\u00fcr meinen Traumjob bekommen!! Ich kanns noch gar nicht glauben!",
+            "emotion": "fear",
+            "did": 51
+        },
+        {
+            "id": 1043,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:14.261298+00:00",
+            "utterance": "Wow  herzlichen Gl\u00fcckwunsch! ",
+            "emotion": "fear",
+            "did": 51
+        },
+        {
+            "id": 1043,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:14.261298+00:00",
+            "utterance": "Wow  herzlichen Gl\u00fcckwunsch! ",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1061,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:35.430268+00:00",
+            "utterance": "Jetzt ist dann auch das letzte Kind aus dem Haus  das geht alles so schnell...",
+            "emotion": "sadness",
+            "did": 51
+        },
+        {
+            "id": 1062,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:47.374330+00:00",
+            "utterance": "Danke! Das hat mich auch echt so viele Anstrengungen gekostet!!",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1062,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:47.374330+00:00",
+            "utterance": "Danke! Das hat mich auch echt so viele Anstrengungen gekostet!!",
+            "emotion": "fear",
+            "did": 51
+        },
+        {
+            "id": 1068,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:58.772772+00:00",
+            "utterance": "Aber ich werde dich doch oft besuchen kommen!",
+            "emotion": "surprise",
+            "did": 51
+        },
+        {
+            "id": 1068,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:05:58.772772+00:00",
+            "utterance": "Aber ich werde dich doch oft besuchen kommen!",
+            "emotion": "sadness",
+            "did": 51
+        },
+        {
+            "id": 1070,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:00.584217+00:00",
+            "utterance": "Das hast du dir verdient ",
+            "emotion": "joy",
+            "did": 51
+        },
+        {
+            "id": 1084,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:38.414968+00:00",
+            "utterance": "Ja also du musst mindestens einmal die Woche kommen...  Ich wei\u00df doch gar nicht was ich die ganze Zeit alleine machen soll!",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1084,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:38.414968+00:00",
+            "utterance": "Ja also du musst mindestens einmal die Woche kommen...  Ich wei\u00df doch gar nicht was ich die ganze Zeit alleine machen soll!",
+            "emotion": "anticipation",
+            "did": 51
+        },
+        {
+            "id": 1089,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:49.296343+00:00",
+            "utterance": "Danke dir! Bist die beste! ",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1089,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:49.296343+00:00",
+            "utterance": "Danke dir! Bist die beste! ",
+            "emotion": "joy",
+            "did": 51
+        },
+        {
+            "id": 1089,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:49.296343+00:00",
+            "utterance": "Danke dir! Bist die beste! ",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1092,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:55.872105+00:00",
+            "utterance": "Wer k\u00fcmmert sich denn in Zukunft um meine Technik Probleme? ",
+            "emotion": "fear",
+            "did": 51
+        },
+        {
+            "id": 1092,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:06:55.872105+00:00",
+            "utterance": "Wer k\u00fcmmert sich denn in Zukunft um meine Technik Probleme? ",
+            "emotion": "surprise",
+            "did": 51
+        },
+        {
+            "id": 1096,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:07:01.737020+00:00",
+            "utterance": "Auf jeden fall! Ach dir wird schon was einfallen ",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1106,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:07:21.303056+00:00",
+            "utterance": "Da kannst du doch Papa fragen! der hilft dir bestimmt auch gern!",
+            "emotion": "joy",
+            "did": 51
+        },
+        {
+            "id": 1122,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:07:48.142311+00:00",
+            "utterance": "Du musst mich trotzdem ganz oft besuchen kommen  Oder ich besuch einfach dich!",
+            "emotion": "joy",
+            "did": 51
+        },
+        {
+            "id": 1122,
+            "user": "user01",
+            "recipient": "user07",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:07:48.142311+00:00",
+            "utterance": "Du musst mich trotzdem ganz oft besuchen kommen  Oder ich besuch einfach dich!",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1131,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:08:08.843238+00:00",
+            "utterance": "Ja genau! Da wird uns dann schon immer was einfallen ",
+            "emotion": "trust",
+            "did": 51
+        },
+        {
+            "id": 1131,
+            "user": "user07",
+            "recipient": "user01",
+            "sid": 9,
+            "timestamp": "2021-06-14 19:08:08.843238+00:00",
+            "utterance": "Ja genau! Da wird uns dann schon immer was einfallen ",
+            "emotion": "joy",
+            "did": 51
+        }
+    ],
+    [
+        {
+            "id": 4093,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:40:27.107797+00:00",
+            "utterance": "Heyyy ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4095,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:40:36.297821+00:00",
+            "utterance": "Hey ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4102,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:40:52.266550+00:00",
+            "utterance": "Ich freue mich dass ich deine Nummer hab ich wollte dich eh schon l\u00e4nger was fragen",
+            "emotion": "anticipation",
+            "did": 21
+        },
+        {
+            "id": 4116,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:41:19.069326+00:00",
+            "utterance": "Was gibts? ",
+            "emotion": "fear",
+            "did": 21
+        },
+        {
+            "id": 4118,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:41:23.463902+00:00",
+            "utterance": "ich wollte fragen ob du n\u00e4chsten Mittwoch mit mir Kaffee trinken gehen willst um 3?",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4118,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:41:23.463902+00:00",
+            "utterance": "ich wollte fragen ob du n\u00e4chsten Mittwoch mit mir Kaffee trinken gehen willst um 3?",
+            "emotion": "anticipation",
+            "did": 21
+        },
+        {
+            "id": 4130,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:41:48.355488+00:00",
+            "utterance": "Was? Wirklich? ",
+            "emotion": "anticipation",
+            "did": 21
+        },
+        {
+            "id": 4130,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:41:48.355488+00:00",
+            "utterance": "Was? Wirklich? ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4141,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:09.561299+00:00",
+            "utterance": "ja!",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4141,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:09.561299+00:00",
+            "utterance": "ja!",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4146,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:20.478839+00:00",
+            "utterance": "kannst du ?",
+            "emotion": "surprise",
+            "did": 21
+        },
+        {
+            "id": 4150,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:31.882370+00:00",
+            "utterance": "Klar, voll gerne  bin nur etwas \u00fcberrumpelt ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4150,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:31.882370+00:00",
+            "utterance": "Klar, voll gerne  bin nur etwas \u00fcberrumpelt ",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4150,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:31.882370+00:00",
+            "utterance": "Klar, voll gerne  bin nur etwas \u00fcberrumpelt ",
+            "emotion": "fear",
+            "did": 21
+        },
+        {
+            "id": 4150,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:31.882370+00:00",
+            "utterance": "Klar, voll gerne  bin nur etwas \u00fcberrumpelt ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4152,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:33.920769+00:00",
+            "utterance": "ich w\u00fcrde mich sehr freuen",
+            "emotion": "fear",
+            "did": 21
+        },
+        {
+            "id": 4152,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:33.920769+00:00",
+            "utterance": "ich w\u00fcrde mich sehr freuen",
+            "emotion": "surprise",
+            "did": 21
+        },
+        {
+            "id": 4153,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:37.442287+00:00",
+            "utterance": "Bin dabei ",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4153,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:37.442287+00:00",
+            "utterance": "Bin dabei ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4158,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:42.860807+00:00",
+            "utterance": "oh das freut mich !!",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4159,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:43.755348+00:00",
+            "utterance": "ich freue mich auch ",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4159,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:43.755348+00:00",
+            "utterance": "ich freue mich auch ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4160,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:47.264364+00:00",
+            "utterance": "ohhh nein",
+            "emotion": "surprise",
+            "did": 21
+        },
+        {
+            "id": 4160,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:47.264364+00:00",
+            "utterance": "ohhh nein",
+            "emotion": "sadness",
+            "did": 21
+        },
+        {
+            "id": 4164,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:42:54.102423+00:00",
+            "utterance": "ich kann da doch nicht",
+            "emotion": "sadness",
+            "did": 21
+        },
+        {
+            "id": 4165,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:04.482034+00:00",
+            "utterance": "Really?",
+            "emotion": "anger",
+            "did": 21
+        },
+        {
+            "id": 4167,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:13.075963+00:00",
+            "utterance": "aber wie w\u00e4re es stattdessen mit einem Abendessen ?",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4175,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:26.372260+00:00",
+            "utterance": "ich habe gerade einen Termin \u00fcbersehen gehabt",
+            "emotion": "sadness",
+            "did": 21
+        },
+        {
+            "id": 4181,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:41.085937+00:00",
+            "utterance": "tut mir leid",
+            "emotion": "sadness",
+            "did": 21
+        },
+        {
+            "id": 4181,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:41.085937+00:00",
+            "utterance": "tut mir leid",
+            "emotion": "fear",
+            "did": 21
+        },
+        {
+            "id": 4184,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:47.763744+00:00",
+            "utterance": "\u00c4hm.. ja Abendessen w\u00fcrde schon auch gehen ",
+            "emotion": "anticipation",
+            "did": 21
+        },
+        {
+            "id": 4190,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:43:54.068001+00:00",
+            "utterance": "bin ein bisschen schusselig als vorwarnung ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4192,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:05.205681+00:00",
+            "utterance": "oh das freut mich ",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4193,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:06.880819+00:00",
+            "utterance": "Damit komme ich klar ",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4198,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:15.215925+00:00",
+            "utterance": "hihi",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4202,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:22.087524+00:00",
+            "utterance": "Na gut, dann Abendessen am Mittwoch  freue mich auch ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4202,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:22.087524+00:00",
+            "utterance": "Na gut, dann Abendessen am Mittwoch  freue mich auch ",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4202,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:22.087524+00:00",
+            "utterance": "Na gut, dann Abendessen am Mittwoch  freue mich auch ",
+            "emotion": "joy",
+            "did": 21
+        },
+        {
+            "id": 4207,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:34.936858+00:00",
+            "utterance": "ich mich auch !",
+            "emotion": "trust",
+            "did": 21
+        },
+        {
+            "id": 4212,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 12,
+            "timestamp": "2021-06-16 15:44:44.333771+00:00",
+            "utterance": "bis dann ",
+            "emotion": "joy",
+            "did": 21
+        }
+    ],
+    [
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 329,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:35:50.248486+00:00",
+            "utterance": " Leo. Ich vermisse ihn so sehr!!!",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 338,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:36:14.074167+00:00",
+            "utterance": "was ist mit Leo ??? ",
+            "emotion": "surprise",
+            "did": 73
+        },
+        {
+            "id": 353,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:12.344275+00:00",
+            "utterance": "Leo ist gestern eingeschlaefert worden.  Er ist nur 10 Jahre alt geworden. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 353,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:12.344275+00:00",
+            "utterance": "Leo ist gestern eingeschlaefert worden.  Er ist nur 10 Jahre alt geworden. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 353,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:12.344275+00:00",
+            "utterance": "Leo ist gestern eingeschlaefert worden.  Er ist nur 10 Jahre alt geworden. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 353,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:12.344275+00:00",
+            "utterance": "Leo ist gestern eingeschlaefert worden.  Er ist nur 10 Jahre alt geworden. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 362,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:40.748426+00:00",
+            "utterance": "ach gott  das tut mir so unfassbar leid ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 362,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:40.748426+00:00",
+            "utterance": "ach gott  das tut mir so unfassbar leid ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 362,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:40.748426+00:00",
+            "utterance": "ach gott  das tut mir so unfassbar leid ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 362,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:37:40.748426+00:00",
+            "utterance": "ach gott  das tut mir so unfassbar leid ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 373,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:38:17.657023+00:00",
+            "utterance": "ich w\u00fcnsche dir ganz viel kraft! ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 374,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:38:22.501783+00:00",
+            "utterance": "JA! So so schade! Es tut echt weh. Und alle sagen immer nur, ich soll mir einfach einen neuen Hund kaufen. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 374,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:38:22.501783+00:00",
+            "utterance": "JA! So so schade! Es tut echt weh. Und alle sagen immer nur, ich soll mir einfach einen neuen Hund kaufen. ",
+            "emotion": "anger",
+            "did": 73
+        },
+        {
+            "id": 378,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:38:40.982499+00:00",
+            "utterance": "es wird nie wieder so einen tollen Hund geben wie Leo! ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 378,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:38:40.982499+00:00",
+            "utterance": "es wird nie wieder so einen tollen Hund geben wie Leo! ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 383,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:38:52.531914+00:00",
+            "utterance": "meinst du das w\u00fcrde dir nicht evtl dabei helfen den schmerz zu \u00fcberstehen ? ",
+            "emotion": "anticipation",
+            "did": 73
+        },
+        {
+            "id": 387,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:39:08.579801+00:00",
+            "utterance": "ein neuer Hund??",
+            "emotion": "fear",
+            "did": 73
+        },
+        {
+            "id": 401,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:39:49.840283+00:00",
+            "utterance": "ich m\u00f6chte nicht unh\u00f6flich sein, sorry ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 407,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:40:06.385196+00:00",
+            "utterance": "aber evtl findest du so Ablenkung ? ",
+            "emotion": "anticipation",
+            "did": 73
+        },
+        {
+            "id": 421,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:40:40.496396+00:00",
+            "utterance": "aber vermutlich ist es daf\u00fcr tats\u00e4chlich noch zu fr\u00fch ",
+            "emotion": "trust",
+            "did": 73
+        },
+        {
+            "id": 424,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:40:48.557357+00:00",
+            "utterance": "ich will keinen neuen, nein! Das war einfach der Beste und ich will sicher keinen einfachen Ersatz. Ich brauche Ablenkung - aber nicht einfach mit einem neuen Hund. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 424,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:40:48.557357+00:00",
+            "utterance": "ich will keinen neuen, nein! Das war einfach der Beste und ich will sicher keinen einfachen Ersatz. Ich brauche Ablenkung - aber nicht einfach mit einem neuen Hund. ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 426,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:41:03.781912+00:00",
+            "utterance": "Ja ",
+            "emotion": "sadness",
+            "did": 73
+        },
+        {
+            "id": 432,
+            "user": "user11",
+            "recipient": "user5",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:41:20.385291+00:00",
+            "utterance": "Danke Dir aber fuer Dein Verstaendnis ",
+            "emotion": "joy",
+            "did": 73
+        },
+        {
+            "id": 440,
+            "user": "user5",
+            "recipient": "user11",
+            "sid": 17,
+            "timestamp": "2021-06-14 18:41:44.736315+00:00",
+            "utterance": "gerne, wenn du Wass brauchen solltest, dann melde dich jederzeit bei mir :) ",
+            "emotion": "joy",
+            "did": 73
+        }
+    ],
+    [
+        {
+            "id": 719,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:54:13.941404+00:00",
+            "utterance": "Hey !  bin gerade in unserer Ferienwohnung in Italien angekommen.. direkt am Meer  es ist sooo sch\u00f6n hier!",
+            "emotion": "joy",
+            "did": 35
+        },
+        {
+            "id": 719,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:54:13.941404+00:00",
+            "utterance": "Hey !  bin gerade in unserer Ferienwohnung in Italien angekommen.. direkt am Meer  es ist sooo sch\u00f6n hier!",
+            "emotion": "joy",
+            "did": 35
+        },
+        {
+            "id": 734,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:54:41.038294+00:00",
+            "utterance": "Pool, Terrasse, Blick aufs Meer ",
+            "emotion": "fear",
+            "did": 35
+        },
+        {
+            "id": 734,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:54:41.038294+00:00",
+            "utterance": "Pool, Terrasse, Blick aufs Meer ",
+            "emotion": "surprise",
+            "did": 35
+        },
+        {
+            "id": 734,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:54:41.038294+00:00",
+            "utterance": "Pool, Terrasse, Blick aufs Meer ",
+            "emotion": "joy",
+            "did": 35
+        },
+        {
+            "id": 739,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:54:48.064332+00:00",
+            "utterance": "das m\u00fcsstest du sehen!",
+            "emotion": "joy",
+            "did": 35
+        },
+        {
+            "id": 754,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:55:10.489376+00:00",
+            "utterance": "Ach Quatsch?  Ich wusste gar nicht, dass Du schon wieder Urlaub hast..  Warst Du nicht schon unterwegs dieses Jahr?",
+            "emotion": "fear",
+            "did": 35
+        },
+        {
+            "id": 754,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:55:10.489376+00:00",
+            "utterance": "Ach Quatsch?  Ich wusste gar nicht, dass Du schon wieder Urlaub hast..  Warst Du nicht schon unterwegs dieses Jahr?",
+            "emotion": "fear",
+            "did": 35
+        },
+        {
+            "id": 771,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:55:54.009854+00:00",
+            "utterance": "doch, aber man g\u00f6nnt sich ja sonst nichts ",
+            "emotion": "joy",
+            "did": 35
+        },
+        {
+            "id": 772,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:01.224939+00:00",
+            "utterance": "okay stopp mal.. ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 776,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:07.677752+00:00",
+            "utterance": "du glaubst es nicht ",
+            "emotion": "anticipation",
+            "did": 35
+        },
+        {
+            "id": 778,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:20.333652+00:00",
+            "utterance": "hier krabbelt gerade eine Kakerlake durchs Bad ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 778,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:20.333652+00:00",
+            "utterance": "hier krabbelt gerade eine Kakerlake durchs Bad ",
+            "emotion": "fear",
+            "did": 35
+        },
+        {
+            "id": 778,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:20.333652+00:00",
+            "utterance": "hier krabbelt gerade eine Kakerlake durchs Bad ",
+            "emotion": "surprise",
+            "did": 35
+        },
+        {
+            "id": 783,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:26.180860+00:00",
+            "utterance": "schei\u00dfe ",
+            "emotion": "surprise",
+            "did": 35
+        },
+        {
+            "id": 794,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:42.590452+00:00",
+            "utterance": "Oha, das ist ja richtig krass ",
+            "emotion": "fear",
+            "did": 35
+        },
+        {
+            "id": 794,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:42.590452+00:00",
+            "utterance": "Oha, das ist ja richtig krass ",
+            "emotion": "surprise",
+            "did": 35
+        },
+        {
+            "id": 794,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:42.590452+00:00",
+            "utterance": "Oha, das ist ja richtig krass ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 798,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:54.593276+00:00",
+            "utterance": "was mache ich denn jetzt ?",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 799,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:56:57.251107+00:00",
+            "utterance": "Wie eklig ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 808,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:17.854194+00:00",
+            "utterance": "hier sind noch mehr ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 808,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:17.854194+00:00",
+            "utterance": "hier sind noch mehr ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 812,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:22.846602+00:00",
+            "utterance": "Einfach t\u00f6ten ",
+            "emotion": "anticipation",
+            "did": 35
+        },
+        {
+            "id": 817,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:32.122897+00:00",
+            "utterance": "auch unter der Sp\u00fcle in der K\u00fcche ",
+            "emotion": "anticipation",
+            "did": 35
+        },
+        {
+            "id": 817,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:32.122897+00:00",
+            "utterance": "auch unter der Sp\u00fcle in der K\u00fcche ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 817,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:32.122897+00:00",
+            "utterance": "auch unter der Sp\u00fcle in der K\u00fcche ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 817,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:32.122897+00:00",
+            "utterance": "auch unter der Sp\u00fcle in der K\u00fcche ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 817,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:32.122897+00:00",
+            "utterance": "auch unter der Sp\u00fcle in der K\u00fcche ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 819,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:36.140411+00:00",
+            "utterance": "Werden schon nicht zu viele sein ",
+            "emotion": "anticipation",
+            "did": 35
+        },
+        {
+            "id": 823,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:45.121221+00:00",
+            "utterance": "haha ",
+            "emotion": "anger",
+            "did": 35
+        },
+        {
+            "id": 825,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:46.324604+00:00",
+            "utterance": "Ohje wie viele denn? ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 825,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:57:46.324604+00:00",
+            "utterance": "Ohje wie viele denn? ",
+            "emotion": "fear",
+            "did": 35
+        },
+        {
+            "id": 842,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:58:14.891773+00:00",
+            "utterance": "bestimmt f\u00fcnf St\u00fcck  ich meld mich sp\u00e4ter nochmal, muss die erstmal loswerden ",
+            "emotion": "disgust",
+            "did": 35
+        },
+        {
+            "id": 842,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 7,
+            "timestamp": "2021-06-14 18:58:14.891773+00:00",
+            "utterance": "bestimmt f\u00fcnf St\u00fcck  ich meld mich sp\u00e4ter nochmal, muss die erstmal loswerden ",
+            "emotion": "sadness",
+            "did": 35
+        }
+    ],
+    [
+        {
+            "id": 3764,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:28:47.651416+00:00",
+            "utterance": "Hey! Na alles klar? ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3769,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:07.027657+00:00",
+            "utterance": "Hey, ja alles gut bei mir wie geht es dir?",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3769,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:07.027657+00:00",
+            "utterance": "Hey, ja alles gut bei mir wie geht es dir?",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3780,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:30.874731+00:00",
+            "utterance": "Mir geht's auch gut.  Aber ich h\u00e4tte da eine Frage...  die mir schon lange auf dem Herzen liegt",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3780,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:30.874731+00:00",
+            "utterance": "Mir geht's auch gut.  Aber ich h\u00e4tte da eine Frage...  die mir schon lange auf dem Herzen liegt",
+            "emotion": "anticipation",
+            "did": 32
+        },
+        {
+            "id": 3786,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:41.798674+00:00",
+            "utterance": "ja was ist denn los?",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3786,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:41.798674+00:00",
+            "utterance": "ja was ist denn los?",
+            "emotion": "anticipation",
+            "did": 32
+        },
+        {
+            "id": 3791,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:52.375626+00:00",
+            "utterance": "N\u00e4chste Woche ist ja der Abiball.  Hast du schon jemanden, mit dem du hingehst? ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3791,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:29:52.375626+00:00",
+            "utterance": "N\u00e4chste Woche ist ja der Abiball.  Hast du schon jemanden, mit dem du hingehst? ",
+            "emotion": "surprise",
+            "did": 32
+        },
+        {
+            "id": 3800,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:30:20.356116+00:00",
+            "utterance": "ach stimmt der abiball..  hatte ich ja voll vergessen..",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3824,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:09.192426+00:00",
+            "utterance": "ich hatte mal mit Markus geredet, ob er mit mir gehen will aber ist schon l\u00e4nger her",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3825,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:11.921676+00:00",
+            "utterance": "und du?",
+            "emotion": "anticipation",
+            "did": 32
+        },
+        {
+            "id": 3827,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:13.098907+00:00",
+            "utterance": "Also hast du noch keinen? Also ich w\u00fcrd voll gern mit dir hingehen...",
+            "emotion": "anticipation",
+            "did": 32
+        },
+        {
+            "id": 3827,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:13.098907+00:00",
+            "utterance": "Also hast du noch keinen? Also ich w\u00fcrd voll gern mit dir hingehen...",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3827,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:13.098907+00:00",
+            "utterance": "Also hast du noch keinen? Also ich w\u00fcrd voll gern mit dir hingehen...",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3827,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:13.098907+00:00",
+            "utterance": "Also hast du noch keinen? Also ich w\u00fcrd voll gern mit dir hingehen...",
+            "emotion": "surprise",
+            "did": 32
+        },
+        {
+            "id": 3835,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:29.533500+00:00",
+            "utterance": "Oh  also habt ihr's schon ausgemacht?",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3839,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:39.827616+00:00",
+            "utterance": "puh ganz ehrlich das \u00fcberfordert mich jetzt etwas",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3845,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:48.130810+00:00",
+            "utterance": "ich dachte wir sind nur Freunde?!?",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3845,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:48.130810+00:00",
+            "utterance": "ich dachte wir sind nur Freunde?!?",
+            "emotion": "surprise",
+            "did": 32
+        },
+        {
+            "id": 3847,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:31:55.263599+00:00",
+            "utterance": "oh... ",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3854,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:32:09.525146+00:00",
+            "utterance": "das tut mir voll leid, wenn du dir da Hoffnungen gemacht habe",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3855,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:32:11.390259+00:00",
+            "utterance": "ich dachte halt letzte Woche hatten wir so viel Spa\u00df zu zweit im englischen Garten ",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3866,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:32:40.580671+00:00",
+            "utterance": "ja das da hast du recht aber ich dachte halt als Freunde..",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3866,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:32:40.580671+00:00",
+            "utterance": "ja das da hast du recht aber ich dachte halt als Freunde..",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3867,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:32:44.763908+00:00",
+            "utterance": " ok. Naja, dann gehen wir besser mal nicht zusammen hin, wenn du meine Gef\u00fchle nicht erwiderst ",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3867,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:32:44.763908+00:00",
+            "utterance": " ok. Naja, dann gehen wir besser mal nicht zusammen hin, wenn du meine Gef\u00fchle nicht erwiderst ",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3877,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:14.513036+00:00",
+            "utterance": "ja ich glaube auch dass das besser ist das tut mir leid.. aber ich bin leider in Markus verliebt",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3877,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:14.513036+00:00",
+            "utterance": "ja ich glaube auch dass das besser ist das tut mir leid.. aber ich bin leider in Markus verliebt",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3879,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:16.876429+00:00",
+            "utterance": "achso. Hm ich dachte irgendwie, dass das so eine Art Date war, dass wir den Sonnenuntergang angeschaut haben. ",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3886,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:34.058405+00:00",
+            "utterance": "was echt?",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3888,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:36.906195+00:00",
+            "utterance": "schade, aber nat\u00fcrlich kein Problem. ",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3888,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:36.906195+00:00",
+            "utterance": "schade, aber nat\u00fcrlich kein Problem. ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3891,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:44.794362+00:00",
+            "utterance": "Aber wir bleiben doch Freunde, oder?? ",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3898,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:33:56.112995+00:00",
+            "utterance": "ich dachte wir treffen uns entspannt auf ein bier und dass dan zuf\u00e4llig die sonne untergeht...",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3902,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:05.532858+00:00",
+            "utterance": "na klar bleiben wir freunde",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3907,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:12.967661+00:00",
+            "utterance": "Ja, da hab ich wohl zu viel rein interpretiert ",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3907,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:12.967661+00:00",
+            "utterance": "Ja, da hab ich wohl zu viel rein interpretiert ",
+            "emotion": "fear",
+            "did": 32
+        },
+        {
+            "id": 3909,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:16.632674+00:00",
+            "utterance": "ich hoffe doch, das ist ok f\u00fcr dich?",
+            "emotion": "anticipation",
+            "did": 32
+        },
+        {
+            "id": 3910,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:24.220136+00:00",
+            "utterance": "ich hab dich n\u00e4mlich echt meeega gern",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3913,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:25.756225+00:00",
+            "utterance": "Naja, dann frag ich mal Kathi, die ist ja auch ganz s\u00fc\u00df ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3913,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:25.756225+00:00",
+            "utterance": "Naja, dann frag ich mal Kathi, die ist ja auch ganz s\u00fc\u00df ",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3918,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:33.862489+00:00",
+            "utterance": "aber halt nur als guten Freund",
+            "emotion": "sadness",
+            "did": 32
+        },
+        {
+            "id": 3919,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:35.083249+00:00",
+            "utterance": "Ich dich auch, Freunde klingt gut! ",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3919,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:35.083249+00:00",
+            "utterance": "Ich dich auch, Freunde klingt gut! ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3920,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:40.102956+00:00",
+            "utterance": "ja Kathi ist echt meega die s\u00fc\u00dfe",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3924,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:49.214514+00:00",
+            "utterance": "super!",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3927,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:57.649439+00:00",
+            "utterance": "das w\u00e4r was, du und Markus und ich und Kathi als Doppeldate ",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3927,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:34:57.649439+00:00",
+            "utterance": "das w\u00e4r was, du und Markus und ich und Kathi als Doppeldate ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3929,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:03.934853+00:00",
+            "utterance": "ich bin sehr froh, dass wir freunde bleiben k\u00f6nnen",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3932,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:10.796389+00:00",
+            "utterance": "Ich frag sie mal und sag dir gleich bescheid, was sie geantwortet hat ",
+            "emotion": "anticipation",
+            "did": 32
+        },
+        {
+            "id": 3934,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:14.891469+00:00",
+            "utterance": "Ich auch ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3936,
+            "user": "user13",
+            "recipient": "user19",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:17.642362+00:00",
+            "utterance": "bis dann!! ",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3938,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:19.606395+00:00",
+            "utterance": "ohja das klingt nach einem lustigen Abend",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3938,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:19.606395+00:00",
+            "utterance": "ohja das klingt nach einem lustigen Abend",
+            "emotion": "trust",
+            "did": 32
+        },
+        {
+            "id": 3941,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:26.345993+00:00",
+            "utterance": "lass und das machen! bis dann",
+            "emotion": "joy",
+            "did": 32
+        },
+        {
+            "id": 3941,
+            "user": "user19",
+            "recipient": "user13",
+            "sid": 11,
+            "timestamp": "2021-06-16 15:35:26.345993+00:00",
+            "utterance": "lass und das machen! bis dann",
+            "emotion": "trust",
+            "did": 32
+        }
+    ],
+    [
+        {
+            "id": 88,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:22:29.301792+00:00",
+            "utterance": "hey na alles klar  ? wie gehts dir ",
+            "emotion": "joy",
+            "did": 1
+        },
+        {
+            "id": 88,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:22:29.301792+00:00",
+            "utterance": "hey na alles klar  ? wie gehts dir ",
+            "emotion": "trust",
+            "did": 1
+        },
+        {
+            "id": 88,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:22:29.301792+00:00",
+            "utterance": "hey na alles klar  ? wie gehts dir ",
+            "emotion": "anticipation",
+            "did": 1
+        },
+        {
+            "id": 98,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:23:03.517448+00:00",
+            "utterance": "Sch\u00f6n von dir zu h\u00f6ren! Heute war einfach ein super Tag",
+            "emotion": "joy",
+            "did": 1
+        },
+        {
+            "id": 101,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:23:18.741249+00:00",
+            "utterance": "Auch das Wetter ",
+            "emotion": "joy",
+            "did": 1
+        },
+        {
+            "id": 105,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:23:33.130605+00:00",
+            "utterance": "Und selbst?",
+            "emotion": "anticipation",
+            "did": 1
+        },
+        {
+            "id": 106,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:23:49.799062+00:00",
+            "utterance": "ja alles super ",
+            "emotion": "joy",
+            "did": 1
+        },
+        {
+            "id": 106,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:23:49.799062+00:00",
+            "utterance": "ja alles super ",
+            "emotion": "trust",
+            "did": 1
+        },
+        {
+            "id": 115,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:24:23.190986+00:00",
+            "utterance": "hab geh\u00f6rt du bist im stress zurzeit  kann man dir bei was helfen ",
+            "emotion": "anticipation",
+            "did": 1
+        },
+        {
+            "id": 115,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:24:23.190986+00:00",
+            "utterance": "hab geh\u00f6rt du bist im stress zurzeit  kann man dir bei was helfen ",
+            "emotion": "anticipation",
+            "did": 1
+        },
+        {
+            "id": 115,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:24:23.190986+00:00",
+            "utterance": "hab geh\u00f6rt du bist im stress zurzeit  kann man dir bei was helfen ",
+            "emotion": "trust",
+            "did": 1
+        },
+        {
+            "id": 117,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:24:32.002524+00:00",
+            "utterance": "Oh warte mal kurz..ich bekomme gerade eine Nachricht von einem Kollegen",
+            "emotion": "anticipation",
+            "did": 1
+        },
+        {
+            "id": 125,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:25:18.304986+00:00",
+            "utterance": "Katastrophe...",
+            "emotion": "surprise",
+            "did": 1
+        },
+        {
+            "id": 132,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:25:59.833066+00:00",
+            "utterance": "oh no. erz\u00e4hl was ist los ? ",
+            "emotion": "anticipation",
+            "did": 1
+        },
+        {
+            "id": 132,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:25:59.833066+00:00",
+            "utterance": "oh no. erz\u00e4hl was ist los ? ",
+            "emotion": "surprise",
+            "did": 1
+        },
+        {
+            "id": 134,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:26:06.167883+00:00",
+            "utterance": "Alles schief gelaufen bei dem Projekt... wer soll das jetzt wieder richten",
+            "emotion": "surprise",
+            "did": 1
+        },
+        {
+            "id": 140,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:26:36.254295+00:00",
+            "utterance": "wenn hilfe brauchst sagt halt bescheid ",
+            "emotion": "trust",
+            "did": 1
+        },
+        {
+            "id": 148,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:26:52.459268+00:00",
+            "utterance": "Eben erfahren, dass der Kollege, also langj\u00e4hriger Projektpartner v\u00f6lligen Bl\u00f6dsinn gemacht hat",
+            "emotion": "anger",
+            "did": 1
+        },
+        {
+            "id": 158,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:27:31.745910+00:00",
+            "utterance": "und du musst es jetzt wieder ausbaden ?",
+            "emotion": "anger",
+            "did": 1
+        },
+        {
+            "id": 163,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:27:41.520894+00:00",
+            "utterance": "Ohne dich mit technischen Einzelheiten nerven zu wollen..aber er hat \u00c4nderungen am master-branch vorgenommen, ohne Absprache",
+            "emotion": "anger",
+            "did": 1
+        },
+        {
+            "id": 167,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:27:57.906353+00:00",
+            "utterance": "Rate mal wer die Suppe ausl\u00f6ffeln darf",
+            "emotion": "anger",
+            "did": 1
+        },
+        {
+            "id": 173,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:28:21.696572+00:00",
+            "utterance": "Alles muss man selbst machen",
+            "emotion": "anger",
+            "did": 1
+        },
+        {
+            "id": 174,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:28:26.417206+00:00",
+            "utterance": "oh mann du arme ",
+            "emotion": "anger",
+            "did": 1
+        },
+        {
+            "id": 176,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:28:49.830675+00:00",
+            "utterance": "aber wie ich dich kenn bekommst des wieder hin",
+            "emotion": "trust",
+            "did": 1
+        },
+        {
+            "id": 180,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:28:56.874321+00:00",
+            "utterance": "Und eine Idee wie man das in den Griff bekommt habe ich auch nicht",
+            "emotion": "surprise",
+            "did": 1
+        },
+        {
+            "id": 186,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:29:19.332952+00:00",
+            "utterance": "Leider nicht, du \u00fcbersch\u00e4tzt meine F\u00e4higkeiten ",
+            "emotion": "surprise",
+            "did": 1
+        },
+        {
+            "id": 200,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 15,
+            "timestamp": "2021-06-14 18:30:00.183042+00:00",
+            "utterance": "Naja vielleicht bekomme ich noch eine Idee, die Woche ist ja noch jung ",
+            "emotion": "anticipation",
+            "did": 1
+        }
+    ],
+    [
+        {
+            "id": 97,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 1,
+            "timestamp": "2021-06-14 18:23:02.602367+00:00",
+            "utterance": "hey! wo bleibst du ? ",
+            "emotion": "anger",
+            "did": 29
+        },
+        {
+            "id": 107,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 1,
+            "timestamp": "2021-06-14 18:23:52.431147+00:00",
+            "utterance": "Du sorry, ganz bl\u00f6d gelaufen. Ich kann leider doch nicht kommen ",
+            "emotion": "sadness",
+            "did": 29
+        },
+        {
+            "id": 116,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 1,
+            "timestamp": "2021-06-14 18:24:26.032802+00:00",
+            "utterance": "ich warte schon seit 20 Minuten und der Film hat schon angefangen.. h\u00e4ttest du das nicht vorher sagen k\u00f6nnen ? es ist arrrschkalt ",
+            "emotion": "anger",
+            "did": 29
+        },
+        {
+            "id": 122,
+            "user": "user16",
+            "recipient": "user15",
+            "sid": 1,
+            "timestamp": "2021-06-14 18:24:53.727665+00:00",
+            "utterance": "Das ist das Problem. Ich bin ausgerutscht und bin gerade im Krankenhaus. Tut mir super leid ",
+            "emotion": "surprise",
+            "did": 29
+        },
+        {
+            "id": 137,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 1,
+            "timestamp": "2021-06-14 18:26:19.668702+00:00",
+            "utterance": "was echt ??? Das tut mir nat\u00fcrlich leid.. ",
+            "emotion": "surprise",
+            "did": 29
+        },
+        {
+            "id": 141,
+            "user": "user15",
+            "recipient": "user16",
+            "sid": 1,
+            "timestamp": "2021-06-14 18:26:36.826412+00:00",
+            "utterance": "gute Besserung! ich hoffe das l\u00e4uft das n\u00e4chste mal besser",
+            "emotion": "sadness",
+            "did": 29
+        }
+    ],
+    [
+        {
+            "id": 1331,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:14:58.250410+00:00",
+            "utterance": "Na wie schauts aus? sollen wir mal wieder gemeinsam essen gehen?",
+            "emotion": "anticipation",
+            "did": 11
+        },
+        {
+            "id": 1335,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:15:11.077856+00:00",
+            "utterance": "hey ich wollt letzten zu Luigi gehn zum Pizza essen. aber der hat zu wegen corona ",
+            "emotion": "anger",
+            "did": 11
+        },
+        {
+            "id": 1335,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:15:11.077856+00:00",
+            "utterance": "hey ich wollt letzten zu Luigi gehn zum Pizza essen. aber der hat zu wegen corona ",
+            "emotion": "fear",
+            "did": 11
+        },
+        {
+            "id": 1335,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:15:11.077856+00:00",
+            "utterance": "hey ich wollt letzten zu Luigi gehn zum Pizza essen. aber der hat zu wegen corona ",
+            "emotion": "surprise",
+            "did": 11
+        },
+        {
+            "id": 1356,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:16:08.512765+00:00",
+            "utterance": "der arme luigi hoffentlich kann er nach dem lockdown wieder aufmachen",
+            "emotion": "fear",
+            "did": 11
+        },
+        {
+            "id": 1356,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:16:08.512765+00:00",
+            "utterance": "der arme luigi hoffentlich kann er nach dem lockdown wieder aufmachen",
+            "emotion": "sadness",
+            "did": 11
+        },
+        {
+            "id": 1365,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:16:28.702312+00:00",
+            "utterance": "und wir m\u00fcssen jetzt einen neuen Italiener finden zum essen ",
+            "emotion": "anger",
+            "did": 11
+        },
+        {
+            "id": 1365,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:16:28.702312+00:00",
+            "utterance": "und wir m\u00fcssen jetzt einen neuen Italiener finden zum essen ",
+            "emotion": "sadness",
+            "did": 11
+        },
+        {
+            "id": 1382,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:17:00.398793+00:00",
+            "utterance": "Du wirst es nicht glauben",
+            "emotion": "anticipation",
+            "did": 11
+        },
+        {
+            "id": 1382,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:17:00.398793+00:00",
+            "utterance": "Du wirst es nicht glauben",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1409,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:17:54.974616+00:00",
+            "utterance": "Ich habe gute Neuigkeiten f\u00fcr dich ich war selbst total \u00fcberrascht als ich es erfahren habe",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1409,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:17:54.974616+00:00",
+            "utterance": "Ich habe gute Neuigkeiten f\u00fcr dich ich war selbst total \u00fcberrascht als ich es erfahren habe",
+            "emotion": "fear",
+            "did": 11
+        },
+        {
+            "id": 1409,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:17:54.974616+00:00",
+            "utterance": "Ich habe gute Neuigkeiten f\u00fcr dich ich war selbst total \u00fcberrascht als ich es erfahren habe",
+            "emotion": "trust",
+            "did": 11
+        },
+        {
+            "id": 1417,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:07.521517+00:00",
+            "utterance": "waaas ?",
+            "emotion": "fear",
+            "did": 11
+        },
+        {
+            "id": 1417,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:07.521517+00:00",
+            "utterance": "waaas ?",
+            "emotion": "surprise",
+            "did": 11
+        },
+        {
+            "id": 1418,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:08.696703+00:00",
+            "utterance": "Es gibt ihn noch",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1424,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:21.227326+00:00",
+            "utterance": "juhuuu ",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1426,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:32.088990+00:00",
+            "utterance": "woher wei\u00dft du das ?",
+            "emotion": "fear",
+            "did": 11
+        },
+        {
+            "id": 1428,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:35.763032+00:00",
+            "utterance": "er hat jetzt ein eigenes Restaurant ",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1434,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:47.836788+00:00",
+            "utterance": "habe ich zuf\u00e4llig entdeckt ",
+            "emotion": "anticipation",
+            "did": 11
+        },
+        {
+            "id": 1434,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:47.836788+00:00",
+            "utterance": "habe ich zuf\u00e4llig entdeckt ",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1436,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:53.231816+00:00",
+            "utterance": "Gl\u00fcck muss man haben",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1437,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:18:53.806518+00:00",
+            "utterance": "ach wie cool",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1446,
+            "user": "user06",
+            "recipient": "user12",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:19:06.662548+00:00",
+            "utterance": "dann lass doch da hingehen demn\u00e4chst ",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1459,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:19:30.881254+00:00",
+            "utterance": "War da in Solln unterwegs, da habe ich es entdeckt ",
+            "emotion": "anticipation",
+            "did": 11
+        },
+        {
+            "id": 1459,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:19:30.881254+00:00",
+            "utterance": "War da in Solln unterwegs, da habe ich es entdeckt ",
+            "emotion": "fear",
+            "did": 11
+        },
+        {
+            "id": 1459,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:19:30.881254+00:00",
+            "utterance": "War da in Solln unterwegs, da habe ich es entdeckt ",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1466,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:19:43.516572+00:00",
+            "utterance": "Wieso nicht gleich heute? Ich habe Zeit ",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "id": 1466,
+            "user": "user12",
+            "recipient": "user06",
+            "sid": 24,
+            "timestamp": "2021-06-14 19:19:43.516572+00:00",
+            "utterance": "Wieso nicht gleich heute? Ich habe Zeit ",
+            "emotion": "trust",
+            "did": 11
+        }
+    ],
+    [
+        {
+            "id": 2933,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:02:24.536569+00:00",
+            "utterance": "ohhh mein Gott",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 2936,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:02:33.518404+00:00",
+            "utterance": "was gibts? ",
+            "emotion": "anticipation",
+            "did": 13
+        },
+        {
+            "id": 2939,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:02:40.608299+00:00",
+            "utterance": "hast du schon mal was von Kopi Luwak geh\u00f6rt?",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 2953,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:03:05.314469+00:00",
+            "utterance": "Du meinst die Kaffeesorte? ",
+            "emotion": "anticipation",
+            "did": 13
+        },
+        {
+            "id": 2966,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:03:31.879586+00:00",
+            "utterance": "jaaaa genau",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 2975,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:03:48.228743+00:00",
+            "utterance": "hab mir grade eine Tasse gekauft und sitze damit jetzt in der sonne",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 2983,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:04:04.399347+00:00",
+            "utterance": "Haha nice ",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 2985,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:04:07.236571+00:00",
+            "utterance": "g\u00f6nn dir",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 2994,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:04:19.373744+00:00",
+            "utterance": "danke war krass teuer",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 3014,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:04:57.614712+00:00",
+            "utterance": "Haha ja ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3021,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:05:17.064425+00:00",
+            "utterance": "Kommt ja auch aus dem Magen von Schleichkatzen ",
+            "emotion": "anticipation",
+            "did": 13
+        },
+        {
+            "id": 3023,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:05:32.632210+00:00",
+            "utterance": "was",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 3027,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:05:42.855411+00:00",
+            "utterance": "Wusstest du das nicht? ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3031,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:05:59.627925+00:00",
+            "utterance": "ne ",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 3033,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:03.174498+00:00",
+            "utterance": "igitt",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 3038,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:11.762928+00:00",
+            "utterance": "dann schmei\u00df ich ihn weg",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 3040,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:14.046522+00:00",
+            "utterance": "Schleichkatzen fressen die Bohnen, dann werden sie verdaut und wieder ausgeschieden und erst dann zu Kaffee verarbeitet ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3042,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:17.962812+00:00",
+            "utterance": " eklig",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 3042,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:17.962812+00:00",
+            "utterance": " eklig",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 3045,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:19.978110+00:00",
+            "utterance": "Was? ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3050,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:33.651357+00:00",
+            "utterance": "nein du kannst den doch nicht wegschmei\u00dfen ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3050,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:33.651357+00:00",
+            "utterance": "nein du kannst den doch nicht wegschmei\u00dfen ",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 3051,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:41.956066+00:00",
+            "utterance": "ja das h\u00f6rt sich sehr eklig an jetzt kann ich den nicht mehr trinekn",
+            "emotion": "disgust",
+            "did": 13
+        },
+        {
+            "id": 3055,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:52.633986+00:00",
+            "utterance": "oh mann ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3057,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:06:59.606278+00:00",
+            "utterance": "ich dachte das wei\u00dft du? ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3061,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:07:06.816953+00:00",
+            "utterance": "doch ich bleib einfach bei meinem Latte macchiato der entt\u00e4uscht mic nie ",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 3064,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:07:13.075576+00:00",
+            "utterance": "ne",
+            "emotion": "sadness",
+            "did": 13
+        },
+        {
+            "id": 3065,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:07:14.692051+00:00",
+            "utterance": "Wollte dir das jetzt nicht versauen ",
+            "emotion": "fear",
+            "did": 13
+        },
+        {
+            "id": 3065,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:07:14.692051+00:00",
+            "utterance": "Wollte dir das jetzt nicht versauen ",
+            "emotion": "surprise",
+            "did": 13
+        },
+        {
+            "id": 3069,
+            "user": "user15",
+            "recipient": "user10",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:07:21.968220+00:00",
+            "utterance": "kein Problem",
+            "emotion": "joy",
+            "did": 13
+        },
+        {
+            "id": 3070,
+            "user": "user10",
+            "recipient": "user15",
+            "sid": 4,
+            "timestamp": "2021-06-16 15:07:28.011301+00:00",
+            "utterance": "oh mann haha ",
+            "emotion": "fear",
+            "did": 13
+        }
+    ]
+]

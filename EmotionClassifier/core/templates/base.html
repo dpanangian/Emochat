@@ -1,0 +1,27 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{% block title %}Chaticon{% endblock %}</title>
+    <link rel="icon" href="{% static 'core/img/favicon.ico' %}">
+    <link rel="stylesheet" href="{% static 'bootstrap/bootstrap.min.css' %}"> 
+    <link rel="stylesheet" href="{% static 'login/webfonts/coolvetica/stylesheet.css' %}" type="text/css" charset="utf-8" />
+    <link rel="stylesheet" href="{% static 'login/webfonts/emojiboom/stylesheet.css' %}" type="text/css" charset="utf-8" />
+
+
+    {% block extracss %}
+    {% endblock %}
+  </head>
+  <body>
+    
+    {% block main %}
+    {% endblock %}
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    {% block extrajs %}
+    {% endblock %}
+  </body>
+</html>

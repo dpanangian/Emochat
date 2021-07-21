@@ -1,0 +1,5752 @@
+[
+    [
+        {
+            "utterance": "Und morgen erz\u00e4hlt er dir, dass deine St\u00f6ckelschuhe ihm so guttun.",
+            "emotion": "disgust",
+            "did": 283
+        },
+        {
+            "utterance": "Er sah wie ein richtiger Holzf\u00e4ller aus in dem PinkiUnterh\u00f6schen.",
+            "emotion": "disgust",
+            "did": 283
+        },
+        {
+            "utterance": "Nur ein  %iger Mann, der wei\u00df, dass er ein Mann ist,",
+            "emotion": "neutral",
+            "did": 283
+        },
+        {
+            "utterance": "Ich bin doch ein  %iger Mann.  Ach, ist doch v\u00f6llig egal.",
+            "emotion": "disgust",
+            "did": 283
+        },
+        {
+            "utterance": "Ich bin doch ein  %iger Mann.  Ach, ist doch v\u00f6llig egal.",
+            "emotion": "neutral",
+            "did": 283
+        }
+    ],
+    [
+        {
+            "utterance": "Ah, ich mag den Song von Elton John f\u00fcr, \u00e4hm, den Mann in <i>Wer ist hier der Boss?</i>",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Entspann jeden einzelnen Muskel deines K\u00f6rpers.",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Und h\u00f6re sch\u00f6n der PlinkyPlankyMusik zu.",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "So, und nun schlie\u00df deine Augen und nenn mir deinen Lieblingsplatz.",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Dort, wo du immer gl\u00fccklich bist.  Wein trinken in Richards Wohnzimmer.",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Tut mir leid, aber das ist mein Lieblingsplatz.",
+            "emotion": "sadness",
+            "did": 973
+        },
+        {
+            "utterance": "Dann nimm eben meinen Lieblingsplatz. Aber lass alles so, wie es ist.",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Ja, ich werd's versuchen.  Ok. Also, du liegst auf einer Wiese,",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Glaubst du, dass es falsch war, mich von Richard zu trennen?",
+            "emotion": "sadness",
+            "did": 973
+        },
+        {
+            "utterance": "Das ist nicht der Ort, um Fragen zu stellen, kapiert?",
+            "emotion": "joy",
+            "did": 973
+        },
+        {
+            "utterance": "Glaubst du, dass er \u00fcber mich hinweg ist? Ich wette, es geht ihm gut.",
+            "emotion": "sadness",
+            "did": 973
+        },
+        {
+            "utterance": "Ich w\u00fcrde sagen, dass Wetten am Lieblingsplatz nicht erlaubt sind.",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "Ok?",
+            "emotion": "neutral",
+            "did": 973
+        },
+        {
+            "utterance": "und lausche den Font\u00e4nen",
+            "emotion": "joy",
+            "did": 973
+        },
+        {
+            "utterance": "und h\u00f6re dem Rauschen des murmelnden Baches zu.",
+            "emotion": "neutral",
+            "did": 973
+        }
+    ],
+    [
+        {
+            "utterance": "Lass alles raus, solang wir allein sind.",
+            "emotion": "neutral",
+            "did": 374
+        },
+        {
+            "utterance": "Wir wollten uns verabschieden.  Wir w\u00fcnschen tolle Flitterwochen!",
+            "emotion": "anger",
+            "did": 374
+        }
+    ],
+    [
+        {
+            "utterance": "Sind noch Muffins da?  Ich werd mal nachsehen.",
+            "emotion": "neutral",
+            "did": 1037
+        },
+        {
+            "utterance": "Sind noch Muffins da?  Ich werd mal nachsehen.",
+            "emotion": "neutral",
+            "did": 1037
+        },
+        {
+            "utterance": "Ich seh selbst nach, du hast so viel zu tun.",
+            "emotion": "neutral",
+            "did": 1037
+        }
+    ],
+    [
+        {
+            "utterance": "Du hast gesagt, dass du mit Gedichten nichts anfangen kannst.",
+            "emotion": "neutral",
+            "did": 627
+        }
+    ],
+    [
+        {
+            "utterance": "Hey.  Hey.",
+            "emotion": "joy",
+            "did": 725
+        },
+        {
+            "utterance": "Hey, Phoebe.  Hey.",
+            "emotion": "joy",
+            "did": 725
+        },
+        {
+            "utterance": "Sieh dir das an.",
+            "emotion": "joy",
+            "did": 725
+        },
+        {
+            "utterance": "Oh! Sehr nett. M\u00e4nnlich sieht das aus und auch ein wenig l\u00e4cherlich.",
+            "emotion": "joy",
+            "did": 725
+        },
+        {
+            "utterance": "Nun kapiere ich auch, was Jake da eigentlich gemeint hat.",
+            "emotion": "neutral",
+            "did": 725
+        },
+        {
+            "utterance": "Mhmhm.  Die Seide f\u00fchlt sich wirklich toll an.",
+            "emotion": "neutral",
+            "did": 725
+        },
+        {
+            "utterance": "Mhmhm.  Die Seide f\u00fchlt sich wirklich toll an.",
+            "emotion": "joy",
+            "did": 725
+        }
+    ],
+    [
+        {
+            "utterance": "Sie m\u00fcssen warten, bis Sie dran sind.",
+            "emotion": "neutral",
+            "did": 484
+        },
+        {
+            "utterance": "Sie m\u00fcssen warten, bis Sie dran sind.",
+            "emotion": "neutral",
+            "did": 484
+        },
+        {
+            "utterance": "Das werden Sie schon noch erleben.",
+            "emotion": "neutral",
+            "did": 484
+        }
+    ],
+    [
+        {
+            "utterance": "Zeigen Sie's mir im Programmheft.  Die wird noch nicht ausgestrahlt.",
+            "emotion": "neutral",
+            "did": 31
+        },
+        {
+            "utterance": "Na gut, ich bringe Ihnen ein Band vorbei. Hm?",
+            "emotion": "neutral",
+            "did": 31
+        },
+        {
+            "utterance": "Also, \u00e4hm, haben Sie Sachen von Matt Lauer da?",
+            "emotion": "neutral",
+            "did": 31
+        },
+        {
+            "utterance": "Soll ich dir helfen?  Nein, ich schaffe es allein.",
+            "emotion": "neutral",
+            "did": 31
+        },
+        {
+            "utterance": "Unglaublich, dass Ross nicht mehr unter uns ist. Das ist so traurig.",
+            "emotion": "sadness",
+            "did": 31
+        },
+        {
+            "utterance": "Oh nein. Aber wir hatten ein Fach zusammen. Er war ein toller Kerl.",
+            "emotion": "sadness",
+            "did": 31
+        },
+        {
+            "utterance": "Und wenn es im Himmel eine T\u00fcr gibt,",
+            "emotion": "neutral",
+            "did": 31
+        },
+        {
+            "utterance": "Ich wollte ihn oft anrufen und fragen, ob er mit mir ausgeht.",
+            "emotion": "sadness",
+            "did": 31
+        },
+        {
+            "utterance": "Nein, im Gegenteil!",
+            "emotion": "joy",
+            "did": 31
+        },
+        {
+            "utterance": "Lange Geschichte. Aber deine Worte machten mich wirklich gl\u00fccklich.",
+            "emotion": "joy",
+            "did": 31
+        },
+        {
+            "utterance": "Du kranker Irrer! Wer tut denn so was?",
+            "emotion": "anger",
+            "did": 31
+        },
+        {
+            "utterance": "Habt ihr das geh\u00f6rt?",
+            "emotion": "joy",
+            "did": 31
+        }
+    ],
+    [
+        {
+            "utterance": "{\\an}Na, fehlt dir der Mut? Hast du Angst?",
+            "emotion": "disgust",
+            "did": 835
+        }
+    ],
+    [
+        {
+            "utterance": "Was hat Rachel dazu gesagt, dass du noch mit ihr verheiratet bist?",
+            "emotion": "anger",
+            "did": 12
+        },
+        {
+            "utterance": "\"Danke f\u00fcr die Mitteilung\"? Mann.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Hey.  Hey.",
+            "emotion": "joy",
+            "did": 12
+        },
+        {
+            "utterance": "Hey.  Hey.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Das ist sch\u00f6n, aber solltest du nicht mal auf die Toilette gehen?",
+            "emotion": "disgust",
+            "did": 12
+        },
+        {
+            "utterance": "Was?  Was ist denn los mit dir?",
+            "emotion": "surprise",
+            "did": 12
+        },
+        {
+            "utterance": "Was?  Was ist denn los mit dir?",
+            "emotion": "disgust",
+            "did": 12
+        },
+        {
+            "utterance": "Nichts. Ich hatte im Magen so einen Schmerz,",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Aber ich glaube nicht, dass es was Ernstes ist.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Du solltest einen Arzt aufsuchen. Das h\u00f6rt sich nach einem Bruch an.",
+            "emotion": "surprise",
+            "did": 12
+        },
+        {
+            "utterance": "Quatsch! Wenn ich zum Arzt gehe, dann nur,",
+            "emotion": "fear",
+            "did": 12
+        },
+        {
+            "utterance": "Das ist sicher ein Leistenbruch.",
+            "emotion": "disgust",
+            "did": 12
+        },
+        {
+            "utterance": "Wieso habe ich auch wieder angefangen zu trainieren?",
+            "emotion": "anger",
+            "did": 12
+        },
+        {
+            "utterance": "Ja. Ja.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Phoebe, hast du kurz Zeit?  Ja.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Was ist?  Chandler ist wieder weg.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Ihr beide habt euch gestritten?",
+            "emotion": "anger",
+            "did": 12
+        },
+        {
+            "utterance": "Das kriegen wir allein geregelt.  Den Eindruck habe ich nicht.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Deswegen ist mit diesen Albernheiten nun Schluss.",
+            "emotion": "anger",
+            "did": 12
+        },
+        {
+            "utterance": "Schon gut.",
+            "emotion": "anger",
+            "did": 12
+        },
+        {
+            "utterance": "Das waren starke Argumente.",
+            "emotion": "sadness",
+            "did": 12
+        },
+        {
+            "utterance": "Wollt ihr wegen eines Zimmers alles \u00fcber den Haufen werfen?",
+            "emotion": "sadness",
+            "did": 12
+        },
+        {
+            "utterance": "Das ist doch albern.",
+            "emotion": "joy",
+            "did": 12
+        },
+        {
+            "utterance": "Was ist denn wichtiger f\u00fcr euch? Die Liebe",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Albernheiten finden wir schon ganz nett.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Liebe ist die beste Medizin.  Das ist Lachen.",
+            "emotion": "joy",
+            "did": 12
+        },
+        {
+            "utterance": "Liebe ist die beste Medizin.  Das ist Lachen.",
+            "emotion": "joy",
+            "did": 12
+        },
+        {
+            "utterance": "Also, Chandler, du willst doch mit Monica zusammenziehen, nicht wahr?",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Ja, ich will.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Du willst doch auch mit ihm zusammenziehen?",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "neutral",
+            "did": 12
+        },
+        {
+            "utterance": "Gut. Ein m\u00fcndlicher Vertrag ist bindend, jedenfalls hier in New York.",
+            "emotion": "joy",
+            "did": 12
+        }
+    ],
+    [
+        {
+            "utterance": "Nein.  Sehr sch\u00f6n. Das h\u00f6r ich gern.",
+            "emotion": "joy",
+            "did": 104
+        },
+        {
+            "utterance": "Nein.  Oh, da seh ich schwarz.",
+            "emotion": "surprise",
+            "did": 104
+        },
+        {
+            "utterance": "Nein.  Oh, da seh ich schwarz.",
+            "emotion": "neutral",
+            "did": 104
+        },
+        {
+            "utterance": "Ich bin eine gl\u00fcckliche Ente, quakquak, ich bin immer so gut gelaunt.",
+            "emotion": "joy",
+            "did": 104
+        },
+        {
+            "utterance": "Netter Versuch.",
+            "emotion": "sadness",
+            "did": 104
+        },
+        {
+            "utterance": "Das ist noch nicht alles.",
+            "emotion": "joy",
+            "did": 104
+        },
+        {
+            "utterance": "H\u00f6r zu, Monica...",
+            "emotion": "surprise",
+            "did": 104
+        },
+        {
+            "utterance": "H\u00f6r zu, Monica...",
+            "emotion": "neutral",
+            "did": 104
+        },
+        {
+            "utterance": "Das hat keinen Sinn.",
+            "emotion": "anger",
+            "did": 104
+        },
+        {
+            "utterance": "Das wird dir gefallen.",
+            "emotion": "joy",
+            "did": 104
+        },
+        {
+            "utterance": "Ich finde dich klasse. Ich liebe dich, Monica.",
+            "emotion": "joy",
+            "did": 104
+        },
+        {
+            "utterance": "Was hast du gesagt?",
+            "emotion": "surprise",
+            "did": 104
+        },
+        {
+            "utterance": "Gar nichts. Dass ich dich klasse finde, und dann habe ich nichts mehr gesagt.",
+            "emotion": "fear",
+            "did": 104
+        },
+        {
+            "utterance": "Dann gratuliere ich euch. Dass ihr geheiratet habt, wusste ich nicht.",
+            "emotion": "surprise",
+            "did": 104
+        },
+        {
+            "utterance": "Du hast gesagt, dass du mich liebst.",
+            "emotion": "surprise",
+            "did": 104
+        },
+        {
+            "utterance": "Das ist nicht wahr.",
+            "emotion": "fear",
+            "did": 104
+        },
+        {
+            "utterance": "Das ist nicht wahr.",
+            "emotion": "fear",
+            "did": 104
+        },
+        {
+            "utterance": "Doch, das ist wahr.  Nein.",
+            "emotion": "surprise",
+            "did": 104
+        },
+        {
+            "utterance": "Du liebst mich.  Nein, ich liebe dich nicht.",
+            "emotion": "joy",
+            "did": 104
+        }
+    ],
+    [
+        {
+            "utterance": "{\\an}Weil sie findet, dass ich zu jung zum Heiraten bin.",
+            "emotion": "disgust",
+            "did": 122
+        },
+        {
+            "utterance": "Wei\u00dft du was? Letztes Jahr habe ich mich nur mit  M\u00e4nnern getroffen,",
+            "emotion": "surprise",
+            "did": 122
+        },
+        {
+            "utterance": "Hilf mir. Ich m\u00f6chte endlich wieder am Leben teilnehmen.",
+            "emotion": "fear",
+            "did": 122
+        },
+        {
+            "utterance": "Das d\u00fcrfte kein Problem sein.",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Haben Sie noch einen Wunsch?",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Das Thema haben wir schon abgehandelt.",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Sie haben zu Ihrer Freundin gesagt, dass Sie...",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Sie haben zu Ihrer Freundin gesagt, dass Sie...",
+            "emotion": "joy",
+            "did": 122
+        },
+        {
+            "utterance": "Wenn ich danach gehe, k\u00f6nnte ich mich auch mit meiner Tante treffen.",
+            "emotion": "joy",
+            "did": 122
+        },
+        {
+            "utterance": "Und die beiden Rendezvous sind einfach grauenvoll verlaufen.",
+            "emotion": "disgust",
+            "did": 122
+        },
+        {
+            "utterance": "Finden Sie nicht auch, dass sie sich mit mir treffen sollte?",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Die zerzauste Per\u00fccke fliegt durch die Luft und der Superbusen hinterher.",
+            "emotion": "disgust",
+            "did": 122
+        },
+        {
+            "utterance": "Das sollten Sie sich mal durch den Kopf gehen lassen.",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Oh, ich kann's mir gut vorstellen. Ha, ha, ha.",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Ich wei\u00df nicht.  Das ist ja toll.",
+            "emotion": "surprise",
+            "did": 122
+        }
+    ],
+    [
+        {
+            "utterance": "Sehr sch\u00f6n. Wir sind  Blocks weiter. Nun sind es nur noch .",
+            "emotion": "anger",
+            "did": 516
+        },
+        {
+            "utterance": "Oh, warte doch mal bitte!  Oh, Verzeihung. Eine Pause?",
+            "emotion": "joy",
+            "did": 516
+        },
+        {
+            "utterance": "Oh, warte doch mal bitte!  Oh, Verzeihung. Eine Pause?",
+            "emotion": "surprise",
+            "did": 516
+        },
+        {
+            "utterance": "Da sind meine Stiefel in hell! Ich w\u00fcrde gern den Preis sehen.",
+            "emotion": "joy",
+            "did": 516
+        },
+        {
+            "utterance": "Ich kann ihn von hier aus sehen. Sie kosten dich einen Ehemann.",
+            "emotion": "joy",
+            "did": 516
+        }
+    ],
+    [
+        {
+            "utterance": "Unglaublich. Das ist typisch f\u00fcr sie.",
+            "emotion": "disgust",
+            "did": 808
+        },
+        {
+            "utterance": "Red doch weiter.",
+            "emotion": "neutral",
+            "did": 808
+        }
+    ],
+    [
+        {
+            "utterance": "Rate mal, wer hier ist! Das ist der st\u00e4rkste Mann im Spielzeugland!",
+            "emotion": "neutral",
+            "did": 753
+        },
+        {
+            "utterance": "G.I. Joe? Und darauf soll der Kleine abfahren?",
+            "emotion": "neutral",
+            "did": 753
+        },
+        {
+            "utterance": "Sieh doch mal, das ist der gro\u00dfe, coole Mann, der uns besch\u00fctzt hat.",
+            "emotion": "joy",
+            "did": 753
+        }
+    ],
+    [
+        {
+            "utterance": "Und ich muss mit dir reden.  Warum?",
+            "emotion": "neutral",
+            "did": 177
+        },
+        {
+            "utterance": "Um rauszufinden, ob du wei\u00dft, was diese beiden beredet haben.",
+            "emotion": "neutral",
+            "did": 177
+        },
+        {
+            "utterance": "Rachel will dir unbedingt was sagen.",
+            "emotion": "neutral",
+            "did": 177
+        },
+        {
+            "utterance": "Wir sind nicht mehr zusammen, weil ich nicht reif genug war.",
+            "emotion": "joy",
+            "did": 177
+        },
+        {
+            "utterance": "Das ist nicht die richtige Zeit.",
+            "emotion": "sadness",
+            "did": 177
+        }
+    ],
+    [
+        {
+            "utterance": "Ich wollt's ihm sagen, aber dann dachte ich, dass ihn das nicht interessiert.",
+            "emotion": "joy",
+            "did": 392
+        },
+        {
+            "utterance": "Daf\u00fcr darf ich jetzt $ bezahlen.",
+            "emotion": "joy",
+            "did": 392
+        },
+        {
+            "utterance": "Vermisst du mich?",
+            "emotion": "joy",
+            "did": 392
+        },
+        {
+            "utterance": "Nein, gemerkt habe ich jedenfalls noch nichts.",
+            "emotion": "joy",
+            "did": 392
+        },
+        {
+            "utterance": "Aber wir sieben vermissen dich schon.",
+            "emotion": "surprise",
+            "did": 392
+        },
+        {
+            "utterance": "Welche sieben?  Na ja, ich, Rachel,",
+            "emotion": "joy",
+            "did": 392
+        }
+    ],
+    [
+        {
+            "utterance": "Ich liebe dich.  Ich wei\u00df.",
+            "emotion": "neutral",
+            "did": 917
+        },
+        {
+            "utterance": "Heute Abend lade ich dich zum Essen ein.",
+            "emotion": "joy",
+            "did": 917
+        },
+        {
+            "utterance": "Ich wei\u00df da ein Lokal, das MozzarellaSticks und JalapenoPoppers serviert.",
+            "emotion": "joy",
+            "did": 917
+        },
+        {
+            "utterance": "Die sind wirklich k\u00f6stlich.",
+            "emotion": "anger",
+            "did": 917
+        },
+        {
+            "utterance": "Die sind wirklich k\u00f6stlich.",
+            "emotion": "joy",
+            "did": 917
+        }
+    ],
+    [
+        {
+            "utterance": "Was holst du?",
+            "emotion": "surprise",
+            "did": 237
+        },
+        {
+            "utterance": "Ist die besser als die andere?",
+            "emotion": "neutral",
+            "did": 237
+        },
+        {
+            "utterance": "Ja, also, ist sie auch besser, Joey?",
+            "emotion": "neutral",
+            "did": 237
+        },
+        {
+            "utterance": "Chandler, was ist denn mit dir los?",
+            "emotion": "surprise",
+            "did": 237
+        },
+        {
+            "utterance": "/ Stunden Eignungspr\u00fcfungen.",
+            "emotion": "disgust",
+            "did": 237
+        },
+        {
+            "utterance": "Sie sollten eine Karriere in der EDV Abteilung einer Firma anstreben.",
+            "emotion": "anger",
+            "did": 237
+        },
+        {
+            "utterance": "Na, klasse, da kennst du dich doch wenigstens aus.",
+            "emotion": "joy",
+            "did": 237
+        },
+        {
+            "utterance": "Ich glaub das einfach nicht.",
+            "emotion": "anger",
+            "did": 237
+        },
+        {
+            "utterance": "Ach, Chandler, ich wei\u00df, wie du dich jetzt f\u00fchlst.",
+            "emotion": "sadness",
+            "did": 237
+        },
+        {
+            "utterance": "Hier, Chandler, nimm dir mal was davon.",
+            "emotion": "joy",
+            "did": 237
+        },
+        {
+            "utterance": "Ich hab vor Stunden eine Weintraube gegessen.",
+            "emotion": "neutral",
+            "did": 237
+        },
+        {
+            "utterance": "Eine leere Vase bin ich also, ja?  Was ist?",
+            "emotion": "surprise",
+            "did": 237
+        },
+        {
+            "utterance": "Ich lese vielleicht nicht so viel wie du und ich bin auch nicht in der Lage,",
+            "emotion": "anger",
+            "did": 237
+        },
+        {
+            "utterance": "Ich erfreue mich an ganz einfachen Sachen.",
+            "emotion": "neutral",
+            "did": 237
+        },
+        {
+            "utterance": "oder so Zeug zu schreiben.  Nun beruhige dich doch.",
+            "emotion": "surprise",
+            "did": 237
+        },
+        {
+            "utterance": "oder so Zeug zu schreiben.  Nun beruhige dich doch.",
+            "emotion": "anger",
+            "did": 237
+        },
+        {
+            "utterance": "Ich habe in diesem Gedicht doch nicht dich beschrieben, Monica.",
+            "emotion": "surprise",
+            "did": 237
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "sadness",
+            "did": 237
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "surprise",
+            "did": 237
+        },
+        {
+            "utterance": "Dieses Gedicht beschreibt alle Frauen, Monica.",
+            "emotion": "neutral",
+            "did": 237
+        }
+    ],
+    [
+        {
+            "utterance": "\"In  Minuten wird der Reaktor explodieren.",
+            "emotion": "fear",
+            "did": 612
+        },
+        {
+            "utterance": "Ich dachte, dass ich dann die Tomaten schneide.",
+            "emotion": "neutral",
+            "did": 612
+        },
+        {
+            "utterance": "Was?  Der Kerl, der Mac spielen sollte, fiel aus.",
+            "emotion": "neutral",
+            "did": 612
+        },
+        {
+            "utterance": "Was?  Der Kerl, der Mac spielen sollte, fiel aus.",
+            "emotion": "neutral",
+            "did": 612
+        },
+        {
+            "utterance": "Du wurdest um  Uhr erwartet.  Was? Und nun ist es  Uhr!",
+            "emotion": "surprise",
+            "did": 612
+        },
+        {
+            "utterance": "Ich hab's f\u00fcr dich notiert!",
+            "emotion": "fear",
+            "did": 612
+        },
+        {
+            "utterance": "Ich war bei Ross, dann im Caf\u00e9,",
+            "emotion": "neutral",
+            "did": 612
+        },
+        {
+            "utterance": "dann war ich \u00fcberall, wo man Sandwiches kaufen kann!",
+            "emotion": "neutral",
+            "did": 612
+        }
+    ],
+    [
+        {
+            "utterance": "Eine Manie?  Ja!",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Rachel, das sind meine Eltern.  Es freut mich, Sie kennenzulernen.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Joshua, die $ waren ja eigentlich f\u00fcr Lebensmittel gedacht.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Ich arbeite in der Modebranche.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Vielleicht in L.A.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Das k\u00f6nnte sein.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Das k\u00f6nnte sein.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Also nachher.  Wir beide haben furchtbaren Hunger.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "So, dann gehen wir essen.  Ja.",
+            "emotion": "neutral",
+            "did": 338
+        },
+        {
+            "utterance": "Sie behalten das an.",
+            "emotion": "neutral",
+            "did": 338
+        }
+    ],
+    [
+        {
+            "utterance": "Danke.  Gern geschehen.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "Sonst verdirbt sich mein Gast noch die sch\u00f6nen Augen.",
+            "emotion": "joy",
+            "did": 630
+        },
+        {
+            "utterance": "Danke, Monica.",
+            "emotion": "joy",
+            "did": 630
+        },
+        {
+            "utterance": "St\u00f6rt dich der Geruch?  Aus Joeys Wohnung?",
+            "emotion": "disgust",
+            "did": 630
+        },
+        {
+            "utterance": "Hier kann man gar nichts riechen.",
+            "emotion": "surprise",
+            "did": 630
+        },
+        {
+            "utterance": "Wenn er dich st\u00f6ren sollte, backe ich einen Kuchen, der \u00fcberdeckt den Geruch.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "Ein bisschen doch. Back den Kuchen.  Ok.",
+            "emotion": "joy",
+            "did": 630
+        },
+        {
+            "utterance": "Hallo?",
+            "emotion": "surprise",
+            "did": 630
+        },
+        {
+            "utterance": "Hallo?",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "der das Feuer ausgel\u00f6st hat.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "Nein, es waren eindeutig die Kerzen.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "Ja, man soll eben Kerzen nie unbeaufsichtigt lassen.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "Das lernen wir in der Feuerwehrschule schon in der ersten Woche.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "\u00c4h, tut mir leid, ich werde jetzt auflegen.",
+            "emotion": "neutral",
+            "did": 630
+        },
+        {
+            "utterance": "In Ordnung.",
+            "emotion": "joy",
+            "did": 630
+        }
+    ],
+    [
+        {
+            "utterance": "Wie w\u00e4r's mit Joey Paponi?",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Nein, das klingt hochgestochen.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Joey Schweiz, vielleicht?",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Ich bin au\u00dferdem f\u00fcr den Vornamen Joe. Bei Joey k\u00f6nnte man denken,",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Ich bin au\u00dferdem f\u00fcr den Vornamen Joe. Bei Joey k\u00f6nnte man denken,",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Was nicht der Fall ist.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Joe, Joe, Joe... Stalin?",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Stalin?",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Wirklich? Ich h\u00f6re den Namen zum ersten Mal.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Joe Stalin.",
+            "emotion": "joy",
+            "did": 258
+        },
+        {
+            "utterance": "Joe Stalin.",
+            "emotion": "joy",
+            "did": 258
+        },
+        {
+            "utterance": "Und statt Joe vielleicht Joseph.  Ah.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Ja, Joseph Stalin.",
+            "emotion": "joy",
+            "did": 258
+        },
+        {
+            "utterance": "Hallo, da bist du ja!",
+            "emotion": "joy",
+            "did": 258
+        },
+        {
+            "utterance": "\u00c4hm, ich wollte dir noch was sagen.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Du meinst, weil du dich mit dem Pfleger treffen willst.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Du meinst, weil du dich mit dem Pfleger treffen willst.",
+            "emotion": "surprise",
+            "did": 258
+        },
+        {
+            "utterance": "Das finde ich in Ordnung. Das mit uns war ja nichts Ernstes.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Wir haben doch nur so herumgealbert.",
+            "emotion": "neutral",
+            "did": 258
+        },
+        {
+            "utterance": "Verstehe. Vielleicht werde ich mich ja auch mit ihm treffen.",
+            "emotion": "joy",
+            "did": 258
+        }
+    ],
+    [
+        {
+            "utterance": "Wir sehen uns dann nachher, ja?",
+            "emotion": "neutral",
+            "did": 974
+        },
+        {
+            "utterance": "Wir sehen uns dann nachher, ja?",
+            "emotion": "neutral",
+            "did": 974
+        }
+    ],
+    [
+        {
+            "utterance": "Joey?",
+            "emotion": "neutral",
+            "did": 539
+        },
+        {
+            "utterance": "Was denkst du, was ich gleich zu ihr sage?",
+            "emotion": "neutral",
+            "did": 539
+        },
+        {
+            "utterance": "Bin ich die Einzige, die sie nicht hei\u00df findet? Ross?",
+            "emotion": "surprise",
+            "did": 539
+        },
+        {
+            "utterance": "Sie ist nicht unattraktiv, aber...  Stimmt.",
+            "emotion": "surprise",
+            "did": 539
+        },
+        {
+            "utterance": "Danke.",
+            "emotion": "joy",
+            "did": 539
+        },
+        {
+            "utterance": "So hei\u00df, dass ich mich letzte Nacht in den Schlaf heulte.",
+            "emotion": "sadness",
+            "did": 539
+        }
+    ],
+    [
+        {
+            "utterance": "Wenn Freunde heiraten, wird sich nat\u00fcrlich einiges \u00e4ndern.",
+            "emotion": "neutral",
+            "did": 988
+        },
+        {
+            "utterance": "Denkst du, dass sich so vieles \u00e4ndern wird?",
+            "emotion": "surprise",
+            "did": 988
+        },
+        {
+            "utterance": "Ja, sicher. Bald werden sie Kinder bekommen.",
+            "emotion": "sadness",
+            "did": 988
+        },
+        {
+            "utterance": "Ja, sicher. Bald werden sie Kinder bekommen.",
+            "emotion": "surprise",
+            "did": 988
+        },
+        {
+            "utterance": "Dann werden sie bestimmt die Stadt verlassen,",
+            "emotion": "sadness",
+            "did": 988
+        },
+        {
+            "utterance": "Die Zeiten \u00e4ndern sich.",
+            "emotion": "neutral",
+            "did": 988
+        },
+        {
+            "utterance": "Aber ich will nicht, dass sie bei einem VolvoH\u00e4ndler leben wollen.",
+            "emotion": "sadness",
+            "did": 988
+        },
+        {
+            "utterance": "Bitte reg dich nicht auf.",
+            "emotion": "neutral",
+            "did": 988
+        }
+    ],
+    [
+        {
+            "utterance": "Der Porsche wurde jetzt abgeholt.",
+            "emotion": "neutral",
+            "did": 1033
+        },
+        {
+            "utterance": "Aber du hast die Schl\u00fcssel f\u00fcr seinen Kleiderschrank gefunden?",
+            "emotion": "neutral",
+            "did": 1033
+        },
+        {
+            "utterance": "Nein, ich, \u00e4h...",
+            "emotion": "joy",
+            "did": 1033
+        },
+        {
+            "utterance": "Und man glaubt das, auch wenn du solche Klamotten tr\u00e4gst?",
+            "emotion": "surprise",
+            "did": 1033
+        }
+    ],
+    [
+        {
+            "utterance": "Hey, Mikey.  Hey, Pheeb.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Hey, Mikey.  Hey, Pheeb.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Was tust du?  Rattenfallen aufstellen.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Was tust du?  Rattenfallen aufstellen.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Um Bob umzubringen?  Nein, um sein Genick zu testen.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Um Bob umzubringen?  Nein, um sein Genick zu testen.",
+            "emotion": "surprise",
+            "did": 953
+        },
+        {
+            "utterance": "Nein, ich will ihn nicht umbringen. Wir fangen ihn einfach",
+            "emotion": "sadness",
+            "did": 953
+        },
+        {
+            "utterance": "Nein, ich will ihn nicht umbringen. Wir fangen ihn einfach",
+            "emotion": "anger",
+            "did": 953
+        },
+        {
+            "utterance": "Ok. Ich werfe die Fallen weg.  Ich suche Bob. Ich werde ihn finden.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Ok. Ich werfe die Fallen weg.  Ich suche Bob. Ich werde ihn finden.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Robert?",
+            "emotion": "anger",
+            "did": 953
+        },
+        {
+            "utterance": "Moment, ich glaube, ich h\u00f6re ihn.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Oh, mein Gott! Bob hat Babies! Bob ist eine Mama!",
+            "emotion": "surprise",
+            "did": 953
+        },
+        {
+            "utterance": "Oh, mein Gott! Bob hat Babies! Bob ist eine Mama!",
+            "emotion": "surprise",
+            "did": 953
+        },
+        {
+            "utterance": "Oh, mein Gott! Bob hat Babies! Bob ist eine Mama!",
+            "emotion": "surprise",
+            "did": 953
+        },
+        {
+            "utterance": "Sie braucht einen neuen Namen.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Nein. Ich meine, ich bin mir nicht sicher, dass wir...",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Oh, mein Gott. Haben wir Bob umgebracht?",
+            "emotion": "sadness",
+            "did": 953
+        },
+        {
+            "utterance": "Vielleicht war's nicht Bob, sondern eine Maus.",
+            "emotion": "neutral",
+            "did": 953
+        },
+        {
+            "utterance": "Susie?",
+            "emotion": "neutral",
+            "did": 953
+        }
+    ],
+    [
+        {
+            "utterance": "<i>Ist gut.</i>  Ok.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Mm, Suppe.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Ja, klar.  Danke.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Hi.  Ok.",
+            "emotion": "joy",
+            "did": 508
+        },
+        {
+            "utterance": "Dann wollen wir's doch gleich einmal versuchen.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Oje.  Haben Sie ein Problem?",
+            "emotion": "fear",
+            "did": 508
+        },
+        {
+            "utterance": "Oje.  Haben Sie ein Problem?",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Das hier ist Nudelsuppe. Ich habe mit Tomatensuppe geprobt.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Und somit kein Problem.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Mm, Nudelsuppe.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Das war h\u00fcbsch.  \"Mm, Suppe.\"",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Oh. Was hatte ich gesagt?  Mm, Nudelsuppe.",
+            "emotion": "surprise",
+            "did": 508
+        },
+        {
+            "utterance": "Was ist daran falsch?",
+            "emotion": "surprise",
+            "did": 508
+        },
+        {
+            "utterance": "Also dann, ein neuer Versuch.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Mm, Nudelsuppe.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Starten wir einen neuen Versuch.",
+            "emotion": "neutral",
+            "did": 508
+        },
+        {
+            "utterance": "Ich meine, Nudelsuppe. Ich meine, Suppe!",
+            "emotion": "anger",
+            "did": 508
+        },
+        {
+            "utterance": "Machen wir weiter. Vielen Dank.",
+            "emotion": "anger",
+            "did": 508
+        },
+        {
+            "utterance": "Hier.",
+            "emotion": "anger",
+            "did": 508
+        }
+    ],
+    [
+        {
+            "utterance": "Ja, glaube ich auch.  Ah.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Du sollst es jetzt auch erfahren. Rachel und Ross bekommen ein Baby.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Ihr wart mir eine gr\u00f6\u00dfere Hilfe, als ich JeansM\u00f6bel anfertigen wollte.",
+            "emotion": "joy",
+            "did": 74
+        },
+        {
+            "utterance": "Wenn du das Kind austragen willst, werden wir dich unterst\u00fctzen.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "\u00dcberleg es dir nur gut.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Sprich mit einer Frau, die schon ein Baby hat. Deine Mom!",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Meine Mom hat kein Kind zur Welt gebracht. Oh, aber meine leibliche Mom!",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Na also, dann ist doch wohl alles klar. Halt dich an Vince.",
+            "emotion": "joy",
+            "did": 74
+        },
+        {
+            "utterance": "Aber Jason ist so verst\u00e4ndnisvoll.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Ein guter Charakter ist wichtig. Nimm ihn.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Jason ist doch kein Weichei.",
+            "emotion": "anger",
+            "did": 74
+        },
+        {
+            "utterance": "Schon klar, ich meinte Chandler.",
+            "emotion": "anger",
+            "did": 74
+        },
+        {
+            "utterance": "Hi.  Hi.",
+            "emotion": "joy",
+            "did": 74
+        },
+        {
+            "utterance": "Hi.  Hi.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Hi.",
+            "emotion": "joy",
+            "did": 74
+        },
+        {
+            "utterance": "Ja, das finde ich auch. Wollen wir nicht hineingehen?",
+            "emotion": "sadness",
+            "did": 74
+        },
+        {
+            "utterance": "Und damit es nicht allzu peinlich ist, ist es besser, wenn ich zuerst rede.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Ok.  Na gut.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Ok.  Na gut.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "surprise",
+            "did": 74
+        },
+        {
+            "utterance": "Die Nacht hat wirklich Spa\u00df gemacht, und sie war leidenschaftlich,",
+            "emotion": "sadness",
+            "did": 74
+        },
+        {
+            "utterance": "was?",
+            "emotion": "surprise",
+            "did": 74
+        },
+        {
+            "utterance": "Wenn du es wirklich willst, dann k\u00f6nnen wir es wiederholen.",
+            "emotion": "neutral",
+            "did": 74
+        },
+        {
+            "utterance": "Ich bin schwanger.",
+            "emotion": "anger",
+            "did": 74
+        }
+    ],
+    [
+        {
+            "utterance": "Wieso w\u00fcnschen?",
+            "emotion": "joy",
+            "did": 793
+        },
+        {
+            "utterance": "Die gr\u00f6\u00dfere H\u00e4lfte.",
+            "emotion": "neutral",
+            "did": 793
+        },
+        {
+            "utterance": "Also, ich w\u00fcrde gerne einen Toast anbringen.",
+            "emotion": "joy",
+            "did": 793
+        },
+        {
+            "utterance": "Seid ihr bereit? Ding, ding, ding.  Mm.",
+            "emotion": "joy",
+            "did": 793
+        },
+        {
+            "utterance": "Ich wei\u00df, dass ihr euch dieses Thanksgiving anders vorgestellt habt,",
+            "emotion": "joy",
+            "did": 793
+        },
+        {
+            "utterance": "W\u00e4rst du nach Vail geflogen,",
+            "emotion": "anger",
+            "did": 793
+        },
+        {
+            "utterance": "Das ist lieb.",
+            "emotion": "joy",
+            "did": 793
+        },
+        {
+            "utterance": "Dann trinken wir jetzt auf ein lausiges Weihnachtsfest.",
+            "emotion": "joy",
+            "did": 793
+        },
+        {
+            "utterance": "Und ein beschissenes neues Jahr.  Genau.",
+            "emotion": "joy",
+            "did": 793
+        }
+    ],
+    [
+        {
+            "utterance": "Hi, Monica, hier ist Chip!",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "Wer ist Chip? Pst.",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "Ich habe mich gefreut, dass wir uns heute getroffen",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "{\\an}Chip! Das war Chip Matthews.",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "{\\an}Der mit Rachel auf dem HighschoolBall war?",
+            "emotion": "surprise",
+            "did": 689
+        },
+        {
+            "utterance": "{\\an}Ich habe ihn zuf\u00e4llig getroffen. Er ist noch immer so hei\u00df.",
+            "emotion": "joy",
+            "did": 689
+        },
+        {
+            "utterance": "{\\an}Wenn das kein Gl\u00fcck ist! Niemand war so beliebt.",
+            "emotion": "joy",
+            "did": 689
+        },
+        {
+            "utterance": "{\\an}Ja, genau!",
+            "emotion": "joy",
+            "did": 689
+        },
+        {
+            "utterance": "Ich wollte sowieso gehen.",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "Ich muss n\u00e4mlich einen Bericht lesen.",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "Wieso? Hast du ihn geschrieben?",
+            "emotion": "neutral",
+            "did": 689
+        },
+        {
+            "utterance": "Das ist ja wirklich nett!",
+            "emotion": "surprise",
+            "did": 689
+        },
+        {
+            "utterance": "Wei\u00dft du, \u00e4h, eigentlich...",
+            "emotion": "neutral",
+            "did": 689
+        }
+    ],
+    [
+        {
+            "utterance": "Dass du mir das verschwiegen hast!  Ich wollte es dir sagen, aber...",
+            "emotion": "fear",
+            "did": 854
+        },
+        {
+            "utterance": "Rachel wurde nicht abserviert! Und zusammen sind Rachel und ich auch nicht.",
+            "emotion": "anger",
+            "did": 854
+        },
+        {
+            "utterance": "<i>Ich dachte, du kannst uns was</i> <i>\u00fcber die Hure sagen, die gerade hier ist.</i>",
+            "emotion": "neutral",
+            "did": 854
+        },
+        {
+            "utterance": "Nein! Nein! Nein!",
+            "emotion": "neutral",
+            "did": 854
+        }
+    ],
+    [
+        {
+            "utterance": "Hey.  Hi.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Hey.  Hi.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Chandler.  Hi.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Hi.  Joey.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Hey.  Hi, hi, hi.",
+            "emotion": "joy",
+            "did": 678
+        },
+        {
+            "utterance": "Das ist Monica.  Wow.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Und das ist Rachel.  Hi.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Wow.",
+            "emotion": "surprise",
+            "did": 678
+        },
+        {
+            "utterance": "Wow.",
+            "emotion": "surprise",
+            "did": 678
+        },
+        {
+            "utterance": "Ich werde uns einen Kaffee holen.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Nein, nicht eine Sekunde.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Ihr beide habt gro\u00dfe Pl\u00e4ne, was?",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Ja, wir wollen eine verwandtschaftliche Beziehung aufbauen.",
+            "emotion": "joy",
+            "did": 678
+        },
+        {
+            "utterance": "Und wir wollten zum Times Square und uns ein paar NinjaStars besorgen.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Oh, \u00e4hm, mein Freund Larry hat mich gebeten, eine Hure zu fotografieren.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Wir nutzen es gar nicht aus, dass wir in der Stadt wohnen.",
+            "emotion": "neutral",
+            "did": 678
+        },
+        {
+            "utterance": "Hi. Sch\u00f6nen guten Tag.",
+            "emotion": "neutral",
+            "did": 678
+        }
+    ],
+    [
+        {
+            "utterance": "Wo ist Chandler?",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Da ist er.  Wasch dir die H\u00e4nde.",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Da ist er.  Wasch dir die H\u00e4nde.",
+            "emotion": "disgust",
+            "did": 643
+        },
+        {
+            "utterance": "Woher hast du das gewusst?",
+            "emotion": "surprise",
+            "did": 643
+        },
+        {
+            "utterance": "Nicht aufregen, er ist mit Sicherheit nicht aus Eis gemacht.",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "H\u00f6r zu. Ich habe die Bundesstaaten geografisch...",
+            "emotion": "neutral",
+            "did": 643
+        }
+    ],
+    [
+        {
+            "utterance": "Chloe, hallo.",
+            "emotion": "neutral",
+            "did": 1030
+        },
+        {
+            "utterance": "Hast du gemerkt, dass ich deine Uhr mitgehen lie\u00df?",
+            "emotion": "sadness",
+            "did": 1030
+        },
+        {
+            "utterance": "Du hast meine Uhr mitgehen lassen?  Eine dumme Angewohnheit.",
+            "emotion": "surprise",
+            "did": 1030
+        },
+        {
+            "utterance": "Du hast meine Uhr mitgehen lassen?  Eine dumme Angewohnheit.",
+            "emotion": "sadness",
+            "did": 1030
+        },
+        {
+            "utterance": "Du kannst sie behalten. Hast du irgendjemandem von uns erz\u00e4hlt?",
+            "emotion": "sadness",
+            "did": 1030
+        },
+        {
+            "utterance": "Nat\u00fcrlich nicht, weil ich finde, dass das niemanden was angeht.",
+            "emotion": "neutral",
+            "did": 1030
+        }
+    ],
+    [
+        {
+            "utterance": "Die beiden haben sich auf der Couch vergn\u00fcgt.",
+            "emotion": "joy",
+            "did": 189
+        },
+        {
+            "utterance": "Das ist wirklich die beste Westminster Abbey, die ich kenne.",
+            "emotion": "joy",
+            "did": 189
+        },
+        {
+            "utterance": "Toll. Aber ich w\u00fcrde diesen Platz hier umbenennen.",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Da stimmt was nicht. Mein Bruder bleibt nie die ganze Nacht weg.",
+            "emotion": "fear",
+            "did": 189
+        },
+        {
+            "utterance": "Da w\u00fcrde Ross nie durchpassen.",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Hey!  Hey.",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Gott sei Dank, Ross!",
+            "emotion": "anger",
+            "did": 189
+        },
+        {
+            "utterance": "Unterwegs! Wieso hat keiner von uns daran gedacht, dort nachzusehen?",
+            "emotion": "anger",
+            "did": 189
+        },
+        {
+            "utterance": "Was hast du gemacht?",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Er war nicht allein unterwegs! Er hat eine Frau aufgerissen.",
+            "emotion": "surprise",
+            "did": 189
+        },
+        {
+            "utterance": "Ich muss keine Fragen beantworten. Ich bin ein Erwachsener.",
+            "emotion": "anger",
+            "did": 189
+        },
+        {
+            "utterance": "Er war nicht allein unterwegs!",
+            "emotion": "joy",
+            "did": 189
+        },
+        {
+            "utterance": "Ross, du hast deinen Schal vergessen.",
+            "emotion": "neutral",
+            "did": 189
+        }
+    ],
+    [
+        {
+            "utterance": "Ach, das habe ich ja ganz vergessen, so was Dummes...",
+            "emotion": "neutral",
+            "did": 897
+        },
+        {
+            "utterance": "Ja, nat\u00fcrlich. Aber Phoebe ist doch so gl\u00fccklich.",
+            "emotion": "anger",
+            "did": 897
+        },
+        {
+            "utterance": "Ein kleines M\u00e4dchen vermisst ihre Katze.",
+            "emotion": "neutral",
+            "did": 897
+        },
+        {
+            "utterance": "Und eine v\u00f6llig Verr\u00fcckte denkt, dass ihre Mutter in dieser Katze steckt.",
+            "emotion": "sadness",
+            "did": 897
+        },
+        {
+            "utterance": "Kann ich mich darauf verlassen, dass ihr es Phoebe sagt?",
+            "emotion": "neutral",
+            "did": 897
+        },
+        {
+            "utterance": "Recht vielen Dank.",
+            "emotion": "neutral",
+            "did": 897
+        },
+        {
+            "utterance": "Ach. Ich hasse es, wenn er recht hat.",
+            "emotion": "neutral",
+            "did": 897
+        },
+        {
+            "utterance": "Und er hat recht, oder?",
+            "emotion": "neutral",
+            "did": 897
+        },
+        {
+            "utterance": "Und er hat recht, oder?",
+            "emotion": "joy",
+            "did": 897
+        },
+        {
+            "utterance": "Ja, meinst du? Nein, er hat recht.",
+            "emotion": "surprise",
+            "did": 897
+        }
+    ],
+    [
+        {
+            "utterance": "Hier sind  ganz steile Z\u00e4hne, und mit denen haben wir ein Rendezvous.",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Das klingt verlockend.",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Es sind M\u00e4nner,  Krankenpfleger.  Ha, ha. Nicht in meiner Vorstellung.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Und am Wochenende wollen sie mit uns ausgehen. Was sagst du dazu?",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Nein, lieber nicht.",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Du warst doch diejenige,",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "die immer gesagt hat, ich soll endlich wieder nach vorn sehen!",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "Ich m\u00f6chte mit dir nach vorn sehen.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Nenn mir einen Grund, wieso du nicht willst.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Nenn du mir doch jetzt mal einen Grund,",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Was?  Das h\u00f6rt sich schwierig an.",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Was?  Das h\u00f6rt sich schwierig an.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Du kommst mit. Ich habe den beiden gesagt,",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Hi.  Hi.",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Von einer G\u00f6tterspeise kriegt keiner genug.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Wieso h\u00f6rt sich das bei dir anz\u00fcglich an?",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Das ist leicht, ich kann das auch mit anderen Sachen.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Habe ich dir etwa irgendwas gesagt, was du nicht schon wei\u00dft?",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Was, ich?  Ich kann ihn nicht fragen!",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Aus welchem Grund sollten Greg und Jenny uns eine falsche Nummer geben?",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "So wie ich das sehe, haben sie euch auch falsche Namen genannt.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Nie im Leben erfindet man einen falschen Namen, h\u00f6chstens eine falsche Nummer.",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "Ach ja?",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Regina Phalange.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Dazu hatten sie keinen Grund.  Eigentlich nicht.",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Ich dachte, das ist deine Party, doch das ist eine Party f\u00fcr Howard.",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Na ja, du hast schon viele Witze erz\u00e4hlt.",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "Auf Wiedersehen, Phoebe. Und vielen Dank, dass du was beigesteuert hast.",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Sie waren ja auch alle witzig. Ein Witz witziger als der andere!",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Du hast was beigesteuert?",
+            "emotion": "surprise",
+            "did": 95
+        },
+        {
+            "utterance": "Witzig! Witzig!",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "Vielleicht lag's auch an deinen Fragen.  Was war mit meinen Fragen?",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Vielleicht lag's auch an deinen Fragen.  Was war mit meinen Fragen?",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Mich hat ja keiner gefragt.",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "Dadurch hatte ich die M\u00f6glichkeit, als gro\u00dfz\u00fcgige Fremde aufzutreten.",
+            "emotion": "joy",
+            "did": 95
+        },
+        {
+            "utterance": "Du hast mich zum \"b\u00f6sen Mann\" gemacht!",
+            "emotion": "anger",
+            "did": 95
+        },
+        {
+            "utterance": "Da irrst du dich. Ich verschaffe dir ein positives Bild.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Oh, hallo, Ross.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Denkt doch mal dar\u00fcber nach.",
+            "emotion": "neutral",
+            "did": 95
+        },
+        {
+            "utterance": "Nein, nein, kein Kommentar.",
+            "emotion": "joy",
+            "did": 95
+        }
+    ],
+    [
+        {
+            "utterance": "Oh, oh!",
+            "emotion": "neutral",
+            "did": 672
+        },
+        {
+            "utterance": "Fertig!",
+            "emotion": "joy",
+            "did": 672
+        },
+        {
+            "utterance": "Jetzt bist du erst fertig?  Ich war eben sehr gr\u00fcndlich.",
+            "emotion": "surprise",
+            "did": 672
+        },
+        {
+            "utterance": "Das hier ist doch sehr wichtig f\u00fcr dich, also, f\u00fcr uns.",
+            "emotion": "joy",
+            "did": 672
+        },
+        {
+            "utterance": "Und deswegen habe ich mir jedes Wort ganz sorgf\u00e4ltig durchgelesen. Zweimal.",
+            "emotion": "joy",
+            "did": 672
+        },
+        {
+            "utterance": "Nun, \u00e4hm...",
+            "emotion": "neutral",
+            "did": 672
+        },
+        {
+            "utterance": "Wie bitte?",
+            "emotion": "sadness",
+            "did": 672
+        },
+        {
+            "utterance": "Siehst du es auch so?",
+            "emotion": "fear",
+            "did": 672
+        },
+        {
+            "utterance": "Siehst du es auch so?",
+            "emotion": "neutral",
+            "did": 672
+        },
+        {
+            "utterance": "Entweder du siehst es so oder nicht so.",
+            "emotion": "anger",
+            "did": 672
+        },
+        {
+            "utterance": "Nein, ich muss nicht nochmal dar\u00fcber nachdenken.",
+            "emotion": "neutral",
+            "did": 672
+        },
+        {
+            "utterance": "Bist du dir sicher?  Sicher bin ich mir sicher!",
+            "emotion": "joy",
+            "did": 672
+        },
+        {
+            "utterance": "Bist du dir sicher?  Sicher bin ich mir sicher!",
+            "emotion": "joy",
+            "did": 672
+        }
+    ],
+    [
+        {
+            "utterance": "Aber du lebst mit dem Wissen, dass du einen Unschuldigen in den Tod triebst.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Du bist doch ein guter Schauspieler.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Meinst du das ernst?  Wie kannst du so was fragen?",
+            "emotion": "surprise",
+            "did": 107
+        },
+        {
+            "utterance": "Meinst du das ernst?  Wie kannst du so was fragen?",
+            "emotion": "surprise",
+            "did": 107
+        },
+        {
+            "utterance": "Hast du noch, \u00e4hm, diese MarineUniform?",
+            "emotion": "joy",
+            "did": 107
+        },
+        {
+            "utterance": "Oh.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Vielleicht habe ich noch meine alte Uniform vom Schulorchester.",
+            "emotion": "joy",
+            "did": 107
+        },
+        {
+            "utterance": "Aber damals hattest du noch keine sexuellen Erfahrungen.",
+            "emotion": "sadness",
+            "did": 107
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "sadness",
+            "did": 107
+        },
+        {
+            "utterance": "Wie ist das bei dir?  Was?",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Aber nein.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Na h\u00f6r mal, keine Fantasien?  Nein, niemals.",
+            "emotion": "surprise",
+            "did": 107
+        },
+        {
+            "utterance": "Das muss ich. Ich muss. Ich muss. Ich muss.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Leg das endlich weg, Ross.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Du hast meinen ChiChi nicht gekannt.",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Versprecht ihr es auch alle?",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Chandler, versprichst du es auch?",
+            "emotion": "neutral",
+            "did": 107
+        },
+        {
+            "utterance": "Hey, Pheebs.",
+            "emotion": "neutral",
+            "did": 107
+        }
+    ],
+    [
+        {
+            "utterance": "Also Phoebe muss $. zahlen, du, Monica, $.",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Wenn wir so weitermachen, brauchen wir nicht mehr zu arbeiten.",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Hier sind meine $.. Aber dieses Geld ist verflucht.",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Was?  Ich hab das Geld verflucht!",
+            "emotion": "surprise",
+            "did": 674
+        },
+        {
+            "utterance": "Was?  Ich hab das Geld verflucht!",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Demjenigen, der es ausgibt, wird Schlimmes zusto\u00dfen.",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Dann nehme ich es. Mir passieren sowieso st\u00e4ndig schlimme Sachen.",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Damit seh ich mir einen Horrorfilm an.",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Da ist unser Pokerstar Rachel, die mit $ in der Kreide steht.",
+            "emotion": "neutral",
+            "did": 674
+        }
+    ],
+    [
+        {
+            "utterance": "Oh. Es war sicher grauenvoll.",
+            "emotion": "sadness",
+            "did": 957
+        }
+    ],
+    [
+        {
+            "utterance": "Hi. Na, Leute? Was bedeutet das?",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Die Briten kommen?",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Ach, Chandler, du und deine Witze.",
+            "emotion": "joy",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Die Glocke habe ich bereits. Nachher kriege ich noch meinen Eimer.",
+            "emotion": "joy",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Oh.",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Ich werde den Menschen Freude bringen.",
+            "emotion": "joy",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Letztes Jahr habe ich sie auch gebracht, doch es reichte nicht.",
+            "emotion": "joy",
+            "did": 705
+        },
+        {
+            "utterance": "{\\an}Ein M\u00e4dchen von der Highschool hat das auch getan. Die war sehr beliebt.",
+            "emotion": "neutral",
+            "did": 705
+        }
+    ],
+    [
+        {
+            "utterance": "Ach ja?  Du schuldest mir $.",
+            "emotion": "joy",
+            "did": 175
+        },
+        {
+            "utterance": "Ach ja?  Du schuldest mir $.",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Vielen Dank, ich bin euch so dankbar.",
+            "emotion": "joy",
+            "did": 175
+        },
+        {
+            "utterance": "Ist gut.  Na los.",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Oh, warte, hast du die Vertr\u00e4ge nach Mailand geschickt?",
+            "emotion": "surprise",
+            "did": 175
+        },
+        {
+            "utterance": "Findest du das jetzt etwa erotisch?  Nein.",
+            "emotion": "surprise",
+            "did": 175
+        },
+        {
+            "utterance": "Das ist dein Essen f\u00fcr Thanksgiving?",
+            "emotion": "surprise",
+            "did": 175
+        },
+        {
+            "utterance": "Hast du die Vertr\u00e4ge denn nun abgeschickt?",
+            "emotion": "fear",
+            "did": 175
+        },
+        {
+            "utterance": "Warum hasst du diesen Feiertag so sehr?",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Welche Vertr\u00e4ge?",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Das ist einer von deinen Scherzen, die ich nicht verstehe. Ha, ha.",
+            "emotion": "joy",
+            "did": 175
+        },
+        {
+            "utterance": "Gut, ich war damals .",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Ah!  Ah! Ich kann die Geschichte nicht ab.",
+            "emotion": "sadness",
+            "did": 175
+        },
+        {
+            "utterance": "Wie, z.B.?",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Wir sind gerade mit einem k\u00f6stlichen Festessen fertig.",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Na, wenn du dir z.B. das Telefon in die Hose packst.",
+            "emotion": "disgust",
+            "did": 175
+        },
+        {
+            "utterance": "Das ist wirklich nicht witzig.",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Das ist wirklich nicht witzig.",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Da sagen mir meine Eltern, dass sie sich scheiden lassen.",
+            "emotion": "sadness",
+            "did": 175
+        },
+        {
+            "utterance": "Die Vertr\u00e4ge sollten heute rausgehen.",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Du hast mir keine Vertr\u00e4ge hingelegt.",
+            "emotion": "surprise",
+            "did": 175
+        },
+        {
+            "utterance": "Oh, du meine G\u00fcte.",
+            "emotion": "surprise",
+            "did": 175
+        },
+        {
+            "utterance": "Es ist schwer, einen Feiertag zu m\u00f6gen, wenn es einmal so verkehrt lief.",
+            "emotion": "sadness",
+            "did": 175
+        },
+        {
+            "utterance": "Oh, doch, es war sogar",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Ich habe keine Vertr\u00e4ge von dir.",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Im B\u00fcro k\u00f6nntest du jetzt sehen, dass die Vertr\u00e4ge genau dort liegen.",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Ich w\u00fcrde nur sehen, dass du betreten bist, weil sie da nicht sind.",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Ich bin bestimmt nur betreten, weil du wieder mit deiner Hose telefonierst.",
+            "emotion": "disgust",
+            "did": 175
+        },
+        {
+            "utterance": "Wie w\u00e4r's denn, fahren wir jetzt ins B\u00fcro?  Nein.",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Nein, Tag, ins B\u00fcro fahren wir jetzt nicht.",
+            "emotion": "anger",
+            "did": 175
+        },
+        {
+            "utterance": "Ich verstehe schon. Ich w\u00e4re auch verlegen an deiner Stelle.",
+            "emotion": "neutral",
+            "did": 175
+        },
+        {
+            "utterance": "Oh, wann hast du den denn ge\u00f6ffnet? Ganz sch\u00f6n geschickt!",
+            "emotion": "joy",
+            "did": 175
+        }
+    ],
+    [
+        {
+            "utterance": "Was denkt ihr?",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Ich denke gar nichts.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Welche k\u00f6nnte es wohl sein?",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Kann ich euch helfen?  Oh, nein, danke.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Wir sind nur hier, um zu beobachten.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Hat sie uns gemeint?",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Ja, denn in einem Tanzkurs",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Welche ist wohl die vermeintliche Monica?",
+            "emotion": "anger",
+            "did": 546
+        },
+        {
+            "utterance": "Letzte Woche stellte ich emp\u00f6rt fest, dass einige Becher auf dem Boden lagen.",
+            "emotion": "anger",
+            "did": 546
+        },
+        {
+            "utterance": "Die ist wie du.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Also los, fangen wir an.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Also, ich pack das hier nicht.",
+            "emotion": "anger",
+            "did": 546
+        },
+        {
+            "utterance": "Ich finde das ganz leicht.",
+            "emotion": "joy",
+            "did": 546
+        },
+        {
+            "utterance": "Habt ihr nicht auch das Gef\u00fchl, dass eure Bewegungen unkoordiniert sind?",
+            "emotion": "sadness",
+            "did": 546
+        },
+        {
+            "utterance": "Ich konnte das vorher auch nicht. Ist ganz einfach.",
+            "emotion": "surprise",
+            "did": 546
+        },
+        {
+            "utterance": "Das war nicht so \u00fcbel. Jetzt nimmt sich jeder eine Partnerin.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Ich h\u00f6re meine tote Mutter schreien. Du sollst es sein. Ich tanze mit Rachel.",
+            "emotion": "neutral",
+            "did": 546
+        },
+        {
+            "utterance": "Na, gro\u00dfartig. Genau wie fr\u00fcher im Sportunterricht.",
+            "emotion": "disgust",
+            "did": 546
+        }
+    ],
+    [
+        {
+            "utterance": "Ich freue mich so auf dich.",
+            "emotion": "anger",
+            "did": 405
+        },
+        {
+            "utterance": "{\\an}Na gut. In Ordnung. Ich halte es jetzt nicht mehr aus.",
+            "emotion": "neutral",
+            "did": 405
+        },
+        {
+            "utterance": "{\\an}Du hast gewonnen. Ok? Hier.",
+            "emotion": "anger",
+            "did": 405
+        },
+        {
+            "utterance": "{\\an}Phoebe, du willst einen Jet fliegen? Such dir lieber ein Raumschiff,",
+            "emotion": "anger",
+            "did": 405
+        },
+        {
+            "utterance": "{\\an}Phoebe, du willst einen Jet fliegen? Such dir lieber ein Raumschiff,",
+            "emotion": "surprise",
+            "did": 405
+        },
+        {
+            "utterance": "{\\an}Phoebe, du willst einen Jet fliegen? Such dir lieber ein Raumschiff,",
+            "emotion": "neutral",
+            "did": 405
+        }
+    ],
+    [
+        {
+            "utterance": "Oh, Mann, ich will aber diese Wohnung haben!",
+            "emotion": "surprise",
+            "did": 566
+        },
+        {
+            "utterance": "Oh, Mann, ich will aber diese Wohnung haben!",
+            "emotion": "joy",
+            "did": 566
+        }
+    ],
+    [
+        {
+            "utterance": "Der Partyservice hat  Vorspeisen vorgeschlagen. Ich muss  aussuchen.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Es kann sich nur einer von uns mit ihr verabreden.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Das ist v\u00f6llig klar. Und wie entscheiden wir das?",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Wir versuchen, die Sache ganz objektiv zu betrachten.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Aha. Aha.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Sehr interessant, aber was h\u00e4ltst du davon? Ich werde der Sieger sein.",
+            "emotion": "joy",
+            "did": 625
+        },
+        {
+            "utterance": "Ok, ok. So werden wir nie ein Ende finden.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Dann bestellen wir was zu essen.  Nein, warte.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Was h\u00e4ltst du davon, wenn wir sie entscheiden lassen w\u00fcrden?",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Gut, das ist fair.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Ich gehe mit ihr in das neue franz\u00f6sische Restaurant.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Ich kann sie einfach nicht in so ein Lokal bringen.",
+            "emotion": "anger",
+            "did": 625
+        },
+        {
+            "utterance": "Das ist schade, aber so gestalte ich eben immer meine Dates.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Dann werde ich dieses Date so gestalten, wie ich es immer mache.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Legen wir doch ein Limit fest.  Ja.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "\u00c4hm...",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Ich habe mehr an $ gedacht.  Ok.",
+            "emotion": "neutral",
+            "did": 625
+        },
+        {
+            "utterance": "Leihst du mir $?",
+            "emotion": "neutral",
+            "did": 625
+        }
+    ],
+    [
+        {
+            "utterance": "Der hat mich umgedreht, wenn ich anfing zu schnarchen...",
+            "emotion": "anger",
+            "did": 91
+        },
+        {
+            "utterance": "Ich hab doch blo\u00df mal probiert. Was habt ihr denn?",
+            "emotion": "surprise",
+            "did": 91
+        },
+        {
+            "utterance": "Das ist doch aber Muttermilch!",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Phoebe, das da ist Saft, der aus einem Menschen gepresst wurde.",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Was soll denn blo\u00df die Aufregung?",
+            "emotion": "anger",
+            "did": 91
+        },
+        {
+            "utterance": "Das geh\u00f6rt sich doch nicht!",
+            "emotion": "surprise",
+            "did": 91
+        },
+        {
+            "utterance": "Was f\u00e4llt euch ein, ihm die ganze Muttermilch wegzutrinken?",
+            "emotion": "disgust",
+            "did": 91
+        },
+        {
+            "utterance": "Willst du nicht mal wenigstens kosten?  Nein.",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Auch nicht, wenn du dir klar machst, dass es nur Milch ist?",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Nicht mal, wenn auf Carols Brust ein Foto von ihm prangen w\u00fcrde.",
+            "emotion": "disgust",
+            "did": 91
+        },
+        {
+            "utterance": "Ross, gibst du mir das Messer?  Oh nein.",
+            "emotion": "neutral",
+            "did": 91
+        }
+    ],
+    [
+        {
+            "utterance": "Aber nur, wenn du Daddy nichts von dem kleinen Zwischenfall erz\u00e4hlst.",
+            "emotion": "fear",
+            "did": 227
+        },
+        {
+            "utterance": "Erstens glaube ich nicht, dass Ben das Prinzip der Bestechung kapiert.",
+            "emotion": "surprise",
+            "did": 227
+        },
+        {
+            "utterance": "Vielleicht schreibt Ben alles auf.",
+            "emotion": "neutral",
+            "did": 227
+        },
+        {
+            "utterance": "Joey, findest du das komisch?",
+            "emotion": "neutral",
+            "did": 227
+        }
+    ],
+    [
+        {
+            "utterance": "Oh, Mann, ist das nervenaufreibend. Wie h\u00e4ltst du das aus?",
+            "emotion": "surprise",
+            "did": 26
+        },
+        {
+            "utterance": "Ich werde nur selten ein zweites Mal bestellt, von daher...",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Ist es ein gutes Zeichen, dass wir warten sollen?",
+            "emotion": "surprise",
+            "did": 26
+        },
+        {
+            "utterance": "Keine Ahnung.",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Ja! Ich wusste es!",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "utterance": "Ich werde vielleicht Bens Vater spielen.",
+            "emotion": "joy",
+            "did": 26
+        },
+        {
+            "utterance": "<i>Das geht leider nicht.</i>",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Da Sie sich vom Aussehen her so unterscheiden,",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Das hei\u00dft, dass Sie  es werden oder Sie .",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Oh, Mann.",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "utterance": "Das wird immer verr\u00fcckter.  Das kannst du laut sagen.",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Wir sind die besten Freunde. Deswegen ist es verr\u00fcckt.",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Julie.  Was?",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Du warst mit Julie essen?",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Und dann kam eins zum anderen.",
+            "emotion": "neutral",
+            "did": 26
+        },
+        {
+            "utterance": "Du meine G\u00fcte.",
+            "emotion": "surprise",
+            "did": 26
+        },
+        {
+            "utterance": "Ich war nur ein einziges Mal mit ihr weg.",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "utterance": "Rachel, ich hab die ganze Zeit nur an dich gedacht.",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "utterance": "Es tut mir wirklich leid. Ich wollte nicht, dass du es erf\u00e4hrst.",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "utterance": "Es tut mir wirklich leid. Ich wollte nicht, dass du es erf\u00e4hrst.",
+            "emotion": "sadness",
+            "did": 26
+        },
+        {
+            "utterance": "Ach, red keinen Bl\u00f6dsinn! Du wolltest erwischt werden!",
+            "emotion": "anger",
+            "did": 26
+        },
+        {
+            "utterance": "Das ist nicht wahr!",
+            "emotion": "anger",
+            "did": 26
+        },
+        {
+            "utterance": "Und die Rechnung hast du zuf\u00e4llig in die Tasche gesteckt?",
+            "emotion": "anger",
+            "did": 26
+        },
+        {
+            "utterance": "Hast du je daran gedacht, dass ich tats\u00e4chlich so dumm sein k\u00f6nnte?",
+            "emotion": "anger",
+            "did": 26
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "joy",
+            "did": 26
+        }
+    ],
+    [
+        {
+            "utterance": "Das glaube ich dir nicht.",
+            "emotion": "neutral",
+            "did": 1016
+        },
+        {
+            "utterance": "Nicht wahr? Also, ich meine, das ist doch wirklich unglaublich.",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "Nicht wahr? Also, ich meine, das ist doch wirklich unglaublich.",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "Ich kann auf sie verzichten. Ich bin ja zum Gl\u00fcck mit euch befreundet,",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "Na, das wird Susan aber sehr freuen.",
+            "emotion": "joy",
+            "did": 1016
+        },
+        {
+            "utterance": "Wo ist denn ?",
+            "emotion": "surprise",
+            "did": 1016
+        },
+        {
+            "utterance": "Nein, aber das ist schon ok.",
+            "emotion": "neutral",
+            "did": 1016
+        },
+        {
+            "utterance": "Gut, dass du endlich anrufst.  Phoebe?",
+            "emotion": "joy",
+            "did": 1016
+        },
+        {
+            "utterance": "Warum fl\u00fcsterst du denn, Phoebe?",
+            "emotion": "surprise",
+            "did": 1016
+        },
+        {
+            "utterance": "Weil ich eine Fliege verschluckt habe.",
+            "emotion": "disgust",
+            "did": 1016
+        },
+        {
+            "utterance": "Hey, Rachel. Die Tampons kosten hier nur einen Penny.",
+            "emotion": "joy",
+            "did": 1016
+        },
+        {
+            "utterance": "Das Benzin ist ausgegangen und wir k\u00f6nnen nicht abgeschleppt werden.",
+            "emotion": "fear",
+            "did": 1016
+        },
+        {
+            "utterance": "Es tut mir leid, dass euch dieses Missgeschick widerfahren ist,",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "Phoebe, bleib mal dran.",
+            "emotion": "neutral",
+            "did": 1016
+        },
+        {
+            "utterance": "Nein, ich denke \u00fcberhaupt nicht daran.",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "Wir wissen doch beide, dass du kein Vollidiot bist und ihnen hilfst.",
+            "emotion": "neutral",
+            "did": 1016
+        },
+        {
+            "utterance": "Du kannst hier gern noch eine Stunde rumschmollen und dann losfahren",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "oder du f\u00e4hrst gleich los.  Ja, aber Rachel will nicht mit...",
+            "emotion": "anger",
+            "did": 1016
+        },
+        {
+            "utterance": "Es tut mir leid, dass dich Rachel wegen eines anderen abserviert hat.",
+            "emotion": "neutral",
+            "did": 1016
+        },
+        {
+            "utterance": "Ja, du hast recht.",
+            "emotion": "neutral",
+            "did": 1016
+        }
+    ],
+    [
+        {
+            "utterance": "Ok, ich werde jetzt durchs Fenster abhauen!",
+            "emotion": "neutral",
+            "did": 704
+        },
+        {
+            "utterance": "Du solltest dich beruhigen.  Ich soll mich beruhigen?",
+            "emotion": "anger",
+            "did": 704
+        },
+        {
+            "utterance": "Sei so nett und h\u00f6r auf, zu br\u00fcllen, das macht mich nerv\u00f6s...",
+            "emotion": "anger",
+            "did": 704
+        },
+        {
+            "utterance": "Tut mir leid, entschuldige bitte.",
+            "emotion": "anger",
+            "did": 704
+        }
+    ],
+    [
+        {
+            "utterance": "Nun...",
+            "emotion": "neutral",
+            "did": 910
+        },
+        {
+            "utterance": "Wir haben gewonnen!",
+            "emotion": "joy",
+            "did": 910
+        },
+        {
+            "utterance": "Wie habt ihr das geschafft?",
+            "emotion": "surprise",
+            "did": 910
+        },
+        {
+            "utterance": "Alan.  Er war unglaublich!",
+            "emotion": "neutral",
+            "did": 910
+        },
+        {
+            "utterance": "Alan.  Er war unglaublich!",
+            "emotion": "joy",
+            "did": 910
+        },
+        {
+            "utterance": "Kann ich euch was fragen?",
+            "emotion": "neutral",
+            "did": 910
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "neutral",
+            "did": 910
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "surprise",
+            "did": 910
+        },
+        {
+            "utterance": "Das ist nicht m\u00f6glich. Er kann niemals zu sehr Alan sein.",
+            "emotion": "joy",
+            "did": 910
+        }
+    ],
+    [
+        {
+            "utterance": "Ich will nicht fahren, da komme ich mir so einsam vor.",
+            "emotion": "fear",
+            "did": 460
+        },
+        {
+            "utterance": "Dann haut es zwischen euch nicht hin und du l\u00e4sst dich wieder scheiden.",
+            "emotion": "neutral",
+            "did": 460
+        }
+    ],
+    [
+        {
+            "utterance": "Hi.",
+            "emotion": "neutral",
+            "did": 981
+        },
+        {
+            "utterance": "Du, \u00e4h, hattest doch recht, was Jill angeht.",
+            "emotion": "sadness",
+            "did": 981
+        },
+        {
+            "utterance": "\u00c4hm, sie k\u00fcsste mich.  Was? Ihr habt euch gek\u00fcsst?",
+            "emotion": "sadness",
+            "did": 981
+        },
+        {
+            "utterance": "\u00c4hm, sie k\u00fcsste mich.  Was? Ihr habt euch gek\u00fcsst?",
+            "emotion": "surprise",
+            "did": 981
+        }
+    ],
+    [
+        {
+            "utterance": "Ich schreibe an einem Weihnachtslied. Wollt ihr es euch anh\u00f6ren?",
+            "emotion": "joy",
+            "did": 420
+        },
+        {
+            "utterance": "Das ist toll!  Findest du?",
+            "emotion": "joy",
+            "did": 420
+        },
+        {
+            "utterance": "Das ist toll!  Findest du?",
+            "emotion": "joy",
+            "did": 420
+        },
+        {
+            "utterance": "Aber wei\u00dft du, Rachel reimt sich nicht auf Kreisel.",
+            "emotion": "neutral",
+            "did": 420
+        },
+        {
+            "utterance": "Das wei\u00df ich doch. Aber es reimt sich nichts auf deinen bl\u00f6den Namen!",
+            "emotion": "disgust",
+            "did": 420
+        },
+        {
+            "utterance": "Doch. Auf Rachel reimt sich eine ganze Menge.",
+            "emotion": "neutral",
+            "did": 420
+        },
+        {
+            "utterance": "Alles sehr gut, danke.",
+            "emotion": "neutral",
+            "did": 420
+        },
+        {
+            "utterance": "Dein Vater hat dich \"Spatz\" gerufen.  Ach ja.",
+            "emotion": "neutral",
+            "did": 420
+        }
+    ],
+    [
+        {
+            "utterance": "Sie werden sich ja nicht gleich umbringen.",
+            "emotion": "fear",
+            "did": 496
+        },
+        {
+            "utterance": "Wir sind mit Sicherheit auf der Route .",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Ok, wir sind an einer Rastst\u00e4tte an der Route  und...",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Ich habe die ganze Zeit geschlafen, tut mir leid, Phoebe.",
+            "emotion": "sadness",
+            "did": 496
+        },
+        {
+            "utterance": "K\u00f6nnten Sie nicht jemanden schicken, der die  abf\u00e4hrt?",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Ok.",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Nein, das machen sie nicht.",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Es wird schon jemand vorbeikommen und uns retten.",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Du tr\u00e4umst wohl. Ist hier jemand in den letzten  Stunden vorbeigefahren?",
+            "emotion": "anger",
+            "did": 496
+        },
+        {
+            "utterance": "Wir sollten Ross anrufen. Er besorgt sich einen Wagen und holt uns ab.",
+            "emotion": "neutral",
+            "did": 496
+        },
+        {
+            "utterance": "Nein, ich werde auf gar keinen Fall mit Ross mitfahren.",
+            "emotion": "anger",
+            "did": 496
+        },
+        {
+            "utterance": "Aber es ist doch so kalt.  Nein,",
+            "emotion": "joy",
+            "did": 496
+        },
+        {
+            "utterance": "Aber es ist doch so kalt.  Nein,",
+            "emotion": "anger",
+            "did": 496
+        },
+        {
+            "utterance": "Aber es ist doch so kalt.  Nein,",
+            "emotion": "fear",
+            "did": 496
+        },
+        {
+            "utterance": "Habt ihr keinen gefunden, der uns hilft?",
+            "emotion": "neutral",
+            "did": 496
+        }
+    ],
+    [
+        {
+            "utterance": "Deine Bewerbung sieht wirklich sehr gut aus.",
+            "emotion": "joy",
+            "did": 855
+        },
+        {
+            "utterance": "Keine Sorge, ich bin kein Partygirl.",
+            "emotion": "neutral",
+            "did": 855
+        },
+        {
+            "utterance": "Moment.",
+            "emotion": "joy",
+            "did": 855
+        },
+        {
+            "utterance": "Du kannst deine neue Mitbewohnerin vergessen. Ich werde hier wohnen.",
+            "emotion": "joy",
+            "did": 855
+        },
+        {
+            "utterance": "H\u00f6r nicht hin, der Typ will unbedingt das Zimmer haben.",
+            "emotion": "sadness",
+            "did": 855
+        },
+        {
+            "utterance": "Wieso hast du den Duschvorhang abgeh\u00e4ngt?",
+            "emotion": "surprise",
+            "did": 855
+        },
+        {
+            "utterance": "Weil der zu gef\u00e4hrlich war.",
+            "emotion": "fear",
+            "did": 855
+        }
+    ],
+    [
+        {
+            "utterance": "Gebt mir irgendwas zum Fotokopieren.",
+            "emotion": "neutral",
+            "did": 274
+        },
+        {
+            "utterance": "Was willst du in dem Laden, wenn du keine Fotokopien brauchst?",
+            "emotion": "neutral",
+            "did": 274
+        },
+        {
+            "utterance": "Klar. Und kommst du mit?",
+            "emotion": "joy",
+            "did": 274
+        },
+        {
+            "utterance": "Ja!",
+            "emotion": "joy",
+            "did": 274
+        },
+        {
+            "utterance": "{\\an}Wenn ich heirate, bist du mein Trauzeuge.",
+            "emotion": "anger",
+            "did": 274
+        },
+        {
+            "utterance": "Wir schenken ihr Sachen, die sie nach der Schwangerschaft benutzen kann.",
+            "emotion": "neutral",
+            "did": 274
+        },
+        {
+            "utterance": "Die Stripperin hat den Ring gestohlen!",
+            "emotion": "surprise",
+            "did": 274
+        },
+        {
+            "utterance": "Was?  Ja, der Ring ist verschwunden!",
+            "emotion": "surprise",
+            "did": 274
+        },
+        {
+            "utterance": "Was?  Ja, der Ring ist verschwunden!",
+            "emotion": "surprise",
+            "did": 274
+        },
+        {
+            "utterance": "Oh. Ok, nun lass mich doch erst mal wach werden.",
+            "emotion": "disgust",
+            "did": 274
+        },
+        {
+            "utterance": "Den Ring verloren? Du bist ein mieser Trauzeuge.",
+            "emotion": "joy",
+            "did": 274
+        },
+        {
+            "utterance": "Das ist nicht witzig. Als ich schlafen ging, war alles in Ordnung.",
+            "emotion": "fear",
+            "did": 274
+        },
+        {
+            "utterance": "Das ist nicht witzig. Als ich schlafen ging, war alles in Ordnung.",
+            "emotion": "anger",
+            "did": 274
+        },
+        {
+            "utterance": "Als ich aufwachte, war die Stripperin weg und der Ring auch.",
+            "emotion": "fear",
+            "did": 274
+        },
+        {
+            "utterance": "Du warst mit der Stripperin im Bett?  Nat\u00fcrlich!",
+            "emotion": "surprise",
+            "did": 274
+        }
+    ],
+    [
+        {
+            "utterance": "Ich lasse mir die N\u00e4gel machen!",
+            "emotion": "surprise",
+            "did": 190
+        },
+        {
+            "utterance": "Da ist einer.",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "Erinnerst du dich, wer solche N\u00e4gel hatte?",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "{\\an} Oh ja, das sieht gut aus.  Ihr seid ein sehr attraktives Paar.",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "{\\an} Wir sehen ganz toll aus.  Das muss ich aber auch sagen.",
+            "emotion": "joy",
+            "did": 190
+        },
+        {
+            "utterance": "{\\an}Verstehe.",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "{\\an}Das brauchen wir uns nicht vorzustellen.",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "{\\an}Ich werde sie heiraten.",
+            "emotion": "joy",
+            "did": 190
+        },
+        {
+            "utterance": "{\\an}Das werden wir noch sehen.",
+            "emotion": "neutral",
+            "did": 190
+        }
+    ],
+    [
+        {
+            "utterance": "Ich bin nicht schwul und ich m\u00f6chte nicht, dass Sie das von mir denken.",
+            "emotion": "joy",
+            "did": 881
+        }
+    ],
+    [
+        {
+            "utterance": "Also, diese kleinen Frauen!",
+            "emotion": "surprise",
+            "did": 677
+        },
+        {
+            "utterance": "Die gefallen dir, h\u00e4?",
+            "emotion": "neutral",
+            "did": 677
+        },
+        {
+            "utterance": "Und wie! Amy hat pl\u00f6tzlich Jos Manuskript verbrannt.",
+            "emotion": "joy",
+            "did": 677
+        },
+        {
+            "utterance": "{\\an}Jo ist eine Frau. Jo hei\u00dft eigentlich Josephine.",
+            "emotion": "neutral",
+            "did": 677
+        }
+    ],
+    [
+        {
+            "utterance": "Hey, Joey. Was machst du?",
+            "emotion": "neutral",
+            "did": 1022
+        },
+        {
+            "utterance": "Ich fege ein bisschen. T\u00f6rnt es dich an?",
+            "emotion": "neutral",
+            "did": 1022
+        },
+        {
+            "utterance": "Nein.",
+            "emotion": "neutral",
+            "did": 1022
+        },
+        {
+            "utterance": "Und wenn ich, \u00e4h, einen Kamin fegen w\u00fcrde?",
+            "emotion": "joy",
+            "did": 1022
+        },
+        {
+            "utterance": "Wo gehst du hin? Der Vikar kommt erst in ein paar Stunden wieder.",
+            "emotion": "joy",
+            "did": 1022
+        },
+        {
+            "utterance": "Joey, woher kennst du dieses Wort?",
+            "emotion": "surprise",
+            "did": 1022
+        },
+        {
+            "utterance": "Na ja, das kenne ich von...",
+            "emotion": "neutral",
+            "did": 1022
+        },
+        {
+            "utterance": "Du hast mein Buch gefunden?  Ja, ja, genau!",
+            "emotion": "anger",
+            "did": 1022
+        },
+        {
+            "utterance": "Was hast du denn in meinem Schlafzimmer zu suchen?",
+            "emotion": "anger",
+            "did": 1022
+        },
+        {
+            "utterance": "Das war ein Fehler. Aber das ist ja Porno, Rachel!",
+            "emotion": "surprise",
+            "did": 1022
+        },
+        {
+            "utterance": "Ja, na und? Ich sch\u00e4me mich nicht f\u00fcr mein Buch.",
+            "emotion": "anger",
+            "did": 1022
+        },
+        {
+            "utterance": "Was ist schon dabei, wenn eine Frau an erotischer Literatur Freude hat?",
+            "emotion": "neutral",
+            "did": 1022
+        },
+        {
+            "utterance": "Das ist eine gesunde Handhabung f\u00fcr die weibliche Sexualit\u00e4t.",
+            "emotion": "anger",
+            "did": 1022
+        },
+        {
+            "utterance": "Rachel liest Pornos.",
+            "emotion": "joy",
+            "did": 1022
+        },
+        {
+            "utterance": "{\\an}\u00c4h, ich habe was geknackt?",
+            "emotion": "joy",
+            "did": 1022
+        }
+    ],
+    [
+        {
+            "utterance": "Hm. Also, ich wei\u00df nicht.  Was?",
+            "emotion": "sadness",
+            "did": 191
+        },
+        {
+            "utterance": "Wenn man bedenkt, wie alt er in Hundejahren ist,",
+            "emotion": "sadness",
+            "did": 191
+        },
+        {
+            "utterance": "Rachel?  Ja?",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Erinnerst du dich, dass du von einer Bedienung eingearbeitet wurdest?",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Oh, sicher. Soll ich jemanden einarbeiten?",
+            "emotion": "joy",
+            "did": 191
+        },
+        {
+            "utterance": "Ha, ha, ha. Du hast Humor.",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Ist das zu glauben?",
+            "emotion": "surprise",
+            "did": 191
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Dass ich einen Job habe?",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Hey, hey, hey! Bei meinem Porsche wird nicht rumgesprungen!",
+            "emotion": "anger",
+            "did": 191
+        },
+        {
+            "utterance": "Hi! Na, wie geht's denn?",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "Er hat da einen unglaublichen Porsche unter der H\u00fclle.",
+            "emotion": "joy",
+            "did": 191
+        },
+        {
+            "utterance": "Ich w\u00fcrde ihn euch ja zeigen, aber er schl\u00e4ft ein bisschen.",
+            "emotion": "neutral",
+            "did": 191
+        },
+        {
+            "utterance": "H\u00e4ttet ihr Lust, was trinken zu gehen?",
+            "emotion": "neutral",
+            "did": 191
+        }
+    ],
+    [
+        {
+            "utterance": "Na fein! Dann sagst du es aber Roger, er hat sich n\u00e4mlich sehr darauf gefreut!",
+            "emotion": "anger",
+            "did": 454
+        }
+    ],
+    [
+        {
+            "utterance": "Darf ich reinkommen?",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "\u00c4h, wenn du willst.",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Willst du, dass ich reinkomme?",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Ja, sicher. Wieso nicht?  Na gut, ich will es auch.",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Bevor wir  einen Fehler machen,",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Es geht nur um heute Abend.",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Ich will nachher keine Diskussionen f\u00fchren, wie's mit uns weitergehen soll.",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Wir beide wissen,",
+            "emotion": "joy",
+            "did": 266
+        },
+        {
+            "utterance": "Worum bitte, \u00e4h,",
+            "emotion": "neutral",
+            "did": 266
+        },
+        {
+            "utterance": "Na, um einen spontanen Liebesakt.",
+            "emotion": "joy",
+            "did": 266
+        },
+        {
+            "utterance": "Du hast sie nicht alle!",
+            "emotion": "surprise",
+            "did": 266
+        },
+        {
+            "utterance": "Dann hattest du also nicht vor, mich zu verf\u00fchren?",
+            "emotion": "surprise",
+            "did": 266
+        },
+        {
+            "utterance": "Oh, du hast mich gesehen?",
+            "emotion": "surprise",
+            "did": 266
+        },
+        {
+            "utterance": "Dann sollte dieser Nackttanz gar kein Verf\u00fchrungsversuch sein?",
+            "emotion": "joy",
+            "did": 266
+        },
+        {
+            "utterance": "Nein!",
+            "emotion": "anger",
+            "did": 266
+        },
+        {
+            "utterance": "Nein.",
+            "emotion": "joy",
+            "did": 266
+        }
+    ],
+    [
+        {
+            "utterance": "Oh, mein Gott, das tut mir wirklich leid.",
+            "emotion": "fear",
+            "did": 150
+        },
+        {
+            "utterance": "Ah, halb so wild, der ist furchtbar alt.",
+            "emotion": "neutral",
+            "did": 150
+        },
+        {
+            "utterance": "Sie heiraten Rachel nicht, obwohl Sie sie geschw\u00e4ngert haben?",
+            "emotion": "anger",
+            "did": 150
+        },
+        {
+            "utterance": "Das ist jetzt wirklich kein g\u00fcnstiger Zeitpunkt f\u00fcr mich.",
+            "emotion": "sadness",
+            "did": 150
+        },
+        {
+            "utterance": "Man beobachtet uns.  Ist mir egal.",
+            "emotion": "anger",
+            "did": 150
+        },
+        {
+            "utterance": "Man beobachtet uns.  Ist mir egal.",
+            "emotion": "sadness",
+            "did": 150
+        },
+        {
+            "utterance": "Also, \u00e4hm, ok. Ich...",
+            "emotion": "sadness",
+            "did": 150
+        },
+        {
+            "utterance": "Du kannst nicht gehen! Ich habe deinen Schuh!",
+            "emotion": "sadness",
+            "did": 150
+        },
+        {
+            "utterance": "Leb wohl, Chandler Bing.",
+            "emotion": "sadness",
+            "did": 150
+        },
+        {
+            "utterance": "Rachel hat die in Burgunder.",
+            "emotion": "neutral",
+            "did": 150
+        }
+    ],
+    [
+        {
+            "utterance": "Wir sind die N\u00e4chsten. Denk nach, was soll das hier nicht werden?",
+            "emotion": "neutral",
+            "did": 815
+        },
+        {
+            "utterance": "Na, so ein WerbespotChaos.  Ganz genau.",
+            "emotion": "neutral",
+            "did": 815
+        },
+        {
+            "utterance": "Was solltest du nicht tun?",
+            "emotion": "neutral",
+            "did": 815
+        },
+        {
+            "utterance": "Ich soll nicht reden, weil...  Warum redest du denn dann?",
+            "emotion": "neutral",
+            "did": 815
+        }
+    ],
+    [
+        {
+            "utterance": "Das ist die Art, wie ihn die Franzosen trinken.",
+            "emotion": "joy",
+            "did": 748
+        }
+    ],
+    [
+        {
+            "utterance": "Da ist er ja!",
+            "emotion": "neutral",
+            "did": 432
+        }
+    ],
+    [
+        {
+            "utterance": "Bevor Sie in eine neue Unterhaltung einsteigen,",
+            "emotion": "joy",
+            "did": 207
+        },
+        {
+            "utterance": "Ich spiele mit dem Gedanken, ein Restaurant zu er\u00f6ffnen.",
+            "emotion": "joy",
+            "did": 207
+        },
+        {
+            "utterance": "Nichts Besonderes, ich unterhalte mich.",
+            "emotion": "neutral",
+            "did": 207
+        },
+        {
+            "utterance": "Erwartest du, dass ich schweigend dasitze, w\u00e4hrend ihr euch unterhaltet?",
+            "emotion": "anger",
+            "did": 207
+        },
+        {
+            "utterance": "Au! Oh Gott. Oh.",
+            "emotion": "sadness",
+            "did": 207
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "sadness",
+            "did": 207
+        }
+    ],
+    [
+        {
+            "utterance": "Hat sie schon einen Namen?  Nein, noch nicht.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Hat sie schon einen Namen?  Nein, noch nicht.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Macht nichts. Dann nennen wir sie jetzt noch BabyGirlGreen.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Oh nein. BabyGirlGellerGreen.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Hallo, BabyGirl.",
+            "emotion": "joy",
+            "did": 77
+        },
+        {
+            "utterance": "Wie kommst du zu dem Ding da?",
+            "emotion": "surprise",
+            "did": 77
+        },
+        {
+            "utterance": "Als Mom und Dad dich wegen deiner Nase ins Krankenhaus gefahren haben,",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Der Pokal geh\u00f6rt mir!",
+            "emotion": "anger",
+            "did": 77
+        },
+        {
+            "utterance": "Da liegst du falsch. Wenn du ihn haben willst, musst du ihn gewinnen.",
+            "emotion": "anger",
+            "did": 77
+        },
+        {
+            "utterance": "Gibt's heute eigentlich nichts zu essen?",
+            "emotion": "sadness",
+            "did": 77
+        },
+        {
+            "utterance": "Das ist Emma.  Wem sieht sie denn nun \u00e4hnlich?",
+            "emotion": "surprise",
+            "did": 77
+        },
+        {
+            "utterance": "Das ist Emma.  Wem sieht sie denn nun \u00e4hnlich?",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Tut mir leid. Wieso seid ihr nicht zusammen? Ich frage auch nie wieder.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Ja, ich wei\u00df. Weil ihr euch nicht zusammengeh\u00f6rig f\u00fchlt.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Was \u00fcbrigens auf dich \u00fcberhaupt nicht zutrifft.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Das ist alles sehr kompliziert, ok?",
+            "emotion": "sadness",
+            "did": 77
+        },
+        {
+            "utterance": "Du liebst sie. Du hast sie immer geliebt, und nun ist auch ein Kind da.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Wir waren zusammen. Dann waren wir es nicht mehr. Und dann wieder doch.",
+            "emotion": "sadness",
+            "did": 77
+        },
+        {
+            "utterance": "Was ist, wenn wir einen neuen Versuch starten und es wieder nicht hinhaut?",
+            "emotion": "sadness",
+            "did": 77
+        },
+        {
+            "utterance": "Sag mal, machen die hier irgendwas ins Wasser?",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Rachel und ich kommen zurzeit aufs Beste miteinander zurecht.",
+            "emotion": "sadness",
+            "did": 77
+        },
+        {
+            "utterance": "Ja, und das k\u00f6nnte vielleicht kaputt gehen, wenn ihr es noch mal versucht.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Oder du bekommst alles, was du seit deiner Jugend haben wolltest.",
+            "emotion": "neutral",
+            "did": 77
+        },
+        {
+            "utterance": "Ok.",
+            "emotion": "neutral",
+            "did": 77
+        }
+    ],
+    [
+        {
+            "utterance": "Bing! Oh! Und die Bingette!  Ah, ha.",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Die Scheidung ist rechts kr\u00e4ftig, ich hab die Papiere unterschrieben.",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Ich wusste nicht, dass Sie sich scheiden lassen, tut mir leid.",
+            "emotion": "sadness",
+            "did": 222
+        },
+        {
+            "utterance": "Doch Ihnen kann ich nur gratulieren!  Ha, ja, danke, keine B\u00e4renfalle in Sicht.",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Na ja, warten Sie es ab!",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Jedenfalls bin ich geschieden, da h\u00e4tten wir was zu feiern!",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Wie w\u00e4r's, wenn wir morgen essen gehen?",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Ich hab eine Gerichtsverhandlung, die geht bis .",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Ich hab F\u00e4lle mit sexueller Bel\u00e4stigung, aber die werd ich abschmettern. Ha, ha, ha.",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Nein.  Er war nicht eingeladen,",
+            "emotion": "disgust",
+            "did": 222
+        },
+        {
+            "utterance": "Nein.  Er war nicht eingeladen,",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Monica, welches w\u00fcrdest du anziehen, wenn du heute mit Joshua schlafen wolltest?",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Es ist mir unangenehm, f\u00fcr andere Dessous auszusuchen.",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Entschuldige. Ich bin nur so aufgeregt.",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Ich warte seit Monaten auf diesen Moment. Ich habe mir die Haare get\u00f6nt,",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Ich warte seit Monaten auf diesen Moment. Ich habe mir die Haare get\u00f6nt,",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "ich habe neue Bettw\u00e4sche und ich koche etwas ganz Besonderes.",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "ich habe neue Bettw\u00e4sche und ich koche etwas ganz Besonderes.",
+            "emotion": "joy",
+            "did": 222
+        },
+        {
+            "utterance": "Was mache ich ihm \u00fcbrigens?",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Du machst ihm einen FriseeSalat mit Ziegenk\u00e4se und Pinienkernen,",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Ich dachte, ich mache Filet Mignon f\u00fcr ihn.",
+            "emotion": "surprise",
+            "did": 222
+        },
+        {
+            "utterance": "Aber dann hast du gemerkt, dass im Restaurant Lachs \u00fcbrig ist.",
+            "emotion": "neutral",
+            "did": 222
+        },
+        {
+            "utterance": "Dann fiel dir ein, dass du was falsch machen k\u00f6nntest,",
+            "emotion": "anger",
+            "did": 222
+        },
+        {
+            "utterance": "So viele Gedanken mache ich mir \u00fcbers Kochen?",
+            "emotion": "surprise",
+            "did": 222
+        }
+    ],
+    [
+        {
+            "utterance": "Oh, das hat sie gemeint.",
+            "emotion": "surprise",
+            "did": 730
+        },
+        {
+            "utterance": "Wenn man es abk\u00fcrzt, sollte man \"Muse\" sagen, verstehst du?",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Ja, meistens laufen dort lauter verwirrte, w\u00fctende Baseballfans rum.",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Also gut, dann gehe ich mit ihr zum Met.",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Es gibt einen ausgefallenen Buchladen auf der Madison Avenue.",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Und wei\u00dft du was? Sie liebt Architektur.",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Und wei\u00dft du was? Sie liebt Architektur.",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Macht einen Spaziergang von der Fifth bis zur St. Patrick's Cathedral.",
+            "emotion": "joy",
+            "did": 730
+        },
+        {
+            "utterance": "H\u00f6rt sich an, als solltest du ein Date mit ihr haben.",
+            "emotion": "surprise",
+            "did": 730
+        },
+        {
+            "utterance": "Und wei\u00dft du was?  Jetzt mal langsam.",
+            "emotion": "surprise",
+            "did": 730
+        },
+        {
+            "utterance": "Und wei\u00dft du was?  Jetzt mal langsam.",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Das geht mir zu schnell. Ok?",
+            "emotion": "neutral",
+            "did": 730
+        },
+        {
+            "utterance": "Du musst mir genau sagen, was ich dort tun soll.",
+            "emotion": "neutral",
+            "did": 730
+        }
+    ],
+    [
+        {
+            "utterance": "Ach.  Ja, ach.",
+            "emotion": "neutral",
+            "did": 408
+        },
+        {
+            "utterance": "Ach.  Ja, ach.",
+            "emotion": "neutral",
+            "did": 408
+        },
+        {
+            "utterance": "Ich geh morgen zu meiner \u00c4rztin. Bestimmt wird's daf\u00fcr eine Pille geben.",
+            "emotion": "neutral",
+            "did": 408
+        },
+        {
+            "utterance": "Genau das ist jetzt angesagt, eine Pille.",
+            "emotion": "neutral",
+            "did": 408
+        }
+    ],
+    [
+        {
+            "utterance": "Hi.  Hi.",
+            "emotion": "neutral",
+            "did": 245
+        },
+        {
+            "utterance": "Was soll das?",
+            "emotion": "surprise",
+            "did": 245
+        },
+        {
+            "utterance": "Das sind nur ein paar Bilder, die ich gemalt und aufgeh\u00e4ngt habe.",
+            "emotion": "joy",
+            "did": 245
+        },
+        {
+            "utterance": "Nein! Lass das!",
+            "emotion": "fear",
+            "did": 245
+        }
+    ],
+    [
+        {
+            "utterance": "Ok. Also,",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Komm her!",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Das ist Monica...  Hi.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "...und Joey  Hi.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Ha, ha. Er spricht leider fast nur Italienisch.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Ja, sieh mal einer an!",
+            "emotion": "surprise",
+            "did": 76
+        },
+        {
+            "utterance": "Woher kommt Paolo?",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Nein, ich meine, wie ist er heute ins Haus reingekommen, in unser Leben?",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Wie sich rausstellte, geh\u00f6rt die Katze Paolo. Lustig, was?",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Das ist lustig. Besonders wie sie ihn dauernd anfasst.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Ich habe \u00fcberall gesucht, aber ich konnte sie nirgendwo finden.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Ich hab sie gefunden. Es ist Paolos Katze.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Ah. Da habt ihr's. Ich erfahre es wieder als Letzte.",
+            "emotion": "joy",
+            "did": 76
+        },
+        {
+            "utterance": "Hey. Wow.",
+            "emotion": "surprise",
+            "did": 76
+        },
+        {
+            "utterance": "Oh. Paolo, das ist Phoebe.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Wenn du im Bett liegst mit einer Frau...",
+            "emotion": "joy",
+            "did": 76
+        },
+        {
+            "utterance": "Charmant, danke!",
+            "emotion": "joy",
+            "did": 76
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "schie\u00dfen dauernd Bilder durch deinen Kopf",
+            "emotion": "joy",
+            "did": 76
+        },
+        {
+            "utterance": "Und dann f\u00e4llt dir auf einmal deine Mutter ein.",
+            "emotion": "anger",
+            "did": 76
+        },
+        {
+            "utterance": "\"Mom, na los, verschwinde!\"",
+            "emotion": "anger",
+            "did": 76
+        },
+        {
+            "utterance": "Du verstehst schon... Na, du verstehst das doch!",
+            "emotion": "surprise",
+            "did": 76
+        },
+        {
+            "utterance": "Deine Mutter? Du musst dabei an deine Mutter denken? Du spinnst doch wohl!",
+            "emotion": "disgust",
+            "did": 76
+        },
+        {
+            "utterance": "Du wolltest doch, dass...  Ich wollte keine Horrorstorys!",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Du wolltest doch, dass...  Ich wollte keine Horrorstorys!",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Tja, wie mir scheint, \u00e4h, kennt jeder diese WesteuropaGeschichte.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Es spielt doch \u00fcberhaupt keine Rolle, wer wen zuerst angemacht hat.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Es spielt doch \u00fcberhaupt keine Rolle, wer wen zuerst angemacht hat.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Ich meine, es w\u00e4re auf jeden Fall passiert.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Bestimmt h\u00e4tte ich die Initiative ergriffen, wenn du es nicht getan h\u00e4ttest.",
+            "emotion": "neutral",
+            "did": 76
+        },
+        {
+            "utterance": "Es war eine berauschende Nacht.  Ja, es war eine berauschende Nacht.",
+            "emotion": "joy",
+            "did": 76
+        },
+        {
+            "utterance": "Es war eine berauschende Nacht.  Ja, es war eine berauschende Nacht.",
+            "emotion": "joy",
+            "did": 76
+        }
+    ],
+    [
+        {
+            "utterance": "Super Wagen.  Das ist nicht meiner.",
+            "emotion": "joy",
+            "did": 719
+        },
+        {
+            "utterance": "Ihr Wagen ist ja toll.  Das ist meiner.",
+            "emotion": "joy",
+            "did": 719
+        },
+        {
+            "utterance": "Der ist bestimmt schnell.  Glaube ich auch. Ja.",
+            "emotion": "neutral",
+            "did": 719
+        },
+        {
+            "utterance": "Und komfortabel.",
+            "emotion": "neutral",
+            "did": 719
+        },
+        {
+            "utterance": "M\u00f6gen Sie, \u00e4h, Ledersitze?  Ja.",
+            "emotion": "joy",
+            "did": 719
+        },
+        {
+            "utterance": "Er hat welche!",
+            "emotion": "joy",
+            "did": 719
+        }
+    ],
+    [
+        {
+            "utterance": "Ich will der, \u00e4h, wahren Liebe ja nicht im Weg stehen,",
+            "emotion": "joy",
+            "did": 29
+        },
+        {
+            "utterance": "Ich wei\u00df, das w\u00e4re was f\u00fcr dich. Ich hab ja auch zuerst an dich gedacht,",
+            "emotion": "anger",
+            "did": 29
+        },
+        {
+            "utterance": "Tut mir leid, da ist keine.  Keine da?",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "Was?",
+            "emotion": "surprise",
+            "did": 29
+        },
+        {
+            "utterance": "Wendy, du hast fest zugesagt.",
+            "emotion": "anger",
+            "did": 29
+        },
+        {
+            "utterance": "Wer war das?",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "Das ist aber schlecht.",
+            "emotion": "sadness",
+            "did": 29
+        },
+        {
+            "utterance": "$ die Stunde.  Nein.",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "$ die Stunde.",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "Monica, ich w\u00fcrd dir ja den Gefallen tun, aber ich wollte spazieren gehen.",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "Ich hab dir ein Dach \u00fcber dem Kopf geboten, wenn dir das nichts bedeutet...",
+            "emotion": "anger",
+            "did": 29
+        },
+        {
+            "utterance": "Gut.",
+            "emotion": "joy",
+            "did": 29
+        },
+        {
+            "utterance": "Waren wir. Und Sie haben noch alle Ihre Lampen.",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "Ich habe die Steuer vergessen.  Keine Sorge, Kumpel.",
+            "emotion": "surprise",
+            "did": 29
+        },
+        {
+            "utterance": "Ein Zimmerwagen war unbeaufsichtigt. Wir liegen weit vorn.",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "In der Schale ist was Neues.",
+            "emotion": "surprise",
+            "did": 29
+        },
+        {
+            "utterance": "Wir haben genug. Gehen wir.  Aber ich will die Kiefernzapfen.",
+            "emotion": "fear",
+            "did": 29
+        },
+        {
+            "utterance": "Gleich drau\u00dfen ist der Wald.  Das ist nicht dasselbe.",
+            "emotion": "neutral",
+            "did": 29
+        },
+        {
+            "utterance": "Ok, aber mach schnell.",
+            "emotion": "fear",
+            "did": 29
+        },
+        {
+            "utterance": "Danke f\u00fcr den angenehmen Aufenthalt.",
+            "emotion": "joy",
+            "did": 29
+        },
+        {
+            "utterance": "Meine Ahornsiruppralinen!",
+            "emotion": "joy",
+            "did": 29
+        }
+    ],
+    [
+        {
+            "utterance": "Das finde ich unglaublich.",
+            "emotion": "anger",
+            "did": 1035
+        },
+        {
+            "utterance": "{\\an} Unfassbar.  Die Hochzeit ist noch nicht geplant.",
+            "emotion": "neutral",
+            "did": 1035
+        },
+        {
+            "utterance": "{\\an} Unfassbar.  Die Hochzeit ist noch nicht geplant.",
+            "emotion": "neutral",
+            "did": 1035
+        },
+        {
+            "utterance": "{\\an}Du sollst mein Trauzeuge sein.",
+            "emotion": "anger",
+            "did": 1035
+        },
+        {
+            "utterance": "{\\an}Ja, gern. Das ist aber wirklich sehr schade f\u00fcr dich.",
+            "emotion": "joy",
+            "did": 1035
+        }
+    ],
+    [
+        {
+            "utterance": "Ich wollte dich nur zum Schweigen bringen, damit ich dir...",
+            "emotion": "joy",
+            "did": 761
+        },
+        {
+            "utterance": "So geht das doch nicht!",
+            "emotion": "anger",
+            "did": 761
+        },
+        {
+            "utterance": "Jetzt reicht es aber mal!  Nein! Au! Au!",
+            "emotion": "anger",
+            "did": 761
+        },
+        {
+            "utterance": "Warum macht ihr so einen Bl\u00f6dsinn?",
+            "emotion": "anger",
+            "did": 761
+        },
+        {
+            "utterance": "Au!  Au!",
+            "emotion": "anger",
+            "did": 761
+        },
+        {
+            "utterance": "Ich werde euch erst loslassen, wenn ihr mir versprecht, ganz brav zu sein.",
+            "emotion": "neutral",
+            "did": 761
+        },
+        {
+            "utterance": "Gut gemacht, Kinder.",
+            "emotion": "neutral",
+            "did": 761
+        }
+    ],
+    [
+        {
+            "utterance": "Sie trafen doch nur jemanden, den Sie mochten, und k\u00fcssten ihn.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Ich habe dich auch nicht f\u00fcr schwul gehalten, aber jetzt schon.",
+            "emotion": "joy",
+            "did": 253
+        },
+        {
+            "utterance": "Meine Freundin Rachel wollte, dass ich was f\u00fcr sie arrangiere.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Ich habe gerade eine Beziehung hinter mir. Ich will jetzt nichts Ernsthaftes.",
+            "emotion": "sadness",
+            "did": 253
+        },
+        {
+            "utterance": "Das w\u00e4re ok. Rachel sucht nur ein Abenteuer.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Halt, Halt! Ist das diese hei\u00dfe Rachel, die mit auf der Weihnachtsfeier war?",
+            "emotion": "surprise",
+            "did": 253
+        },
+        {
+            "utterance": "Das ist \u00fcbrigens ihr ganzer Name.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Sekunde! Ich sagte nicht, dass ich nicht will.",
+            "emotion": "surprise",
+            "did": 253
+        },
+        {
+            "utterance": "Wie w\u00e4r's, wenn wir das morgen bei den Rangers besprechen?",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Eigentlich wollte ich nicht so lange bleiben, aber in so einem Fall...",
+            "emotion": "joy",
+            "did": 253
+        },
+        {
+            "utterance": "Vor dem Spiel ziehen wir uns einen j\u00e4hrigen Basil Hayden's rein.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Ich wei\u00df zwar nicht, was das ist, aber ja, sehr gern!",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Meine Probe ist dort im Zimmer.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Das hat die Sache wirklich beschleunigt.",
+            "emotion": "joy",
+            "did": 253
+        },
+        {
+            "utterance": "Sid ist noch drin.",
+            "emotion": "neutral",
+            "did": 253
+        },
+        {
+            "utterance": "Zuhause gibt's keine Pornos, daher ist das hier wie Urlaub f\u00fcr ihn.",
+            "emotion": "joy",
+            "did": 253
+        },
+        {
+            "utterance": "Hast du's geschafft und deine Probe produziert?",
+            "emotion": "surprise",
+            "did": 253
+        },
+        {
+            "utterance": "Ja, das Schlimmste ist vorbei.  Das ist doch nicht das Schlimmste.",
+            "emotion": "joy",
+            "did": 253
+        },
+        {
+            "utterance": "Das kommt noch. Bist du nicht wegen der Ergebnisse beunruhigt?",
+            "emotion": "fear",
+            "did": 253
+        },
+        {
+            "utterance": "Ich habe noch nicht mal \u00fcber die Ergebnisse nachgedacht.",
+            "emotion": "joy",
+            "did": 253
+        },
+        {
+            "utterance": "Tja, vermutlich ist es das auch.",
+            "emotion": "neutral",
+            "did": 253
+        }
+    ],
+    [
+        {
+            "utterance": "Phoebe.  Ja?",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Phoebe.  Ja?",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Sieh dir den Typ am Fenster an. Wow!",
+            "emotion": "surprise",
+            "did": 622
+        },
+        {
+            "utterance": "Der ist ja ganz sch\u00f6n klein und er f\u00fchrt Selbstgespr\u00e4che.",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Ah, was ist nur mit mir los? Ich brauch nur einen Mann anzusehen...",
+            "emotion": "sadness",
+            "did": 622
+        },
+        {
+            "utterance": "Sieh dir z. B. mal den Jungen an. Normalerweise ist das nicht mein Typ,",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Hey, warte, du bist doch jetzt ungef\u00e4hr im vierten Monat.",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Ja.  Dann ist es ganz normal.",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Ja.  Dann ist es ganz normal.",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Wirklich? Ist dir das auch passiert?  Aber ja, sicher.",
+            "emotion": "surprise",
+            "did": 622
+        },
+        {
+            "utterance": "Und ich habe Drillinge bekommen.",
+            "emotion": "neutral",
+            "did": 622
+        },
+        {
+            "utterance": "Dann kapier ich das auch viel besser.",
+            "emotion": "joy",
+            "did": 622
+        },
+        {
+            "utterance": "Ja, ich hab immer versucht, eine Pappfigur von Evander Holyfield zu klauen.",
+            "emotion": "neutral",
+            "did": 622
+        }
+    ],
+    [
+        {
+            "utterance": "{\\an}Wir organisieren eine Dinnerparty und laden ihre Freunde ein.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Kariert geht zur\u00fcck, wir entscheiden uns f\u00fcr Pink.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "So machen wir das.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "So machen wir das.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Ich bin ganz Ihrer Meinung.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Ist die Zigarette nicht in Ordnung?  Doch.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Ich versuche nur, ein bisschen k\u00fcrzer zu treten. Das wird langsam Zeit.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Ich wollte auch aufh\u00f6ren.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Immer dasselbe.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Wollen wir nicht zusammen aufh\u00f6ren?  Das h\u00f6rt sich himmlisch an.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Das k\u00f6nnte ich nicht.  Aber nat\u00fcrlich.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Das k\u00f6nnte ich nicht.  Aber nat\u00fcrlich.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Das k\u00f6nnte ich nicht.  Aber nat\u00fcrlich.",
+            "emotion": "neutral",
+            "did": 614
+        },
+        {
+            "utterance": "Wir unterst\u00fctzen uns gegenseitig. Es gibt doch Pflaster.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Dann sind wir die Pflasterschwestern.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Ja, ich finde auch, dass wir aufh\u00f6ren sollten.",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Klasse! Her mit den Zigaretten!",
+            "emotion": "joy",
+            "did": 614
+        },
+        {
+            "utterance": "Dieses Feuerzeug hatte mir mein verstorbener Mann geschenkt.",
+            "emotion": "sadness",
+            "did": 614
+        },
+        {
+            "utterance": "Ah, ich verstehe. Moment.",
+            "emotion": "joy",
+            "did": 614
+        }
+    ],
+    [
+        {
+            "utterance": "Wirklich?  Ja. Hallo.",
+            "emotion": "surprise",
+            "did": 79
+        },
+        {
+            "utterance": "Was willst du heute Abend machen?  Oh, nun, vielleicht k\u00f6nnten wir, \u00e4h...",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Was willst du heute Abend machen?  Oh, nun, vielleicht k\u00f6nnten wir, \u00e4h...",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Du willst mich ant\u00f6rnen, indem du ein Chaos veranstaltest?",
+            "emotion": "joy",
+            "did": 79
+        },
+        {
+            "utterance": "Au\u00dferdem machen wir morgen diesen Fruchtbarkeitstest.",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "M\u00fcssen wir wirklich diesen Test machen?",
+            "emotion": "sadness",
+            "did": 79
+        },
+        {
+            "utterance": "Wir versuchen seit einem Jahr, ein Baby zu kriegen.",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Wir sollten wirklich untersuchen, ob alles ok ist.",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Alles reine Routine.  Ich will es nicht in einen Becher tun.",
+            "emotion": "sadness",
+            "did": 79
+        },
+        {
+            "utterance": "Oh.  Hi.",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Das ist wahr!",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Oh, Joey! Tut mir leid.  lst schon ok, das macht nichts.",
+            "emotion": "neutral",
+            "did": 79
+        },
+        {
+            "utterance": "Sieh dir das an. Das gibt einen Fleck.",
+            "emotion": "disgust",
+            "did": 79
+        },
+        {
+            "utterance": "Rachel, reg dich nicht auf. Hier wohnt doch Joey.",
+            "emotion": "joy",
+            "did": 79
+        },
+        {
+            "utterance": "Wirklich?  Ja, sieh her.",
+            "emotion": "surprise",
+            "did": 79
+        },
+        {
+            "utterance": "So etwas habe ich noch nie gemacht.  Ich wei\u00df.",
+            "emotion": "disgust",
+            "did": 79
+        },
+        {
+            "utterance": "Man sollte aber mit dem Essen auch nicht so rumspielen.",
+            "emotion": "neutral",
+            "did": 79
+        }
+    ],
+    [
+        {
+            "utterance": "Hey.  Hey.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "Hast du Post f\u00fcr mich?",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "Ein Schreiben von der Schauspielervereinigung.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "Uh. Bestimmt ein Scheck f\u00fcr eine Wiederholungsgage. Mach mal auf.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "\"Kein Zuwendungsanspruch.\"  Hm. Sehr merkw\u00fcrdig.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "\"Kein Zuwendungsanspruch.\"  Hm. Sehr merkw\u00fcrdig.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "Hier steht, dass deine Krankenversicherung abgelaufen ist.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "Weil du nicht genug gearbeitet hast.  Los, zeig her.",
+            "emotion": "surprise",
+            "did": 486
+        },
+        {
+            "utterance": "Das glaube ich einfach nicht!",
+            "emotion": "surprise",
+            "did": 486
+        },
+        {
+            "utterance": "Das kann nicht sein!",
+            "emotion": "anger",
+            "did": 486
+        },
+        {
+            "utterance": "Als ich versichert war, konnte ich von einem Bus \u00fcberfahren werden",
+            "emotion": "fear",
+            "did": 486
+        },
+        {
+            "utterance": "Das w\u00e4re nicht schlimm gewesen. Jetzt muss ich vorsichtig sein?",
+            "emotion": "anger",
+            "did": 486
+        },
+        {
+            "utterance": "Das w\u00e4re nicht schlimm gewesen. Jetzt muss ich vorsichtig sein?",
+            "emotion": "anger",
+            "did": 486
+        },
+        {
+            "utterance": "Aber es gibt doch nie einen Zeitpunkt,",
+            "emotion": "sadness",
+            "did": 486
+        },
+        {
+            "utterance": "Das stimmt, klar!",
+            "emotion": "sadness",
+            "did": 486
+        },
+        {
+            "utterance": "Sieh nach links und rechts, bevor du die Stra\u00dfe \u00fcberquerst.",
+            "emotion": "neutral",
+            "did": 486
+        },
+        {
+            "utterance": "Sieh nach links und rechts, bevor du die Stra\u00dfe \u00fcberquerst.",
+            "emotion": "joy",
+            "did": 486
+        }
+    ],
+    [
+        {
+            "utterance": "aber ich schaue mir gerade die WENUS an, was mich nicht gl\u00fccklich macht.",
+            "emotion": "anger",
+            "did": 352
+        },
+        {
+            "utterance": "Ach, wirklich, Sie haben sich daf\u00fcr zu interessieren,",
+            "emotion": "joy",
+            "did": 352
+        }
+    ],
+    [
+        {
+            "utterance": "Wie habt ihr euch ge\u00e4rgert?  Also, wir haben zum Beispiel",
+            "emotion": "neutral",
+            "did": 1029
+        },
+        {
+            "utterance": "Wie habt ihr euch ge\u00e4rgert?  Also, wir haben zum Beispiel",
+            "emotion": "surprise",
+            "did": 1029
+        },
+        {
+            "utterance": "Der Gag ist super.",
+            "emotion": "joy",
+            "did": 1029
+        },
+        {
+            "utterance": "Gef\u00e4llt dir das?  Ja, ich finde dich witzig.",
+            "emotion": "joy",
+            "did": 1029
+        },
+        {
+            "utterance": "Gef\u00e4llt dir das?  Ja, ich finde dich witzig.",
+            "emotion": "surprise",
+            "did": 1029
+        },
+        {
+            "utterance": "Ich bin witzig?",
+            "emotion": "surprise",
+            "did": 1029
+        },
+        {
+            "utterance": "Oh, Gott sei Dank.",
+            "emotion": "joy",
+            "did": 1029
+        },
+        {
+            "utterance": "Ich habe noch mehr davon auf Lager. Du nimmst dir einen Vierteldollar.",
+            "emotion": "joy",
+            "did": 1029
+        },
+        {
+            "utterance": "Wenn sie es versuchen, dann verl\u00e4uft eine schwarze Linie das Gesicht runter.",
+            "emotion": "neutral",
+            "did": 1029
+        },
+        {
+            "utterance": "Hey, jetzt versuch du es doch.",
+            "emotion": "neutral",
+            "did": 1029
+        },
+        {
+            "utterance": "\"So ein K\u00e4se!\"",
+            "emotion": "neutral",
+            "did": 1029
+        }
+    ],
+    [
+        {
+            "utterance": "\"Danielle, du hast ja schon wieder deinen Anrufbeantworter an.",
+            "emotion": "surprise",
+            "did": 145
+        },
+        {
+            "utterance": "Du hast  Stunden gebraucht, um dir den schwachsinnigen Text auszudenken?",
+            "emotion": "neutral",
+            "did": 145
+        },
+        {
+            "utterance": "Das war nicht so einfach.",
+            "emotion": "anger",
+            "did": 145
+        },
+        {
+            "utterance": "Und was sollte der Krach?",
+            "emotion": "neutral",
+            "did": 145
+        },
+        {
+            "utterance": "Sie soll glauben, dass ich mich in einem Restaurant befinde.",
+            "emotion": "fear",
+            "did": 145
+        },
+        {
+            "utterance": "Sie soll glauben, dass ich mich in einem Restaurant befinde.",
+            "emotion": "fear",
+            "did": 145
+        },
+        {
+            "utterance": "Sie soll glauben, dass ich ein tolles Leben f\u00fchre. Sie muss nicht wissen,",
+            "emotion": "anger",
+            "did": 145
+        },
+        {
+            "utterance": "Da ist schon wieder dieser Typ mit dem Fernglas.",
+            "emotion": "surprise",
+            "did": 145
+        },
+        {
+            "utterance": "So ein bl\u00f6der Kerl.",
+            "emotion": "anger",
+            "did": 145
+        },
+        {
+            "utterance": "Na prima, jetzt winkt der Typ zur\u00fcck.",
+            "emotion": "disgust",
+            "did": 145
+        },
+        {
+            "utterance": "Heute Morgen hat er unsere Wohnung beobachtet.",
+            "emotion": "disgust",
+            "did": 145
+        },
+        {
+            "utterance": "Was willst du hier?",
+            "emotion": "surprise",
+            "did": 145
+        },
+        {
+            "utterance": "Ich kann mich kaum noch mit etwas Ernsthaftem besch\u00e4ftigen.",
+            "emotion": "anger",
+            "did": 145
+        },
+        {
+            "utterance": "Ich kann mich kaum noch mit etwas Ernsthaftem besch\u00e4ftigen.",
+            "emotion": "anger",
+            "did": 145
+        },
+        {
+            "utterance": "Sei nicht so kindisch, Monica. Ich hab auf nichts Erotisches angespielt.",
+            "emotion": "disgust",
+            "did": 145
+        },
+        {
+            "utterance": "Ja, ja, aber nur 'ne Suppe oder so, nichts Besonderes.",
+            "emotion": "neutral",
+            "did": 145
+        },
+        {
+            "utterance": "\u00c4hm, bist du verr\u00fcckt? Das ist doch Wahnsinn.",
+            "emotion": "surprise",
+            "did": 145
+        },
+        {
+            "utterance": "Was seht ihr mich so an? Ich wusste das nicht.",
+            "emotion": "surprise",
+            "did": 145
+        },
+        {
+            "utterance": "Es w\u00fcrde mich gl\u00fccklich machen.",
+            "emotion": "neutral",
+            "did": 145
+        },
+        {
+            "utterance": "Ha. Es w\u00fcrde dich schocken.  Du irrst dich.",
+            "emotion": "neutral",
+            "did": 145
+        },
+        {
+            "utterance": "Ha. Es w\u00fcrde dich schocken.  Du irrst dich.",
+            "emotion": "neutral",
+            "did": 145
+        }
+    ],
+    [
+        {
+            "utterance": "Mach dir nichts vor. Chandler ist einfach gegen die Ehe.",
+            "emotion": "neutral",
+            "did": 163
+        },
+        {
+            "utterance": "Es gibt aber einen Menschen, der mich unbedingt heiraten m\u00f6chte.",
+            "emotion": "anger",
+            "did": 163
+        },
+        {
+            "utterance": "Ach ja?  Ja. Richard.",
+            "emotion": "anger",
+            "did": 163
+        },
+        {
+            "utterance": "Ach ja?  Ja. Richard.",
+            "emotion": "surprise",
+            "did": 163
+        },
+        {
+            "utterance": "Richard hat gesagt, dass er dich heiraten m\u00f6chte?",
+            "emotion": "surprise",
+            "did": 163
+        },
+        {
+            "utterance": "Und Chandler, dass er nie heiratet?  Ja, genau.",
+            "emotion": "neutral",
+            "did": 163
+        },
+        {
+            "utterance": "Gerade hast du gesagt, dass er niemals heiraten m\u00f6chte!",
+            "emotion": "surprise",
+            "did": 163
+        },
+        {
+            "utterance": "\"Er ist sehr kompliziert. Es ist unwahrscheinlich, dass er je heiratet!\"",
+            "emotion": "anger",
+            "did": 163
+        },
+        {
+            "utterance": "Und dass ich daran nichts \u00e4ndern werde!",
+            "emotion": "anger",
+            "did": 163
+        },
+        {
+            "utterance": "Dass du meine Worte so verdrehst.",
+            "emotion": "neutral",
+            "did": 163
+        },
+        {
+            "utterance": "{\\an}Du hattest recht. Wir haben viel von Mom und Dad gelernt.",
+            "emotion": "joy",
+            "did": 163
+        },
+        {
+            "utterance": "{\\an}Sie war es auch.",
+            "emotion": "neutral",
+            "did": 163
+        }
+    ],
+    [
+        {
+            "utterance": "Oh.",
+            "emotion": "joy",
+            "did": 315
+        },
+        {
+            "utterance": "{\\an}Ich habe doch von dem Jungen erz\u00e4hlt, der in alles Koriander gegeben hat.",
+            "emotion": "neutral",
+            "did": 315
+        },
+        {
+            "utterance": "{\\an} Ja, na klar, KorianderLarry.  Ja.",
+            "emotion": "neutral",
+            "did": 315
+        },
+        {
+            "utterance": "{\\an}Ich werde ihn als Restaurantkritiker beim <i>Chelsea Reporter</i> vertreten.",
+            "emotion": "joy",
+            "did": 315
+        },
+        {
+            "utterance": "{\\an}Wow! Monica! Dann hast du ja endlich die M\u00f6glichkeit,",
+            "emotion": "joy",
+            "did": 315
+        },
+        {
+            "utterance": "{\\an}Ich schreibe nur mal die Woche.",
+            "emotion": "neutral",
+            "did": 315
+        },
+        {
+            "utterance": "Hey.  Oh.",
+            "emotion": "joy",
+            "did": 315
+        },
+        {
+            "utterance": "{\\an}Hallo, Leute. Hey, Ross! Ich muss dich was fragen.",
+            "emotion": "joy",
+            "did": 315
+        }
+    ],
+    [
+        {
+            "utterance": "Er kommt zum ThanksgivingEssen zu uns?  Das finde ich krank.",
+            "emotion": "joy",
+            "did": 742
+        }
+    ],
+    [
+        {
+            "utterance": "Ich hasse das.",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Einen Augenblick, warten Sie mal.",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Jansen, w\u00fcrden Sie bitte mal kommen?  <i>Ich arbeite mit Dr. Hamilton.</i>",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Den wird das auch interessieren. Bringen Sie ihn am besten gleich mit.",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Sie ist kahlk\u00f6pfig, ja?",
+            "emotion": "anger",
+            "did": 102
+        },
+        {
+            "utterance": "Ja, das war sie mal, aber jetzt nicht mehr.",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Wieso hast du das nicht gesagt?",
+            "emotion": "surprise",
+            "did": 102
+        },
+        {
+            "utterance": "Weil ich es nicht wusste.  Also, das ist ja wirklich grauenvoll!",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Ja, solange ich dachte, dass er sich mit Yul Brynner trifft.",
+            "emotion": "anger",
+            "did": 102
+        },
+        {
+            "utterance": "Vielleicht mag Ross sie ja nicht.  Ist sie denn ein b\u00f6ser Mensch?",
+            "emotion": "sadness",
+            "did": 102
+        },
+        {
+            "utterance": "Vielleicht mag Ross sie ja nicht.  Ist sie denn ein b\u00f6ser Mensch?",
+            "emotion": "neutral",
+            "did": 102
+        },
+        {
+            "utterance": "Nein, sie ist ein sehr lieber Mensch.",
+            "emotion": "joy",
+            "did": 102
+        }
+    ],
+    [
+        {
+            "utterance": "Ich schaff's nicht.",
+            "emotion": "neutral",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an}W\u00fcrdest du auch als Leihmutter einspringen?",
+            "emotion": "neutral",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an}K\u00e4me drauf an, f\u00fcr wen.",
+            "emotion": "neutral",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an}F\u00fcr mich vielleicht?",
+            "emotion": "neutral",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an}Oh, Monica, na, sicher!",
+            "emotion": "neutral",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an} Wirklich?  Ja.",
+            "emotion": "surprise",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an} Du fragst nur so, hoffe ich?  Nat\u00fcrlich.",
+            "emotion": "surprise",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an}Na klar w\u00fcrde ich das machen.",
+            "emotion": "joy",
+            "did": 563
+        },
+        {
+            "utterance": "{\\an}Ich danke dir! Oh, danke, Monica!",
+            "emotion": "joy",
+            "did": 563
+        }
+    ],
+    [
+        {
+            "utterance": "Nicht zu fassen!",
+            "emotion": "joy",
+            "did": 979
+        },
+        {
+            "utterance": "Hut ab vor Phoebe. Ein guter Kampfgeist.",
+            "emotion": "joy",
+            "did": 979
+        },
+        {
+            "utterance": "Oje.",
+            "emotion": "surprise",
+            "did": 979
+        },
+        {
+            "utterance": "Dann war's das. Es ist vorbei. Jetzt wissen es doch alle.",
+            "emotion": "joy",
+            "did": 979
+        },
+        {
+            "utterance": "Ross wei\u00df es noch nicht.",
+            "emotion": "neutral",
+            "did": 979
+        },
+        {
+            "utterance": "Es w\u00e4re uns auch lieb, wenn er es noch nicht erfahren w\u00fcrde.",
+            "emotion": "neutral",
+            "did": 979
+        }
+    ],
+    [
+        {
+            "utterance": "Hey, Phoebe.  Hey.",
+            "emotion": "joy",
+            "did": 752
+        },
+        {
+            "utterance": "Das wusste ich nicht. lst gut.  lst gut.",
+            "emotion": "neutral",
+            "did": 752
+        },
+        {
+            "utterance": "Ja, ja, nat\u00fcrlich.",
+            "emotion": "neutral",
+            "did": 752
+        },
+        {
+            "utterance": "Wenn dir das doch zu verr\u00fcckt ist, dann machen wir alles r\u00fcckg\u00e4ngig.",
+            "emotion": "neutral",
+            "did": 752
+        },
+        {
+            "utterance": "Ich gehe schon!  Ja, ist gut.",
+            "emotion": "joy",
+            "did": 752
+        },
+        {
+            "utterance": "Susan, hi.  Hi!",
+            "emotion": "joy",
+            "did": 752
+        },
+        {
+            "utterance": "Ich freue mich, dass du da bist.",
+            "emotion": "joy",
+            "did": 752
+        },
+        {
+            "utterance": "Ich freue mich, dass du da bist.",
+            "emotion": "joy",
+            "did": 752
+        },
+        {
+            "utterance": "Ich bin \u00fcbrigens Ross.",
+            "emotion": "neutral",
+            "did": 752
+        },
+        {
+            "utterance": "Hallo, Ross.",
+            "emotion": "joy",
+            "did": 752
+        },
+        {
+            "utterance": "Deine Einrichtung finde ich h\u00fcbsch.  Das freut mich. Ha.",
+            "emotion": "joy",
+            "did": 752
+        }
+    ],
+    [
+        {
+            "utterance": "Sophie, kommen Sie rein.",
+            "emotion": "joy",
+            "did": 94
+        },
+        {
+            "utterance": "Oh. Das habe ich erst gesagt, als Sie weg waren.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Was haben Sie da erz\u00e4hlt?",
+            "emotion": "fear",
+            "did": 94
+        },
+        {
+            "utterance": "Dass Sie gern ein Gl\u00e4schen trinken.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Oh, mein Gott. Oh. Ich muss hier weg, ich verschwinde lieber!",
+            "emotion": "disgust",
+            "did": 94
+        },
+        {
+            "utterance": "Ich konnte doch nicht wissen, dass Sie das so sehr mitnimmt!",
+            "emotion": "anger",
+            "did": 94
+        },
+        {
+            "utterance": "Ich will nicht, dass Sie gehen!",
+            "emotion": "sadness",
+            "did": 94
+        },
+        {
+            "utterance": "Wie w\u00e4r's, wenn ich eine neue Position f\u00fcr Sie schaffe?",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Dann w\u00e4ren Sie meine stellvertretende Eink\u00e4uferin.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Ist das etwa schon alles?  \u00c4hm...",
+            "emotion": "joy",
+            "did": 94
+        },
+        {
+            "utterance": "Sie kriegen ein eigenes B\u00fcro und eine Gehaltserh\u00f6hung. Morgen.",
+            "emotion": "joy",
+            "did": 94
+        },
+        {
+            "utterance": "Ich will auch ein Spesenkonto.  Ok.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Und eine Assistentin.  Sophie!",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Obwohl die Verpackung sehr ansprechend ist, f\u00fcr Gro\u00df und Klein.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Ich wei\u00df gar nicht, was du hast. Ich hab sie auch gekostet.",
+            "emotion": "joy",
+            "did": 94
+        },
+        {
+            "utterance": "Nein, Mama, das trink ich nicht.",
+            "emotion": "disgust",
+            "did": 94
+        },
+        {
+            "utterance": "Hab dich nicht so.  Nur mal einen Schluck.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Ja, sie schmeckt ein bisschen s\u00fc\u00df. So wie...",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "So wie was?  Wie 'ne Beutelmelone.",
+            "emotion": "joy",
+            "did": 94
+        },
+        {
+            "utterance": "Richtig.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Du hast sie gekostet?",
+            "emotion": "surprise",
+            "did": 94
+        },
+        {
+            "utterance": "Ja.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Du hast sie wirklich gekostet.",
+            "emotion": "anger",
+            "did": 94
+        },
+        {
+            "utterance": "Und wenn du's noch so oft wiederholst, du musst es hinnehmen.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Gib mir die Flasche.",
+            "emotion": "anger",
+            "did": 94
+        },
+        {
+            "utterance": "Das ist l\u00e4ngst noch nicht alles.",
+            "emotion": "neutral",
+            "did": 94
+        },
+        {
+            "utterance": "Ross?",
+            "emotion": "neutral",
+            "did": 94
+        }
+    ],
+    [
+        {
+            "utterance": "Hey!  Hey.",
+            "emotion": "surprise",
+            "did": 199
+        },
+        {
+            "utterance": "dass ich nicht zu diesen Frauen geh\u00f6re, die heiraten wollen.",
+            "emotion": "neutral",
+            "did": 199
+        },
+        {
+            "utterance": "Bestimmt, aber ich glaube, dass mir das nicht so wichtig ist.",
+            "emotion": "sadness",
+            "did": 199
+        },
+        {
+            "utterance": "Ich versuche gerade rauszufinden, wieso.",
+            "emotion": "sadness",
+            "did": 199
+        },
+        {
+            "utterance": "Schon eine Idee?",
+            "emotion": "sadness",
+            "did": 199
+        },
+        {
+            "utterance": "Es tut uns leid, dass wir dir die Jungs aufgedr\u00e4ngt haben.",
+            "emotion": "sadness",
+            "did": 199
+        },
+        {
+            "utterance": "Ist schon ok. Ich habe mich trotz alledem am\u00fcsiert.",
+            "emotion": "joy",
+            "did": 199
+        },
+        {
+            "utterance": "Ist schon ok. Ich habe mich trotz alledem am\u00fcsiert.",
+            "emotion": "joy",
+            "did": 199
+        },
+        {
+            "utterance": "Dieser Wohlt\u00e4tigkeitsball war ein Erfolg und hat viel Geld eingebracht.",
+            "emotion": "joy",
+            "did": 199
+        },
+        {
+            "utterance": "Und wof\u00fcr war das Ganze nun?",
+            "emotion": "neutral",
+            "did": 199
+        },
+        {
+            "utterance": "Es ging um eine Krankheit, w\u00fcrde ich sagen.",
+            "emotion": "neutral",
+            "did": 199
+        },
+        {
+            "utterance": "Hey.  Hey.",
+            "emotion": "surprise",
+            "did": 199
+        },
+        {
+            "utterance": "Ross hat am Telefon gesagt, wir sollen den Fernseher einschalten. MTV.",
+            "emotion": "neutral",
+            "did": 199
+        },
+        {
+            "utterance": "Oh, Gott, schau! Das ist Elizabeth!  Ha, ha, ha.",
+            "emotion": "surprise",
+            "did": 199
+        },
+        {
+            "utterance": "Oh, Gott, Professor Geller.",
+            "emotion": "neutral",
+            "did": 199
+        },
+        {
+            "utterance": "Ah, ich w\u00e4re gern noch mal , Leute.",
+            "emotion": "neutral",
+            "did": 199
+        }
+    ]
+]

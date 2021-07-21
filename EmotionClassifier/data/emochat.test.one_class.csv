@@ -1,0 +1,386 @@
+id,user,recipient,sid,timestamp,utterance,emotion,did
+2850,user03,user04,5,2021-06-16 14:58:59.464809+00:00,"Hey wollte mal mit dir sprechen... ich finde es echt nicht cool, dass du mir ständig deine arbeit gibts und ich deshlab Überstunden machen musst während du immer früh in den Feierabend gehst ",anger,0
+2891,user04,user03,5,2021-06-16 15:00:34.980233+00:00,"Hey, ich verstehe deine Wut und es tut mir auch echt leid, dass ich in letzter zeit so viel auf dich ablade....meine Mutter ist leider ernsthaft krank und ich muss mich um sie kümmern...sie braucht regelmäßig Medikamente zu einer bestimmten zeit, deswegen muss ich immer früher los...",sadness,0
+2901,user04,user03,5,2021-06-16 15:01:00.502902+00:00,"Tut mir leid, dass du das abbekommst, aber ich wollte damit noch nicht zu unserem Chef gehen...du weißt ja wie der ist...",anticipation,0
+2907,user03,user04,5,2021-06-16 15:01:09.449496+00:00,oh okay dafür habe ich natürlich Verständnis... was hast sie denn? ,sadness,0
+2909,user03,user04,5,2021-06-16 15:01:17.028948+00:00,ja lass den chef da lieber raus ,surprise,0
+2956,user04,user03,5,2021-06-16 15:03:14.185544+00:00,Sie hatte vor einer Woche akutes Nierenversagen und wurde vor ein paar Tagen entlassen...aber sie noch ziemlich angeschlagen,sadness,0
+2976,user03,user04,5,2021-06-16 15:03:49.866312+00:00,die arme  dann wünsche ich ihr gute besserung  und mach dir wegen der arbeit keinen stress - ich schaffe das schon ,trust,0
+2982,user04,user03,5,2021-06-16 15:04:02.759488+00:00,"Danke - Ich hoffe, dass es bald besser ist, dann kann ich dir auch im Gegenzug Arbeit abnehmen",trust,0
+2993,user03,user04,5,2021-06-16 15:04:18.812087+00:00,das wäre natürlich nett  bis dann ,joy,0
+2609,user14,user07,19,2021-06-16 14:48:38.499380+00:00,Hey ich habe gehört dass du deinen Hund letzte Nacht verloren hast. Das tut mir so leid. ,sadness,1
+2616,user14,user07,19,2021-06-16 14:48:51.316454+00:00,Wie geht es dir jetzt? ,surprise,1
+2620,user07,user14,19,2021-06-16 14:49:09.746489+00:00,"Hey, es ist lieb, dass du schreibst. Ja es tut mir einfach so wahnsinnig weh ",sadness,1
+2630,user07,user14,19,2021-06-16 14:49:29.069303+00:00,"Mir gehts sehr schlecht, es war so ein einzigartiger hund und er war noch so jung ",sadness,1
+2634,user14,user07,19,2021-06-16 14:49:33.695129+00:00,Das glaube ich dir. ,sadness,1
+2638,user14,user07,19,2021-06-16 14:49:43.134481+00:00,Oje das ist wirklich erschreckend ,surprise,1
+2643,user14,user07,19,2021-06-16 14:50:06.414395+00:00,Vielleicht hilft dir ein neuer Hund damit du wieder eine Beschäftigung hast. ,anticipation,1
+2653,user07,user14,19,2021-06-16 14:50:35.667886+00:00,Ich weiß nicht ob mir ein neuer Hund wirklich über meinen kleinen Carlos hinweghilft ,sadness,1
+2663,user07,user14,19,2021-06-16 14:51:02.086417+00:00,"Es ist halt etwas nervig, weil jeder schreibt ich soll mir doch nen neuen Hund holen, da ich so ein Tierliebhaber bin ",anger,1
+2666,user14,user07,19,2021-06-16 14:51:10.513368+00:00,Ja das ist nicht so einfach wahrscheinlich. ,surprise,1
+2668,user07,user14,19,2021-06-16 14:51:17.867587+00:00,"Aber eine ""neuanschaffung"" ersetzt die bindung nicht ",disgust,1
+2672,user14,user07,19,2021-06-16 14:51:29.107275+00:00,Ja kann ich gut verstehen da brauchst du vielleicht noch ein wenig Zeit. ,sadness,1
+2680,user07,user14,19,2021-06-16 14:51:44.310469+00:00,Es ist einfach nur schade ,sadness,1
+2687,user14,user07,19,2021-06-16 14:52:01.838623+00:00,Ja du tust mir wirklich leid. ,surprise,1
+2690,user07,user14,19,2021-06-16 14:52:05.950262+00:00,"Aber danke für deine aufmunternden worte, ich weiss dass du es gut meinst ",joy,1
+2695,user14,user07,19,2021-06-16 14:52:21.215265+00:00,Lass uns nächste Woche mal ein Eis essen gehen dann geht es dir bestimmt bald besser. ,trust,1
+2704,user07,user14,19,2021-06-16 14:52:39.928463+00:00,Falls es mir da schon wieder besser geht ,sadness,1
+2707,user07,user14,19,2021-06-16 14:52:46.882290+00:00,"Aber danke, falls dann gerne ",trust,1
+2710,user14,user07,19,2021-06-16 14:52:57.983052+00:00,Ok gute Besserung ,trust,1
+1836,user14,user13,21,2021-06-14 19:32:30.440764+00:00,Wieso ist dein Team nur so gut und führt schon wieder? ,sadness,2
+1849,user13,user14,21,2021-06-14 19:33:09.818990+00:00,"HAHAHA!  Ich habe doch gesagt, dass wir gewinnen. ",joy,2
+1854,user14,user13,21,2021-06-14 19:33:30.607504+00:00,"Freu dich nicht zu früh, das ist der Ausgleich! ",fear,2
+1862,user13,user14,21,2021-06-14 19:34:04.077919+00:00,"Oh, zumindest dachte ich, dass wir gewinnen. ",surprise,2
+1876,user14,user13,21,2021-06-14 19:34:34.878925+00:00,"Wohl nicht, denn da ist der Führungstreffer für mein Team! ",joy,2
+1882,user13,user14,21,2021-06-14 19:34:47.736191+00:00,Was für ein Mist! ,anger,2
+1895,user14,user13,21,2021-06-14 19:35:16.250469+00:00,Haha das kam echt aus dem Nichts! ,joy,2
+1909,user13,user14,21,2021-06-14 19:36:06.434645+00:00,"Naja, verdienter Sieg für euch... ",sadness,2
+1915,user14,user13,21,2021-06-14 19:36:16.977813+00:00,"Ja, danke! ",trust,2
+1928,user13,user14,21,2021-06-14 19:37:05.075148+00:00,Aber ich bin immer noch ganz verwirrt. Wie konnte sich das Spiel so schnell drehen. ,fear,2
+228,user06,user12,16,2021-06-14 18:31:16.927126+00:00,hey die party war ja wieder wild gestern ,anticipation,3
+239,user12,user06,16,2021-06-14 18:31:44.487130+00:00,"Ja, super dass du auch da warst ",joy,3
+246,user06,user12,16,2021-06-14 18:32:13.433861+00:00,ich war leider bisschen betrunken am ende,sadness,3
+254,user06,user12,16,2021-06-14 18:32:32.168282+00:00,ich such jetzt mein Geldbeutel. hast du den vllt gesehen ? ,anticipation,3
+267,user12,user06,16,2021-06-14 18:33:26.548833+00:00,Also ich habe eben die ganze Wohnung geputzt Niemand hat etwas bei mir vergessen,joy,3
+270,user12,user06,16,2021-06-14 18:33:32.472868+00:00,Dachte ich zumindest,anticipation,3
+282,user12,user06,16,2021-06-14 18:33:59.253193+00:00,Also muss ich dich leider enttäuschen ,sadness,3
+284,user06,user12,16,2021-06-14 18:34:06.734474+00:00,hmm scheiße da war viel geld drin und die karten muss ich auch alle neu beantragen ,anger,3
+296,user12,user06,16,2021-06-14 18:34:29.453429+00:00,"Muss woanders liegen, tut mir leid dass ich nicht helfen kann",sadness,3
+305,user06,user12,16,2021-06-14 18:34:44.526511+00:00,ok aber danke fürs nachschauen ,joy,3
+1601,user06,user12,26,2021-06-14 19:24:17.553377+00:00,hey sorry bin gestern früher geganen  mir gings nicht so gut,anger,4
+1607,user06,user12,26,2021-06-14 19:24:30.405082+00:00,haben wir noch gewonnen ?,anticipation,4
+1610,user12,user06,26,2021-06-14 19:24:37.720334+00:00,du hast nichts verpasst,sadness,4
+1620,user12,user06,26,2021-06-14 19:25:01.220707+00:00,"Das Spiel haben wir verloren, und das wirklich noch in der letzten Minute",sadness,4
+1621,user06,user12,26,2021-06-14 19:25:05.097272+00:00,oh no ,fear,4
+1628,user12,user06,26,2021-06-14 19:25:14.249527+00:00,Aber die Gegner waren auch noch so unverschämt,anger,4
+1636,user06,user12,26,2021-06-14 19:25:29.596395+00:00,wie ging das denn noch. wir haben doch geführt,sadness,4
+1637,user12,user06,26,2021-06-14 19:25:30.264364+00:00,keinen Anstand und total unsportliches Verhalten,sadness,4
+1647,user06,user12,26,2021-06-14 19:25:47.506709+00:00,solche deppen,anger,4
+1661,user06,user12,26,2021-06-14 19:26:11.479153+00:00,dann wäre es natürlich schön gewesen gegen die zu gewinnen ,anger,4
+1666,user12,user06,26,2021-06-14 19:26:22.330003+00:00,"Julian hat sich am Ende echt noch übel verletzt, ich hoffe das wird schnell wieder, sieht aber nicht gut aus",surprise,4
+1672,user06,user12,26,2021-06-14 19:26:40.330608+00:00, was hat er gemacht ?,sadness,4
+1702,user12,user06,26,2021-06-14 19:27:52.896534+00:00,"Einer der Gegner ist unter das Netz, also in unsere Hälfte getretengeht schon mal gar nicht",anger,4
+1713,user12,user06,26,2021-06-14 19:28:18.179512+00:00,Dadurch ist Julian umgeknickt und hat sich die Außenbänder gerissen,sadness,4
+1717,user06,user12,26,2021-06-14 19:28:30.081839+00:00,hmm shit  hoffentlich wirds schnell wieder besser,disgust,4
+1725,user12,user06,26,2021-06-14 19:28:45.443163+00:00,und das nervigste kommt noch,anger,4
+1730,user06,user12,26,2021-06-14 19:28:52.517730+00:00,wir können ihn ja morgen mal besuchen und schauen geht,joy,4
+1736,user12,user06,26,2021-06-14 19:29:04.581384+00:00,der Gegner hat sich nicht entschuldigt ,anger,4
+1746,user12,user06,26,2021-06-14 19:29:24.998233+00:00,Ja das ist eine gute IDee,joy,4
+1747,user06,user12,26,2021-06-14 19:29:25.372074+00:00,so ein arsch ,anger,4
+2060,User02,user08,12,2021-06-14 19:49:58.521461+00:00,"hallo, hallo... hier ist die unbekannte von neulich... hast du meine Nummer verloren? ",joy,5
+2063,User02,user08,12,2021-06-14 19:50:23.283010+00:00,ich warte hier sehnsüchtig auf ein Lebenszeichen von dir ,anticipation,5
+2065,user08,User02,12,2021-06-14 19:50:48.730904+00:00,"Hey sorry, hab viel um die Ohren grad ",fear,5
+2068,User02,user08,12,2021-06-14 19:51:11.528480+00:00,hm... und da kannst du nicht mal kurz einen Nachricht schreiben ...? ,fear,5
+2070,User02,user08,12,2021-06-14 19:51:28.087496+00:00,wir haben doch vorgestern erst die Nummern getauscht .. ,anticipation,5
+2071,user08,User02,12,2021-06-14 19:51:29.431718+00:00,Morgenmittag hätte ich Zeit,anticipation,5
+2075,User02,user08,12,2021-06-14 19:51:50.907372+00:00,okay... wollen wir uns dann treffen? ,joy,5
+2076,user08,User02,12,2021-06-14 19:51:54.182228+00:00,"sorry, bin mehr so der persönliche Typ ",sadness,5
+2077,User02,user08,12,2021-06-14 19:51:55.586699+00:00,wo?,joy,5
+2081,User02,user08,12,2021-06-14 19:52:07.917296+00:00,verstehe .. ,trust,5
+2084,User02,user08,12,2021-06-14 19:52:24.285295+00:00,dann lass uns an der uni treffen .. ok? ,trust,5
+2085,user08,User02,12,2021-06-14 19:52:26.290084+00:00,"Kenne da den besten Kaffee in der Stadt, da würde ich dich gerne ausführen ",joy,5
+2087,User02,user08,12,2021-06-14 19:52:41.605244+00:00,oder das klingt ja noch viel besser ... super gerne.. ,joy,5
+2089,User02,user08,12,2021-06-14 19:52:45.911957+00:00,freue mich... ,trust,5
+2090,user08,User02,12,2021-06-14 19:52:49.644228+00:00,"nein, ich möchte das schon richtig machen ",joy,5
+2091,User02,user08,12,2021-06-14 19:52:50.151085+00:00,bis morgen ,trust,5
+2093,user08,User02,12,2021-06-14 19:52:59.129723+00:00,ah fuck ,sadness,5
+2095,User02,user08,12,2021-06-14 19:53:03.875296+00:00, happy,joy,5
+2098,User02,user08,12,2021-06-14 19:53:08.995312+00:00,was,fear,5
+2102,User02,user08,12,2021-06-14 19:53:23.023904+00:00,hallo? ,surprise,5
+2103,user08,User02,12,2021-06-14 19:53:24.071966+00:00,"sorry, ich kann Morgenmittag doch nicht",sadness,5
+2105,User02,user08,12,2021-06-14 19:53:30.775179+00:00,ohhh,sadness,5
+2108,User02,user08,12,2021-06-14 19:53:42.639983+00:00,wann dann? ,anticipation,5
+2112,user08,User02,12,2021-06-14 19:54:20.779299+00:00,wie wärst mit Abends`?,anticipation,5
+2113,User02,user08,12,2021-06-14 19:54:35.498572+00:00,"ja klar, das klappt bei mir",joy,5
+2115,User02,user08,12,2021-06-14 19:54:46.513894+00:00,"selber Ort, andere Zeit? ",joy,5
+2116,user08,User02,12,2021-06-14 19:54:57.363620+00:00,"das freut mich, hoffentlich kommt nichts dazwischen! ",joy,5
+2118,User02,user08,12,2021-06-14 19:55:09.221093+00:00,"prima, freu mich auch ",trust,5
+2120,User02,user08,12,2021-06-14 19:55:17.695919+00:00,da kommt nix dazwischen ,trust,5
+2121,user08,User02,12,2021-06-14 19:55:21.254595+00:00,"gibt mir deine Adresse, ich hole dich mit dem Auto ab dann, 17 uhr, lasse dich überraschen dann ",joy,5
+2123,User02,user08,12,2021-06-14 19:55:52.453834+00:00,ok .. kommt ... die lautet ... steh an der Ecke ,joy,5
+2385,user19,user13,2,2021-06-16 14:39:57.821354+00:00,"Ich muss dir was erzählen.... Merlin, mein Hunde, ist gestern gestorben",sadness,6
+2392,user19,user13,2,2021-06-16 14:40:11.695799+00:00,ich bin so traurig,sadness,6
+2394,user13,user19,2,2021-06-16 14:40:14.708154+00:00,Oh nein  das ist ja schrecklich. Das tut mir voll leid ,sadness,6
+2396,user19,user13,2,2021-06-16 14:40:19.751492+00:00,es war so plötzlich,sadness,6
+2398,user19,user13,2,2021-06-16 14:40:25.709460+00:00,dankee,trust,6
+2399,user13,user19,2,2021-06-16 14:40:26.390983+00:00,"Jaa, das glaub ich dir.  War er krank? ",anticipation,6
+2403,user13,user19,2,2021-06-16 14:40:34.558999+00:00,Hunde sind einfach die besten ,sadness,6
+2404,user19,user13,2,2021-06-16 14:40:37.110045+00:00,aber ich glaube ich brauch etwas ablenkung,anticipation,6
+2408,user19,user13,2,2021-06-16 14:40:43.396441+00:00,jaa ich habe ihn so geliebt,trust,6
+2418,user19,user13,2,2021-06-16 14:41:07.072423+00:00,jaa wir waren letztens beim tierarzt und der hat einen tumor festgestellt ,surprise,6
+2423,user19,user13,2,2021-06-16 14:41:16.250952+00:00,und dann mussten wir ihn heute einschläfern,sadness,6
+2427,user13,user19,2,2021-06-16 14:41:21.252475+00:00,ohje ,sadness,6
+2429,user19,user13,2,2021-06-16 14:41:26.212583+00:00,12 Jahre war er an meiner seite,sadness,6
+2434,user19,user13,2,2021-06-16 14:41:38.579014+00:00,kann mir gar nicht ein Leben ohne ihn vorstellen,surprise,6
+2440,user13,user19,2,2021-06-16 14:41:51.578906+00:00,aber dann ist es wenigstens eine Erlösung für ihn und er muss nichtt mehr leiden?  Vielleicht kann dich das ein wenig trösten?,trust,6
+2447,user19,user13,2,2021-06-16 14:42:07.013976+00:00,ja da hast du recht,joy,6
+2450,user19,user13,2,2021-06-16 14:42:11.910061+00:00,danke dass du für mich da bist,trust,6
+2451,user13,user19,2,2021-06-16 14:42:17.373855+00:00,Immer ,trust,6
+3525,user15,user10,8,2021-06-16 15:21:04.643409+00:00,gooooott bin ich genervt,anger,7
+3528,user10,user15,8,2021-06-16 15:21:16.811382+00:00,"Hey, was denn los bei dir? ",fear,7
+3535,user15,user10,8,2021-06-16 15:21:32.181420+00:00,"ich warte auf meinen Kaffee, wie jeden morgen",joy,7
+3540,user15,user10,8,2021-06-16 15:21:42.380979+00:00,aber der vor mir kann sich einfach nicht entscheiden,anger,7
+3548,user10,user15,8,2021-06-16 15:21:56.992010+00:00,oh mann.. ,fear,7
+3550,user15,user10,8,2021-06-16 15:21:59.069376+00:00,dann soll er sich halt in der Schlange entscheiden was er will,anger,7
+3554,user15,user10,8,2021-06-16 15:22:04.373048+00:00,ich hab ja nicht ewig Zeit,anger,7
+3556,user10,user15,8,2021-06-16 15:22:06.744653+00:00,wie lange wartest du schon?,fear,7
+3562,user10,user15,8,2021-06-16 15:22:15.077698+00:00,Was hast du denn noch geplant? ,fear,7
+3565,user15,user10,8,2021-06-16 15:22:25.447784+00:00,seit 15 min,surprise,7
+3570,user15,user10,8,2021-06-16 15:22:32.858909+00:00,ich muss noch in die Arbeit ,sadness,7
+3571,user10,user15,8,2021-06-16 15:22:33.595660+00:00,Was? ,surprise,7
+3578,user15,user10,8,2021-06-16 15:22:46.616430+00:00,ja,disgust,7
+3579,user10,user15,8,2021-06-16 15:22:48.051817+00:00,oh kannst du dann nicht ohne Kaffee gehen? ,fear,7
+3585,user10,user15,8,2021-06-16 15:22:56.331908+00:00,oder was sagen? ,anger,7
+3589,user15,user10,8,2021-06-16 15:23:03.470693+00:00,ne dann wären ja jetzt die 15 min vergeudet,sadness,7
+3594,user15,user10,8,2021-06-16 15:23:08.186438+00:00,ja bin kurz davor,anger,7
+3596,user10,user15,8,2021-06-16 15:23:10.328605+00:00,das geht ja eigentlich auch von den Verkäufer*innen nicht ,anger,7
+3601,user15,user10,8,2021-06-16 15:23:17.509450+00:00,ich brauch meinen Koffein!,joy,7
+3609,user10,user15,8,2021-06-16 15:23:35.360104+00:00,Verständlich ,trust,7
+3614,user15,user10,8,2021-06-16 15:23:45.471521+00:00,das stimmt!,surprise,7
+3615,user10,user15,8,2021-06-16 15:23:45.517037+00:00,Gibt es einen anderen Laden um die Ecke? ,anticipation,7
+3621,user15,user10,8,2021-06-16 15:23:59.567431+00:00,ja stimmt das ist eine Alternative,anticipation,7
+3630,user15,user10,8,2021-06-16 15:24:04.876073+00:00,gute Idee!,joy,7
+3637,user10,user15,8,2021-06-16 15:24:19.549932+00:00,Dann bin ich ja froh dass ich helfen konnte ,joy,7
+3640,user10,user15,8,2021-06-16 15:24:25.986589+00:00,nächstes Mal kommst du bei mir vorbei ,joy,7
+3643,user10,user15,8,2021-06-16 15:24:36.411843+00:00,kriegst auch nen Kaffee ,joy,7
+3644,user15,user10,8,2021-06-16 15:24:37.949779+00:00,ich melde mich dann wieder wenn ich einen Kaffee gefunden habe,trust,7
+3647,user10,user15,8,2021-06-16 15:24:45.345181+00:00,perfekt ,joy,7
+3648,user15,user10,8,2021-06-16 15:24:46.456386+00:00,oh danke das ist natürlich viel angenehmer,trust,7
+3658,user10,user15,8,2021-06-16 15:25:02.052708+00:00,"na klar, bis später ",trust,7
+3662,user15,user10,8,2021-06-16 15:25:08.243427+00:00,tschüss,joy,7
+2007,user13,user14,23,2021-06-14 19:44:04.601445+00:00,"Hey, wollte mich mal wieder bei dir melden. Einfach so. ",trust,8
+2012,user14,user13,23,2021-06-14 19:44:49.230982+00:00,"Hey, schön, dass du an mich denkst!  Ich bin durch mit dem Staatsexamen und bin so glücklich! ",joy,8
+2016,user13,user14,23,2021-06-14 19:45:11.181383+00:00,Ach du scheiße. ,surprise,8
+2018,user13,user14,23,2021-06-14 19:45:17.136679+00:00,Das habe ich ja total vergessen. ,surprise,8
+2020,user13,user14,23,2021-06-14 19:45:34.684386+00:00,Eigentlich wollte ich dir doch noch viel erfolg wünschen. ,sadness,8
+2022,user14,user13,23,2021-06-14 19:45:47.148619+00:00,"Kein Problem, das passiert! ",trust,8
+2028,user13,user14,23,2021-06-14 19:46:41.954521+00:00,"Aber toll, dass du bestanden hast! Daran hatte ich auch keine Zweifel! ",joy,8
+2030,user14,user13,23,2021-06-14 19:47:00.554666+00:00,Danke!  Es lief auch gut zum Glück. ,trust,8
+2031,user13,user14,23,2021-06-14 19:47:01.889911+00:00,"Ich hoffe du bist nicht sauer, dass ich das vergessen habe? ",surprise,8
+2032,user14,user13,23,2021-06-14 19:47:14.056204+00:00,Nein das ist absolut kein Problem! ,trust,8
+2042,user13,user14,23,2021-06-14 19:48:19.276201+00:00,Gut!  Herzlichen Glückwunsch nochmal! Das wird gefeiert!,trust,8
+1168,user04,user10,21,2021-06-14 19:09:33.335340+00:00,"Hey, schaust du gerade das Fußballspiel? ",joy,9
+1175,user10,user04,21,2021-06-14 19:09:45.278782+00:00,Schaust Du auch gerade das Finale Schauen wir mal wie es ausgeht.,anticipation,9
+1190,user10,user04,21,2021-06-14 19:10:16.438415+00:00,"MIst, das haben die aber blöd angestellt. Und nun auch noch der Elfmeter.,",sadness,9
+1194,user04,user10,21,2021-06-14 19:10:22.298585+00:00,Na klar!  Bin gecht gespannt ,anticipation,9
+1211,user04,user10,21,2021-06-14 19:10:54.181074+00:00,Jaaaa! das schaut doch gar nicht schlecht aus ,trust,9
+1215,user10,user04,21,2021-06-14 19:10:59.360226+00:00,Aber das drehen die noch. Da bin ich sicher gegen Deinen Verein gewinnen die ganz sicher.,joy,9
+1231,user04,user10,21,2021-06-14 19:11:42.534993+00:00,So ein quatsch. Heute holen wir uns den Sieg. Darau kannst du dich verlassen!,joy,9
+1236,user04,user10,21,2021-06-14 19:11:58.163989+00:00,Was? jetzt gerade wo ich de schreibe,anger,9
+1240,user10,user04,21,2021-06-14 19:12:03.458899+00:00,DU wirst es sehen.- Wir sind einfach die besser Mannschaft.,anger,9
+1254,user04,user10,21,2021-06-14 19:12:26.746833+00:00,Das darf doch wohl nicht wahr sein. Und das in der vorletzten Minute ,disgust,9
+1257,user10,user04,21,2021-06-14 19:12:32.123984+00:00,Sag ich doch. Da ist er ja der Ausgleich. Und natürlich wieder der hegestweiler. Einfach stark.,joy,9
+1266,user10,user04,21,2021-06-14 19:12:46.380629+00:00,Weiter so. Da geht noch was.,fear,9
+1276,user04,user10,21,2021-06-14 19:12:56.814640+00:00,Mehr Glück als Verstand hat der Kerl!,anger,9
+1284,user04,user10,21,2021-06-14 19:13:13.858347+00:00,Nein. Das darf jetzt wirklich nicht wahr sein!,anger,9
+1285,user10,user04,21,2021-06-14 19:13:17.938747+00:00,Können - es ist das Können ,joy,9
+1295,user10,user04,21,2021-06-14 19:13:42.151398+00:00,"UNd da setzt er nun noch einen drauf. Was soll ich sagen. Alles so gekommen, wie es sein muss.",joy,9
+1300,user10,user04,21,2021-06-14 19:13:54.488598+00:00,ABer wir bleiben ja Freunde,anticipation,9
+1301,user04,user10,21,2021-06-14 19:13:55.697352+00:00,Ich glaube das wars mit unserem Gespräch für heute. Ich kann es gar nicht fassen. Lächerlicht ,anger,9
+1310,user04,user10,21,2021-06-14 19:14:14.772841+00:00,Ich überlege mir das nochmal genau ,anger,9
+556,user5,user11,19,2021-06-14 18:47:04.209584+00:00,na du? wie fährt sich mein 911er? ,anticipation,10
+571,user11,user5,19,2021-06-14 18:47:41.291619+00:00, ah! Verdammt. Ich muss Dir was beichten,sadness,10
+577,user5,user11,19,2021-06-14 18:47:58.447978+00:00,"oh gott, ich ahne schlimmes ",surprise,10
+584,user11,user5,19,2021-06-14 18:48:23.416517+00:00,Mir ist ein Radfahrer auf die Haube geknallt heute Morgen als ich an der Kreuzung unten an der Schule war. ,surprise,10
+585,user5,user11,19,2021-06-14 18:48:26.037510+00:00,Totalschaden oder ist noch was zu retten?,anticipation,10
+598,user11,user5,19,2021-06-14 18:49:00.388351+00:00,"Nein, nicht so schlimm. Aber ich musste ihn gerade abschleppen lassen. ",sadness,10
+602,user5,user11,19,2021-06-14 18:49:11.212041+00:00,"gut dass ich zuerst an mein auto denke und mich nicht nach deinem Wohlergehen erkundige, das war nicht okay von mir ",disgust,10
+611,user11,user5,19,2021-06-14 18:49:35.446120+00:00,"Sie rufen mich spaeter an, wie teuer es werden wird.  Es tut mir soooooo Leid!! ",sadness,10
+614,user5,user11,19,2021-06-14 18:49:38.258950+00:00,ist dem radfahrer etwas schlimmes passiert? und wie geht es dir ? ,surprise,10
+620,user5,user11,19,2021-06-14 18:49:57.536503+00:00,"nein kein Problem, mach dir keine sorgen ! ",trust,10
+623,user11,user5,19,2021-06-14 18:50:05.066647+00:00,"Nein, alles okay. Er ist dann mit dem Bus weiter gefahren. ",fear,10
+631,user5,user11,19,2021-06-14 18:50:21.970492+00:00,solange euch nichts schlimmes passiert ist bin ich happy ,joy,10
+633,user11,user5,19,2021-06-14 18:50:28.607267+00:00,Mir geht es okay. Das ist mir nur so peinlich ,sadness,10
+636,user11,user5,19,2021-06-14 18:50:36.736626+00:00,Danke Dir ,trust,10
+640,user5,user11,19,2021-06-14 18:50:45.672660+00:00,nein das muss es nicht! ,trust,10
+645,user11,user5,19,2021-06-14 18:50:54.313627+00:00,Ich zahle natuerlich alle aufkommenden Kosten,sadness,10
+653,user5,user11,19,2021-06-14 18:51:10.940423+00:00,nein quatsch ! ,fear,10
+665,user11,user5,19,2021-06-14 18:51:39.775317+00:00,Danke fuer Dein Verstaendnis! Ich rufe dich spaeter nochmal an mit den Infos von der Werkstatt!,sadness,10
+666,user5,user11,19,2021-06-14 18:51:42.639938+00:00,"arbeite nicht umsonst bei einer Versicherung, das wird sich regeln lassen ",joy,10
+672,user5,user11,19,2021-06-14 18:51:54.853212+00:00,bis dann ! ,joy,10
+1031,user07,user01,9,2021-06-14 19:04:50.106276+00:00,Hallo Mama! Ich habe eben die Zusage für meinen Traumjob bekommen!! Ich kanns noch gar nicht glauben!,fear,11
+1043,user01,user07,9,2021-06-14 19:05:14.261298+00:00,Wow  herzlichen Glückwunsch! ,trust,11
+1061,user01,user07,9,2021-06-14 19:05:35.430268+00:00,Jetzt ist dann auch das letzte Kind aus dem Haus  das geht alles so schnell...,sadness,11
+1062,user07,user01,9,2021-06-14 19:05:47.374330+00:00,Danke! Das hat mich auch echt so viele Anstrengungen gekostet!!,fear,11
+1068,user07,user01,9,2021-06-14 19:05:58.772772+00:00,Aber ich werde dich doch oft besuchen kommen!,sadness,11
+1070,user01,user07,9,2021-06-14 19:06:00.584217+00:00,Das hast du dir verdient ,joy,11
+1084,user01,user07,9,2021-06-14 19:06:38.414968+00:00,Ja also du musst mindestens einmal die Woche kommen...  Ich weiß doch gar nicht was ich die ganze Zeit alleine machen soll!,anticipation,11
+1089,user07,user01,9,2021-06-14 19:06:49.296343+00:00,Danke dir! Bist die beste! ,trust,11
+1092,user01,user07,9,2021-06-14 19:06:55.872105+00:00,Wer kümmert sich denn in Zukunft um meine Technik Probleme? ,surprise,11
+1096,user07,user01,9,2021-06-14 19:07:01.737020+00:00,Auf jeden fall! Ach dir wird schon was einfallen ,trust,11
+1106,user07,user01,9,2021-06-14 19:07:21.303056+00:00,Da kannst du doch Papa fragen! der hilft dir bestimmt auch gern!,joy,11
+1122,user01,user07,9,2021-06-14 19:07:48.142311+00:00,Du musst mich trotzdem ganz oft besuchen kommen  Oder ich besuch einfach dich!,trust,11
+1131,user07,user01,9,2021-06-14 19:08:08.843238+00:00,Ja genau! Da wird uns dann schon immer was einfallen ,joy,11
+4093,user15,user10,12,2021-06-16 15:40:27.107797+00:00,Heyyy ,joy,12
+4095,user10,user15,12,2021-06-16 15:40:36.297821+00:00,Hey ,joy,12
+4102,user15,user10,12,2021-06-16 15:40:52.266550+00:00,Ich freue mich dass ich deine Nummer hab ich wollte dich eh schon länger was fragen,anticipation,12
+4116,user10,user15,12,2021-06-16 15:41:19.069326+00:00,Was gibts? ,fear,12
+4118,user15,user10,12,2021-06-16 15:41:23.463902+00:00,ich wollte fragen ob du nächsten Mittwoch mit mir Kaffee trinken gehen willst um 3?,anticipation,12
+4130,user10,user15,12,2021-06-16 15:41:48.355488+00:00,Was? Wirklich? ,joy,12
+4141,user15,user10,12,2021-06-16 15:42:09.561299+00:00,ja!,trust,12
+4146,user15,user10,12,2021-06-16 15:42:20.478839+00:00,kannst du ?,surprise,12
+4150,user10,user15,12,2021-06-16 15:42:31.882370+00:00,"Klar, voll gerne  bin nur etwas überrumpelt ",joy,12
+4152,user15,user10,12,2021-06-16 15:42:33.920769+00:00,ich würde mich sehr freuen,surprise,12
+4153,user10,user15,12,2021-06-16 15:42:37.442287+00:00,Bin dabei ,joy,12
+4158,user15,user10,12,2021-06-16 15:42:42.860807+00:00,oh das freut mich !!,joy,12
+4159,user10,user15,12,2021-06-16 15:42:43.755348+00:00,ich freue mich auch ,joy,12
+4160,user15,user10,12,2021-06-16 15:42:47.264364+00:00,ohhh nein,sadness,12
+4164,user15,user10,12,2021-06-16 15:42:54.102423+00:00,ich kann da doch nicht,sadness,12
+4165,user10,user15,12,2021-06-16 15:43:04.482034+00:00,Really?,anger,12
+4167,user15,user10,12,2021-06-16 15:43:13.075963+00:00,aber wie wäre es stattdessen mit einem Abendessen ?,joy,12
+4175,user15,user10,12,2021-06-16 15:43:26.372260+00:00,ich habe gerade einen Termin übersehen gehabt,sadness,12
+4181,user15,user10,12,2021-06-16 15:43:41.085937+00:00,tut mir leid,fear,12
+4184,user10,user15,12,2021-06-16 15:43:47.763744+00:00,Ähm.. ja Abendessen würde schon auch gehen ,anticipation,12
+4190,user15,user10,12,2021-06-16 15:43:54.068001+00:00,bin ein bisschen schusselig als vorwarnung ,joy,12
+4192,user15,user10,12,2021-06-16 15:44:05.205681+00:00,oh das freut mich ,trust,12
+4193,user10,user15,12,2021-06-16 15:44:06.880819+00:00,Damit komme ich klar ,trust,12
+4198,user15,user10,12,2021-06-16 15:44:15.215925+00:00,hihi,joy,12
+4202,user10,user15,12,2021-06-16 15:44:22.087524+00:00,"Na gut, dann Abendessen am Mittwoch  freue mich auch ",joy,12
+4207,user15,user10,12,2021-06-16 15:44:34.936858+00:00,ich mich auch !,trust,12
+4212,user10,user15,12,2021-06-16 15:44:44.333771+00:00,bis dann ,joy,12
+329,user11,user5,17,2021-06-14 18:35:50.248486+00:00, Leo. Ich vermisse ihn so sehr!!!,sadness,13
+338,user5,user11,17,2021-06-14 18:36:14.074167+00:00,was ist mit Leo ??? ,surprise,13
+353,user11,user5,17,2021-06-14 18:37:12.344275+00:00,Leo ist gestern eingeschlaefert worden.  Er ist nur 10 Jahre alt geworden. ,sadness,13
+362,user5,user11,17,2021-06-14 18:37:40.748426+00:00,ach gott  das tut mir so unfassbar leid ,sadness,13
+373,user5,user11,17,2021-06-14 18:38:17.657023+00:00,ich wünsche dir ganz viel kraft! ,sadness,13
+374,user11,user5,17,2021-06-14 18:38:22.501783+00:00,"JA! So so schade! Es tut echt weh. Und alle sagen immer nur, ich soll mir einfach einen neuen Hund kaufen. ",anger,13
+378,user11,user5,17,2021-06-14 18:38:40.982499+00:00,es wird nie wieder so einen tollen Hund geben wie Leo! ,sadness,13
+383,user5,user11,17,2021-06-14 18:38:52.531914+00:00,meinst du das würde dir nicht evtl dabei helfen den schmerz zu überstehen ? ,anticipation,13
+387,user11,user5,17,2021-06-14 18:39:08.579801+00:00,ein neuer Hund??,fear,13
+401,user5,user11,17,2021-06-14 18:39:49.840283+00:00,"ich möchte nicht unhöflich sein, sorry ",sadness,13
+407,user5,user11,17,2021-06-14 18:40:06.385196+00:00,aber evtl findest du so Ablenkung ? ,anticipation,13
+421,user5,user11,17,2021-06-14 18:40:40.496396+00:00,aber vermutlich ist es dafür tatsächlich noch zu früh ,trust,13
+424,user11,user5,17,2021-06-14 18:40:48.557357+00:00,"ich will keinen neuen, nein! Das war einfach der Beste und ich will sicher keinen einfachen Ersatz. Ich brauche Ablenkung - aber nicht einfach mit einem neuen Hund. ",sadness,13
+426,user11,user5,17,2021-06-14 18:41:03.781912+00:00,Ja ,sadness,13
+432,user11,user5,17,2021-06-14 18:41:20.385291+00:00,Danke Dir aber fuer Dein Verstaendnis ,joy,13
+440,user5,user11,17,2021-06-14 18:41:44.736315+00:00,"gerne, wenn du Wass brauchen solltest, dann melde dich jederzeit bei mir :) ",joy,13
+719,user15,user16,7,2021-06-14 18:54:13.941404+00:00,Hey !  bin gerade in unserer Ferienwohnung in Italien angekommen.. direkt am Meer  es ist sooo schön hier!,joy,14
+734,user15,user16,7,2021-06-14 18:54:41.038294+00:00,"Pool, Terrasse, Blick aufs Meer ",joy,14
+739,user15,user16,7,2021-06-14 18:54:48.064332+00:00,das müsstest du sehen!,joy,14
+754,user16,user15,7,2021-06-14 18:55:10.489376+00:00,"Ach Quatsch?  Ich wusste gar nicht, dass Du schon wieder Urlaub hast..  Warst Du nicht schon unterwegs dieses Jahr?",fear,14
+771,user15,user16,7,2021-06-14 18:55:54.009854+00:00,"doch, aber man gönnt sich ja sonst nichts ",joy,14
+772,user15,user16,7,2021-06-14 18:56:01.224939+00:00,okay stopp mal.. ,disgust,14
+776,user15,user16,7,2021-06-14 18:56:07.677752+00:00,du glaubst es nicht ,anticipation,14
+778,user15,user16,7,2021-06-14 18:56:20.333652+00:00,hier krabbelt gerade eine Kakerlake durchs Bad ,surprise,14
+783,user15,user16,7,2021-06-14 18:56:26.180860+00:00,scheiße ,surprise,14
+794,user16,user15,7,2021-06-14 18:56:42.590452+00:00,"Oha, das ist ja richtig krass ",disgust,14
+798,user15,user16,7,2021-06-14 18:56:54.593276+00:00,was mache ich denn jetzt ?,disgust,14
+799,user16,user15,7,2021-06-14 18:56:57.251107+00:00,Wie eklig ,disgust,14
+808,user15,user16,7,2021-06-14 18:57:17.854194+00:00,hier sind noch mehr ,disgust,14
+812,user16,user15,7,2021-06-14 18:57:22.846602+00:00,Einfach töten ,anticipation,14
+817,user15,user16,7,2021-06-14 18:57:32.122897+00:00,auch unter der Spüle in der Küche ,disgust,14
+819,user16,user15,7,2021-06-14 18:57:36.140411+00:00,Werden schon nicht zu viele sein ,anticipation,14
+823,user15,user16,7,2021-06-14 18:57:45.121221+00:00,haha ,anger,14
+825,user16,user15,7,2021-06-14 18:57:46.324604+00:00,Ohje wie viele denn? ,fear,14
+842,user15,user16,7,2021-06-14 18:58:14.891773+00:00,"bestimmt fünf Stück  ich meld mich später nochmal, muss die erstmal loswerden ",sadness,14
+3764,user13,user19,11,2021-06-16 15:28:47.651416+00:00,Hey! Na alles klar? ,joy,15
+3769,user19,user13,11,2021-06-16 15:29:07.027657+00:00,"Hey, ja alles gut bei mir wie geht es dir?",trust,15
+3780,user13,user19,11,2021-06-16 15:29:30.874731+00:00,Mir geht's auch gut.  Aber ich hätte da eine Frage...  die mir schon lange auf dem Herzen liegt,anticipation,15
+3786,user19,user13,11,2021-06-16 15:29:41.798674+00:00,ja was ist denn los?,anticipation,15
+3791,user13,user19,11,2021-06-16 15:29:52.375626+00:00,"Nächste Woche ist ja der Abiball.  Hast du schon jemanden, mit dem du hingehst? ",surprise,15
+3800,user19,user13,11,2021-06-16 15:30:20.356116+00:00,ach stimmt der abiball..  hatte ich ja voll vergessen..,fear,15
+3824,user19,user13,11,2021-06-16 15:31:09.192426+00:00,"ich hatte mal mit Markus geredet, ob er mit mir gehen will aber ist schon länger her",joy,15
+3825,user19,user13,11,2021-06-16 15:31:11.921676+00:00,und du?,anticipation,15
+3827,user13,user19,11,2021-06-16 15:31:13.098907+00:00,Also hast du noch keinen? Also ich würd voll gern mit dir hingehen...,surprise,15
+3835,user13,user19,11,2021-06-16 15:31:29.533500+00:00,Oh  also habt ihr's schon ausgemacht?,sadness,15
+3839,user19,user13,11,2021-06-16 15:31:39.827616+00:00,puh ganz ehrlich das überfordert mich jetzt etwas,fear,15
+3845,user19,user13,11,2021-06-16 15:31:48.130810+00:00,ich dachte wir sind nur Freunde?!?,surprise,15
+3847,user13,user19,11,2021-06-16 15:31:55.263599+00:00,oh... ,fear,15
+3854,user19,user13,11,2021-06-16 15:32:09.525146+00:00,"das tut mir voll leid, wenn du dir da Hoffnungen gemacht habe",sadness,15
+3855,user13,user19,11,2021-06-16 15:32:11.390259+00:00,ich dachte halt letzte Woche hatten wir so viel Spaß zu zweit im englischen Garten ,trust,15
+3866,user19,user13,11,2021-06-16 15:32:40.580671+00:00,ja das da hast du recht aber ich dachte halt als Freunde..,fear,15
+3867,user13,user19,11,2021-06-16 15:32:44.763908+00:00," ok. Naja, dann gehen wir besser mal nicht zusammen hin, wenn du meine Gefühle nicht erwiderst ",sadness,15
+3877,user19,user13,11,2021-06-16 15:33:14.513036+00:00,ja ich glaube auch dass das besser ist das tut mir leid.. aber ich bin leider in Markus verliebt,sadness,15
+3879,user13,user19,11,2021-06-16 15:33:16.876429+00:00,"achso. Hm ich dachte irgendwie, dass das so eine Art Date war, dass wir den Sonnenuntergang angeschaut haben. ",sadness,15
+3886,user19,user13,11,2021-06-16 15:33:34.058405+00:00,was echt?,fear,15
+3888,user13,user19,11,2021-06-16 15:33:36.906195+00:00,"schade, aber natürlich kein Problem. ",joy,15
+3891,user13,user19,11,2021-06-16 15:33:44.794362+00:00,"Aber wir bleiben doch Freunde, oder?? ",trust,15
+3898,user19,user13,11,2021-06-16 15:33:56.112995+00:00,ich dachte wir treffen uns entspannt auf ein bier und dass dan zufällig die sonne untergeht...,fear,15
+3902,user19,user13,11,2021-06-16 15:34:05.532858+00:00,na klar bleiben wir freunde,trust,15
+3907,user13,user19,11,2021-06-16 15:34:12.967661+00:00,"Ja, da hab ich wohl zu viel rein interpretiert ",fear,15
+3909,user19,user13,11,2021-06-16 15:34:16.632674+00:00,"ich hoffe doch, das ist ok für dich?",anticipation,15
+3910,user19,user13,11,2021-06-16 15:34:24.220136+00:00,ich hab dich nämlich echt meeega gern,trust,15
+3913,user13,user19,11,2021-06-16 15:34:25.756225+00:00,"Naja, dann frag ich mal Kathi, die ist ja auch ganz süß ",trust,15
+3918,user19,user13,11,2021-06-16 15:34:33.862489+00:00,aber halt nur als guten Freund,sadness,15
+3919,user13,user19,11,2021-06-16 15:34:35.083249+00:00,"Ich dich auch, Freunde klingt gut! ",joy,15
+3920,user19,user13,11,2021-06-16 15:34:40.102956+00:00,ja Kathi ist echt meega die süße,trust,15
+3924,user19,user13,11,2021-06-16 15:34:49.214514+00:00,super!,joy,15
+3927,user13,user19,11,2021-06-16 15:34:57.649439+00:00,"das wär was, du und Markus und ich und Kathi als Doppeldate ",joy,15
+3929,user19,user13,11,2021-06-16 15:35:03.934853+00:00,"ich bin sehr froh, dass wir freunde bleiben können",trust,15
+3932,user13,user19,11,2021-06-16 15:35:10.796389+00:00,"Ich frag sie mal und sag dir gleich bescheid, was sie geantwortet hat ",anticipation,15
+3934,user13,user19,11,2021-06-16 15:35:14.891469+00:00,Ich auch ,joy,15
+3936,user13,user19,11,2021-06-16 15:35:17.642362+00:00,bis dann!! ,joy,15
+3938,user19,user13,11,2021-06-16 15:35:19.606395+00:00,ohja das klingt nach einem lustigen Abend,trust,15
+3941,user19,user13,11,2021-06-16 15:35:26.345993+00:00,lass und das machen! bis dann,trust,15
+88,user06,user12,15,2021-06-14 18:22:29.301792+00:00,hey na alles klar  ? wie gehts dir ,anticipation,16
+98,user12,user06,15,2021-06-14 18:23:03.517448+00:00,Schön von dir zu hören! Heute war einfach ein super Tag,joy,16
+101,user12,user06,15,2021-06-14 18:23:18.741249+00:00,Auch das Wetter ,joy,16
+105,user12,user06,15,2021-06-14 18:23:33.130605+00:00,Und selbst?,anticipation,16
+106,user06,user12,15,2021-06-14 18:23:49.799062+00:00,ja alles super ,trust,16
+115,user06,user12,15,2021-06-14 18:24:23.190986+00:00,hab gehört du bist im stress zurzeit  kann man dir bei was helfen ,trust,16
+117,user12,user06,15,2021-06-14 18:24:32.002524+00:00,Oh warte mal kurz..ich bekomme gerade eine Nachricht von einem Kollegen,anticipation,16
+125,user12,user06,15,2021-06-14 18:25:18.304986+00:00,Katastrophe...,surprise,16
+132,user06,user12,15,2021-06-14 18:25:59.833066+00:00,oh no. erzähl was ist los ? ,surprise,16
+134,user12,user06,15,2021-06-14 18:26:06.167883+00:00,Alles schief gelaufen bei dem Projekt... wer soll das jetzt wieder richten,surprise,16
+140,user06,user12,15,2021-06-14 18:26:36.254295+00:00,wenn hilfe brauchst sagt halt bescheid ,trust,16
+148,user12,user06,15,2021-06-14 18:26:52.459268+00:00,"Eben erfahren, dass der Kollege, also langjähriger Projektpartner völligen Blödsinn gemacht hat",anger,16
+158,user06,user12,15,2021-06-14 18:27:31.745910+00:00,und du musst es jetzt wieder ausbaden ?,anger,16
+163,user12,user06,15,2021-06-14 18:27:41.520894+00:00,"Ohne dich mit technischen Einzelheiten nerven zu wollen..aber er hat Änderungen am master-branch vorgenommen, ohne Absprache",anger,16
+167,user12,user06,15,2021-06-14 18:27:57.906353+00:00,Rate mal wer die Suppe auslöffeln darf,anger,16
+173,user12,user06,15,2021-06-14 18:28:21.696572+00:00,Alles muss man selbst machen,anger,16
+174,user06,user12,15,2021-06-14 18:28:26.417206+00:00,oh mann du arme ,anger,16
+176,user06,user12,15,2021-06-14 18:28:49.830675+00:00,aber wie ich dich kenn bekommst des wieder hin,trust,16
+180,user12,user06,15,2021-06-14 18:28:56.874321+00:00,Und eine Idee wie man das in den Griff bekommt habe ich auch nicht,surprise,16
+186,user12,user06,15,2021-06-14 18:29:19.332952+00:00,"Leider nicht, du überschätzt meine Fähigkeiten ",surprise,16
+200,user12,user06,15,2021-06-14 18:30:00.183042+00:00,"Naja vielleicht bekomme ich noch eine Idee, die Woche ist ja noch jung ",anticipation,16
+97,user15,user16,1,2021-06-14 18:23:02.602367+00:00,hey! wo bleibst du ? ,anger,17
+107,user16,user15,1,2021-06-14 18:23:52.431147+00:00,"Du sorry, ganz blöd gelaufen. Ich kann leider doch nicht kommen ",sadness,17
+116,user15,user16,1,2021-06-14 18:24:26.032802+00:00,ich warte schon seit 20 Minuten und der Film hat schon angefangen.. hättest du das nicht vorher sagen können ? es ist arrrschkalt ,anger,17
+122,user16,user15,1,2021-06-14 18:24:53.727665+00:00,Das ist das Problem. Ich bin ausgerutscht und bin gerade im Krankenhaus. Tut mir super leid ,surprise,17
+137,user15,user16,1,2021-06-14 18:26:19.668702+00:00,was echt ??? Das tut mir natürlich leid.. ,surprise,17
+141,user15,user16,1,2021-06-14 18:26:36.826412+00:00,gute Besserung! ich hoffe das läuft das nächste mal besser,sadness,17
+1331,user12,user06,24,2021-06-14 19:14:58.250410+00:00,Na wie schauts aus? sollen wir mal wieder gemeinsam essen gehen?,anticipation,18
+1335,user06,user12,24,2021-06-14 19:15:11.077856+00:00,hey ich wollt letzten zu Luigi gehn zum Pizza essen. aber der hat zu wegen corona ,surprise,18
+1356,user06,user12,24,2021-06-14 19:16:08.512765+00:00,der arme luigi hoffentlich kann er nach dem lockdown wieder aufmachen,sadness,18
+1365,user06,user12,24,2021-06-14 19:16:28.702312+00:00,und wir müssen jetzt einen neuen Italiener finden zum essen ,sadness,18
+1382,user12,user06,24,2021-06-14 19:17:00.398793+00:00,Du wirst es nicht glauben,joy,18
+1409,user12,user06,24,2021-06-14 19:17:54.974616+00:00,Ich habe gute Neuigkeiten für dich ich war selbst total überrascht als ich es erfahren habe,trust,18
+1417,user06,user12,24,2021-06-14 19:18:07.521517+00:00,waaas ?,surprise,18
+1418,user12,user06,24,2021-06-14 19:18:08.696703+00:00,Es gibt ihn noch,joy,18
+1424,user06,user12,24,2021-06-14 19:18:21.227326+00:00,juhuuu ,joy,18
+1426,user06,user12,24,2021-06-14 19:18:32.088990+00:00,woher weißt du das ?,fear,18
+1428,user12,user06,24,2021-06-14 19:18:35.763032+00:00,er hat jetzt ein eigenes Restaurant ,joy,18
+1434,user12,user06,24,2021-06-14 19:18:47.836788+00:00,habe ich zufällig entdeckt ,joy,18
+1436,user12,user06,24,2021-06-14 19:18:53.231816+00:00,Glück muss man haben,joy,18
+1437,user06,user12,24,2021-06-14 19:18:53.806518+00:00,ach wie cool,joy,18
+1446,user06,user12,24,2021-06-14 19:19:06.662548+00:00,dann lass doch da hingehen demnächst ,joy,18
+1459,user12,user06,24,2021-06-14 19:19:30.881254+00:00,"War da in Solln unterwegs, da habe ich es entdeckt ",joy,18
+1466,user12,user06,24,2021-06-14 19:19:43.516572+00:00,Wieso nicht gleich heute? Ich habe Zeit ,trust,18
+2933,user15,user10,4,2021-06-16 15:02:24.536569+00:00,ohhh mein Gott,fear,19
+2936,user10,user15,4,2021-06-16 15:02:33.518404+00:00,was gibts? ,anticipation,19
+2939,user15,user10,4,2021-06-16 15:02:40.608299+00:00,hast du schon mal was von Kopi Luwak gehört?,joy,19
+2953,user10,user15,4,2021-06-16 15:03:05.314469+00:00,Du meinst die Kaffeesorte? ,anticipation,19
+2966,user15,user10,4,2021-06-16 15:03:31.879586+00:00,jaaaa genau,joy,19
+2975,user15,user10,4,2021-06-16 15:03:48.228743+00:00,hab mir grade eine Tasse gekauft und sitze damit jetzt in der sonne,joy,19
+2983,user10,user15,4,2021-06-16 15:04:04.399347+00:00,Haha nice ,joy,19
+2985,user10,user15,4,2021-06-16 15:04:07.236571+00:00,gönn dir,fear,19
+2994,user15,user10,4,2021-06-16 15:04:19.373744+00:00,danke war krass teuer,surprise,19
+3014,user10,user15,4,2021-06-16 15:04:57.614712+00:00,Haha ja ,fear,19
+3021,user10,user15,4,2021-06-16 15:05:17.064425+00:00,Kommt ja auch aus dem Magen von Schleichkatzen ,anticipation,19
+3023,user15,user10,4,2021-06-16 15:05:32.632210+00:00,was,surprise,19
+3027,user10,user15,4,2021-06-16 15:05:42.855411+00:00,Wusstest du das nicht? ,fear,19
+3031,user15,user10,4,2021-06-16 15:05:59.627925+00:00,ne ,disgust,19
+3033,user15,user10,4,2021-06-16 15:06:03.174498+00:00,igitt,disgust,19
+3038,user15,user10,4,2021-06-16 15:06:11.762928+00:00,dann schmeiß ich ihn weg,sadness,19
+3040,user10,user15,4,2021-06-16 15:06:14.046522+00:00,"Schleichkatzen fressen die Bohnen, dann werden sie verdaut und wieder ausgeschieden und erst dann zu Kaffee verarbeitet ",fear,19
+3042,user15,user10,4,2021-06-16 15:06:17.962812+00:00, eklig,disgust,19
+3045,user10,user15,4,2021-06-16 15:06:19.978110+00:00,Was? ,fear,19
+3050,user10,user15,4,2021-06-16 15:06:33.651357+00:00,nein du kannst den doch nicht wegschmeißen ,surprise,19
+3051,user15,user10,4,2021-06-16 15:06:41.956066+00:00,ja das hört sich sehr eklig an jetzt kann ich den nicht mehr trinekn,disgust,19
+3055,user10,user15,4,2021-06-16 15:06:52.633986+00:00,oh mann ,fear,19
+3057,user10,user15,4,2021-06-16 15:06:59.606278+00:00,ich dachte das weißt du? ,fear,19
+3061,user15,user10,4,2021-06-16 15:07:06.816953+00:00,doch ich bleib einfach bei meinem Latte macchiato der enttäuscht mic nie ,joy,19
+3064,user15,user10,4,2021-06-16 15:07:13.075576+00:00,ne,sadness,19
+3065,user10,user15,4,2021-06-16 15:07:14.692051+00:00,Wollte dir das jetzt nicht versauen ,surprise,19
+3069,user15,user10,4,2021-06-16 15:07:21.968220+00:00,kein Problem,joy,19
+3070,user10,user15,4,2021-06-16 15:07:28.011301+00:00,oh mann haha ,fear,19

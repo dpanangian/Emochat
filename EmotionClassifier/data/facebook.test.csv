@@ -1,0 +1,1065 @@
+utterance,emotion,did
+Zwei Füße,neutral,676
+"Ja, es heißt zwei Füße",neutral,676
+Habe meine beiden Prüfungen für heute beendet,neutral,676
+"Hallo Herr person_324,/n/nIch schreibe Ihnen, um mich über den Status meiner Bewerbung zu erkundigen. Ich bin sehr daran interessiert, bei Organisation_67 zu arbeiten, um relevante praktische Erfahrungen zu sammeln und meine technischen Fähigkeiten zu verbessern. Ich glaube, dass ich sehr gut zu Ihrem Unternehmen passen würde. Lassen Sie mich wissen, ob ich noch etwas tun kann, um meine Bewerbung voranzubringen. Vielen Dank./n/nAufrichtig, /nperson_492",neutral,676
+wie ist das,neutral,676
+Perfekt,neutral,676
+"ok, wenn ich den Job nicht bekomme, gebe ich Ihnen die Schuld",neutral,676
+Wtf,surprise,676
+kontextualisieren,neutral,676
+oh warte aber dann sage ich zweimal nachfragen,neutral,676
+ich habe Sie vor ein paar Wochen angeschrieben und nach Sommerarbeit gefragt,neutral,676
+dort,neutral,676
+wie ist das,neutral,676
+"Ich frage mich, ob Sie fragen sollten, ob es ein Datum gibt, bis zu dem er Ihnen Bescheid geben wird",neutral,676
+"Aber ich finde, es klingt zu aufdringlich",neutral,676
+"ja, das wäre es",neutral,676
+Außerdem habe ich es bereits abgeschickt,neutral,676
+Zu,neutral,676
+muss sehr höflich in Follow-up-E-Mails sein,neutral,676
+Hey Sie haben den Mietvertrag richtig?,neutral,122
+Mhmm,neutral,122
+Sind Sie zufällig zu Hause?,neutral,122
+Nö.,neutral,122
+Was ist los,neutral,122
+"okk äh wissen Sie, ob es irgendwo auf dem Mietvertrag über wie viel die Wasserrechnung ist?...",neutral,122
+wie wenn es ein fester Betrag ist,neutral,122
+Uhhh ich weiß nicht rmb,neutral,122
+"Ich glaube, das ist in der Miete enthalten?",neutral,122
+"Ich schaue nach, wenn ich zu Hause bin",neutral,122
+"Ja, das weiß ich, hahaha",non-neutral,122
+"Ich habe mich nur gefragt, ob der Betrag irgendwo angegeben wurde",neutral,122
+Sind Sie im Studio?,neutral,122
+Haben Sie gegessen,neutral,631
+Ja,neutral,631
+Ich bin zurück,neutral,631
+O,neutral,631
+"Ich wollte Essen holen und wollte wissen, ob du mitkommen willst",neutral,631
+Ich bin nicht in der Nähe von location_70,neutral,631
+Oh Scheiße,surprise,631
+"Es ist ein dreitägiges Wochenende, an dem ich mich von location_70 entfernen werde",neutral,631
+Ohhh,neutral,631
+Ja,neutral,673
+"Es gibt Stellen, an die ich mich wegen des Kiffens nicht erinnere lol",non-neutral,673
+?.?,surprise,673
+Wirklich lol,surprise,673
+ICH LIEBE U,joy,673
+Person_202 und Person_323 brachten mich zum Tamarind und ich lief irgendwie zu 5 Guys und zurück zu Person_129s Zimmer und ich erinnere mich nur an kleine Schnipsel der ganzen Reise,non-neutral,673
+Oo bebe,non-neutral,673
+Hoffentlich haben Sie unterwegs keine Schwänze gelutscht,non-neutral,673
+"Nein, aber ich bin mir ziemlich sicher, dass ich auf Fifth gestoßen bin.",neutral,673
+"Weil ich gesehen habe, wie jemand anderes über den Fünften lief",neutral,673
+Also habe ich auch,neutral,673
+"Aber was wäre, wenn meine Mutter gestorben wäre",fear,673
+Ich kann nicht in eine Pflegefamilie gehen,non-neutral,673
+Papa wird sich um dich kümmern,non-neutral,673
+Wo sind meine Insta-Fotos!,surprise,639
+Hallo,neutral,639
+Ich werde sie bald bearbeiten!!,neutral,639
+Hallo c:,neutral,639
+Soll ich sie auf meinem Telefon essen,neutral,639
+Außerdem muss ich meine Mutter anrufen,neutral,639
+Weil meine Allergien wirklich schlimm werden,non-neutral,639
+Person_306,neutral,639
+Ja,neutral,639
+Wat haha,neutral,639
+Zurückkommen und Medikamente nehmen,neutral,639
+Oh,neutral,639
+Bearbeiten*****,neutral,639
+Lol,joy,639
+"Und ja, das werde ich in Kürze",neutral,639
+Aber ja sicher c:,neutral,639
+Sie bearbeiten,neutral,639
+"Aber ich glaube, ich habe keine Allergie-Medizin",neutral,639
+"Das, was ich genommen habe, war nur für nasale",neutral,639
+"Ich dachte, Sie hätten",neutral,639
+"Es gibt Allergiemedikamente, die bei Entropie verkauft werden.",neutral,639
+Hoffentlich sind sie nicht ausverkauft,neutral,639
+"Lassen Sie mich meine Mutter fragen, ob ich etwas habe.",neutral,639
+Person_307,neutral,639
+person_158 hat uns die K-Drive-Privilegien weggenommen lol,anger,284
+Lol wie soll man Dinge teilen,neutral,284
+Sie gab uns einen Ordner auf dem Laufwerk k,neutral,284
+Kein Zugriff auf etwas anderes,neutral,284
+"Ziemlich froh, dass ich nach diesem Quartal mit diesem Job fertig bin",joy,284
+Ich fühle mich schlecht für Person_425,sadness,284
+Lol,joy,284
+"Ich dachte, er würde seinen Abschluss vorzeitig machen",neutral,284
+Oh ja haha,joy,284
+Nur damit er hier nicht arbeiten muss,non-neutral,284
+Wahrscheinlich aber nicht ein Jahr zu früh,neutral,284
+"Schade, dass sie die Schlimmste ist",disgust,284
+Person_159 ist auch super aufgeregt zu gehen,neutral,284
+Wohin geht Person_160?,neutral,284
+Sie macht ihren Abschluss,neutral,284
+Mehr zur Schule gehen in wie location_38 oder so,neutral,284
+"Oh, JEDER geht",surprise,284
+lol ya,joy,284
+Wir haben aber schließlich Person_161 ersetzt,neutral,284
+"ja, ich arbeite tatsächlich für die Organisation_0",neutral,11
+"Bei einem meiner Kunden wurden also alle Daten (die von verschiedenen Drittanbietern stammten) in ein zentrales Data Warehouse verschoben, und dann habe ich Anforderungen für Berichte gesammelt und diese entwickelt",neutral,11
+"Hmm und Sie gehen vor Ort, um diese Dinge zu tun",neutral,11
+"die Berichte würden von den Außendienstmitarbeitern (es handelt sich um eine Pharmafirma) verwendet werden, wenn sie im Außendienst sind, um Informationen zu haben, die sie sofort benötigen, wenn sie versuchen, Produkte an Ärzte/Kliniken/Krankenhäuser/etc. zu verkaufen.",neutral,11
+ja,neutral,11
+"Oh, okay, verstehe, also ist mit der Datenanalyse auch eine Programmierung verbunden",neutral,11
+"ja, aber nicht unbedingt wie location_0 und so",neutral,11
+wir stellen Java-Programmierer und andere Programmierer ein,neutral,11
+"Das meiste, was ich mache, arbeite ich mit ETL-Entwicklern, die sich mit Tools wie organization_1,e tc auskennen.",neutral,11
+Woran sind Sie interessiert?,neutral,11
+"Ok verstanden, macht es Ihnen Spaß?",neutral,11
+Ich bleibe nur mit meinem besten Freund in Kontakt,neutral,11
+lol sicher,joy,11
+"ja, das tue ich",neutral,11
+Arbeiten Sie und Person_6 in der gleichen Abteilung?,neutral,11
+"besonders jetzt, wo ich weiß, was ich tue und mir viel Verantwortung übertragen wurde, gefällt es mir",joy,11
+"nein, er ist in der Organisation_78",neutral,11
+"er ist in der Organisation_79 geschult und arbeitet an Projekten, in denen er sie implementiert und Fehler behebt",neutral,11
+"Ja, das macht Sinn",neutral,11
+"Oh okay, und was läuft dort sonst noch so ab? Gibt es irgendwelche internen Projekte oder nur Kunden?",neutral,11
+"Okay, gibt es einen Hauptstandort?",neutral,11
+"wir haben auch interne Arbeit, aber ich bin damit nicht so vertraut",neutral,11
+"technisch gesehen befindet sich das HQ von Standort_1 in Standort_2, aber unsere Hauptbüros sind NYC, Standort_3, Organisation_2, Standort_4, Standort_5, Standort_6 (Burbank) und Standort_7",neutral,11
+Organisation_3 globaler Hauptsitz ist in Standort_8,neutral,11
+:(,sadness,490
+"Ich schätze, wir werden dann nicht miteinander schlafen.",sadness,490
+Wie spät sind Sie wach?,neutral,490
+wie 1,neutral,490
+Okie wir werden dann wohl heute Nacht nicht zusammen schlafen :(,sadness,490
+"Ich frage mich, ob ich mich in den Vierer schleichen kann hehe",joy,490
+Es ist sooo doppelt getunkt ;),joy,490
+wir werden sehen,neutral,490
+Shoot it's $1.75 T^T,non-neutral,363
+Haben Sie einen Vierteldollar?,neutral,363
+Lassen Sie mich prüfen,neutral,363
+"Ich glaube, ich habe etwa 1",neutral,363
+"Ja, das ist gut",neutral,363
+"Auch idk, wenn u wollen nur die Fenster öffnen, weil es ziemlich kühl draußen fühlt",neutral,363
+Regen...?,surprise,363
+Regnet es zur Zeit?,surprise,363
+Ja,neutral,363
+"Warte r u kommen, um mir die 25 lol geben",joy,363
+"Mist, es ist ein kanadischer Vierteldollar, ich weiß nicht, ob es funktionieren wird.",non-neutral,363
+Lol,joy,363
+Hahahaha omg,joy,363
+"Ähm, könnten wir einen der Jungs fragen...",neutral,363
+Mmmm ....,neutral,363
+Lol was ist das,non-neutral,363
+Ich frage Person_488,neutral,363
+Festhalten,neutral,363
+Oh ok,neutral,363
+Er sollte auf seinem Weg sein,neutral,363
+Yayyy,joy,363
+Was meinen Sie mit *der*,neutral,652
+Ich fand einige im Arbeitszimmer während einer der großen Reinigungen,neutral,652
+"Habe sie in mein weißes Regal verschoben, damit sie nicht kaputt gehen",neutral,652
+Aber haben wir uns gerade einen geteilt?,neutral,652
+"Nun, ich meine nur, wo sind die meisten von ihnen",neutral,652
+Mein Fehler bei der Formulierung lols,joy,652
+"Oh, Sie kaufen sie und behalten sie, glaube ich",neutral,652
+Auf keinen Fall,surprise,652
+Ich hatte keine Ahnung,surprise,652
+Sie sind sowieso ziemlich billig,neutral,652
+Die Leute fragen mich nach ihnen,neutral,652
+Wie $20-30,neutral,652
+Und Person_316 möchte ein Paar tragen,neutral,652
+Vielleicht Person_470 fragen?,neutral,652
+Ja,neutral,652
+Das ist erstaunlich,joy,502
+Gibt es Regeln gegen Sprengstoff?,neutral,502
+lmao Lipos sind nicht erlaubt,joy,502
+Bullshit,non-neutral,502
+Kraft mal Weg,neutral,502
+hurr hurr,non-neutral,502
+lecken,non-neutral,502
+Womit laufen die serienmäßigen Antriebsräder überhaupt?,neutral,502
+Inverter bois,neutral,502
+fuck off-season comp,non-neutral,502
+Wir machen das,neutral,502
+warum nicht beides,neutral,502
+Idee: einen Blitzableiter anbringen und auf göttliche Gunst warten,neutral,502
+"Sieht so aus, als wäre eine einzelne 12V-Batterie im Inneren",neutral,502
+einfach 3 weitere in Serie einbauen,neutral,502
+was schiefgehen könnte,neutral,502
+ficken,disgust,502
+"eine kleine Düse verwenden, um ein Rad zu drehen",neutral,502
+Schachmatt,neutral,502
+einen Sterling-Motor verwenden und ihn patentieren lassen,neutral,502
+einfach am besten im echten Leben jeder,neutral,357
+oder bestes Foto,neutral,357
+Ich gebe Ihnen meine,neutral,357
+k geht vor,neutral,357
+rechts,neutral,357
+falsch,non-neutral,357
+ill gehen durch Ihre Freunde und finden Sie eine heißere Mädchen,neutral,357
+nein zeig mir deine,neutral,357
+schnell ich muss schlafen gehen,neutral,357
+dieselbe,neutral,357
+aight,neutral,357
+mir zeigen,neutral,357
+dieses eine Küken hat ein gutes aktuelles Profilbild,neutral,357
+"aber ich will nicht, dass du sie findest.",neutral,357
+lol gr8,joy,445
+arbeiten wir gemeinsam an den Postern,neutral,445
+Wann können Sie daran arbeiten?,neutral,445
+Nach 6 :<,sadness,445
+"Ich habe formale heute Abend für axo. Im nicht sicher, wann seine bis!",neutral,445
+Ah okay nvm,neutral,445
+Person_230,neutral,445
+Machst du es zu dieser Zeit lol,non-neutral,445
+ok,neutral,713
+damit wir uns nicht um die dritte Gleichung kümmern müssen,neutral,713
+?,surprise,713
+"wir im Grunde nur x mom und y mom lösen, um einen Geschwindigkeitsvektor zu erhalten?",neutral,713
+Lol ja,joy,713
+cool,neutral,713
+Druck ficken,anger,713
+Oh Sie brauchen Druck,non-neutral,713
+Wo?,non-neutral,713
+So geht's. Sie erhalten das u und v für das nächste it,neutral,713
+ah,neutral,713
+Ich sehe,neutral,713
+sie sind verwandte Gleichungen,neutral,713
+Scheiße,non-neutral,713
+sieht scheiße aus,anger,713
+Lol noob,joy,713
+Lesen Sie die Hinweise,neutral,713
+Ich lese mich durch,neutral,713
+welche sehen Sie sich an,neutral,713
+"Alle, wirklich alle",neutral,713
+kk,neutral,214
+"Wenn nicht, werden wir wahrscheinlich CU verwenden, da ich ein Ladenguthaben habe.",neutral,214
+Aber auch das BC-Universum ist eine Option,neutral,214
+Denn einer ist 832 und der andere ist 834,neutral,214
+"Und ich weiß nicht, ob Organisation_25 versandkostenfrei ist",neutral,214
+"Ich nehme an, ich kann das zu Ihnen nach Hause geschickt bekommen, richtig?",neutral,214
+"Ja, ich brauche nur eine Vorwarnung, wann.",neutral,214
+"Es sollte ein paar Tage dauern, bis das Gehäuse fällt",neutral,214
+Dass es ankommen wird,neutral,214
+Warten wat,surprise,214
+"Ja, CU und BCU sind dafür bekannt, dass sie vor dem Freigabetag verschicken",neutral,214
+Also werden wir es wahrscheinlich am Mittwoch oder Donnerstag bekommen,neutral,214
+"Oh, ich dachte, Sie meinten wie diese Woche und ich war dabei, Ihre Gesundheit in Frage zu stellen",surprise,214
+"Ich sagte, bevor es fällt lol",joy,214
+yo haben Sie noch diesen Stuhl,neutral,593
+Ja,neutral,593
+Ist der Scheiß bequem oder nicht?,neutral,593
+"Es ist nicht flauschig oder so, aber es ist sicher besser als die Stühle, die mit dem Zimmer kommen",neutral,593
+"Wort Sie denken, ich kann es irgendwann in dieser Woche abholen?",neutral,593
+"Ja, auf jeden Fall, welche Zeit für Sie funktioniert",neutral,593
+Kann ich es irgendwann im März bekommen?,neutral,593
+"Ja, nachmittags",neutral,593
+"Wie lange dauert es, bis Sie fertig sind?",neutral,456
+ich werde wahrscheinlich bis Mitternacht arbeiten,neutral,456
+711/1500,neutral,456
+Halbwegs,neutral,456
+begann irgendwann nach zehn,neutral,456
+Ich warte auf Sie,neutral,456
+"Raten Sie, was ich tue",neutral,456
+okay <3,joy,456
+warum aber,neutral,477
+warum ist es kitschig?,neutral,477
+ihr,neutral,477
+weil es die ultimative Zusammenstellung von Remixen weiblicher Popsongs ist,neutral,477
+"Ich weiß nicht, ob ""trashig"" das richtige Wort ist, aber ich liebe es nichtsdestotrotz",neutral,477
+"Ja, ich denke, trashig ist vielleicht nicht das Wort, das Sie suchen.",neutral,477
+Ich höre es mir gerade an,neutral,477
+"Ich liebe es, dass Ravey Spice ein verwandter Song ist.",neutral,477
+"ich bin zu der Erkenntnis gekommen, dass zumindest für mich die verwandten Lieder nur meine kürzlich gemochten Titel sind",neutral,477
+"Hey Leute! Wie geht es euch??ich habe vergessen zu fragen, wie der Lauf am letzten Tag war_1?",neutral,310
+"Hey, wir sind gut. Der Lauf lief super gut. Ich war ein bisschen müde, aber Pyjama hat mich aufgepeppt. Wir haben bei 1h4 Minuten beendet",joy,310
+"Btw werent u Planung zu kommen, dass Wochenende??",neutral,310
+"Wahnsinn! Das waren 10 km, oder? Ihr seid verrückt! Haha, aber ich wette, es muss sich gut anfühlen, das zu schaffen",joy,310
+"ja, das habe ich, aber mein Flugzeug ging an diesem Tag um Uhrzeit_1..sonst wären wir sicher zu Ihnen gekommen! Ich wollte",neutral,310
+"Ich bin auch nächstes Wochenende hier, wenn Sie in der Nähe sind!",joy,310
+"Hehe ja es waren 10k , kein Problem. Werden bald treffen",neutral,310
+ja :-),neutral,310
+Lassen Sie uns das organisieren!,joy,310
+"Wir sind hier immer am Wochenende, werden dafür in Kontakt bleiben",neutral,310
+"Habe Spanisch aufgegeben, um 490 zu nehmen lol",neutral,109
+guter Mann,joy,109
+Hätten Sie es nicht auf einen späteren Zeitpunkt verschieben können?,neutral,109
+zu viele Kreditstunden zu bewältigen,neutral,109
+würde 19 gewesen sein,neutral,109
+o fucc,surprise,109
+"Ich dachte, Sie sagten, dieses Semester sei ez??",surprise,109
+"ja, kann nur nicht so viel unterschreiben",neutral,109
+ah,neutral,109
+"Kumpel, genial... Das wäre perfekt vor einem Fußballspiel",joy,312
+Motivierend nein?,joy,312
+Auf jeden Fall,joy,312
+:D,joy,312
+Person_172 hat es gefunden,joy,312
+Gutes Zeug,joy,312
+Sehen Sie sich auch dieses Instrumental an,joy,312
+Dies fand ich,joy,312
+Ich bin verliebt in ihn,joy,312
+"Oh mein Gott, ich liebe die, die Sie geschickt haben!",joy,312
+Oder? Lassen Sie mich das überprüfen,joy,312
+"Das, was Sie geschickt haben, ist mein Lied für die Nacht. Es hat es einfach für mich getan",joy,312
+"Haha, ich freue mich, dass ich helfen konnte. Ich habe tatsächlich ""Two Steps from Hell"" gehört, wusste aber nie, wie es heißt. Ein Freund im College hat es immer gespielt. Geniales Zeug",joy,312
+Ja :),joy,312
+"Es dauert ein bisschen, bis man sich eingearbeitet hat, aber es ist nett. Nicht sicher, ob Sie diese Art von Sachen mögen. Eher alternativ. Aber instrumental.",neutral,312
+"Es ist eine Freude. Aber Sie sind eine kleine weiße britische Frau, also werden sie besser zu Ihnen sein",joy,91
+"Wahrscheinlich nicht. Um fair zu sein, ich fliege ziemlich oft und habe auch nicht",neutral,91
+Ich scheine immer gefilzt zu werden =),non-neutral,91
+So nervig,disgust,91
+Am Standort_27? Haben die auch so bescheuerte Sicherheitsgesetze?,disgust,91
+Oh ja,non-neutral,91
+Ist das nicht großartig?,disgust,91
+Du kommst also im Juni?,neutral,91
+Ich bin in der Tat,neutral,91
+Die Zeit-HL(1) um genau zu sein,neutral,91
+"Ich werde bis dahin schon etwa einen Monat weg sein, aber Ende August bin ich wieder da",neutral,91
+"Ahh fair genug, mein Lager Enddatum ist Zeit-HL(2) so kann ich jederzeit nach dann gehen",neutral,91
+"Sie sollten unbedingt reisen, aber im Norden bleiben",neutral,91
+"Ja, ich kann es mir nicht leisten, viel herumzureisen, ich würde wahrscheinlich bis spätestens Mitte der Zeit bleiben, weil ich am Ende mit der Uni anfange und ich noch eine Woche oder so zu Hause sein möchte, bevor ich gehe",neutral,91
+"Verstanden ~ nun, ich habe ein Studio mit einem Ersatzbett und meine Freundin hat eine Couch, wenn Sie einen Platz zum Bleiben für ein bisschen brauchen",neutral,91
+Oooh ich werde es Sie wissen lassen!,surprise,91
+Könnte ich mir heute Abend Ihren Staubsauger ausleihen?,neutral,510
+Planenstücke überall,neutral,510
+Person_221,neutral,510
+aw shit nvm person_418 ging nach Hause,non-neutral,510
+Ich kann es rüberfahren haha,joy,510
+Sind Sie sicher?,neutral,510
+Sie hatten einen langen Tag lol,neutral,510
+Eh. Dun wrry,neutral,510
+"es ist das, was ich tue",neutral,510
+Organisation_23 hat eine gute ML-Gruppe,neutral,189
+"Ich bin nicht sicher, wie die Job-Statistiken sind",neutral,189
+"Aber es ist viel billiger. Wenn Sie Ra/Ta dort bekommen, könnten Sie am Ende sogar nichts ausgeben",neutral,189
+"Wenn Ihr Ziel ein PhD war, hätte ich Organisation_20 wegen der Fakultät hier und ihrem Ruf bevorzugt",neutral,189
+"Ich hatte ähnliche Ziele, war aber nicht ganz entschlossen, zu promovieren",neutral,189
+"Wenn ich uta bekommen hätte, würde meine Entscheidung leicht zu Gunsten dessen kippen",neutral,189
+"Es ist gut, am Ende Ihrer MS in einer kreditfreien Situation zu sein",neutral,189
+"hmm ja... muss mit einigen UTA-Leuten sprechen, bevor ich mich entscheide",neutral,189
+hey bekommen mcds ppl einen berater?,neutral,189
+"Nein, wir haben einen Programmberater, aber das ist mehr für administrative Zwecke",neutral,189
+Oh ich verstehe... btw kennen Sie jemanden am Standort-HL?,neutral,189
+"Ich kenne einen Typen, der vor ein paar Jahren seinen Abschluss gemacht hat.",neutral,189
+Ich kann Sie mit ihm in Kontakt bringen,neutral,189
+das wäre großartig!,joy,189
+"Oh Scheiße, ich habe den Essensblock verpasst",non-neutral,675
+jaaa,neutral,675
+"Ja, nur zu, und wenn Sie etwas für Ihren späten Block wollen, bringe ich es mit, wenn ich vorbeikomme.",neutral,675
+"Ich bin fertig mit Packen, ich werfe nur noch Sachen weg und dann komme ich rüber",neutral,675
+isst du nicht?,neutral,675
+"Oh, okay, dann benutze ich Ihren späten Block lol",neutral,675
+oder wollen Sie Grubhub,neutral,675
+was wollen Sie essen,neutral,675
+Ich weiß es nicht,neutral,675
+"Besorgen Sie mir einfach, was immer Sie bekommen",neutral,675
+"oder wollen Sie in die U-Bahn gehen, wenn Sie später vorbeikommen",neutral,675
+Um die,neutral,555
+Im,neutral,555
+"Person_275 wird um 420 Uhr zurückkommen, um zu duschen",neutral,555
+DW Ich gehe einfach rein und gebe es ab,neutral,555
+Und lassen,neutral,555
+Man muss etwas tun nach,neutral,555
+Oh okay,neutral,555
+Ich bin in meinem Schlafsaal im Erdgeschoss,neutral,555
+"fragen Sie Person_413, wie sie $66,59 bei amazon ausgeben würde",neutral,38
+:p,joy,38
+"(ich weiß, ich werde es für Schulsachen ausgeben)",neutral,38
+"""Klamotten oder Wohnheimsachen""",neutral,38
+(ich denke gerade über lustige Dinge nach),neutral,38
+Bitte,neutral,38
+Das hat sie auch gesagt!,joy,38
+das macht keinen Spaß,sadness,38
+lol,joy,38
+Klamotten und Wohnheimsachen machen so viel Spaß,neutral,38
+ich schätze,neutral,38
+Persönlich,neutral,38
+"Ja, ich würde gerne ein paar Klamotten kaufen",neutral,38
+"Ich mag es nicht, wenn wir Kleidung einkaufen",neutral,38
+?,neutral,38
+Online lol,joy,38
+ah,neutral,38
+"Ich kaufe Dinge, von denen ich weiß, dass sie bereits passen",neutral,38
+"als ob ich mehr Levis kaufen würde, weil ich meine Größe bei denen schon kenne",neutral,38
+Mhm,neutral,38
+auch bei den Mädchen gibt es viel mehr Abwechslung,neutral,38
+Das ist wahr,neutral,38
+ugh,disgust,140
+Möchte in die Bibliothek kommen,neutral,140
+"Ich fange an, dieses Arschloch rauszuhämmern",anger,140
+Person_391 ist noch da,neutral,140
+zum Glück ist dies am Donnerstagmorgen fällig,neutral,140
+"Oh, meint er das?",surprise,140
+ich werde trotzdem zu spät kommen,neutral,140
+"Ja, Kumpel",neutral,140
+nah,neutral,140
+"solange Sie es schaffen, bevor er in die Schule kommt",neutral,140
+ist gut,neutral,140
+und er erwähnte,neutral,140
+"Ich glaube, das war für die 3d-Gehäuse",neutral,140
+trotzdem,neutral,140
+"Ja, die Zeit der Krise",non-neutral,140
+"OH, GOTT SEI DANK!",joy,140
+aber ja,neutral,140
+"wir haben mehr Zeit, als Sie wahrscheinlich dachten",non-neutral,140
+obwohl Sie vielleicht später Fotos vom Lehrbuch machen sollen,neutral,140
+np,neutral,140
+ich könnte später nach Hause gehen und meine eigenen Whiteboards benutzen,neutral,140
+"Ich könnte die Scheißer einfach in meine Wand schrauben, haha",joy,140
+sscrew the fuckers?,surprise,140
+dnag,neutral,236
+Hot Dog,neutral,236
+Hot Dog?,neutral,236
+ich will Hot Dog,neutral,236
+wird es an Karneval Hot Dogs geben,neutral,236
+ach ja,joy,236
+ill be there von hollywood undead anhören,neutral,236
+Mögen Sie dieses Lied?,neutral,236
+"Ja, das tue ich",joy,236
+Kugel ist auch gut,neutral,236
+"ich mag auch everywhere i go, aber es ist auch ein lächerliches Lied",neutral,236
+oh ich mag diesen volkstümlichen Stil nicht,non-neutral,236
+das ist überhaupt nicht volkstümlich,neutral,236
+vielleicht ein wenig wegen der leichten Akustikgitarre im Hintergrund,neutral,236
+aber es ist einfach wie generischer Pop,neutral,236
+oh,neutral,236
+Sie würden wahrscheinlich Kugel mehr mögen,neutral,236
+ill be there ist ganz und gar nicht wie ihre anderen Lieder,neutral,236
+Die meisten ihrer Songs sind rappig/punkig,neutral,236
+Sie sollten wahrscheinlich wieder an die Arbeit gehen,neutral,290
+"Tut mir leid, dass ich Ihnen bisher nicht geholfen habe, sich zu konzentrieren",sadness,290
+Ja,neutral,290
+Ich würde lieber an dich denken,joy,290
+Noch zwei Tage Schule,joy,290
+Mhm,neutral,290
+Sie können es schaffen,joy,290
+Ja :),joy,290
+Ich liebe dich,joy,290
+Ich liebe dich auch,joy,290
+"Ich kann nicht erklären, wie viel du mir bedeutest",joy,230
+Mit dir fühle ich mich so komplett,joy,230
+Ich habe meinen Wecker auf 7 Uhr gestellt.,neutral,230
+Ekelhaft Es tut mir leid,non-neutral,230
+Ich bin ziemlich müde,neutral,230
+mhm,neutral,230
+langer Tag in der Hitze,neutral,230
+Ich liebte heute mit Ihnen,joy,230
+Das habe ich auch,joy,230
+"Ich wünschte, ich könnte aufbleiben und für immer mit dir reden",joy,230
+Ich weiß,neutral,230
+Du hast mein Leben irgendwie verändert,joy,230
+"Ich weiß nicht, was ich ohne dich tun würde",joy,230
+Ich würde mich so verirren,sadness,230
+Gute Nacht Person_225,neutral,230
+Ich liebe dich so sehr,joy,230
+Gute Nacht Person_121,neutral,230
+Ich liebe dich auch,joy,230
+"so Ive wurde es testen und war mit allen Arten von Problemen, weil sie nicht geben mir Zugang bis zum letzten day_1. aber ich tat ein paar Renderings und seine Arbeit großartig für mich jetzt.",neutral,643
+"Wenn es also nicht für Sie funktioniert (was Sie in der Liste sein sollten, glaube ich), müssen Sie vielleicht die Person ausfindig machen, die Sie in die Liste aufnehmen kann (ich glaube, es ist auf einer Basis pro Benutzer)",neutral,643
+"Jeder hier bei organization_65 sollte es auch für Houdini haben, aber aus irgendeinem Grund haben nur person_309 und ich es und niemand sonst hat Zugang",non-neutral,643
+"Interessant. Ich habe es nicht einmal berührt, hatte nicht viel Grund dazu. War effizienter Kette Rendering aus person_310 im letzten Semester, und wird wahrscheinlich Vray in 2017 in diesem Semester verwenden",neutral,643
+"Ich habe einige freiberufliche person_222 über den Sommer und verwendet Cloud-Rendering von GridMarkets, weiß nicht, ob ich jemals die Farm tbh brauchen werden",neutral,643
+"Okay, super. Ich habe in letzter Zeit nicht viel mit Houdini gearbeitet, aber die Rendering-Zeit war immer das größte Problem",neutral,643
+"Ja, das Rendering in Mantra braucht ein bisschen Zeit. 15.5 enthält Unterstützung für externe Renderer. Es könnte sich lohnen, Octane v3 auszuprobieren.",neutral,643
+"Okay, das werde ich. Außerdem habe ich gestern mit person_400 gesprochen und gesagt, dass ihr ein paar potenzielle Architektur-Echtzeit-Sachen macht. Ich glaube, ich habe irgendwo gelesen, dass sie vor kurzem ein Vray-Plugin für Unity gemacht, so dass Sie vielleicht auf, dass überprüfen",neutral,643
+danke für den Tipp. das ist meist nur person_400 haha ich mache Umgebungsdesign in unreal aber seine Diplomarbeit ist auf archviz so ich werde es weitergeben,neutral,643
+wie läuft es bei der ec?,neutral,643
+"Okay, fantastisch, env design mit was? Bin neugierig",non-neutral,643
+"ue4, unreal engine 4",neutral,643
+"Nun, ein Rohr in der Gewerkschaft ist geplatzt und hat unseren CAVE überflutet, also stehen uns lustige Zeiten bevor :D",non-neutral,643
+"oh richtig, das haben Sie gesagt haha",neutral,643
+"Puh! Tut mir leid, das zu hören",surprise,643
+"sehr cool Mann, UE4 kann Dinge in Echtzeit verdammt sexy aussehen lassen",neutral,643
+"Sie machen dieses Jahr Ihren Master, richtig? 360 vid?",neutral,643
+"Ja, ich liebe Ue4 für die Geschwindigkeit/den Turnout von Assets",joy,643
+"Ich bin immer noch ein Neuling darin, aber ich bin anständig im Texturieren geworden",neutral,643
+es ist ein Bereich von Interesse immer noch definitey aber ich möchte mehr auf Programmierung/VR-Anwendungen für die Meister konzentrieren,neutral,643
+Ich verstehe. VR hat so viele interessante Bereiche zu erforschen,neutral,643
+FUK,anger,183
+"Ich habe mich gerade daran erinnert, dass ich letzte Nacht einen anzüglichen Traum über meinen Manager hatte",non-neutral,183
+rip,sadness,183
+außerdem trug er gestern einen Nietengürtel,neutral,183
+süß emo 90er bb,joy,183
+"Ich möchte wissen, was sein Tumblr ist",neutral,183
+"Hey, also kann person_414 heute Abend zu vg gehen",neutral,186
+aber es gibt ein Problem,neutral,186
+??????,surprise,186
+er braucht eine Mitfahrgelegenheit,neutral,186
+Ich hebe deinen Arsch auf und dann hole ich ihn.,anger,186
+okay,neutral,186
+"Aber mein Seitenspiegel ist im Arsch, also musst du mein Seitenspiegel sein",anger,186
+oh okay sorry,neutral,186
+"Schicken Sie mir eine SMS, wenn Sie hier sind",neutral,186
+"Lol der Prof will, dass ich ins Chinesische für Muttersprachler wechsle",joy,241
+? Lol,surprise,241
+Warte r u in A54?,surprise,241
+"Denn ich habe das Gefühl, dass da noch eine Klasse drin ist... 0.0",non-neutral,241
+Dort war ich vorhin,neutral,241
+"Oh, was? Ich bin so verwirrt...bin ich an den falschen Ort gekommen D:",surprise,241
+"Ich denke, es ist richtig haha",joy,241
+Es sollte derselbe Typ sein...person_128 gang,neutral,241
+Wie komme ich an Essen?,neutral,190
+"Kühe, Schweine oder Hühner töten",neutral,190
+oder Schafe?,neutral,190
+ja auch Schafe,neutral,190
+Sie können das Fleisch kochen,neutral,190
+Wie kann ich sie töten? Sie laufen weg,neutral,190
+außerdem gibt es Brot,neutral,190
+ihnen folgen lol,neutral,190
+"man kann Brot machen, indem man Samen (vom Schlagen von Gras) bekommt und sie auf die Erde am Wasser pflanzt, die gehackt wurde",neutral,190
+Wie kann ich sie kochen? Der Ofen?,neutral,190
+ja,neutral,190
+ein Ofen,neutral,190
+keine Schmiede,neutral,190
+hah,joy,190
+Ich kenne Worte,neutral,190
+es gibt auch Karotten und Kartoffeln und so,neutral,190
+Melonen,neutral,190
+"Ich weiß nicht, wo Sie alle Samen finden",neutral,190
+"Ja, ich bin Tag_1 Zeit_1",neutral,475
+"Ich habe am Tag_2 2 Prüfungen, soll ich mich dafür anmelden und eine weitere Prüfung ändern lassen?",neutral,475
+Und ich habe einen Test Tag_2 zur Zeit_1,neutral,475
+Nein,neutral,475
+"Also sollte ich behalten, was ich richtig habe",neutral,475
+Ja,neutral,475
+Eigentlich haben Sie noch 3 Prüfungen innerhalb von 25 Stunden,neutral,475
+"aber da Sie den Termin selbst festgelegt haben, wird man Ihnen wahrscheinlich nur sagen, dass Sie sich für einen anderen Termin anmelden sollen",neutral,475
+"Es gibt ein D in 7, soll ich es fangen, um zu Ihnen zu kommen?",neutral,291
+Sicher,neutral,291
+Sind Sie sicher?,neutral,291
+ Im Gegensatz zu?,neutral,291
+Sie nehmen die D in 8.,neutral,291
+Und hierher zu kommen.,neutral,291
+Oder die von 15.,neutral,291
+Kann beides nicht machen,neutral,291
+?,non-neutral,291
+Was soll ich tun?,neutral,291
+Doshite.,neutral,291
+"Ich arbeite noch und muss packen und so, wenn ich vorbeikomme",neutral,291
+Okay. Ich werde rüberkommen.,neutral,291
+"Obwohl, vielleicht muss ich den nächsten noch erwischen.",neutral,291
+Warum...,non-neutral,291
+:c,sadness,291
+Okay. Tut mir leid. Mein Laptop ist gerade kaputt gegangen und ich bin am Ausflippen.,non-neutral,674
+"Scheiße, was ist passiert?",surprise,674
+"Ich glaube, der Bildschirm wurde vom Rest des Geräts getrennt",non-neutral,674
+"aber Sie sollten trotzdem in der Lage sein, die Daten aus dem Gerät zu bekommen",neutral,674
+Ja,neutral,674
+Ich brauche es aber jetzt für Abschlussarbeiten,non-neutral,674
+"Und ich denke, es wird Geld kosten, es zu reparieren.",non-neutral,674
+Und ich kann mich im Moment einfach nicht damit beschäftigen.,non-neutral,674
+können Sie das Zeug aus und arbeiten auf einem Schulcomputer für jetzt,neutral,674
+Wir haben eine YouTube-Werbung für ein neues Hähnchen-Sub bei Subway gesehen,neutral,422
+"Ich habe vergessen, was es war",neutral,422
+tottally forgot about it lol,surprise,422
+d,neutral,422
+ich habe jetzt endlich mein eigenes Zimmer,joy,422
+Was tun Sie da?,neutral,422
+Ich bin jetzt zu Hause,joy,422
+Weil ich heute das Auto genommen habe,joy,422
+:D,joy,422
+aber wie werden Ihre Eltern wieder nach Hause gehen :O,surprise,422
+Ich muss sie abholen gehen lol,joy,422
+loll wann haben sie Feierabend haha,joy,422
+Meine Mutter hat um 5 Uhr Feierabend.,neutral,422
+Mein Vater fährt mit dem T bis zur nächsten Station und wir holen ihn dann von dort ab,neutral,422
+ahh,non-neutral,422
+:D,joy,422
+Ich möchte fahren,neutral,422
+Lol,joy,422
+Es macht Spaß,joy,422
+Es war 5 mal schneller als mit dem Bus,non-neutral,422
+Buchstäblich,non-neutral,422
+lolll schöneee,joy,422
+SCHREIT LAUT AUF,anger,667
+"Schicken Sie dies an Person_471 und fragen Sie ihn, ob er daran interessiert ist",neutral,667
+"Ich schreie, sie sind so viel",non-neutral,667
+l m a y,joy,667
+Sie sind so,neutral,667
+geformt,neutral,667
+"nicht geformt, sondern wie",neutral,667
+sie sind eine Form,neutral,667
+Sie sind definiert und erschreckend,neutral,667
+"Ich verstehe nicht, was der Sinn war, zidd zu machen!",anger,67
+Sie haben mich vor anderen in eine solche Lage gebracht,anger,67
+"Es ist nicht das erste Mal, dass",anger,67
+Gn,neutral,67
+"Es ging nicht darum, ziddi zu sein, ich habe dir gesagt, dass ich mit dir reden will, bevor ich schlafe, du hast gesagt hmmm",neutral,67
+"Ja, ich bereue es, Ihnen das gesagt zu haben.",non-neutral,67
+"Ich habe dich gefragt, ob ich aufbleiben kann",neutral,67
+Ich habe Sie nicht gezwungen zu reden,neutral,67
+"Nein, das ist nicht passiert",neutral,67
+"Aber ja, Sie sind eindeutig nicht interessiert",non-neutral,67
+Warum sollte ich lügen Person_52,non-neutral,67
+"Sie sagten, dass Sie schlafen gehen und hofften, vorher mit mir reden zu können.",neutral,67
+Kannst du mich nicht einfach vor den Leuten nicht in solche Situationen bringen,anger,67
+Wie wirklich bitte,anger,67
+Ich habe Sie nie in eine Lage gebracht :(,sadness,67
+"Ich habe Sie gefragt, wie lange Sie brauchen würden, bis ich warten könnte",neutral,67
+"Lol und ich dachte, das wäre romantisch",non-neutral,67
+"Es tut mir leid, dass Sie",sadness,67
+"Aber gut zu wissen, was mein Anruf für Sie bedeutet",non-neutral,67
+"Und es tut mir leid, wenn dich das verletzt, aber ich bin dein Desinteresse an mir langsam leid",anger,67
+"Auch wenn Sie nicht desinteressiert sind, geben Sie mir dieses Gefühl",sadness,67
+Nein,neutral,322
+Sie können direkt aus der Bank tun,neutral,322
+Ah. Ok. Wie...?,surprise,322
+Verknüpfen Sie Ihre Bankkontonummer,neutral,322
+Es heißt Kreditkarte oder Bankkonto hinzufügen,neutral,322
+"Das habe ich alles schon gemacht, ich glaube, ich habe das",neutral,322
+Btw das ist der Beweis für die neue Matte,neutral,322
+Diese Matte ist wunderschön,joy,322
+Zum ersten Mal wird eine Bushi-Matte wie diese in voller Größe sein,joy,322
+Ich mache die 20. name_1 ist eine meiner Lieblingseinheiten,neutral,322
+Kk,neutral,322
+Also am Freitag?,neutral,322
+Geben Sie mir nur bis zum Tag_1,neutral,322
+Nächste Frage. Kann man Hüllen für Vanguard-Karten bekommen? Ich möchte nur solide dunkelblau oder einfach nicht hellblau,neutral,322
+"Ich werde natürlich für sie bezahlen und ich werde auch den Versand übernehmen. Ich habe keinen Ort, der Minis in meiner Nähe verkauft :(",neutral,322
+Also wie Ultra Pro oder Bushiroad Ärmel?,neutral,322
+Ultra pro?,neutral,322
+Das Unternehmen,neutral,322
+"Nein, das weiß ich, haha",joy,322
+Einige Leute wollen die Bushiroad-Kunsthüllen lol,neutral,322
+"Ich meinte: Ja, das werde ich tun.",neutral,322
+Bushi-Hüllen sind teuer,neutral,322
+Ohhh okay es wird wahrscheinlich wie 4-5 Dollar mit Versand sein,neutral,322
+1 Packung rechts,neutral,322
+ez get cat,neutral,473
+ZU SEHR MIT DEM TRAURIGSEIN BESCHÄFTIGT,sadness,473
+Außerdem gab es diesen Ort,neutral,473
+die riesige Bagels gemacht haben,neutral,473
+und es war erstaunlich,joy,473
+"Und ich weiß nicht, warum ich ausnahmsweise mal richtige Träume hatte.",neutral,473
+haben Sie Drogen genommen,neutral,473
+nein :(,sadness,473
+Was?,non-neutral,373
+Sie sollten sie verklagen,non-neutral,373
+haha für was?,joy,373
+meine Geschmacksnerven beleidigen,neutral,373
+"was wäre, wenn Sie allergisch wären",neutral,373
+das hätte Sie umbringen können,non-neutral,373
+werden Sie mein Anwalt sein,neutral,373
+Sie wollen mich nicht als Ihren Anwalt,neutral,373
+Würdet ihr immer noch zu event_1 am Dienstagabend gehen wollen lol,joy,204
+r dürfen wir,neutral,204
+Wie spät ist es,neutral,204
+Wenn Sie bezahlen? LOL,joy,204
+Zeit_1,neutral,204
+"Wie wir gerade einen Gutschein bekommen haben, den wir am Tag des Kaufs gegen ein Ticket eintauschen können, so dass wir zusammen sitzen können, wenn Sie kaufen lol",joy,204
+wie viel,neutral,204
+Es ist nur wie Preis_1 erinnern....lol,joy,204
+ich vergaß lol,joy,204
+ja sur eim down,neutral,204
+Person_110,joy,204
+"Ja, das können Sie überprüfen, aber ich bin in Ordnung damit, die schlechtesten Plätze zu bekommen lol",joy,204
+wo kaufen wir,neutral,204
+"Ich denke, wir können einfach am Tag der Veranstaltung hingehen? Sie verkaufen Karten an der Tür",neutral,204
+"Und ich muss sowieso dorthin gehen, um meine umzutauschen",neutral,204
+Wann kommen Sie zur Bank,neutral,208
+BaCK,neutral,208
+"Jetzt bestellen, also ziemlich bald",neutral,208
+Was bekomme ich c:,neutral,208
+Das Rindfleisch und der Portwein schmelzen C:,neutral,208
+Schönes c:,joy,208
+Vielen Dank meine Liebe,joy,208
+"Ich bin hungrig, aber ich bin aufgeregt!",joy,208
+Natürlich Kumpel!!,joy,208
+hört nie auf,neutral,250
+Er wird Sie verklagen?,neutral,250
+Ich weiß nicht,neutral,250
+"Das wird nie funktionieren, 1.",neutral,250
+"Wie, wofür wird er Sie verklagen? Beleidigende Worte/Verhalten? Rufschädigung, die hauptsächlich sein Werk war? Er ist in einem blauen Bundesstaat. Viel Glück dabei. Trottel",anger,250
+Was hat Emma getan?,neutral,250
+Sie hat ihn einfach in die Luft gejagt,neutral,250
+Auch mit Ihrem gesetzlichen Namen wie wtf,non-neutral,250
+Wie?,neutral,250
+gut,neutral,250
+ory hat ihr eine Drohung geschrieben,neutral,250
+Wtf. Was sagen,surprise,250
+"Er sagte, dass er Projekt_1 in ein Projekt_2 einbinden wolle.",neutral,250
+und dass er sie als Status_1 auflisten würde,neutral,250
+Was ist noch mal eine GmbH?,neutral,250
+"und stellen Sie sicher, dass er jedem potentiellen Arbeitgeber von ihr erzählt.",neutral,250
+ihre,neutral,250
+sie nicht einzustellen,neutral,250
+Was zum Teufel?,non-neutral,250
+"Außerdem, glaubt er wirklich, dass er Macht hat? Dass er das tatsächlich tun kann? Dumm.",anger,250
+Ja,neutral,710
+Warmer Karneval,neutral,710
+Ich tauche am Reiskocher auf,neutral,710
+Was Sie heute Abend tun,neutral,710
+Feierte den Geburtstag dieses Mädchens,neutral,710
+Überrascht sie mit Eiscreme-Torte,neutral,710
+Oh so süß,joy,710
+Ich möchte Eiscreme,sadness,710
+Waw,sadness,710
+Wie viele Spiele haben Sie morgen,neutral,710
+wieder zwei,neutral,710
+bc wir heute einen gewonnen haben,neutral,710
+wir schlagen Organisation_84,joy,710
+aber verloren gegen Organisation_85,sadness,710
+dresxel ist wirklich gut,neutral,710
+wir haben erwartet zu verlieren,neutral,710
+wir spielen morgen nyu,neutral,710
+"sie haben ein Mädchen, das WIRKLICH gut ist, seit 4 Jahren in der us-amerikanischen Junioren-Badminton-Nationalmannschaft",neutral,710
+aber nicht gut genug für die A-Mannschaft,neutral,710
+Aber es ist kein Alkohol im Cluster,non-neutral,105
+Sie werden Ihr ganzes Koffein trinken,neutral,105
+Lol,joy,105
+Sie haben meine Erlaubnis,neutral,105
+Kann ich Ihnen das Zeug einfach per Venmo in Rechnung stellen,neutral,105
+ja,neutral,105
+Du trinkst also traurig meinen Kaffee?,neutral,105
+ja,neutral,105
+Sie sollten mehr Notfall-Koffein für die Prüfung kaufen,neutral,105
+Lol genau wie viel davon planen Sie zu trinken,non-neutral,105
+"Nein, ich werde es nicht trinken.",neutral,105
+Lol okay,joy,105
+"es sei denn, ich beschließe, danach zurückzukommen und 122",neutral,105
+Hey Stanford-Mädchen! Alles erdenklich Gute für deine Reise! :),joy,128
+Hallo Person-HL(1)! Vielen Dank!,joy,128
+:D Wie ist es dort? Muss toll sein!,joy,128
+"Ja, es ist wirklich schön! Es sind erst 2 Tage vergangen, seit ich hier gelandet bin. Also bin ich immer noch dabei, Dinge herauszufinden und zu erkunden! 😅",joy,128
+"Ohhhh! Ich dachte, Sie gingen vor langer Zeit zum Standort_1?",non-neutral,128
+Wowow..viel Spaß :D,joy,128
+Vielen Dank!,joy,128
+"Das habe ich erst vor 2 Tagen gemacht. Der Unterricht beginnt hier ziemlich spät, verglichen mit dem Zentrum und der Ostküste. Also fängt meiner erst nächste Woche an!",neutral,128
+Ahhh okay okay!,neutral,128
+Wie verlief Ihre RA/TA-Jagd?,neutral,128
+Und welcher Kurs ????,neutral,128
+Grad-HL im Kurs-HL,neutral,128
+Gerade die Jagd begonnen 😅.,non-neutral,128
+"Profs erwarten, dass Sie mindestens ein Vierteljahr hier getan haben b4 sie nehmen Sie",neutral,128
+Ohhhh,surprise,128
+"Aber auf jeden Fall versuche ich, so viele wie möglich zu verschicken. In den Ferien war ich allerdings faul :P",neutral,128
+Haha toll toll! Alles Gute dafür! Du schaffst das schon :D,joy,128
+Müssen Sie sich jetzt für die Domain entscheiden?,neutral,128
+Worauf würden Sie sich zum Beispiel während Ihres Masterstudiums fokussieren?,neutral,128
+"Ja, das muss ich. Ich versuche, das herauszufinden. Denken zwischen Organisation_18 und Systeme-HL",neutral,128
+lolol,joy,369
+vertrauen Sie mir einfach haha,joy,369
+"Vergessen Sie die Sache mit der Gesundheitsvorsorge, haha",joy,369
+"Auto ist, wo das leichte Geld liegen wird haha",joy,369
+herstellung und analytik,neutral,369
+Hehe,joy,369
+Person_1 macht ein Projekt in diesem Bereich haha,joy,369
+hahaha,joy,369
+"Ich muss herausfinden, ob es eine echte Sache wird.",neutral,369
+"denn wenn es so ist, dann ist meine Zukunft so gut wie gesichert",non-neutral,369
+Heh,joy,369
+hullo,neutral,311
+zu welchen Terminen sind Sie wieder in SF?,neutral,311
+Person_171! Datum_1-Datum_2!,non-neutral,311
+Haben Sie in den Tagen davor Zwischenprüfungen/Abschlussprüfungen?,neutral,311
+"Ähm, das ist eine gute Frage, bin mir nicht sicher, aber ich weiß, dass ich am Tag_1 keinen Unterricht habe! Pourquois??",neutral,311
+"ich denke, ich werde einen Healthcare-Trek machen und Firmen von Standort_39 bis Standort_40 besuchen",neutral,311
+Hehehe yay für einen potentiellen Organisation_33 Boxenstopp?,joy,311
+"Ja, ich denke schon",neutral,311
+wie der Mittwoch/Donnerstag,neutral,311
+Wenn Sie es zeitlich einrichten können_3 - kann ich vielleicht einen guten Ranger garantieren :P,joy,311
+Details werden noch ausgearbeitet,neutral,311
+Yay!!!!,joy,311
+"ich werde nicht in der Lage sein, zu wüten ... aber ... haha ich werde Sie auf dem Laufenden halten",neutral,311
+"Bitte tun Sie das! Haha, wenn du einen Platz zum Pennen brauchst - ich kann dir eine Luftmatratze für mein Schlafsaalzimmer finden, auf der du schlafen kannst :P",joy,311
+ooh danke!,joy,311
+der Boden würde ausreichen (oder ein Stuhl in aller Fairness),neutral,311
+Nicht so schön wie Ihr Platz.... sogar ein bisschen,neutral,311
+Aber Sie sind frei dazu :S,joy,311
+:D,joy,311
+meine aktuelle Wohnung ist so mehhh,non-neutral,311
+"Ich dachte, ich hätte die Snapchats gesehen - es sah ziemlich niiice aus",joy,311
+der Schein kann trügen,neutral,311
+Nunz halten Sie mich bitte auf dem Laufenden :D,joy,311
+indeedy,joy,311
+LOL. Sie sind wie Person_11,joy,19
+Mittagessen Ich esse viel,neutral,19
+Aber dann esse ich zu viele Snacks am Nachmittag,non-neutral,19
+Dann zum Abendessen wat ich manchmal Müsli lol,neutral,19
+yeee,joy,19
+"leider, basierend auf dieser",sadness,19
+"ich ziehe den Schluss, dass Ihre Verdauung ziemlich schlecht ist? lol",non-neutral,19
+Jupp,neutral,19
+Sie haben es 😂😂😂😂😂😂😂,joy,19
+Ungesunder Saibling,neutral,19
+dann fallen wir beide in dieselbe Kategorie haha,joy,19
+sich leicht aufblähen und sich stundenlang voll fühlen,sadness,19
+saugt,non-neutral,19
+YESSSS,joy,19
+"Endlich versteht mich jemand, haha",joy,19
+"Ich hasse es, mich aufgebläht zu fühlen",disgust,19
+"Ich bekomme es sogar, wenn ich Wasser trinke",non-neutral,19
+Wie nur ein paar Schlucke,non-neutral,19
+"Eine interessante Sache, die ich herausgefunden habe",neutral,19
+HEISSES WASSER TRINKEN,neutral,19
+Ich trinke kein kaltes Wasser mehr,neutral,19
+und die Blähungen vom Wassertrinken sind verschwunden,neutral,19
+ah kein Problem,neutral,349
+ich bin auch um die Zeit_1 ins Fitnessstudio gegangen,neutral,349
+"Ich denke, ich werde nicht mit der Boxensache gehen",neutral,349
+wir schaffen es nicht um 17:45 Uhr Mann,neutral,349
+es ist zu früh,neutral,349
+Ich ging gestern Abend um 18 Uhr,neutral,349
+und dann ging ich heute früh um 7 Uhr,neutral,349
+haha,joy,349
+Was ist dann mit den Handschuhen?,neutral,349
+"Ich denke, ich werde auf den Vormittag umschalten.",neutral,349
+Ich möchte Bocing lernen,neutral,349
+boxen*,neutral,349
+"nicht sicher, ob ich behalten oder zurückgeben werde",neutral,349
+seine amazon so können sie zurückgeben,neutral,349
+:P,neutral,349
+Ungefähr $33 für eine billige neue,neutral,176
+ja,neutral,176
+das schaffen Sie diesen Sommer in 2 Stunden oder weniger,neutral,176
+Ja,neutral,176
+und Sie werden es für mehr als 500 Stunden verwenden,neutral,176
+"Optimistisch sein, eh",neutral,176
+"Ich meine, das setzt voraus, dass Sie 250 Tage im Jahr auf dem College sind und 4 Stunden pro Nacht bekommen",neutral,176
+"warten, das sind 1000 Stunden",surprise,176
+ja nicht ich war wirklich pessimistisch,non-neutral,176
+"Was, wenn ich einfach das ganze Jahr in Morewood schlafe",neutral,176
+ok,neutral,176
+Boom Problem gelöst lol,joy,176
+"Außer, dass sie eine Mitbewohnerin haben wird",non-neutral,176
+Mein Bett wird also für andere Aktivitäten als zum Schlafen benötigt,neutral,176
+ja,neutral,176
+Wird der billige Bettrahmen also dafür gut sein,neutral,176
+Und jetzt wollen Sie einen teuren?,surprise,176
+Ich möchte die teure für einen günstigen Preis lol,joy,176
+person_353 spielst du überhaupt noch?,neutral,176
+"Kümmern Sie sich um Ihr eigenes Bett, ich kümmere mich um meines.",neutral,176
+ok,neutral,176
+Ich kann jetzt nicht mehr Minecraft spielen :(,sadness,176
+Mein Laptop-Ladegerät macht sich auf die Reise von Person_44s Zimmer in Ort_34 zu meinem in Ort_20 via Schneckenpost,sadness,176
+Heilige Scheiße,surprise,421
+Es ist so gut,joy,421
+RECHTS,non-neutral,421
+"Wie es ehrlich gesagt genau das ist, was ich wollte",non-neutral,421
+"Warte, reden wir über Radiohead oder Bottomless Pit?",neutral,421
+Physikalische Instrumentierung mit Thoms elektronischer Sensibilität,neutral,421
+Oh ja,neutral,421
+Ok ich spreche von Person_212,neutral,421
+Ich stimme Ihnen trotzdem zu,neutral,421
+Nur mit weniger Aufregung,non-neutral,421
+"Was haben Sie verlinkt? Ich dachte nur, dass es Person_212 war",neutral,421
+Es ist Radiohead,neutral,421
+Lol,joy,421
+Lol ok,joy,421
+Lol,joy,421
+"aber ja, ich werde mir bp später mal anhören",neutral,421
+"Verdammt, ich brauche die neue organization_45-Platte, wenn noch mehr Scheiße wie diese drauf ist",non-neutral,421
+Ich werde demnächst ein Telefon v bekommen,neutral,142
+"Ich bezahle meine Venmo, wenn ich sie bekomme",neutral,142
+Ich habe gerade Person_86 $12 über FB Messenger bezahlt,neutral,142
+Was,neutral,142
+$.01,neutral,142
+$0.01,neutral,142
+Kann mir jemand Allergie-Medikamente bringen,neutral,617
+qqqq,neutral,617
+Ich habe immer person_298,neutral,617
+aber,non-neutral,617
+können Sie mich bringen,non-neutral,617
+kaubar,non-neutral,617
+Allergietabletten,neutral,617
+Oh,surprise,617
+Ist es in Ihrem Zimmer,neutral,617
+Denn ich habe diese Lok nicht,non-neutral,617
+Auch Entropie?,neutral,617
+ja,neutral,617
+es ist im ersten grauen Kasten direkt neben der Tür,neutral,617
+wenn Sie mir nur 1 oder 2 bringen können :),joy,617
+<N,neutral,617
+"Ich meine, ich bin",neutral,605
+Sie können vorbeikommen oder nach Hause gehen,neutral,605
+"Sie reisen auch bald ab, oder?",neutral,605
+Entschuldigung hat gearbeitet,neutral,605
+"Ich werde einen Uber nehmen. Es ist scheiße, die zehn Dollar zu verschwenden, aber so kann ich zu Mittag essen und so. Hätte früher aufstehen sollen",non-neutral,605
+"Wissen Sie, wann es fertig sein wird? Ich sollte morgen früher aufstehen und vor der Party von Person_288 aufräumen",neutral,605
+Nicht wirklich idk 7?,neutral,605
+Dann bringe ich einen Rucksack mit und wir können danach noch ein bisschen abhängen,neutral,605
+Ok,neutral,605
+O.410,neutral,57
+zkldjflKSDAJas,neutral,57
+"ich habe 0,0436",neutral,57
+"und nat hat etwa 0,03",neutral,57
+T_T,non-neutral,57
+"Ich habe mich bei Leuten erkundigt, die fertig sind und die richtige Antwort erhalten",neutral,57
+"Erste Iteration sollte 0,410 sein",neutral,57
+"Dann um 0,07 nach",neutral,57
+ughhh,non-neutral,57
+"Es gibt aber nur eine Zeile mit 0,41, richtig?",neutral,57
+Wenn Sie,neutral,120
+"Sie können entscheiden, dass es zu viel ist",neutral,120
+Ok ich verwende ein anderes person_76 Add-On für Bilder,neutral,120
+"Ich werde sehen, ob ich dieses Wochenende Zeit habe :D Mein Fokus wird auf unserem Bericht und den Übergabeunterlagen liegen",neutral,120
+Diese Add-ons scheinen uns zu retten,neutral,120
+ok,neutral,120
+"kann mir jemand sagen, wie das Hochladen von Dateien implementiert ist",neutral,120
+"Ich kann NIRGENDWO finden, wo die Dateien behandelt werden",non-neutral,120
+"Nun, das Feld zum Hochladen von Bildern ist in location_29 implementiert und verwendet Pillow, um etwas zu tun",neutral,120
+"Abgesehen davon, bin ich mir nicht sicher",neutral,120
+ok ich gehe Meise,neutral,120
+kapiert,neutral,120
+Grundsätzlich,neutral,196
+einfach aufgeben c:,neutral,196
+neeeeee,neutral,196
+ICH LIEBE SIE MEHR,joy,196
+"Sie haben bereits gesagt, dass Sie es nicht toppen können",neutral,196
+Ich werde trotzdem mein Bestes geben!,neutral,196
+zu spät,neutral,196
+"verflixt, sie waren ausverkauft lol",neutral,196
+also hätten wir sowieso nicht gehen können,neutral,196
+"Okie! Ich sollte in der Lage sein, es zu schaffen",joy,435
+"Hahaha und ja, ich werde versuchen, Buggy-Leute zu fragen",neutral,435
+So testen Sie Ihr Spiel,neutral,435
+geil!,joy,435
+Dankeschön :D,joy,435
+Wann ist die nächste?,neutral,435
+noch nicht sicher!,neutral,435
+müssen den Zeitplan der Schauspieler überprüfen,neutral,435
+Kk,neutral,435
+danke haha,neutral,435
+"Meine Schnappschüsse werden eine Menge Leute anziehen, denke ich",neutral,435
+"Ach ja, und sagen Sie Person_417 nicht, dass wir ihren Geburtstag feiern",neutral,435
+es ist eine Überraschung,neutral,435
+Person_226,joy,435
+"haha ja ich weiß, deshalb habe ich Sie gefragt: P",neutral,435
+Und ich spreche nicht so oft mit ihr,neutral,435
+"Ok, ich habe gerade den Zeitplan der Schauspieler bekommen",neutral,435
+Unser nächster Playtest ist also diesen Donnerstag um 19 Uhr,neutral,435
+kann den 645er Shuttle nehmen,neutral,435
+"Ok, ich werde es meinen Freunden erzählen!",joy,435
+Danke!!,joy,435
+Staffel 2 von Battlebots ist offenbar erschienen,neutral,705
+Ich weiß,neutral,705
+tbh ich will nicht sehen,neutral,705
+Meine Mutter hatte sie mit Klebeband befestigt.,neutral,705
+Lol,joy,705
+Entschuldigung :p,non-neutral,705
+Es ist ok :p,non-neutral,705
+Wir haben andere Dinge zu tun,neutral,705
+reichlich,neutral,705
+?,neutral,705
+Sie zurück vom Abendessen,neutral,705
+"Überlegen, ob ich mehr essen sollte",neutral,705
+Wahrscheinlich,neutral,705
+Ich hatte nur zwei dünne Schweinekoteletts,neutral,705
+Und ich war vorhin ein bisschen zittrig gewesen,neutral,705
+Person_348,neutral,705
+Jetzt mache ich mir Sorgen um Sie.,non-neutral,705
+Sie müssen auf sich selbst aufpassen,neutral,705
+Sh,neutral,705
+Entschuldigung,sadness,705
+"Ich mag es, wenn du in meinem Haus bist",neutral,705
+"dann weiß ich, dass Sie essen",neutral,705
+Jupp,neutral,550
+Oder können wir uns an einem unserer Orte treffen? U ppl kann mir beim Packen helfen 😛 😛,neutral,550
+Lol 😂,joy,550
+Scherz 😛 aber Jupp lass uns abends treffen,neutral,550
+Alles ist gut,neutral,550
+Geil geil :),joy,550
+Übrigens,neutral,550
+Sagen Sie uns einfach Bescheid,neutral,550
+Wie sieht der Plan aus?,neutral,550
+Person_273,joy,550
+"Btw, u brachte das Band zurück nicht ? Sonst setze ich deinen Namen hier rein 😛.",neutral,550
+"Hey, ich gebe das Band an Person_274",neutral,550
+Er wird sie Ihnen heute in der Universität geben,neutral,550
+Okay okay,neutral,550
+Perfekt,neutral,550
+Die Organisation_27 wischt nur eine Backrow-Einheit,neutral,234
+Sie ist also nicht so stark wie Person_406,neutral,234
+Wtf,surprise,234
+Brutal im Spiegel,neutral,234
+Beute,neutral,234
+"Es scheint keine Kosten zu haben, lol",joy,234
+"Ich meine, Sie können Tick tock kostenlos drehen",neutral,234
+Ja,neutral,234
+GG sollte in der nächsten Episode enthüllt werden,neutral,234
+Warum ist das so?,surprise,234
+"Weil Chrono spielen wird, ich meine, sie könnten einfach GG zeigen und dann eine weitere Woche warten, um den Effekt zu zeigen",neutral,234
+Oder diese Blaster-Joker-Scheiße abziehen,non-neutral,234
+person_122 spielt nächste Woche nicht lol,neutral,234
+Wir werden name_1 nicht bis zum Ende des Monats_1 sehen,neutral,234
+"Ich meine, er ist die Treppe hochgerannt, um zu Person_123 zu gelangen.",neutral,234
+Nächste Woche ist Shion.,neutral,234
+Dann tohkaha und dann am,neutral,234
+Endet die Saison nicht nächsten Monat lol,neutral,234
+Nah,neutral,234
+Nicht vor Ende nächsten Monats.,neutral,234
+Sie sicher,surprise,234
+person_280 prüft die Vorschau,non-neutral,234
+Sind Sie ok,neutral,389
+Beine sind nass,neutral,389
+Oh Person_362 ist geil,neutral,389
+Füße sind nicht bc meine Stiefel,neutral,389
+Nein,neutral,389
+"Das wäre sehr hentai, wenn ich den ganzen Weg zu meinen Beinen tropfen würde",neutral,389
+Ja,neutral,389
+Tasche vordere Tasche durchnässt bc ich links den Reißverschluss offen wtf,neutral,389
+person_117 ist hier,neutral,389
+Hallo Person_385,neutral,389
+Überprüfung der Thermodynamik,neutral,389
+Wir haben 1:1 unentschieden gespielt,neutral,389
+Auswärts gewinnen müssen,neutral,389
+"Herausgefunden, dass mein Stoffmäppchen wasserdicht ist",neutral,389
+"Weil der gepolsterte Teil dafür sorgt, dass kein Wasser in die Innereien gelangt",neutral,389
+Schön,joy,389
+Lol Person_121,joy,595
+"Ich weiß, wie man den Neustart eines Computers erzwingt :p",non-neutral,595
+Das gefällt mir nicht,non-neutral,595
+"sorry :p. idk, wenn einige der Lichter werden auf, so könnte es erschienen sein, nur aus sein",neutral,595
+"Ich weiß nicht, was zum Teufel Welpe Linux mit ACPI macht",anger,595
+die Show?,neutral,595
+Ja,neutral,595
+Ich mag keine Zauberer,disgust,595
+lol,joy,595
+Nicht einmal ein Scherz,neutral,595
+Ich mag Zauberer wirklich nicht,disgust,595
+Ich würde viel lieber mit dir zusammen sein,neutral,595
+Ich vermisse dich,sadness,595
+Ich weiß,neutral,595
+MEINER BERUFUNG WURDE STATTGEGEBEN,joy,47
+YAY!,joy,47
+wir haben es geschafft,joy,47
+YAY GELD!,joy,47
+Wir haben es geschafft reddit!,joy,47
+legen Sie das nicht auf location_16 lol,neutral,47
+Nein nein nein haha,joy,47
+metro net Jungs sind so nett,joy,47
+Ist das jetzt alles gut?,joy,47
+Nope lol sie sind lokale Versand Leute bekommen in Schwierigkeiten oder etwas,neutral,47
+"Der Kerl hat versucht, sich darüber auszulassen, dass er den Leuten vertraut, ihren Job zu machen, und ich habe nur gelacht",joy,47
+Oh Gott haha,joy,47
+senden Sie Hilfe heißes Mädchen lebt über die Halle,joy,47
+Außerdem hat mir bf1 gerade eine Einladung zu einer geschlossenen Betaaaaa geschickt.,joy,47
+Fick dich,non-neutral,47
+"HILFE, SIE IST SÜSS",joy,47
+Du kannst mich mal.,disgust,47
+gut,neutral,47
+Dem Himmel sei Dank,joy,392
+"weiß jemand, ob es in der Vitrine Essen gibt (z.B. Abendessen), oder muss ich vorher essen?",neutral,392
+"Es gibt Essen, ja. Außerdem sollten Sie idealerweise eine Stunde oder so früh für den Aufbau kommen.",neutral,392
+"Wenn Sie die E-Mail von Person_205 erhalten haben, usw.",neutral,392
+Eigentlich haben wir von 3-5 technisch eingerichtet.,neutral,392
+"Nun, ich muss buchstäblich nur meinen Laptop einstecken",neutral,392
+"aber 3-5 ist die Studentenvitrine, richtig?",neutral,392
+Sie sind offensichtlich kein ETC-Mensch. >:o,anger,392
+Wir müssen den Raum thematisieren.,neutral,392
+"Äh, wie?",neutral,392
+Das hängt von uns ab.,neutral,392
+aber mit was sollen wir arbeiten?,neutral,392
+riesige aufblasbare Schachfiguren oder so?,neutral,392
+lol,joy,392
+Nicht sicher. Wir haben ein Schild. Und Pappe. Und wir müssen unsere Zeitpläne koordinieren.,neutral,392
+Der Raum wird also nie verlassen.,neutral,392
+"Wenn ich Sie wäre, würde ich früh kommen, aber nur vielleicht wie time_1.",neutral,392
+Damit Sie nicht die miese Schicht bekommen.,non-neutral,392
+"naja, der Shuttle würde um 4 Uhr ankommen, aber ok",neutral,392
+"Entschuldigung, dies ist erst das zweite Jahr, in dem sie einen Frühlings-Showcase veranstalten, daher sind alle ein wenig im Unklaren darüber, was hier vor sich geht.",neutral,392
+np,neutral,392
+Ich habe dich gut gelehrt,neutral,336
+LMAO,joy,336
+das ist so seltsam hahahah,joy,336
+"Ich bin so stolz, diesen Einfluss zu haben",joy,336
+Das ist wie das Büro,neutral,336
+"mein Job ist wie das Büro, aber wenn jeder wie 60 wäre und Hillary Clinton hassen würde",neutral,336
+Das klingt einfach nach dem Leben eines normalen Menschen,neutral,336
+Benennen Sie sich in Person_182 um und zeigen Sie sie,neutral,336

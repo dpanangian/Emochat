@@ -1,0 +1,5466 @@
+[
+    [
+        {
+            "utterance": "Zwei F\u00fc\u00dfe",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Ja, es hei\u00dft zwei F\u00fc\u00dfe",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Habe meine beiden Pr\u00fcfungen f\u00fcr heute beendet",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Hallo Herr person_324,/n/nIch schreibe Ihnen, um mich \u00fcber den Status meiner Bewerbung zu erkundigen. Ich bin sehr daran interessiert, bei Organisation_67 zu arbeiten, um relevante praktische Erfahrungen zu sammeln und meine technischen F\u00e4higkeiten zu verbessern. Ich glaube, dass ich sehr gut zu Ihrem Unternehmen passen w\u00fcrde. Lassen Sie mich wissen, ob ich noch etwas tun kann, um meine Bewerbung voranzubringen. Vielen Dank./n/nAufrichtig, /nperson_492",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "wie ist das",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Perfekt",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "ok, wenn ich den Job nicht bekomme, gebe ich Ihnen die Schuld",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Wtf",
+            "emotion": "surprise",
+            "did": 676
+        },
+        {
+            "utterance": "kontextualisieren",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "oh warte aber dann sage ich zweimal nachfragen",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "ich habe Sie vor ein paar Wochen angeschrieben und nach Sommerarbeit gefragt",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "dort",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "wie ist das",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Ich frage mich, ob Sie fragen sollten, ob es ein Datum gibt, bis zu dem er Ihnen Bescheid geben wird",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Aber ich finde, es klingt zu aufdringlich",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "ja, das w\u00e4re es",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Au\u00dferdem habe ich es bereits abgeschickt",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "Zu",
+            "emotion": "neutral",
+            "did": 676
+        },
+        {
+            "utterance": "muss sehr h\u00f6flich in Follow-up-E-Mails sein",
+            "emotion": "neutral",
+            "did": 676
+        }
+    ],
+    [
+        {
+            "utterance": "Hey Sie haben den Mietvertrag richtig?",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Mhmm",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Sind Sie zuf\u00e4llig zu Hause?",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "N\u00f6.",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Was ist los",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "okk \u00e4h wissen Sie, ob es irgendwo auf dem Mietvertrag \u00fcber wie viel die Wasserrechnung ist?...",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "wie wenn es ein fester Betrag ist",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Uhhh ich wei\u00df nicht rmb",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Ich glaube, das ist in der Miete enthalten?",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Ich schaue nach, wenn ich zu Hause bin",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Ja, das wei\u00df ich, hahaha",
+            "emotion": "non-neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Ich habe mich nur gefragt, ob der Betrag irgendwo angegeben wurde",
+            "emotion": "neutral",
+            "did": 122
+        },
+        {
+            "utterance": "Sind Sie im Studio?",
+            "emotion": "neutral",
+            "did": 122
+        }
+    ],
+    [
+        {
+            "utterance": "Haben Sie gegessen",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "Ich bin zur\u00fcck",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "O",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "Ich wollte Essen holen und wollte wissen, ob du mitkommen willst",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "Ich bin nicht in der N\u00e4he von location_70",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "Oh Schei\u00dfe",
+            "emotion": "surprise",
+            "did": 631
+        },
+        {
+            "utterance": "Es ist ein dreit\u00e4giges Wochenende, an dem ich mich von location_70 entfernen werde",
+            "emotion": "neutral",
+            "did": 631
+        },
+        {
+            "utterance": "Ohhh",
+            "emotion": "neutral",
+            "did": 631
+        }
+    ],
+    [
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Es gibt Stellen, an die ich mich wegen des Kiffens nicht erinnere lol",
+            "emotion": "non-neutral",
+            "did": 673
+        },
+        {
+            "utterance": "?.?",
+            "emotion": "surprise",
+            "did": 673
+        },
+        {
+            "utterance": "Wirklich lol",
+            "emotion": "surprise",
+            "did": 673
+        },
+        {
+            "utterance": "ICH LIEBE U",
+            "emotion": "joy",
+            "did": 673
+        },
+        {
+            "utterance": "Person_202 und Person_323 brachten mich zum Tamarind und ich lief irgendwie zu 5 Guys und zur\u00fcck zu Person_129s Zimmer und ich erinnere mich nur an kleine Schnipsel der ganzen Reise",
+            "emotion": "non-neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Oo bebe",
+            "emotion": "non-neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Hoffentlich haben Sie unterwegs keine Schw\u00e4nze gelutscht",
+            "emotion": "non-neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Nein, aber ich bin mir ziemlich sicher, dass ich auf Fifth gesto\u00dfen bin.",
+            "emotion": "neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Weil ich gesehen habe, wie jemand anderes \u00fcber den F\u00fcnften lief",
+            "emotion": "neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Also habe ich auch",
+            "emotion": "neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Aber was w\u00e4re, wenn meine Mutter gestorben w\u00e4re",
+            "emotion": "fear",
+            "did": 673
+        },
+        {
+            "utterance": "Ich kann nicht in eine Pflegefamilie gehen",
+            "emotion": "non-neutral",
+            "did": 673
+        },
+        {
+            "utterance": "Papa wird sich um dich k\u00fcmmern",
+            "emotion": "non-neutral",
+            "did": 673
+        }
+    ],
+    [
+        {
+            "utterance": "Wo sind meine Insta-Fotos!",
+            "emotion": "surprise",
+            "did": 639
+        },
+        {
+            "utterance": "Hallo",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Ich werde sie bald bearbeiten!!",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Hallo c:",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Soll ich sie auf meinem Telefon essen",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Au\u00dferdem muss ich meine Mutter anrufen",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Weil meine Allergien wirklich schlimm werden",
+            "emotion": "non-neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Person_306",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Wat haha",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Zur\u00fcckkommen und Medikamente nehmen",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Oh",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Bearbeiten*****",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 639
+        },
+        {
+            "utterance": "Und ja, das werde ich in K\u00fcrze",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Aber ja sicher c:",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Sie bearbeiten",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Aber ich glaube, ich habe keine Allergie-Medizin",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Das, was ich genommen habe, war nur f\u00fcr nasale",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Ich dachte, Sie h\u00e4tten",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Es gibt Allergiemedikamente, die bei Entropie verkauft werden.",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Hoffentlich sind sie nicht ausverkauft",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Lassen Sie mich meine Mutter fragen, ob ich etwas habe.",
+            "emotion": "neutral",
+            "did": 639
+        },
+        {
+            "utterance": "Person_307",
+            "emotion": "neutral",
+            "did": 639
+        }
+    ],
+    [
+        {
+            "utterance": "person_158 hat uns die K-Drive-Privilegien weggenommen lol",
+            "emotion": "anger",
+            "did": 284
+        },
+        {
+            "utterance": "Lol wie soll man Dinge teilen",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Sie gab uns einen Ordner auf dem Laufwerk k",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Kein Zugriff auf etwas anderes",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Ziemlich froh, dass ich nach diesem Quartal mit diesem Job fertig bin",
+            "emotion": "joy",
+            "did": 284
+        },
+        {
+            "utterance": "Ich f\u00fchle mich schlecht f\u00fcr Person_425",
+            "emotion": "sadness",
+            "did": 284
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 284
+        },
+        {
+            "utterance": "Ich dachte, er w\u00fcrde seinen Abschluss vorzeitig machen",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Oh ja haha",
+            "emotion": "joy",
+            "did": 284
+        },
+        {
+            "utterance": "Nur damit er hier nicht arbeiten muss",
+            "emotion": "non-neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Wahrscheinlich aber nicht ein Jahr zu fr\u00fch",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Schade, dass sie die Schlimmste ist",
+            "emotion": "disgust",
+            "did": 284
+        },
+        {
+            "utterance": "Person_159 ist auch super aufgeregt zu gehen",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Wohin geht Person_160?",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Sie macht ihren Abschluss",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Mehr zur Schule gehen in wie location_38 oder so",
+            "emotion": "neutral",
+            "did": 284
+        },
+        {
+            "utterance": "Oh, JEDER geht",
+            "emotion": "surprise",
+            "did": 284
+        },
+        {
+            "utterance": "lol ya",
+            "emotion": "joy",
+            "did": 284
+        },
+        {
+            "utterance": "Wir haben aber schlie\u00dflich Person_161 ersetzt",
+            "emotion": "neutral",
+            "did": 284
+        }
+    ],
+    [
+        {
+            "utterance": "ja, ich arbeite tats\u00e4chlich f\u00fcr die Organisation_0",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Bei einem meiner Kunden wurden also alle Daten (die von verschiedenen Drittanbietern stammten) in ein zentrales Data Warehouse verschoben, und dann habe ich Anforderungen f\u00fcr Berichte gesammelt und diese entwickelt",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Hmm und Sie gehen vor Ort, um diese Dinge zu tun",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "die Berichte w\u00fcrden von den Au\u00dfendienstmitarbeitern (es handelt sich um eine Pharmafirma) verwendet werden, wenn sie im Au\u00dfendienst sind, um Informationen zu haben, die sie sofort ben\u00f6tigen, wenn sie versuchen, Produkte an \u00c4rzte/Kliniken/Krankenh\u00e4user/etc. zu verkaufen.",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Oh, okay, verstehe, also ist mit der Datenanalyse auch eine Programmierung verbunden",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "ja, aber nicht unbedingt wie location_0 und so",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "wir stellen Java-Programmierer und andere Programmierer ein",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Das meiste, was ich mache, arbeite ich mit ETL-Entwicklern, die sich mit Tools wie organization_1,e tc auskennen.",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Woran sind Sie interessiert?",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Ok verstanden, macht es Ihnen Spa\u00df?",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Ich bleibe nur mit meinem besten Freund in Kontakt",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "lol sicher",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "utterance": "ja, das tue ich",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Arbeiten Sie und Person_6 in der gleichen Abteilung?",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "besonders jetzt, wo ich wei\u00df, was ich tue und mir viel Verantwortung \u00fcbertragen wurde, gef\u00e4llt es mir",
+            "emotion": "joy",
+            "did": 11
+        },
+        {
+            "utterance": "nein, er ist in der Organisation_78",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "er ist in der Organisation_79 geschult und arbeitet an Projekten, in denen er sie implementiert und Fehler behebt",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Ja, das macht Sinn",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Oh okay, und was l\u00e4uft dort sonst noch so ab? Gibt es irgendwelche internen Projekte oder nur Kunden?",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Okay, gibt es einen Hauptstandort?",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "wir haben auch interne Arbeit, aber ich bin damit nicht so vertraut",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "technisch gesehen befindet sich das HQ von Standort_1 in Standort_2, aber unsere Hauptb\u00fcros sind NYC, Standort_3, Organisation_2, Standort_4, Standort_5, Standort_6 (Burbank) und Standort_7",
+            "emotion": "neutral",
+            "did": 11
+        },
+        {
+            "utterance": "Organisation_3 globaler Hauptsitz ist in Standort_8",
+            "emotion": "neutral",
+            "did": 11
+        }
+    ],
+    [
+        {
+            "utterance": ":(",
+            "emotion": "sadness",
+            "did": 490
+        },
+        {
+            "utterance": "Ich sch\u00e4tze, wir werden dann nicht miteinander schlafen.",
+            "emotion": "sadness",
+            "did": 490
+        },
+        {
+            "utterance": "Wie sp\u00e4t sind Sie wach?",
+            "emotion": "neutral",
+            "did": 490
+        },
+        {
+            "utterance": "wie 1",
+            "emotion": "neutral",
+            "did": 490
+        },
+        {
+            "utterance": "Okie wir werden dann wohl heute Nacht nicht zusammen schlafen :(",
+            "emotion": "sadness",
+            "did": 490
+        },
+        {
+            "utterance": "Ich frage mich, ob ich mich in den Vierer schleichen kann hehe",
+            "emotion": "joy",
+            "did": 490
+        },
+        {
+            "utterance": "Es ist sooo doppelt getunkt ;)",
+            "emotion": "joy",
+            "did": 490
+        },
+        {
+            "utterance": "wir werden sehen",
+            "emotion": "neutral",
+            "did": 490
+        }
+    ],
+    [
+        {
+            "utterance": "Shoot it's $1.75 T^T",
+            "emotion": "non-neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Haben Sie einen Vierteldollar?",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Lassen Sie mich pr\u00fcfen",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Ich glaube, ich habe etwa 1",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Ja, das ist gut",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Auch idk, wenn u wollen nur die Fenster \u00f6ffnen, weil es ziemlich k\u00fchl drau\u00dfen f\u00fchlt",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Regen...?",
+            "emotion": "surprise",
+            "did": 363
+        },
+        {
+            "utterance": "Regnet es zur Zeit?",
+            "emotion": "surprise",
+            "did": 363
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Warte r u kommen, um mir die 25 lol geben",
+            "emotion": "joy",
+            "did": 363
+        },
+        {
+            "utterance": "Mist, es ist ein kanadischer Vierteldollar, ich wei\u00df nicht, ob es funktionieren wird.",
+            "emotion": "non-neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 363
+        },
+        {
+            "utterance": "Hahahaha omg",
+            "emotion": "joy",
+            "did": 363
+        },
+        {
+            "utterance": "\u00c4hm, k\u00f6nnten wir einen der Jungs fragen...",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Mmmm ....",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Lol was ist das",
+            "emotion": "non-neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Ich frage Person_488",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Festhalten",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Oh ok",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Er sollte auf seinem Weg sein",
+            "emotion": "neutral",
+            "did": 363
+        },
+        {
+            "utterance": "Yayyy",
+            "emotion": "joy",
+            "did": 363
+        }
+    ],
+    [
+        {
+            "utterance": "Was meinen Sie mit *der*",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Ich fand einige im Arbeitszimmer w\u00e4hrend einer der gro\u00dfen Reinigungen",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Habe sie in mein wei\u00dfes Regal verschoben, damit sie nicht kaputt gehen",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Aber haben wir uns gerade einen geteilt?",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Nun, ich meine nur, wo sind die meisten von ihnen",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Mein Fehler bei der Formulierung lols",
+            "emotion": "joy",
+            "did": 652
+        },
+        {
+            "utterance": "Oh, Sie kaufen sie und behalten sie, glaube ich",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Auf keinen Fall",
+            "emotion": "surprise",
+            "did": 652
+        },
+        {
+            "utterance": "Ich hatte keine Ahnung",
+            "emotion": "surprise",
+            "did": 652
+        },
+        {
+            "utterance": "Sie sind sowieso ziemlich billig",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Die Leute fragen mich nach ihnen",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Wie $20-30",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Und Person_316 m\u00f6chte ein Paar tragen",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Vielleicht Person_470 fragen?",
+            "emotion": "neutral",
+            "did": 652
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 652
+        }
+    ],
+    [
+        {
+            "utterance": "Das ist erstaunlich",
+            "emotion": "joy",
+            "did": 502
+        },
+        {
+            "utterance": "Gibt es Regeln gegen Sprengstoff?",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "lmao Lipos sind nicht erlaubt",
+            "emotion": "joy",
+            "did": 502
+        },
+        {
+            "utterance": "Bullshit",
+            "emotion": "non-neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Kraft mal Weg",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "hurr hurr",
+            "emotion": "non-neutral",
+            "did": 502
+        },
+        {
+            "utterance": "lecken",
+            "emotion": "non-neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Womit laufen die serienm\u00e4\u00dfigen Antriebsr\u00e4der \u00fcberhaupt?",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Inverter bois",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "fuck off-season comp",
+            "emotion": "non-neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Wir machen das",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "warum nicht beides",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Idee: einen Blitzableiter anbringen und auf g\u00f6ttliche Gunst warten",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Sieht so aus, als w\u00e4re eine einzelne 12V-Batterie im Inneren",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "einfach 3 weitere in Serie einbauen",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "was schiefgehen k\u00f6nnte",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "ficken",
+            "emotion": "disgust",
+            "did": 502
+        },
+        {
+            "utterance": "eine kleine D\u00fcse verwenden, um ein Rad zu drehen",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "Schachmatt",
+            "emotion": "neutral",
+            "did": 502
+        },
+        {
+            "utterance": "einen Sterling-Motor verwenden und ihn patentieren lassen",
+            "emotion": "neutral",
+            "did": 502
+        }
+    ],
+    [
+        {
+            "utterance": "einfach am besten im echten Leben jeder",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "oder bestes Foto",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "Ich gebe Ihnen meine",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "k geht vor",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "rechts",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "falsch",
+            "emotion": "non-neutral",
+            "did": 357
+        },
+        {
+            "utterance": "ill gehen durch Ihre Freunde und finden Sie eine hei\u00dfere M\u00e4dchen",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "nein zeig mir deine",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "schnell ich muss schlafen gehen",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "dieselbe",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "aight",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "mir zeigen",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "dieses eine K\u00fcken hat ein gutes aktuelles Profilbild",
+            "emotion": "neutral",
+            "did": 357
+        },
+        {
+            "utterance": "aber ich will nicht, dass du sie findest.",
+            "emotion": "neutral",
+            "did": 357
+        }
+    ],
+    [
+        {
+            "utterance": "lol gr8",
+            "emotion": "joy",
+            "did": 445
+        },
+        {
+            "utterance": "arbeiten wir gemeinsam an den Postern",
+            "emotion": "neutral",
+            "did": 445
+        },
+        {
+            "utterance": "Wann k\u00f6nnen Sie daran arbeiten?",
+            "emotion": "neutral",
+            "did": 445
+        },
+        {
+            "utterance": "Nach 6 :<",
+            "emotion": "sadness",
+            "did": 445
+        },
+        {
+            "utterance": "Ich habe formale heute Abend f\u00fcr axo. Im nicht sicher, wann seine bis!",
+            "emotion": "neutral",
+            "did": 445
+        },
+        {
+            "utterance": "Ah okay nvm",
+            "emotion": "neutral",
+            "did": 445
+        },
+        {
+            "utterance": "Person_230",
+            "emotion": "neutral",
+            "did": 445
+        },
+        {
+            "utterance": "Machst du es zu dieser Zeit lol",
+            "emotion": "non-neutral",
+            "did": 445
+        }
+    ],
+    [
+        {
+            "utterance": "ok",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "damit wir uns nicht um die dritte Gleichung k\u00fcmmern m\u00fcssen",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "?",
+            "emotion": "surprise",
+            "did": 713
+        },
+        {
+            "utterance": "wir im Grunde nur x mom und y mom l\u00f6sen, um einen Geschwindigkeitsvektor zu erhalten?",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Lol ja",
+            "emotion": "joy",
+            "did": 713
+        },
+        {
+            "utterance": "cool",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Druck ficken",
+            "emotion": "anger",
+            "did": 713
+        },
+        {
+            "utterance": "Oh Sie brauchen Druck",
+            "emotion": "non-neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Wo?",
+            "emotion": "non-neutral",
+            "did": 713
+        },
+        {
+            "utterance": "So geht's. Sie erhalten das u und v f\u00fcr das n\u00e4chste it",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "ah",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Ich sehe",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "sie sind verwandte Gleichungen",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Schei\u00dfe",
+            "emotion": "non-neutral",
+            "did": 713
+        },
+        {
+            "utterance": "sieht schei\u00dfe aus",
+            "emotion": "anger",
+            "did": 713
+        },
+        {
+            "utterance": "Lol noob",
+            "emotion": "joy",
+            "did": 713
+        },
+        {
+            "utterance": "Lesen Sie die Hinweise",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Ich lese mich durch",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "welche sehen Sie sich an",
+            "emotion": "neutral",
+            "did": 713
+        },
+        {
+            "utterance": "Alle, wirklich alle",
+            "emotion": "neutral",
+            "did": 713
+        }
+    ],
+    [
+        {
+            "utterance": "kk",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Wenn nicht, werden wir wahrscheinlich CU verwenden, da ich ein Ladenguthaben habe.",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Aber auch das BC-Universum ist eine Option",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Denn einer ist 832 und der andere ist 834",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Und ich wei\u00df nicht, ob Organisation_25 versandkostenfrei ist",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Ich nehme an, ich kann das zu Ihnen nach Hause geschickt bekommen, richtig?",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Ja, ich brauche nur eine Vorwarnung, wann.",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Es sollte ein paar Tage dauern, bis das Geh\u00e4use f\u00e4llt",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Dass es ankommen wird",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Warten wat",
+            "emotion": "surprise",
+            "did": 214
+        },
+        {
+            "utterance": "Ja, CU und BCU sind daf\u00fcr bekannt, dass sie vor dem Freigabetag verschicken",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Also werden wir es wahrscheinlich am Mittwoch oder Donnerstag bekommen",
+            "emotion": "neutral",
+            "did": 214
+        },
+        {
+            "utterance": "Oh, ich dachte, Sie meinten wie diese Woche und ich war dabei, Ihre Gesundheit in Frage zu stellen",
+            "emotion": "surprise",
+            "did": 214
+        },
+        {
+            "utterance": "Ich sagte, bevor es f\u00e4llt lol",
+            "emotion": "joy",
+            "did": 214
+        }
+    ],
+    [
+        {
+            "utterance": "yo haben Sie noch diesen Stuhl",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Ist der Schei\u00df bequem oder nicht?",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Es ist nicht flauschig oder so, aber es ist sicher besser als die St\u00fchle, die mit dem Zimmer kommen",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Wort Sie denken, ich kann es irgendwann in dieser Woche abholen?",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Ja, auf jeden Fall, welche Zeit f\u00fcr Sie funktioniert",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Kann ich es irgendwann im M\u00e4rz bekommen?",
+            "emotion": "neutral",
+            "did": 593
+        },
+        {
+            "utterance": "Ja, nachmittags",
+            "emotion": "neutral",
+            "did": 593
+        }
+    ],
+    [
+        {
+            "utterance": "Wie lange dauert es, bis Sie fertig sind?",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "ich werde wahrscheinlich bis Mitternacht arbeiten",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "711/1500",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "Halbwegs",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "begann irgendwann nach zehn",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "Ich warte auf Sie",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "Raten Sie, was ich tue",
+            "emotion": "neutral",
+            "did": 456
+        },
+        {
+            "utterance": "okay <3",
+            "emotion": "joy",
+            "did": 456
+        }
+    ],
+    [
+        {
+            "utterance": "warum aber",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "warum ist es kitschig?",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "ihr",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "weil es die ultimative Zusammenstellung von Remixen weiblicher Popsongs ist",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "Ich wei\u00df nicht, ob \"trashig\" das richtige Wort ist, aber ich liebe es nichtsdestotrotz",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "Ja, ich denke, trashig ist vielleicht nicht das Wort, das Sie suchen.",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "Ich h\u00f6re es mir gerade an",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "Ich liebe es, dass Ravey Spice ein verwandter Song ist.",
+            "emotion": "neutral",
+            "did": 477
+        },
+        {
+            "utterance": "ich bin zu der Erkenntnis gekommen, dass zumindest f\u00fcr mich die verwandten Lieder nur meine k\u00fcrzlich gemochten Titel sind",
+            "emotion": "neutral",
+            "did": 477
+        }
+    ],
+    [
+        {
+            "utterance": "Hey Leute! Wie geht es euch??ich habe vergessen zu fragen, wie der Lauf am letzten Tag war_1?",
+            "emotion": "neutral",
+            "did": 310
+        },
+        {
+            "utterance": "Hey, wir sind gut. Der Lauf lief super gut. Ich war ein bisschen m\u00fcde, aber Pyjama hat mich aufgepeppt. Wir haben bei 1h4 Minuten beendet",
+            "emotion": "joy",
+            "did": 310
+        },
+        {
+            "utterance": "Btw werent u Planung zu kommen, dass Wochenende??",
+            "emotion": "neutral",
+            "did": 310
+        },
+        {
+            "utterance": "Wahnsinn! Das waren 10 km, oder? Ihr seid verr\u00fcckt! Haha, aber ich wette, es muss sich gut anf\u00fchlen, das zu schaffen",
+            "emotion": "joy",
+            "did": 310
+        },
+        {
+            "utterance": "ja, das habe ich, aber mein Flugzeug ging an diesem Tag um Uhrzeit_1..sonst w\u00e4ren wir sicher zu Ihnen gekommen! Ich wollte",
+            "emotion": "neutral",
+            "did": 310
+        },
+        {
+            "utterance": "Ich bin auch n\u00e4chstes Wochenende hier, wenn Sie in der N\u00e4he sind!",
+            "emotion": "joy",
+            "did": 310
+        },
+        {
+            "utterance": "Hehe ja es waren 10k , kein Problem. Werden bald treffen",
+            "emotion": "neutral",
+            "did": 310
+        },
+        {
+            "utterance": "ja :-)",
+            "emotion": "neutral",
+            "did": 310
+        },
+        {
+            "utterance": "Lassen Sie uns das organisieren!",
+            "emotion": "joy",
+            "did": 310
+        },
+        {
+            "utterance": "Wir sind hier immer am Wochenende, werden daf\u00fcr in Kontakt bleiben",
+            "emotion": "neutral",
+            "did": 310
+        }
+    ],
+    [
+        {
+            "utterance": "Habe Spanisch aufgegeben, um 490 zu nehmen lol",
+            "emotion": "neutral",
+            "did": 109
+        },
+        {
+            "utterance": "guter Mann",
+            "emotion": "joy",
+            "did": 109
+        },
+        {
+            "utterance": "H\u00e4tten Sie es nicht auf einen sp\u00e4teren Zeitpunkt verschieben k\u00f6nnen?",
+            "emotion": "neutral",
+            "did": 109
+        },
+        {
+            "utterance": "zu viele Kreditstunden zu bew\u00e4ltigen",
+            "emotion": "neutral",
+            "did": 109
+        },
+        {
+            "utterance": "w\u00fcrde 19 gewesen sein",
+            "emotion": "neutral",
+            "did": 109
+        },
+        {
+            "utterance": "o fucc",
+            "emotion": "surprise",
+            "did": 109
+        },
+        {
+            "utterance": "Ich dachte, Sie sagten, dieses Semester sei ez??",
+            "emotion": "surprise",
+            "did": 109
+        },
+        {
+            "utterance": "ja, kann nur nicht so viel unterschreiben",
+            "emotion": "neutral",
+            "did": 109
+        },
+        {
+            "utterance": "ah",
+            "emotion": "neutral",
+            "did": 109
+        }
+    ],
+    [
+        {
+            "utterance": "Kumpel, genial... Das w\u00e4re perfekt vor einem Fu\u00dfballspiel",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Motivierend nein?",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Auf jeden Fall",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": ":D",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Person_172 hat es gefunden",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Gutes Zeug",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Sehen Sie sich auch dieses Instrumental an",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Dies fand ich",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Ich bin verliebt in ihn",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Oh mein Gott, ich liebe die, die Sie geschickt haben!",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Oder? Lassen Sie mich das \u00fcberpr\u00fcfen",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Das, was Sie geschickt haben, ist mein Lied f\u00fcr die Nacht. Es hat es einfach f\u00fcr mich getan",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Haha, ich freue mich, dass ich helfen konnte. Ich habe tats\u00e4chlich \"Two Steps from Hell\" geh\u00f6rt, wusste aber nie, wie es hei\u00dft. Ein Freund im College hat es immer gespielt. Geniales Zeug",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Ja :)",
+            "emotion": "joy",
+            "did": 312
+        },
+        {
+            "utterance": "Es dauert ein bisschen, bis man sich eingearbeitet hat, aber es ist nett. Nicht sicher, ob Sie diese Art von Sachen m\u00f6gen. Eher alternativ. Aber instrumental.",
+            "emotion": "neutral",
+            "did": 312
+        }
+    ],
+    [
+        {
+            "utterance": "Es ist eine Freude. Aber Sie sind eine kleine wei\u00dfe britische Frau, also werden sie besser zu Ihnen sein",
+            "emotion": "joy",
+            "did": 91
+        },
+        {
+            "utterance": "Wahrscheinlich nicht. Um fair zu sein, ich fliege ziemlich oft und habe auch nicht",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Ich scheine immer gefilzt zu werden =)",
+            "emotion": "non-neutral",
+            "did": 91
+        },
+        {
+            "utterance": "So nervig",
+            "emotion": "disgust",
+            "did": 91
+        },
+        {
+            "utterance": "Am Standort_27? Haben die auch so bescheuerte Sicherheitsgesetze?",
+            "emotion": "disgust",
+            "did": 91
+        },
+        {
+            "utterance": "Oh ja",
+            "emotion": "non-neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Ist das nicht gro\u00dfartig?",
+            "emotion": "disgust",
+            "did": 91
+        },
+        {
+            "utterance": "Du kommst also im Juni?",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Ich bin in der Tat",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Die Zeit-HL(1) um genau zu sein",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Ich werde bis dahin schon etwa einen Monat weg sein, aber Ende August bin ich wieder da",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Ahh fair genug, mein Lager Enddatum ist Zeit-HL(2) so kann ich jederzeit nach dann gehen",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Sie sollten unbedingt reisen, aber im Norden bleiben",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Ja, ich kann es mir nicht leisten, viel herumzureisen, ich w\u00fcrde wahrscheinlich bis sp\u00e4testens Mitte der Zeit bleiben, weil ich am Ende mit der Uni anfange und ich noch eine Woche oder so zu Hause sein m\u00f6chte, bevor ich gehe",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Verstanden ~ nun, ich habe ein Studio mit einem Ersatzbett und meine Freundin hat eine Couch, wenn Sie einen Platz zum Bleiben f\u00fcr ein bisschen brauchen",
+            "emotion": "neutral",
+            "did": 91
+        },
+        {
+            "utterance": "Oooh ich werde es Sie wissen lassen!",
+            "emotion": "surprise",
+            "did": 91
+        }
+    ],
+    [
+        {
+            "utterance": "K\u00f6nnte ich mir heute Abend Ihren Staubsauger ausleihen?",
+            "emotion": "neutral",
+            "did": 510
+        },
+        {
+            "utterance": "Planenst\u00fccke \u00fcberall",
+            "emotion": "neutral",
+            "did": 510
+        },
+        {
+            "utterance": "Person_221",
+            "emotion": "neutral",
+            "did": 510
+        },
+        {
+            "utterance": "aw shit nvm person_418 ging nach Hause",
+            "emotion": "non-neutral",
+            "did": 510
+        },
+        {
+            "utterance": "Ich kann es r\u00fcberfahren haha",
+            "emotion": "joy",
+            "did": 510
+        },
+        {
+            "utterance": "Sind Sie sicher?",
+            "emotion": "neutral",
+            "did": 510
+        },
+        {
+            "utterance": "Sie hatten einen langen Tag lol",
+            "emotion": "neutral",
+            "did": 510
+        },
+        {
+            "utterance": "Eh. Dun wrry",
+            "emotion": "neutral",
+            "did": 510
+        },
+        {
+            "utterance": "es ist das, was ich tue",
+            "emotion": "neutral",
+            "did": 510
+        }
+    ],
+    [
+        {
+            "utterance": "Organisation_23 hat eine gute ML-Gruppe",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Ich bin nicht sicher, wie die Job-Statistiken sind",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Aber es ist viel billiger. Wenn Sie Ra/Ta dort bekommen, k\u00f6nnten Sie am Ende sogar nichts ausgeben",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Wenn Ihr Ziel ein PhD war, h\u00e4tte ich Organisation_20 wegen der Fakult\u00e4t hier und ihrem Ruf bevorzugt",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Ich hatte \u00e4hnliche Ziele, war aber nicht ganz entschlossen, zu promovieren",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Wenn ich uta bekommen h\u00e4tte, w\u00fcrde meine Entscheidung leicht zu Gunsten dessen kippen",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Es ist gut, am Ende Ihrer MS in einer kreditfreien Situation zu sein",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "hmm ja... muss mit einigen UTA-Leuten sprechen, bevor ich mich entscheide",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "hey bekommen mcds ppl einen berater?",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Nein, wir haben einen Programmberater, aber das ist mehr f\u00fcr administrative Zwecke",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Oh ich verstehe... btw kennen Sie jemanden am Standort-HL?",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Ich kenne einen Typen, der vor ein paar Jahren seinen Abschluss gemacht hat.",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "Ich kann Sie mit ihm in Kontakt bringen",
+            "emotion": "neutral",
+            "did": 189
+        },
+        {
+            "utterance": "das w\u00e4re gro\u00dfartig!",
+            "emotion": "joy",
+            "did": 189
+        }
+    ],
+    [
+        {
+            "utterance": "Oh Schei\u00dfe, ich habe den Essensblock verpasst",
+            "emotion": "non-neutral",
+            "did": 675
+        },
+        {
+            "utterance": "jaaa",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "Ja, nur zu, und wenn Sie etwas f\u00fcr Ihren sp\u00e4ten Block wollen, bringe ich es mit, wenn ich vorbeikomme.",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "Ich bin fertig mit Packen, ich werfe nur noch Sachen weg und dann komme ich r\u00fcber",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "isst du nicht?",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "Oh, okay, dann benutze ich Ihren sp\u00e4ten Block lol",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "oder wollen Sie Grubhub",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "was wollen Sie essen",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "Ich wei\u00df es nicht",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "Besorgen Sie mir einfach, was immer Sie bekommen",
+            "emotion": "neutral",
+            "did": 675
+        },
+        {
+            "utterance": "oder wollen Sie in die U-Bahn gehen, wenn Sie sp\u00e4ter vorbeikommen",
+            "emotion": "neutral",
+            "did": 675
+        }
+    ],
+    [
+        {
+            "utterance": "Um die",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "Im",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "Person_275 wird um 420 Uhr zur\u00fcckkommen, um zu duschen",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "DW Ich gehe einfach rein und gebe es ab",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "Und lassen",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "Man muss etwas tun nach",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "Oh okay",
+            "emotion": "neutral",
+            "did": 555
+        },
+        {
+            "utterance": "Ich bin in meinem Schlafsaal im Erdgeschoss",
+            "emotion": "neutral",
+            "did": 555
+        }
+    ],
+    [
+        {
+            "utterance": "fragen Sie Person_413, wie sie $66,59 bei amazon ausgeben w\u00fcrde",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": ":p",
+            "emotion": "joy",
+            "did": 38
+        },
+        {
+            "utterance": "(ich wei\u00df, ich werde es f\u00fcr Schulsachen ausgeben)",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "\"Klamotten oder Wohnheimsachen\"",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "(ich denke gerade \u00fcber lustige Dinge nach)",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Bitte",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Das hat sie auch gesagt!",
+            "emotion": "joy",
+            "did": 38
+        },
+        {
+            "utterance": "das macht keinen Spa\u00df",
+            "emotion": "sadness",
+            "did": 38
+        },
+        {
+            "utterance": "lol",
+            "emotion": "joy",
+            "did": 38
+        },
+        {
+            "utterance": "Klamotten und Wohnheimsachen machen so viel Spa\u00df",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "ich sch\u00e4tze",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Pers\u00f6nlich",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Ja, ich w\u00fcrde gerne ein paar Klamotten kaufen",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Ich mag es nicht, wenn wir Kleidung einkaufen",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "?",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Online lol",
+            "emotion": "joy",
+            "did": 38
+        },
+        {
+            "utterance": "ah",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Ich kaufe Dinge, von denen ich wei\u00df, dass sie bereits passen",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "als ob ich mehr Levis kaufen w\u00fcrde, weil ich meine Gr\u00f6\u00dfe bei denen schon kenne",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Mhm",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "auch bei den M\u00e4dchen gibt es viel mehr Abwechslung",
+            "emotion": "neutral",
+            "did": 38
+        },
+        {
+            "utterance": "Das ist wahr",
+            "emotion": "neutral",
+            "did": 38
+        }
+    ],
+    [
+        {
+            "utterance": "ugh",
+            "emotion": "disgust",
+            "did": 140
+        },
+        {
+            "utterance": "M\u00f6chte in die Bibliothek kommen",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "Ich fange an, dieses Arschloch rauszuh\u00e4mmern",
+            "emotion": "anger",
+            "did": 140
+        },
+        {
+            "utterance": "Person_391 ist noch da",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "zum Gl\u00fcck ist dies am Donnerstagmorgen f\u00e4llig",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "Oh, meint er das?",
+            "emotion": "surprise",
+            "did": 140
+        },
+        {
+            "utterance": "ich werde trotzdem zu sp\u00e4t kommen",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "Ja, Kumpel",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "nah",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "solange Sie es schaffen, bevor er in die Schule kommt",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "ist gut",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "und er erw\u00e4hnte",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "Ich glaube, das war f\u00fcr die 3d-Geh\u00e4use",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "trotzdem",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "Ja, die Zeit der Krise",
+            "emotion": "non-neutral",
+            "did": 140
+        },
+        {
+            "utterance": "OH, GOTT SEI DANK!",
+            "emotion": "joy",
+            "did": 140
+        },
+        {
+            "utterance": "aber ja",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "wir haben mehr Zeit, als Sie wahrscheinlich dachten",
+            "emotion": "non-neutral",
+            "did": 140
+        },
+        {
+            "utterance": "obwohl Sie vielleicht sp\u00e4ter Fotos vom Lehrbuch machen sollen",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "np",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "ich k\u00f6nnte sp\u00e4ter nach Hause gehen und meine eigenen Whiteboards benutzen",
+            "emotion": "neutral",
+            "did": 140
+        },
+        {
+            "utterance": "Ich k\u00f6nnte die Schei\u00dfer einfach in meine Wand schrauben, haha",
+            "emotion": "joy",
+            "did": 140
+        },
+        {
+            "utterance": "sscrew the fuckers?",
+            "emotion": "surprise",
+            "did": 140
+        }
+    ],
+    [
+        {
+            "utterance": "dnag",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "Hot Dog",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "Hot Dog?",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "ich will Hot Dog",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "wird es an Karneval Hot Dogs geben",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "ach ja",
+            "emotion": "joy",
+            "did": 236
+        },
+        {
+            "utterance": "ill be there von hollywood undead anh\u00f6ren",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "M\u00f6gen Sie dieses Lied?",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "Ja, das tue ich",
+            "emotion": "joy",
+            "did": 236
+        },
+        {
+            "utterance": "Kugel ist auch gut",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "ich mag auch everywhere i go, aber es ist auch ein l\u00e4cherliches Lied",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "oh ich mag diesen volkst\u00fcmlichen Stil nicht",
+            "emotion": "non-neutral",
+            "did": 236
+        },
+        {
+            "utterance": "das ist \u00fcberhaupt nicht volkst\u00fcmlich",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "vielleicht ein wenig wegen der leichten Akustikgitarre im Hintergrund",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "aber es ist einfach wie generischer Pop",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "oh",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "Sie w\u00fcrden wahrscheinlich Kugel mehr m\u00f6gen",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "ill be there ist ganz und gar nicht wie ihre anderen Lieder",
+            "emotion": "neutral",
+            "did": 236
+        },
+        {
+            "utterance": "Die meisten ihrer Songs sind rappig/punkig",
+            "emotion": "neutral",
+            "did": 236
+        }
+    ],
+    [
+        {
+            "utterance": "Sie sollten wahrscheinlich wieder an die Arbeit gehen",
+            "emotion": "neutral",
+            "did": 290
+        },
+        {
+            "utterance": "Tut mir leid, dass ich Ihnen bisher nicht geholfen habe, sich zu konzentrieren",
+            "emotion": "sadness",
+            "did": 290
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 290
+        },
+        {
+            "utterance": "Ich w\u00fcrde lieber an dich denken",
+            "emotion": "joy",
+            "did": 290
+        },
+        {
+            "utterance": "Noch zwei Tage Schule",
+            "emotion": "joy",
+            "did": 290
+        },
+        {
+            "utterance": "Mhm",
+            "emotion": "neutral",
+            "did": 290
+        },
+        {
+            "utterance": "Sie k\u00f6nnen es schaffen",
+            "emotion": "joy",
+            "did": 290
+        },
+        {
+            "utterance": "Ja :)",
+            "emotion": "joy",
+            "did": 290
+        },
+        {
+            "utterance": "Ich liebe dich",
+            "emotion": "joy",
+            "did": 290
+        },
+        {
+            "utterance": "Ich liebe dich auch",
+            "emotion": "joy",
+            "did": 290
+        }
+    ],
+    [
+        {
+            "utterance": "Ich kann nicht erkl\u00e4ren, wie viel du mir bedeutest",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Mit dir f\u00fchle ich mich so komplett",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Ich habe meinen Wecker auf 7 Uhr gestellt.",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "Ekelhaft Es tut mir leid",
+            "emotion": "non-neutral",
+            "did": 230
+        },
+        {
+            "utterance": "Ich bin ziemlich m\u00fcde",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "mhm",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "langer Tag in der Hitze",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "Ich liebte heute mit Ihnen",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Das habe ich auch",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Ich w\u00fcnschte, ich k\u00f6nnte aufbleiben und f\u00fcr immer mit dir reden",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Ich wei\u00df",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "Du hast mein Leben irgendwie ver\u00e4ndert",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Ich wei\u00df nicht, was ich ohne dich tun w\u00fcrde",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Ich w\u00fcrde mich so verirren",
+            "emotion": "sadness",
+            "did": 230
+        },
+        {
+            "utterance": "Gute Nacht Person_225",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "Ich liebe dich so sehr",
+            "emotion": "joy",
+            "did": 230
+        },
+        {
+            "utterance": "Gute Nacht Person_121",
+            "emotion": "neutral",
+            "did": 230
+        },
+        {
+            "utterance": "Ich liebe dich auch",
+            "emotion": "joy",
+            "did": 230
+        }
+    ],
+    [
+        {
+            "utterance": "so Ive wurde es testen und war mit allen Arten von Problemen, weil sie nicht geben mir Zugang bis zum letzten day_1. aber ich tat ein paar Renderings und seine Arbeit gro\u00dfartig f\u00fcr mich jetzt.",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Wenn es also nicht f\u00fcr Sie funktioniert (was Sie in der Liste sein sollten, glaube ich), m\u00fcssen Sie vielleicht die Person ausfindig machen, die Sie in die Liste aufnehmen kann (ich glaube, es ist auf einer Basis pro Benutzer)",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Jeder hier bei organization_65 sollte es auch f\u00fcr Houdini haben, aber aus irgendeinem Grund haben nur person_309 und ich es und niemand sonst hat Zugang",
+            "emotion": "non-neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Interessant. Ich habe es nicht einmal ber\u00fchrt, hatte nicht viel Grund dazu. War effizienter Kette Rendering aus person_310 im letzten Semester, und wird wahrscheinlich Vray in 2017 in diesem Semester verwenden",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Ich habe einige freiberufliche person_222 \u00fcber den Sommer und verwendet Cloud-Rendering von GridMarkets, wei\u00df nicht, ob ich jemals die Farm tbh brauchen werden",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Okay, super. Ich habe in letzter Zeit nicht viel mit Houdini gearbeitet, aber die Rendering-Zeit war immer das gr\u00f6\u00dfte Problem",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Ja, das Rendering in Mantra braucht ein bisschen Zeit. 15.5 enth\u00e4lt Unterst\u00fctzung f\u00fcr externe Renderer. Es k\u00f6nnte sich lohnen, Octane v3 auszuprobieren.",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Okay, das werde ich. Au\u00dferdem habe ich gestern mit person_400 gesprochen und gesagt, dass ihr ein paar potenzielle Architektur-Echtzeit-Sachen macht. Ich glaube, ich habe irgendwo gelesen, dass sie vor kurzem ein Vray-Plugin f\u00fcr Unity gemacht, so dass Sie vielleicht auf, dass \u00fcberpr\u00fcfen",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "danke f\u00fcr den Tipp. das ist meist nur person_400 haha ich mache Umgebungsdesign in unreal aber seine Diplomarbeit ist auf archviz so ich werde es weitergeben",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "wie l\u00e4uft es bei der ec?",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Okay, fantastisch, env design mit was? Bin neugierig",
+            "emotion": "non-neutral",
+            "did": 643
+        },
+        {
+            "utterance": "ue4, unreal engine 4",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Nun, ein Rohr in der Gewerkschaft ist geplatzt und hat unseren CAVE \u00fcberflutet, also stehen uns lustige Zeiten bevor :D",
+            "emotion": "non-neutral",
+            "did": 643
+        },
+        {
+            "utterance": "oh richtig, das haben Sie gesagt haha",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Puh! Tut mir leid, das zu h\u00f6ren",
+            "emotion": "surprise",
+            "did": 643
+        },
+        {
+            "utterance": "sehr cool Mann, UE4 kann Dinge in Echtzeit verdammt sexy aussehen lassen",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Sie machen dieses Jahr Ihren Master, richtig? 360 vid?",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Ja, ich liebe Ue4 f\u00fcr die Geschwindigkeit/den Turnout von Assets",
+            "emotion": "joy",
+            "did": 643
+        },
+        {
+            "utterance": "Ich bin immer noch ein Neuling darin, aber ich bin anst\u00e4ndig im Texturieren geworden",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "es ist ein Bereich von Interesse immer noch definitey aber ich m\u00f6chte mehr auf Programmierung/VR-Anwendungen f\u00fcr die Meister konzentrieren",
+            "emotion": "neutral",
+            "did": 643
+        },
+        {
+            "utterance": "Ich verstehe. VR hat so viele interessante Bereiche zu erforschen",
+            "emotion": "neutral",
+            "did": 643
+        }
+    ],
+    [
+        {
+            "utterance": "FUK",
+            "emotion": "anger",
+            "did": 183
+        },
+        {
+            "utterance": "Ich habe mich gerade daran erinnert, dass ich letzte Nacht einen anz\u00fcglichen Traum \u00fcber meinen Manager hatte",
+            "emotion": "non-neutral",
+            "did": 183
+        },
+        {
+            "utterance": "rip",
+            "emotion": "sadness",
+            "did": 183
+        },
+        {
+            "utterance": "au\u00dferdem trug er gestern einen Nieteng\u00fcrtel",
+            "emotion": "neutral",
+            "did": 183
+        },
+        {
+            "utterance": "s\u00fc\u00df emo 90er bb",
+            "emotion": "joy",
+            "did": 183
+        },
+        {
+            "utterance": "Ich m\u00f6chte wissen, was sein Tumblr ist",
+            "emotion": "neutral",
+            "did": 183
+        }
+    ],
+    [
+        {
+            "utterance": "Hey, also kann person_414 heute Abend zu vg gehen",
+            "emotion": "neutral",
+            "did": 186
+        },
+        {
+            "utterance": "aber es gibt ein Problem",
+            "emotion": "neutral",
+            "did": 186
+        },
+        {
+            "utterance": "??????",
+            "emotion": "surprise",
+            "did": 186
+        },
+        {
+            "utterance": "er braucht eine Mitfahrgelegenheit",
+            "emotion": "neutral",
+            "did": 186
+        },
+        {
+            "utterance": "Ich hebe deinen Arsch auf und dann hole ich ihn.",
+            "emotion": "anger",
+            "did": 186
+        },
+        {
+            "utterance": "okay",
+            "emotion": "neutral",
+            "did": 186
+        },
+        {
+            "utterance": "Aber mein Seitenspiegel ist im Arsch, also musst du mein Seitenspiegel sein",
+            "emotion": "anger",
+            "did": 186
+        },
+        {
+            "utterance": "oh okay sorry",
+            "emotion": "neutral",
+            "did": 186
+        },
+        {
+            "utterance": "Schicken Sie mir eine SMS, wenn Sie hier sind",
+            "emotion": "neutral",
+            "did": 186
+        }
+    ],
+    [
+        {
+            "utterance": "Lol der Prof will, dass ich ins Chinesische f\u00fcr Muttersprachler wechsle",
+            "emotion": "joy",
+            "did": 241
+        },
+        {
+            "utterance": "? Lol",
+            "emotion": "surprise",
+            "did": 241
+        },
+        {
+            "utterance": "Warte r u in A54?",
+            "emotion": "surprise",
+            "did": 241
+        },
+        {
+            "utterance": "Denn ich habe das Gef\u00fchl, dass da noch eine Klasse drin ist... 0.0",
+            "emotion": "non-neutral",
+            "did": 241
+        },
+        {
+            "utterance": "Dort war ich vorhin",
+            "emotion": "neutral",
+            "did": 241
+        },
+        {
+            "utterance": "Oh, was? Ich bin so verwirrt...bin ich an den falschen Ort gekommen D:",
+            "emotion": "surprise",
+            "did": 241
+        },
+        {
+            "utterance": "Ich denke, es ist richtig haha",
+            "emotion": "joy",
+            "did": 241
+        },
+        {
+            "utterance": "Es sollte derselbe Typ sein...person_128 gang",
+            "emotion": "neutral",
+            "did": 241
+        }
+    ],
+    [
+        {
+            "utterance": "Wie komme ich an Essen?",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "K\u00fche, Schweine oder H\u00fchner t\u00f6ten",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "oder Schafe?",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "ja auch Schafe",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "Sie k\u00f6nnen das Fleisch kochen",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "Wie kann ich sie t\u00f6ten? Sie laufen weg",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "au\u00dferdem gibt es Brot",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "ihnen folgen lol",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "man kann Brot machen, indem man Samen (vom Schlagen von Gras) bekommt und sie auf die Erde am Wasser pflanzt, die gehackt wurde",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "Wie kann ich sie kochen? Der Ofen?",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "ein Ofen",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "keine Schmiede",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "hah",
+            "emotion": "joy",
+            "did": 190
+        },
+        {
+            "utterance": "Ich kenne Worte",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "es gibt auch Karotten und Kartoffeln und so",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "Melonen",
+            "emotion": "neutral",
+            "did": 190
+        },
+        {
+            "utterance": "Ich wei\u00df nicht, wo Sie alle Samen finden",
+            "emotion": "neutral",
+            "did": 190
+        }
+    ],
+    [
+        {
+            "utterance": "Ja, ich bin Tag_1 Zeit_1",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "Ich habe am Tag_2 2 Pr\u00fcfungen, soll ich mich daf\u00fcr anmelden und eine weitere Pr\u00fcfung \u00e4ndern lassen?",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "Und ich habe einen Test Tag_2 zur Zeit_1",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "Nein",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "Also sollte ich behalten, was ich richtig habe",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "Eigentlich haben Sie noch 3 Pr\u00fcfungen innerhalb von 25 Stunden",
+            "emotion": "neutral",
+            "did": 475
+        },
+        {
+            "utterance": "aber da Sie den Termin selbst festgelegt haben, wird man Ihnen wahrscheinlich nur sagen, dass Sie sich f\u00fcr einen anderen Termin anmelden sollen",
+            "emotion": "neutral",
+            "did": 475
+        }
+    ],
+    [
+        {
+            "utterance": "Es gibt ein D in 7, soll ich es fangen, um zu Ihnen zu kommen?",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Sicher",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Sind Sie sicher?",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "\u00a0Im Gegensatz zu?",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Sie nehmen die D in 8.",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Und hierher zu kommen.",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Oder die von 15.",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Kann beides nicht machen",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "?",
+            "emotion": "non-neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Was soll ich tun?",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Doshite.",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Ich arbeite noch und muss packen und so, wenn ich vorbeikomme",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Okay. Ich werde r\u00fcberkommen.",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Obwohl, vielleicht muss ich den n\u00e4chsten noch erwischen.",
+            "emotion": "neutral",
+            "did": 291
+        },
+        {
+            "utterance": "Warum...",
+            "emotion": "non-neutral",
+            "did": 291
+        },
+        {
+            "utterance": ":c",
+            "emotion": "sadness",
+            "did": 291
+        }
+    ],
+    [
+        {
+            "utterance": "Okay. Tut mir leid. Mein Laptop ist gerade kaputt gegangen und ich bin am Ausflippen.",
+            "emotion": "non-neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Schei\u00dfe, was ist passiert?",
+            "emotion": "surprise",
+            "did": 674
+        },
+        {
+            "utterance": "Ich glaube, der Bildschirm wurde vom Rest des Ger\u00e4ts getrennt",
+            "emotion": "non-neutral",
+            "did": 674
+        },
+        {
+            "utterance": "aber Sie sollten trotzdem in der Lage sein, die Daten aus dem Ger\u00e4t zu bekommen",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Ich brauche es aber jetzt f\u00fcr Abschlussarbeiten",
+            "emotion": "non-neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Und ich denke, es wird Geld kosten, es zu reparieren.",
+            "emotion": "non-neutral",
+            "did": 674
+        },
+        {
+            "utterance": "Und ich kann mich im Moment einfach nicht damit besch\u00e4ftigen.",
+            "emotion": "non-neutral",
+            "did": 674
+        },
+        {
+            "utterance": "k\u00f6nnen Sie das Zeug aus und arbeiten auf einem Schulcomputer f\u00fcr jetzt",
+            "emotion": "neutral",
+            "did": 674
+        }
+    ],
+    [
+        {
+            "utterance": "Wir haben eine YouTube-Werbung f\u00fcr ein neues H\u00e4hnchen-Sub bei Subway gesehen",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "Ich habe vergessen, was es war",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "tottally forgot about it lol",
+            "emotion": "surprise",
+            "did": 422
+        },
+        {
+            "utterance": "d",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "ich habe jetzt endlich mein eigenes Zimmer",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "Was tun Sie da?",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "Ich bin jetzt zu Hause",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "Weil ich heute das Auto genommen habe",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": ":D",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "aber wie werden Ihre Eltern wieder nach Hause gehen :O",
+            "emotion": "surprise",
+            "did": 422
+        },
+        {
+            "utterance": "Ich muss sie abholen gehen lol",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "loll wann haben sie Feierabend haha",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "Meine Mutter hat um 5 Uhr Feierabend.",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "Mein Vater f\u00e4hrt mit dem T bis zur n\u00e4chsten Station und wir holen ihn dann von dort ab",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "ahh",
+            "emotion": "non-neutral",
+            "did": 422
+        },
+        {
+            "utterance": ":D",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "Ich m\u00f6chte fahren",
+            "emotion": "neutral",
+            "did": 422
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "Es macht Spa\u00df",
+            "emotion": "joy",
+            "did": 422
+        },
+        {
+            "utterance": "Es war 5 mal schneller als mit dem Bus",
+            "emotion": "non-neutral",
+            "did": 422
+        },
+        {
+            "utterance": "Buchst\u00e4blich",
+            "emotion": "non-neutral",
+            "did": 422
+        },
+        {
+            "utterance": "lolll sch\u00f6neee",
+            "emotion": "joy",
+            "did": 422
+        }
+    ],
+    [
+        {
+            "utterance": "SCHREIT LAUT AUF",
+            "emotion": "anger",
+            "did": 667
+        },
+        {
+            "utterance": "Schicken Sie dies an Person_471 und fragen Sie ihn, ob er daran interessiert ist",
+            "emotion": "neutral",
+            "did": 667
+        },
+        {
+            "utterance": "Ich schreie, sie sind so viel",
+            "emotion": "non-neutral",
+            "did": 667
+        },
+        {
+            "utterance": "l m a y",
+            "emotion": "joy",
+            "did": 667
+        },
+        {
+            "utterance": "Sie sind so",
+            "emotion": "neutral",
+            "did": 667
+        },
+        {
+            "utterance": "geformt",
+            "emotion": "neutral",
+            "did": 667
+        },
+        {
+            "utterance": "nicht geformt, sondern wie",
+            "emotion": "neutral",
+            "did": 667
+        },
+        {
+            "utterance": "sie sind eine Form",
+            "emotion": "neutral",
+            "did": 667
+        },
+        {
+            "utterance": "Sie sind definiert und erschreckend",
+            "emotion": "neutral",
+            "did": 667
+        }
+    ],
+    [
+        {
+            "utterance": "Ich verstehe nicht, was der Sinn war, zidd zu machen!",
+            "emotion": "anger",
+            "did": 67
+        },
+        {
+            "utterance": "Sie haben mich vor anderen in eine solche Lage gebracht",
+            "emotion": "anger",
+            "did": 67
+        },
+        {
+            "utterance": "Es ist nicht das erste Mal, dass",
+            "emotion": "anger",
+            "did": 67
+        },
+        {
+            "utterance": "Gn",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Es ging nicht darum, ziddi zu sein, ich habe dir gesagt, dass ich mit dir reden will, bevor ich schlafe, du hast gesagt hmmm",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Ja, ich bereue es, Ihnen das gesagt zu haben.",
+            "emotion": "non-neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Ich habe dich gefragt, ob ich aufbleiben kann",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Ich habe Sie nicht gezwungen zu reden",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Nein, das ist nicht passiert",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Aber ja, Sie sind eindeutig nicht interessiert",
+            "emotion": "non-neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Warum sollte ich l\u00fcgen Person_52",
+            "emotion": "non-neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Sie sagten, dass Sie schlafen gehen und hofften, vorher mit mir reden zu k\u00f6nnen.",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Kannst du mich nicht einfach vor den Leuten nicht in solche Situationen bringen",
+            "emotion": "anger",
+            "did": 67
+        },
+        {
+            "utterance": "Wie wirklich bitte",
+            "emotion": "anger",
+            "did": 67
+        },
+        {
+            "utterance": "Ich habe Sie nie in eine Lage gebracht :(",
+            "emotion": "sadness",
+            "did": 67
+        },
+        {
+            "utterance": "Ich habe Sie gefragt, wie lange Sie brauchen w\u00fcrden, bis ich warten k\u00f6nnte",
+            "emotion": "neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Lol und ich dachte, das w\u00e4re romantisch",
+            "emotion": "non-neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Es tut mir leid, dass Sie",
+            "emotion": "sadness",
+            "did": 67
+        },
+        {
+            "utterance": "Aber gut zu wissen, was mein Anruf f\u00fcr Sie bedeutet",
+            "emotion": "non-neutral",
+            "did": 67
+        },
+        {
+            "utterance": "Und es tut mir leid, wenn dich das verletzt, aber ich bin dein Desinteresse an mir langsam leid",
+            "emotion": "anger",
+            "did": 67
+        },
+        {
+            "utterance": "Auch wenn Sie nicht desinteressiert sind, geben Sie mir dieses Gef\u00fchl",
+            "emotion": "sadness",
+            "did": 67
+        }
+    ],
+    [
+        {
+            "utterance": "Nein",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Sie k\u00f6nnen direkt aus der Bank tun",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Ah. Ok. Wie...?",
+            "emotion": "surprise",
+            "did": 322
+        },
+        {
+            "utterance": "Verkn\u00fcpfen Sie Ihre Bankkontonummer",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Es hei\u00dft Kreditkarte oder Bankkonto hinzuf\u00fcgen",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Das habe ich alles schon gemacht, ich glaube, ich habe das",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Btw das ist der Beweis f\u00fcr die neue Matte",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Diese Matte ist wundersch\u00f6n",
+            "emotion": "joy",
+            "did": 322
+        },
+        {
+            "utterance": "Zum ersten Mal wird eine Bushi-Matte wie diese in voller Gr\u00f6\u00dfe sein",
+            "emotion": "joy",
+            "did": 322
+        },
+        {
+            "utterance": "Ich mache die 20. name_1 ist eine meiner Lieblingseinheiten",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Kk",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Also am Freitag?",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Geben Sie mir nur bis zum Tag_1",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "N\u00e4chste Frage. Kann man H\u00fcllen f\u00fcr Vanguard-Karten bekommen? Ich m\u00f6chte nur solide dunkelblau oder einfach nicht hellblau",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Ich werde nat\u00fcrlich f\u00fcr sie bezahlen und ich werde auch den Versand \u00fcbernehmen. Ich habe keinen Ort, der Minis in meiner N\u00e4he verkauft :(",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Also wie Ultra Pro oder Bushiroad \u00c4rmel?",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Ultra pro?",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Das Unternehmen",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Nein, das wei\u00df ich, haha",
+            "emotion": "joy",
+            "did": 322
+        },
+        {
+            "utterance": "Einige Leute wollen die Bushiroad-Kunsth\u00fcllen lol",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Ich meinte: Ja, das werde ich tun.",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Bushi-H\u00fcllen sind teuer",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "Ohhh okay es wird wahrscheinlich wie 4-5 Dollar mit Versand sein",
+            "emotion": "neutral",
+            "did": 322
+        },
+        {
+            "utterance": "1 Packung rechts",
+            "emotion": "neutral",
+            "did": 322
+        }
+    ],
+    [
+        {
+            "utterance": "ez get cat",
+            "emotion": "neutral",
+            "did": 473
+        },
+        {
+            "utterance": "ZU SEHR MIT DEM TRAURIGSEIN BESCH\u00c4FTIGT",
+            "emotion": "sadness",
+            "did": 473
+        },
+        {
+            "utterance": "Au\u00dferdem gab es diesen Ort",
+            "emotion": "neutral",
+            "did": 473
+        },
+        {
+            "utterance": "die riesige Bagels gemacht haben",
+            "emotion": "neutral",
+            "did": 473
+        },
+        {
+            "utterance": "und es war erstaunlich",
+            "emotion": "joy",
+            "did": 473
+        },
+        {
+            "utterance": "Und ich wei\u00df nicht, warum ich ausnahmsweise mal richtige Tr\u00e4ume hatte.",
+            "emotion": "neutral",
+            "did": 473
+        },
+        {
+            "utterance": "haben Sie Drogen genommen",
+            "emotion": "neutral",
+            "did": 473
+        },
+        {
+            "utterance": "nein :(",
+            "emotion": "sadness",
+            "did": 473
+        }
+    ],
+    [
+        {
+            "utterance": "Was?",
+            "emotion": "non-neutral",
+            "did": 373
+        },
+        {
+            "utterance": "Sie sollten sie verklagen",
+            "emotion": "non-neutral",
+            "did": 373
+        },
+        {
+            "utterance": "haha f\u00fcr was?",
+            "emotion": "joy",
+            "did": 373
+        },
+        {
+            "utterance": "meine Geschmacksnerven beleidigen",
+            "emotion": "neutral",
+            "did": 373
+        },
+        {
+            "utterance": "was w\u00e4re, wenn Sie allergisch w\u00e4ren",
+            "emotion": "neutral",
+            "did": 373
+        },
+        {
+            "utterance": "das h\u00e4tte Sie umbringen k\u00f6nnen",
+            "emotion": "non-neutral",
+            "did": 373
+        },
+        {
+            "utterance": "werden Sie mein Anwalt sein",
+            "emotion": "neutral",
+            "did": 373
+        },
+        {
+            "utterance": "Sie wollen mich nicht als Ihren Anwalt",
+            "emotion": "neutral",
+            "did": 373
+        }
+    ],
+    [
+        {
+            "utterance": "W\u00fcrdet ihr immer noch zu event_1 am Dienstagabend gehen wollen lol",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "r d\u00fcrfen wir",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Wie sp\u00e4t ist es",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Wenn Sie bezahlen? LOL",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "Zeit_1",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Wie wir gerade einen Gutschein bekommen haben, den wir am Tag des Kaufs gegen ein Ticket eintauschen k\u00f6nnen, so dass wir zusammen sitzen k\u00f6nnen, wenn Sie kaufen lol",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "wie viel",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Es ist nur wie Preis_1 erinnern....lol",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "ich verga\u00df lol",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "ja sur eim down",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Person_110",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "Ja, das k\u00f6nnen Sie \u00fcberpr\u00fcfen, aber ich bin in Ordnung damit, die schlechtesten Pl\u00e4tze zu bekommen lol",
+            "emotion": "joy",
+            "did": 204
+        },
+        {
+            "utterance": "wo kaufen wir",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Ich denke, wir k\u00f6nnen einfach am Tag der Veranstaltung hingehen? Sie verkaufen Karten an der T\u00fcr",
+            "emotion": "neutral",
+            "did": 204
+        },
+        {
+            "utterance": "Und ich muss sowieso dorthin gehen, um meine umzutauschen",
+            "emotion": "neutral",
+            "did": 204
+        }
+    ],
+    [
+        {
+            "utterance": "Wann kommen Sie zur Bank",
+            "emotion": "neutral",
+            "did": 208
+        },
+        {
+            "utterance": "BaCK",
+            "emotion": "neutral",
+            "did": 208
+        },
+        {
+            "utterance": "Jetzt bestellen, also ziemlich bald",
+            "emotion": "neutral",
+            "did": 208
+        },
+        {
+            "utterance": "Was bekomme ich c:",
+            "emotion": "neutral",
+            "did": 208
+        },
+        {
+            "utterance": "Das Rindfleisch und der Portwein schmelzen C:",
+            "emotion": "neutral",
+            "did": 208
+        },
+        {
+            "utterance": "Sch\u00f6nes c:",
+            "emotion": "joy",
+            "did": 208
+        },
+        {
+            "utterance": "Vielen Dank meine Liebe",
+            "emotion": "joy",
+            "did": 208
+        },
+        {
+            "utterance": "Ich bin hungrig, aber ich bin aufgeregt!",
+            "emotion": "joy",
+            "did": 208
+        },
+        {
+            "utterance": "Nat\u00fcrlich Kumpel!!",
+            "emotion": "joy",
+            "did": 208
+        }
+    ],
+    [
+        {
+            "utterance": "h\u00f6rt nie auf",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Er wird Sie verklagen?",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Ich wei\u00df nicht",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Das wird nie funktionieren, 1.",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Wie, wof\u00fcr wird er Sie verklagen? Beleidigende Worte/Verhalten? Rufsch\u00e4digung, die haupts\u00e4chlich sein Werk war? Er ist in einem blauen Bundesstaat. Viel Gl\u00fcck dabei. Trottel",
+            "emotion": "anger",
+            "did": 250
+        },
+        {
+            "utterance": "Was hat Emma getan?",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Sie hat ihn einfach in die Luft gejagt",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Auch mit Ihrem gesetzlichen Namen wie wtf",
+            "emotion": "non-neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Wie?",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "gut",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "ory hat ihr eine Drohung geschrieben",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Wtf. Was sagen",
+            "emotion": "surprise",
+            "did": 250
+        },
+        {
+            "utterance": "Er sagte, dass er Projekt_1 in ein Projekt_2 einbinden wolle.",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "und dass er sie als Status_1 auflisten w\u00fcrde",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Was ist noch mal eine GmbH?",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "und stellen Sie sicher, dass er jedem potentiellen Arbeitgeber von ihr erz\u00e4hlt.",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "ihre",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "sie nicht einzustellen",
+            "emotion": "neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Was zum Teufel?",
+            "emotion": "non-neutral",
+            "did": 250
+        },
+        {
+            "utterance": "Au\u00dferdem, glaubt er wirklich, dass er Macht hat? Dass er das tats\u00e4chlich tun kann? Dumm.",
+            "emotion": "anger",
+            "did": 250
+        }
+    ],
+    [
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "Warmer Karneval",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "Ich tauche am Reiskocher auf",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "Was Sie heute Abend tun",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "Feierte den Geburtstag dieses M\u00e4dchens",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "\u00dcberrascht sie mit Eiscreme-Torte",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "Oh so s\u00fc\u00df",
+            "emotion": "joy",
+            "did": 710
+        },
+        {
+            "utterance": "Ich m\u00f6chte Eiscreme",
+            "emotion": "sadness",
+            "did": 710
+        },
+        {
+            "utterance": "Waw",
+            "emotion": "sadness",
+            "did": 710
+        },
+        {
+            "utterance": "Wie viele Spiele haben Sie morgen",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "wieder zwei",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "bc wir heute einen gewonnen haben",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "wir schlagen Organisation_84",
+            "emotion": "joy",
+            "did": 710
+        },
+        {
+            "utterance": "aber verloren gegen Organisation_85",
+            "emotion": "sadness",
+            "did": 710
+        },
+        {
+            "utterance": "dresxel ist wirklich gut",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "wir haben erwartet zu verlieren",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "wir spielen morgen nyu",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "sie haben ein M\u00e4dchen, das WIRKLICH gut ist, seit 4 Jahren in der us-amerikanischen Junioren-Badminton-Nationalmannschaft",
+            "emotion": "neutral",
+            "did": 710
+        },
+        {
+            "utterance": "aber nicht gut genug f\u00fcr die A-Mannschaft",
+            "emotion": "neutral",
+            "did": 710
+        }
+    ],
+    [
+        {
+            "utterance": "Aber es ist kein Alkohol im Cluster",
+            "emotion": "non-neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Sie werden Ihr ganzes Koffein trinken",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "utterance": "Sie haben meine Erlaubnis",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Kann ich Ihnen das Zeug einfach per Venmo in Rechnung stellen",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Du trinkst also traurig meinen Kaffee?",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Sie sollten mehr Notfall-Koffein f\u00fcr die Pr\u00fcfung kaufen",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Lol genau wie viel davon planen Sie zu trinken",
+            "emotion": "non-neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Nein, ich werde es nicht trinken.",
+            "emotion": "neutral",
+            "did": 105
+        },
+        {
+            "utterance": "Lol okay",
+            "emotion": "joy",
+            "did": 105
+        },
+        {
+            "utterance": "es sei denn, ich beschlie\u00dfe, danach zur\u00fcckzukommen und 122",
+            "emotion": "neutral",
+            "did": 105
+        }
+    ],
+    [
+        {
+            "utterance": "Hey Stanford-M\u00e4dchen! Alles erdenklich Gute f\u00fcr deine Reise! :)",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": "Hallo Person-HL(1)! Vielen Dank!",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": ":D Wie ist es dort? Muss toll sein!",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": "Ja, es ist wirklich sch\u00f6n! Es sind erst 2 Tage vergangen, seit ich hier gelandet bin. Also bin ich immer noch dabei, Dinge herauszufinden und zu erkunden! \ud83d\ude05",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": "Ohhhh! Ich dachte, Sie gingen vor langer Zeit zum Standort_1?",
+            "emotion": "non-neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Wowow..viel Spa\u00df :D",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": "Vielen Dank!",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": "Das habe ich erst vor 2 Tagen gemacht. Der Unterricht beginnt hier ziemlich sp\u00e4t, verglichen mit dem Zentrum und der Ostk\u00fcste. Also f\u00e4ngt meiner erst n\u00e4chste Woche an!",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Ahhh okay okay!",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Wie verlief Ihre RA/TA-Jagd?",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Und welcher Kurs ????",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Grad-HL im Kurs-HL",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Gerade die Jagd begonnen \ud83d\ude05.",
+            "emotion": "non-neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Profs erwarten, dass Sie mindestens ein Vierteljahr hier getan haben b4 sie nehmen Sie",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Ohhhh",
+            "emotion": "surprise",
+            "did": 128
+        },
+        {
+            "utterance": "Aber auf jeden Fall versuche ich, so viele wie m\u00f6glich zu verschicken. In den Ferien war ich allerdings faul :P",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Haha toll toll! Alles Gute daf\u00fcr! Du schaffst das schon :D",
+            "emotion": "joy",
+            "did": 128
+        },
+        {
+            "utterance": "M\u00fcssen Sie sich jetzt f\u00fcr die Domain entscheiden?",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Worauf w\u00fcrden Sie sich zum Beispiel w\u00e4hrend Ihres Masterstudiums fokussieren?",
+            "emotion": "neutral",
+            "did": 128
+        },
+        {
+            "utterance": "Ja, das muss ich. Ich versuche, das herauszufinden. Denken zwischen Organisation_18 und Systeme-HL",
+            "emotion": "neutral",
+            "did": 128
+        }
+    ],
+    [
+        {
+            "utterance": "lolol",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "vertrauen Sie mir einfach haha",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "Vergessen Sie die Sache mit der Gesundheitsvorsorge, haha",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "Auto ist, wo das leichte Geld liegen wird haha",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "herstellung und analytik",
+            "emotion": "neutral",
+            "did": 369
+        },
+        {
+            "utterance": "Hehe",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "Person_1 macht ein Projekt in diesem Bereich haha",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "hahaha",
+            "emotion": "joy",
+            "did": 369
+        },
+        {
+            "utterance": "Ich muss herausfinden, ob es eine echte Sache wird.",
+            "emotion": "neutral",
+            "did": 369
+        },
+        {
+            "utterance": "denn wenn es so ist, dann ist meine Zukunft so gut wie gesichert",
+            "emotion": "non-neutral",
+            "did": 369
+        },
+        {
+            "utterance": "Heh",
+            "emotion": "joy",
+            "did": 369
+        }
+    ],
+    [
+        {
+            "utterance": "hullo",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "zu welchen Terminen sind Sie wieder in SF?",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Person_171! Datum_1-Datum_2!",
+            "emotion": "non-neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Haben Sie in den Tagen davor Zwischenpr\u00fcfungen/Abschlusspr\u00fcfungen?",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "\u00c4hm, das ist eine gute Frage, bin mir nicht sicher, aber ich wei\u00df, dass ich am Tag_1 keinen Unterricht habe! Pourquois??",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "ich denke, ich werde einen Healthcare-Trek machen und Firmen von Standort_39 bis Standort_40 besuchen",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Hehehe yay f\u00fcr einen potentiellen Organisation_33 Boxenstopp?",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "Ja, ich denke schon",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "wie der Mittwoch/Donnerstag",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Wenn Sie es zeitlich einrichten k\u00f6nnen_3 - kann ich vielleicht einen guten Ranger garantieren :P",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "Details werden noch ausgearbeitet",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Yay!!!!",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "ich werde nicht in der Lage sein, zu w\u00fcten ... aber ... haha ich werde Sie auf dem Laufenden halten",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Bitte tun Sie das! Haha, wenn du einen Platz zum Pennen brauchst - ich kann dir eine Luftmatratze f\u00fcr mein Schlafsaalzimmer finden, auf der du schlafen kannst :P",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "ooh danke!",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "der Boden w\u00fcrde ausreichen (oder ein Stuhl in aller Fairness)",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Nicht so sch\u00f6n wie Ihr Platz.... sogar ein bisschen",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Aber Sie sind frei dazu :S",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": ":D",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "meine aktuelle Wohnung ist so mehhh",
+            "emotion": "non-neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Ich dachte, ich h\u00e4tte die Snapchats gesehen - es sah ziemlich niiice aus",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "der Schein kann tr\u00fcgen",
+            "emotion": "neutral",
+            "did": 311
+        },
+        {
+            "utterance": "Nunz halten Sie mich bitte auf dem Laufenden :D",
+            "emotion": "joy",
+            "did": 311
+        },
+        {
+            "utterance": "indeedy",
+            "emotion": "joy",
+            "did": 311
+        }
+    ],
+    [
+        {
+            "utterance": "LOL. Sie sind wie Person_11",
+            "emotion": "joy",
+            "did": 19
+        },
+        {
+            "utterance": "Mittagessen Ich esse viel",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Aber dann esse ich zu viele Snacks am Nachmittag",
+            "emotion": "non-neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Dann zum Abendessen wat ich manchmal M\u00fcsli lol",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "yeee",
+            "emotion": "joy",
+            "did": 19
+        },
+        {
+            "utterance": "leider, basierend auf dieser",
+            "emotion": "sadness",
+            "did": 19
+        },
+        {
+            "utterance": "ich ziehe den Schluss, dass Ihre Verdauung ziemlich schlecht ist? lol",
+            "emotion": "non-neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Jupp",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Sie haben es \ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02\ud83d\ude02",
+            "emotion": "joy",
+            "did": 19
+        },
+        {
+            "utterance": "Ungesunder Saibling",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "dann fallen wir beide in dieselbe Kategorie haha",
+            "emotion": "joy",
+            "did": 19
+        },
+        {
+            "utterance": "sich leicht aufbl\u00e4hen und sich stundenlang voll f\u00fchlen",
+            "emotion": "sadness",
+            "did": 19
+        },
+        {
+            "utterance": "saugt",
+            "emotion": "non-neutral",
+            "did": 19
+        },
+        {
+            "utterance": "YESSSS",
+            "emotion": "joy",
+            "did": 19
+        },
+        {
+            "utterance": "Endlich versteht mich jemand, haha",
+            "emotion": "joy",
+            "did": 19
+        },
+        {
+            "utterance": "Ich hasse es, mich aufgebl\u00e4ht zu f\u00fchlen",
+            "emotion": "disgust",
+            "did": 19
+        },
+        {
+            "utterance": "Ich bekomme es sogar, wenn ich Wasser trinke",
+            "emotion": "non-neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Wie nur ein paar Schlucke",
+            "emotion": "non-neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Eine interessante Sache, die ich herausgefunden habe",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "HEISSES WASSER TRINKEN",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "Ich trinke kein kaltes Wasser mehr",
+            "emotion": "neutral",
+            "did": 19
+        },
+        {
+            "utterance": "und die Bl\u00e4hungen vom Wassertrinken sind verschwunden",
+            "emotion": "neutral",
+            "did": 19
+        }
+    ],
+    [
+        {
+            "utterance": "ah kein Problem",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "ich bin auch um die Zeit_1 ins Fitnessstudio gegangen",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "Ich denke, ich werde nicht mit der Boxensache gehen",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "wir schaffen es nicht um 17:45 Uhr Mann",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "es ist zu fr\u00fch",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "Ich ging gestern Abend um 18 Uhr",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "und dann ging ich heute fr\u00fch um 7 Uhr",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "haha",
+            "emotion": "joy",
+            "did": 349
+        },
+        {
+            "utterance": "Was ist dann mit den Handschuhen?",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "Ich denke, ich werde auf den Vormittag umschalten.",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "Ich m\u00f6chte Bocing lernen",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "boxen*",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "nicht sicher, ob ich behalten oder zur\u00fcckgeben werde",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": "seine amazon so k\u00f6nnen sie zur\u00fcckgeben",
+            "emotion": "neutral",
+            "did": 349
+        },
+        {
+            "utterance": ":P",
+            "emotion": "neutral",
+            "did": 349
+        }
+    ],
+    [
+        {
+            "utterance": "Ungef\u00e4hr $33 f\u00fcr eine billige neue",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "das schaffen Sie diesen Sommer in 2 Stunden oder weniger",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "und Sie werden es f\u00fcr mehr als 500 Stunden verwenden",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Optimistisch sein, eh",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Ich meine, das setzt voraus, dass Sie 250 Tage im Jahr auf dem College sind und 4 Stunden pro Nacht bekommen",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "warten, das sind 1000 Stunden",
+            "emotion": "surprise",
+            "did": 176
+        },
+        {
+            "utterance": "ja nicht ich war wirklich pessimistisch",
+            "emotion": "non-neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Was, wenn ich einfach das ganze Jahr in Morewood schlafe",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "ok",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Boom Problem gel\u00f6st lol",
+            "emotion": "joy",
+            "did": 176
+        },
+        {
+            "utterance": "Au\u00dfer, dass sie eine Mitbewohnerin haben wird",
+            "emotion": "non-neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Mein Bett wird also f\u00fcr andere Aktivit\u00e4ten als zum Schlafen ben\u00f6tigt",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Wird der billige Bettrahmen also daf\u00fcr gut sein",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Und jetzt wollen Sie einen teuren?",
+            "emotion": "surprise",
+            "did": 176
+        },
+        {
+            "utterance": "Ich m\u00f6chte die teure f\u00fcr einen g\u00fcnstigen Preis lol",
+            "emotion": "joy",
+            "did": 176
+        },
+        {
+            "utterance": "person_353 spielst du \u00fcberhaupt noch?",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "K\u00fcmmern Sie sich um Ihr eigenes Bett, ich k\u00fcmmere mich um meines.",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "ok",
+            "emotion": "neutral",
+            "did": 176
+        },
+        {
+            "utterance": "Ich kann jetzt nicht mehr Minecraft spielen :(",
+            "emotion": "sadness",
+            "did": 176
+        },
+        {
+            "utterance": "Mein Laptop-Ladeger\u00e4t macht sich auf die Reise von Person_44s Zimmer in Ort_34 zu meinem in Ort_20 via Schneckenpost",
+            "emotion": "sadness",
+            "did": 176
+        }
+    ],
+    [
+        {
+            "utterance": "Heilige Schei\u00dfe",
+            "emotion": "surprise",
+            "did": 421
+        },
+        {
+            "utterance": "Es ist so gut",
+            "emotion": "joy",
+            "did": 421
+        },
+        {
+            "utterance": "RECHTS",
+            "emotion": "non-neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Wie es ehrlich gesagt genau das ist, was ich wollte",
+            "emotion": "non-neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Warte, reden wir \u00fcber Radiohead oder Bottomless Pit?",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Physikalische Instrumentierung mit Thoms elektronischer Sensibilit\u00e4t",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Oh ja",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Ok ich spreche von Person_212",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Ich stimme Ihnen trotzdem zu",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Nur mit weniger Aufregung",
+            "emotion": "non-neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Was haben Sie verlinkt? Ich dachte nur, dass es Person_212 war",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Es ist Radiohead",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 421
+        },
+        {
+            "utterance": "Lol ok",
+            "emotion": "joy",
+            "did": 421
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 421
+        },
+        {
+            "utterance": "aber ja, ich werde mir bp sp\u00e4ter mal anh\u00f6ren",
+            "emotion": "neutral",
+            "did": 421
+        },
+        {
+            "utterance": "Verdammt, ich brauche die neue organization_45-Platte, wenn noch mehr Schei\u00dfe wie diese drauf ist",
+            "emotion": "non-neutral",
+            "did": 421
+        }
+    ],
+    [
+        {
+            "utterance": "Ich werde demn\u00e4chst ein Telefon v bekommen",
+            "emotion": "neutral",
+            "did": 142
+        },
+        {
+            "utterance": "Ich bezahle meine Venmo, wenn ich sie bekomme",
+            "emotion": "neutral",
+            "did": 142
+        },
+        {
+            "utterance": "Ich habe gerade Person_86 $12 \u00fcber FB Messenger bezahlt",
+            "emotion": "neutral",
+            "did": 142
+        },
+        {
+            "utterance": "Was",
+            "emotion": "neutral",
+            "did": 142
+        },
+        {
+            "utterance": "$.01",
+            "emotion": "neutral",
+            "did": 142
+        },
+        {
+            "utterance": "$0.01",
+            "emotion": "neutral",
+            "did": 142
+        }
+    ],
+    [
+        {
+            "utterance": "Kann mir jemand Allergie-Medikamente bringen",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "qqqq",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "Ich habe immer person_298",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "aber",
+            "emotion": "non-neutral",
+            "did": 617
+        },
+        {
+            "utterance": "k\u00f6nnen Sie mich bringen",
+            "emotion": "non-neutral",
+            "did": 617
+        },
+        {
+            "utterance": "kaubar",
+            "emotion": "non-neutral",
+            "did": 617
+        },
+        {
+            "utterance": "Allergietabletten",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "Oh",
+            "emotion": "surprise",
+            "did": 617
+        },
+        {
+            "utterance": "Ist es in Ihrem Zimmer",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "Denn ich habe diese Lok nicht",
+            "emotion": "non-neutral",
+            "did": 617
+        },
+        {
+            "utterance": "Auch Entropie?",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "ja",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "es ist im ersten grauen Kasten direkt neben der T\u00fcr",
+            "emotion": "neutral",
+            "did": 617
+        },
+        {
+            "utterance": "wenn Sie mir nur 1 oder 2 bringen k\u00f6nnen :)",
+            "emotion": "joy",
+            "did": 617
+        },
+        {
+            "utterance": "<N",
+            "emotion": "neutral",
+            "did": 617
+        }
+    ],
+    [
+        {
+            "utterance": "Ich meine, ich bin",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Sie k\u00f6nnen vorbeikommen oder nach Hause gehen",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Sie reisen auch bald ab, oder?",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Entschuldigung hat gearbeitet",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Ich werde einen Uber nehmen. Es ist schei\u00dfe, die zehn Dollar zu verschwenden, aber so kann ich zu Mittag essen und so. H\u00e4tte fr\u00fcher aufstehen sollen",
+            "emotion": "non-neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Wissen Sie, wann es fertig sein wird? Ich sollte morgen fr\u00fcher aufstehen und vor der Party von Person_288 aufr\u00e4umen",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Nicht wirklich idk 7?",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Dann bringe ich einen Rucksack mit und wir k\u00f6nnen danach noch ein bisschen abh\u00e4ngen",
+            "emotion": "neutral",
+            "did": 605
+        },
+        {
+            "utterance": "Ok",
+            "emotion": "neutral",
+            "did": 605
+        }
+    ],
+    [
+        {
+            "utterance": "O.410",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "zkldjflKSDAJas",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "ich habe 0,0436",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "und nat hat etwa 0,03",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "T_T",
+            "emotion": "non-neutral",
+            "did": 57
+        },
+        {
+            "utterance": "Ich habe mich bei Leuten erkundigt, die fertig sind und die richtige Antwort erhalten",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "Erste Iteration sollte 0,410 sein",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "Dann um 0,07 nach",
+            "emotion": "neutral",
+            "did": 57
+        },
+        {
+            "utterance": "ughhh",
+            "emotion": "non-neutral",
+            "did": 57
+        },
+        {
+            "utterance": "Es gibt aber nur eine Zeile mit 0,41, richtig?",
+            "emotion": "neutral",
+            "did": 57
+        }
+    ],
+    [
+        {
+            "utterance": "Wenn Sie",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Sie k\u00f6nnen entscheiden, dass es zu viel ist",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Ok ich verwende ein anderes person_76 Add-On f\u00fcr Bilder",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Ich werde sehen, ob ich dieses Wochenende Zeit habe :D Mein Fokus wird auf unserem Bericht und den \u00dcbergabeunterlagen liegen",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Diese Add-ons scheinen uns zu retten",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "ok",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "kann mir jemand sagen, wie das Hochladen von Dateien implementiert ist",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Ich kann NIRGENDWO finden, wo die Dateien behandelt werden",
+            "emotion": "non-neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Nun, das Feld zum Hochladen von Bildern ist in location_29 implementiert und verwendet Pillow, um etwas zu tun",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "Abgesehen davon, bin ich mir nicht sicher",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "ok ich gehe Meise",
+            "emotion": "neutral",
+            "did": 120
+        },
+        {
+            "utterance": "kapiert",
+            "emotion": "neutral",
+            "did": 120
+        }
+    ],
+    [
+        {
+            "utterance": "Grunds\u00e4tzlich",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "einfach aufgeben c:",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "neeeeee",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "ICH LIEBE SIE MEHR",
+            "emotion": "joy",
+            "did": 196
+        },
+        {
+            "utterance": "Sie haben bereits gesagt, dass Sie es nicht toppen k\u00f6nnen",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "Ich werde trotzdem mein Bestes geben!",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "zu sp\u00e4t",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "verflixt, sie waren ausverkauft lol",
+            "emotion": "neutral",
+            "did": 196
+        },
+        {
+            "utterance": "also h\u00e4tten wir sowieso nicht gehen k\u00f6nnen",
+            "emotion": "neutral",
+            "did": 196
+        }
+    ],
+    [
+        {
+            "utterance": "Okie! Ich sollte in der Lage sein, es zu schaffen",
+            "emotion": "joy",
+            "did": 435
+        },
+        {
+            "utterance": "Hahaha und ja, ich werde versuchen, Buggy-Leute zu fragen",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "So testen Sie Ihr Spiel",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "geil!",
+            "emotion": "joy",
+            "did": 435
+        },
+        {
+            "utterance": "Dankesch\u00f6n :D",
+            "emotion": "joy",
+            "did": 435
+        },
+        {
+            "utterance": "Wann ist die n\u00e4chste?",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "noch nicht sicher!",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "m\u00fcssen den Zeitplan der Schauspieler \u00fcberpr\u00fcfen",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Kk",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "danke haha",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Meine Schnappsch\u00fcsse werden eine Menge Leute anziehen, denke ich",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Ach ja, und sagen Sie Person_417 nicht, dass wir ihren Geburtstag feiern",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "es ist eine \u00dcberraschung",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Person_226",
+            "emotion": "joy",
+            "did": 435
+        },
+        {
+            "utterance": "haha ja ich wei\u00df, deshalb habe ich Sie gefragt: P",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Und ich spreche nicht so oft mit ihr",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Ok, ich habe gerade den Zeitplan der Schauspieler bekommen",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Unser n\u00e4chster Playtest ist also diesen Donnerstag um 19 Uhr",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "kann den 645er Shuttle nehmen",
+            "emotion": "neutral",
+            "did": 435
+        },
+        {
+            "utterance": "Ok, ich werde es meinen Freunden erz\u00e4hlen!",
+            "emotion": "joy",
+            "did": 435
+        },
+        {
+            "utterance": "Danke!!",
+            "emotion": "joy",
+            "did": 435
+        }
+    ],
+    [
+        {
+            "utterance": "Staffel 2 von Battlebots ist offenbar erschienen",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Ich wei\u00df",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "tbh ich will nicht sehen",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Meine Mutter hatte sie mit Klebeband befestigt.",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Lol",
+            "emotion": "joy",
+            "did": 705
+        },
+        {
+            "utterance": "Entschuldigung :p",
+            "emotion": "non-neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Es ist ok :p",
+            "emotion": "non-neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Wir haben andere Dinge zu tun",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "reichlich",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "?",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Sie zur\u00fcck vom Abendessen",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "\u00dcberlegen, ob ich mehr essen sollte",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Wahrscheinlich",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Ich hatte nur zwei d\u00fcnne Schweinekoteletts",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Und ich war vorhin ein bisschen zittrig gewesen",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Person_348",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Jetzt mache ich mir Sorgen um Sie.",
+            "emotion": "non-neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Sie m\u00fcssen auf sich selbst aufpassen",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Sh",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "Entschuldigung",
+            "emotion": "sadness",
+            "did": 705
+        },
+        {
+            "utterance": "Ich mag es, wenn du in meinem Haus bist",
+            "emotion": "neutral",
+            "did": 705
+        },
+        {
+            "utterance": "dann wei\u00df ich, dass Sie essen",
+            "emotion": "neutral",
+            "did": 705
+        }
+    ],
+    [
+        {
+            "utterance": "Jupp",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Oder k\u00f6nnen wir uns an einem unserer Orte treffen? U ppl kann mir beim Packen helfen \ud83d\ude1b \ud83d\ude1b",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Lol \ud83d\ude02",
+            "emotion": "joy",
+            "did": 550
+        },
+        {
+            "utterance": "Scherz \ud83d\ude1b aber Jupp lass uns abends treffen",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Alles ist gut",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Geil geil :)",
+            "emotion": "joy",
+            "did": 550
+        },
+        {
+            "utterance": "\u00dcbrigens",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Sagen Sie uns einfach Bescheid",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Wie sieht der Plan aus?",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Person_273",
+            "emotion": "joy",
+            "did": 550
+        },
+        {
+            "utterance": "Btw, u brachte das Band zur\u00fcck nicht ? Sonst setze ich deinen Namen hier rein \ud83d\ude1b.",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Hey, ich gebe das Band an Person_274",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Er wird sie Ihnen heute in der Universit\u00e4t geben",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Okay okay",
+            "emotion": "neutral",
+            "did": 550
+        },
+        {
+            "utterance": "Perfekt",
+            "emotion": "neutral",
+            "did": 550
+        }
+    ],
+    [
+        {
+            "utterance": "Die Organisation_27 wischt nur eine Backrow-Einheit",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Sie ist also nicht so stark wie Person_406",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Wtf",
+            "emotion": "surprise",
+            "did": 234
+        },
+        {
+            "utterance": "Brutal im Spiegel",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Beute",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Es scheint keine Kosten zu haben, lol",
+            "emotion": "joy",
+            "did": 234
+        },
+        {
+            "utterance": "Ich meine, Sie k\u00f6nnen Tick tock kostenlos drehen",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "GG sollte in der n\u00e4chsten Episode enth\u00fcllt werden",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Warum ist das so?",
+            "emotion": "surprise",
+            "did": 234
+        },
+        {
+            "utterance": "Weil Chrono spielen wird, ich meine, sie k\u00f6nnten einfach GG zeigen und dann eine weitere Woche warten, um den Effekt zu zeigen",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Oder diese Blaster-Joker-Schei\u00dfe abziehen",
+            "emotion": "non-neutral",
+            "did": 234
+        },
+        {
+            "utterance": "person_122 spielt n\u00e4chste Woche nicht lol",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Wir werden name_1 nicht bis zum Ende des Monats_1 sehen",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Ich meine, er ist die Treppe hochgerannt, um zu Person_123 zu gelangen.",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "N\u00e4chste Woche ist Shion.",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Dann tohkaha und dann am",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Endet die Saison nicht n\u00e4chsten Monat lol",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Nah",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Nicht vor Ende n\u00e4chsten Monats.",
+            "emotion": "neutral",
+            "did": 234
+        },
+        {
+            "utterance": "Sie sicher",
+            "emotion": "surprise",
+            "did": 234
+        },
+        {
+            "utterance": "person_280 pr\u00fcft die Vorschau",
+            "emotion": "non-neutral",
+            "did": 234
+        }
+    ],
+    [
+        {
+            "utterance": "Sind Sie ok",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Beine sind nass",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Oh Person_362 ist geil",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "F\u00fc\u00dfe sind nicht bc meine Stiefel",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Nein",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Das w\u00e4re sehr hentai, wenn ich den ganzen Weg zu meinen Beinen tropfen w\u00fcrde",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Tasche vordere Tasche durchn\u00e4sst bc ich links den Rei\u00dfverschluss offen wtf",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "person_117 ist hier",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Hallo Person_385",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "\u00dcberpr\u00fcfung der Thermodynamik",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Wir haben 1:1 unentschieden gespielt",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Ausw\u00e4rts gewinnen m\u00fcssen",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Herausgefunden, dass mein Stoffm\u00e4ppchen wasserdicht ist",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Weil der gepolsterte Teil daf\u00fcr sorgt, dass kein Wasser in die Innereien gelangt",
+            "emotion": "neutral",
+            "did": 389
+        },
+        {
+            "utterance": "Sch\u00f6n",
+            "emotion": "joy",
+            "did": 389
+        }
+    ],
+    [
+        {
+            "utterance": "Lol Person_121",
+            "emotion": "joy",
+            "did": 595
+        },
+        {
+            "utterance": "Ich wei\u00df, wie man den Neustart eines Computers erzwingt :p",
+            "emotion": "non-neutral",
+            "did": 595
+        },
+        {
+            "utterance": "Das gef\u00e4llt mir nicht",
+            "emotion": "non-neutral",
+            "did": 595
+        },
+        {
+            "utterance": "sorry :p. idk, wenn einige der Lichter werden auf, so k\u00f6nnte es erschienen sein, nur aus sein",
+            "emotion": "neutral",
+            "did": 595
+        },
+        {
+            "utterance": "Ich wei\u00df nicht, was zum Teufel Welpe Linux mit ACPI macht",
+            "emotion": "anger",
+            "did": 595
+        },
+        {
+            "utterance": "die Show?",
+            "emotion": "neutral",
+            "did": 595
+        },
+        {
+            "utterance": "Ja",
+            "emotion": "neutral",
+            "did": 595
+        },
+        {
+            "utterance": "Ich mag keine Zauberer",
+            "emotion": "disgust",
+            "did": 595
+        },
+        {
+            "utterance": "lol",
+            "emotion": "joy",
+            "did": 595
+        },
+        {
+            "utterance": "Nicht einmal ein Scherz",
+            "emotion": "neutral",
+            "did": 595
+        },
+        {
+            "utterance": "Ich mag Zauberer wirklich nicht",
+            "emotion": "disgust",
+            "did": 595
+        },
+        {
+            "utterance": "Ich w\u00fcrde viel lieber mit dir zusammen sein",
+            "emotion": "neutral",
+            "did": 595
+        },
+        {
+            "utterance": "Ich vermisse dich",
+            "emotion": "sadness",
+            "did": 595
+        },
+        {
+            "utterance": "Ich wei\u00df",
+            "emotion": "neutral",
+            "did": 595
+        }
+    ],
+    [
+        {
+            "utterance": "MEINER BERUFUNG WURDE STATTGEGEBEN",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "YAY!",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "wir haben es geschafft",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "YAY GELD!",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Wir haben es geschafft reddit!",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "legen Sie das nicht auf location_16 lol",
+            "emotion": "neutral",
+            "did": 47
+        },
+        {
+            "utterance": "Nein nein nein haha",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "metro net Jungs sind so nett",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Ist das jetzt alles gut?",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Nope lol sie sind lokale Versand Leute bekommen in Schwierigkeiten oder etwas",
+            "emotion": "neutral",
+            "did": 47
+        },
+        {
+            "utterance": "Der Kerl hat versucht, sich dar\u00fcber auszulassen, dass er den Leuten vertraut, ihren Job zu machen, und ich habe nur gelacht",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Oh Gott haha",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "senden Sie Hilfe hei\u00dfes M\u00e4dchen lebt \u00fcber die Halle",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Au\u00dferdem hat mir bf1 gerade eine Einladung zu einer geschlossenen Betaaaaa geschickt.",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Fick dich",
+            "emotion": "non-neutral",
+            "did": 47
+        },
+        {
+            "utterance": "HILFE, SIE IST S\u00dcSS",
+            "emotion": "joy",
+            "did": 47
+        },
+        {
+            "utterance": "Du kannst mich mal.",
+            "emotion": "disgust",
+            "did": 47
+        },
+        {
+            "utterance": "gut",
+            "emotion": "neutral",
+            "did": 47
+        }
+    ],
+    [
+        {
+            "utterance": "Dem Himmel sei Dank",
+            "emotion": "joy",
+            "did": 392
+        },
+        {
+            "utterance": "wei\u00df jemand, ob es in der Vitrine Essen gibt (z.B. Abendessen), oder muss ich vorher essen?",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Es gibt Essen, ja. Au\u00dferdem sollten Sie idealerweise eine Stunde oder so fr\u00fch f\u00fcr den Aufbau kommen.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Wenn Sie die E-Mail von Person_205 erhalten haben, usw.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Eigentlich haben wir von 3-5 technisch eingerichtet.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Nun, ich muss buchst\u00e4blich nur meinen Laptop einstecken",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "aber 3-5 ist die Studentenvitrine, richtig?",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Sie sind offensichtlich kein ETC-Mensch. >:o",
+            "emotion": "anger",
+            "did": 392
+        },
+        {
+            "utterance": "Wir m\u00fcssen den Raum thematisieren.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "\u00c4h, wie?",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Das h\u00e4ngt von uns ab.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "aber mit was sollen wir arbeiten?",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "riesige aufblasbare Schachfiguren oder so?",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "lol",
+            "emotion": "joy",
+            "did": 392
+        },
+        {
+            "utterance": "Nicht sicher. Wir haben ein Schild. Und Pappe. Und wir m\u00fcssen unsere Zeitpl\u00e4ne koordinieren.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Der Raum wird also nie verlassen.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Wenn ich Sie w\u00e4re, w\u00fcrde ich fr\u00fch kommen, aber nur vielleicht wie time_1.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Damit Sie nicht die miese Schicht bekommen.",
+            "emotion": "non-neutral",
+            "did": 392
+        },
+        {
+            "utterance": "naja, der Shuttle w\u00fcrde um 4 Uhr ankommen, aber ok",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "Entschuldigung, dies ist erst das zweite Jahr, in dem sie einen Fr\u00fchlings-Showcase veranstalten, daher sind alle ein wenig im Unklaren dar\u00fcber, was hier vor sich geht.",
+            "emotion": "neutral",
+            "did": 392
+        },
+        {
+            "utterance": "np",
+            "emotion": "neutral",
+            "did": 392
+        }
+    ],
+    [
+        {
+            "utterance": "Ich habe dich gut gelehrt",
+            "emotion": "neutral",
+            "did": 336
+        },
+        {
+            "utterance": "LMAO",
+            "emotion": "joy",
+            "did": 336
+        },
+        {
+            "utterance": "das ist so seltsam hahahah",
+            "emotion": "joy",
+            "did": 336
+        },
+        {
+            "utterance": "Ich bin so stolz, diesen Einfluss zu haben",
+            "emotion": "joy",
+            "did": 336
+        },
+        {
+            "utterance": "Das ist wie das B\u00fcro",
+            "emotion": "neutral",
+            "did": 336
+        },
+        {
+            "utterance": "mein Job ist wie das B\u00fcro, aber wenn jeder wie 60 w\u00e4re und Hillary Clinton hassen w\u00fcrde",
+            "emotion": "neutral",
+            "did": 336
+        },
+        {
+            "utterance": "Das klingt einfach nach dem Leben eines normalen Menschen",
+            "emotion": "neutral",
+            "did": 336
+        },
+        {
+            "utterance": "Benennen Sie sich in Person_182 um und zeigen Sie sie",
+            "emotion": "neutral",
+            "did": 336
+        }
+    ]
+]
