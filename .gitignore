@@ -132,3 +132,4 @@ dmypy.json
 .vscode/
 emochat/model/model.h5
 emochat/model/__MACOSX/._model.h5
+core/migrations/0003_auto_20210721_0833.py
